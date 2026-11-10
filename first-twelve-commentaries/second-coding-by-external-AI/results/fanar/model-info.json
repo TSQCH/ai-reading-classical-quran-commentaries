@@ -1,0 +1,11 @@
+{
+ "slug": "fanar",
+ "ollama_model": "hf.co/mradermacher/Fanar-1-9B-Instruct-GGUF:Q4_K_M",
+ "citation": "Fanar-1-9B-Instruct (QCRI/HBKU, Qatar), Q4_K_M",
+ "quantisation": "Q4_K_M",
+ "positions": 624,
+ "one_position_per_call": true,
+ "temperature": 0,
+ "num_ctx": 8192,
+ "json_schema_output": true
+}

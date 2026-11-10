@@ -1,0 +1,75 @@
+row	who	first	claude	gemini	gemini_quote	gemini_note
+1	ibnAshur	combines	combines	prefers	وسوق الاستدلال بقوله: ألم نجعل الأرض مهادا إلى قوله: وجنات ألفافا [النبأ: 16] يدل دلالة بينة على أن المراد من النبإ العظيم الإنباء بأن الله واحد لا شريك له.	
+3	baydawi	prefers	lists_no_choice	single	أحقابا دهورا متتابعة	
+5	ibnAshur	combines	lists_no_choice	prefers	والقسم على هذا الوجه مناسب للغرض الأهم من السورة وهو إثبات البعث	
+6	ibnAshur	combines	lists_no_choice	lists_no_choice		
+7	ibnAshur	combines	lists_no_choice	lists_no_choice		
+8	ibnAshur	combines	lists_no_choice	lists_no_choice		
+9	ibnAshur	combines	lists_no_choice	lists_no_choice	فالمناسب للوجه الأول: أن يكون السفرة كتاب القرآن من أصحاب رسول الله ... والمناسب للوجه الثاني: أن يكون محمله الرسل. والمناسب للوجه الثالث: أن يكون محمله الملائكة	
+11	khazin	lists_no_choice	lists_no_choice	combines	وأصل التكوير جمع بعض الشيء إلى بعض ومعناه أن الشمس يجمع بعضها إلى بعض، ثم تلف فإذا فعل بها ذلك ذهب ضوءها	
+11	ibnAtiyya	combines	prefers	combines	وغير ذلك مما هو أشياء توابع لتكويرها	
+11	thaalibi	combines	prefers	combines	وغير ذلك مما هو أسماء توابع لتكويرها	
+12	qurtubi	combines	combines	lists_no_choice	أي ملئت من الماء ... وعن الحسن أيضا وقتادة وابن حيان: تيبس فلا يبقى من مائها قطرة ... وقال ابن زيد وشمر ... أوقدت فصارت نارا	
+12	ibnJuzayy	lists_no_choice	prefers	lists_no_choice	وإذا البحار سجرت فيه ثلاثة أقوال: أحدها ملئت وفجر بعضها إلى بعض ... والآخر ملئت نيرانا ... والثالث فرغت من مائها ويبست	
+14	qurtubi	lists_no_choice	lists_no_choice	prefers	والأصح الحمل على النجوم، لذكر الليل والصبح بعد هذا، فذكر النجوم أليق بذلك.	
+16	qurtubi	lists_no_choice	silent	silent		The provided text comments on Surat Al-Qiyama (يُنَبَّأُ الْإِنسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ) and does not discuss the phrase in Al-Infitar.
+16	ibnJuzayy	lists_no_choice	lists_no_choice	single	ومعناه: علمت كل نفس جميع أعمالها	
+16	khazin	lists_no_choice	lists_no_choice	single	يعني علمت في ذلك اليوم ما قدمت من عمل صالح، أو سيئ، وأخرت بعدها من حسنة أو سيئة	
+16	abuHayyan	prefers	silent	prefers	والظاهر حمله على العموم، أي يخبره بكل ما قدم وكل ما أخر	
+17	razi	lists_no_choice	lists_no_choice	combines	والسجين موصوف بالتسفل والظلمة والضيق وحضور الشياطين الملعونين	
+17	baydawi	lists_no_choice	lists_no_choice	single	كتاب جامع لأعمال الفجرة من الثقلين	
+17	ibnJuzayy	lists_no_choice	single	single	وهو كتاب جامع يكتب فيه أعمال الشياطين والكفار، والفجار	
+19	baydawi	lists_no_choice	silent	lists_no_choice	كتاب مرقوم الكلام فيه ما مر في نظيره	يحيل على سجين
+22	ibnAshur	prefers	prefers	single	وحذف مفعولا الفعلين لقصد عموم تعلق الفعلين بكل ما يقع ابتداء، ويعاد بعد ذلك فشمل	اختار المعنى العام الشامل كمعنى وحيد للآية بناء على حذف المفعول، وهو مطابق لـ N3
+22	nasafi	single	single	lists_no_choice		أورد القول الآخر (يعيدهم كما أبدأهم ليبطش بهم) وهو يختلف عن V2 فجعلته OTHER
+24	baydawi	single	single	silent		He gives grammatical notes on the pronoun but does not gloss the meaning of 'رجعه' with any of the views.
+24	ibnJuzayy	prefers	prefers	single	والمعنى: أن الله قادر على رجع الإنسان حيا بعد موته، والمراد إثبات البعث.	
+25	qurtubi	lists_no_choice	lists_no_choice	prefers	والأولى أن يكون الاسم هو المسمى.	
+26	ibnAshur	lists_no_choice	lists_no_choice	single	فهدى كل مقدر إلى ما قدر له فهداية الإنسان وأنواع جنسه من الحيوان الذي له الإدراك والإرادة هي هداية الإلهام إلى كيفية استعمال ما قدر فيه	
+27	ibnAshur	combines	combines	prefers	وذلك نوعان: أحدهما: وهو أظهرهما أن الله إذا شاء نسخ تلاوة بعض ما أنزل على النبيء صلى الله عليه وسلم أمره بأن يترك قراءته	
+29	tabari	prefers	prefers	combines	والصواب من القول أن يقال: عني بقوله: {فصلى} [الأعلى: 15] : الصلوات، وذكر الله فيها بالتحميد والتمجيد والدعاء	
+29	ibnAshur	lists_no_choice	lists_no_choice	single	ثم الإقبال على طاعته وعبادته وهو المشار إليه بقوله: فصلى والصلاة تشير إلى العبادة وهي في ذاتها طاعة وامتثال	
+32	ibnAshur	single	single	prefers	فتعين أنها الليالي المرادة بليال عشر.	
+33	razi	lists_no_choice	combines	lists_no_choice	واعلم أن الذي يدل عليه الظاهر، أن الشفع والوتر أمران شريفان، أقسم الله تعالى بهما، وكل هذه الوجوه التي ذكرناها محتمل	
+33	baydawi	combines	lists_no_choice	lists_no_choice	والأشياء كلها شفعها ووترها، أو الخلق ... أو شفع الصلوات ووترها، أو بيومي النحر وعرفة	
+34	ibnJuzayy	lists_no_choice	lists_no_choice	prefers	أو صفة للمدينة وهذا أظهر لقوله في البلاد	
+34	ibnAshur	single	prefers	prefers	فعاد وإرم اسمان لقبيلة عاد الأولى	
+35	ibnJuzayy	lists_no_choice	lists_no_choice	prefers	أو صفة للمدينة وهذا أظهر لقوله في البلاد	Preference established by choosing the city referent for the phrase 'allati lam yukhlaq'.
+35	ibnAshur	lists_no_choice	lists_no_choice	prefers	وهو هنا مستعار للقوة تشبيها للقبيلة القوية بالبيت ذات العماد	
+35	abuHayyan	lists_no_choice	lists_no_choice	prefers	وإن كان يترجح كونها مدينة بقوله: لم يخلق مثلها في البلاد ... وإذا كانت صفة للمدينة، فأعمدة الحجارة التي بنيت بها	رجح أن إرم مدينة، وبناء عليه ذكر أن ذات العماد هي أعمدة الحجارة أو القصور
+36	tabari	combines	combines	prefers	وأولى هذه الأقوال عندي بالصواب، قول من قال: عني بذلك: الأوتاد التي توتد	اختار المعنى الحقيقي للأوتاد وذكر أنه يفسر بالتعذيب (V2) أو اللعب (V3)
+37	ibnJuzayy	combines	combines	single	عبارة عن أنه تعالى حاضر بعلمه في كل مكان، وكل زمان ورقيب على كل إنسان، وأنه لا يفوته أحد من الجبابرة والكفار	جمع في تفسيره بين الرقابة (V1) وعدم الفوات (V2)
+37	ibnAshur	combines	combines	single	فهو تمثيل لعموم علم الله تعالى بما يكون من أعمال العباد وحركاتهم ... وهذا المثل كناية عن مجازاة كل عامل بما عمله	جعله تمثيلاً لعموم علمه (V1) وكناية عن مجازاتهم (V2)
+37	ibnAtiyya	single	single	lists_no_choice		
+37	nasafi	combines	single	single	وهذا مثل لإرصاده العباد وأنهم لا يفوتونه وأنه عالم بما يصدر منهم وحافظه	states a single comprehensive meaning combining elements of both views
+40	abuSaud	lists_no_choice	lists_no_choice	prefers	والمراد به إبراهيم وبقوله تعالى وما ولد إسماعيل والنبي صلوات الله عليهم أجمعين حسبما ينبىء عنه المعطوف عليه	
+42	razi	combines	lists_no_choice	lists_no_choice	فمن قال من المفسرين: في ضحاها ضوؤها فهو على الأصل، وكذا من قال: هو النهار كله	He rejects N1 but leaves V2 and V1 without explicit choice.
+44	ibnAshur	single	single	lists_no_choice	أخبر الله أنه الغالب الذي لا يقدر مغلوبه على أخذ الثأر منه ... ويجوز أن يكون قوله: ولا يخاف عقباها تمثيلا لحالهم في الاستئصال	OTHER: تمثيلا لحالهم في الاستئصال
+45	razi	lists_no_choice	lists_no_choice	combines	وبالجملة أن الحسنى لفظة تسع كل خصلة حسنة	
+45	abuSaud	lists_no_choice	combines	lists_no_choice	وصدق بالخصلة الحسنى وهي الإيمان أو بالكلمة الحسنى وهي كلمة التوحيد أو بالملة الحسنى وهي ملة الإسلام أو بالمثوبة الحسنى وهي الجنة	
+48	tabari	prefers	prefers	combines	ولم يخصص بذلك حالا من أحوال فراغه دون حال، فسواء كلّ أحوال فراغه	
+48	ibnJuzayy	lists_no_choice	single	lists_no_choice	والمعنى إذا فرغت من أمر فاجتهد في آخر ثم اختلف في تعيين الأمرين فقيل: إذا فرغت من الفرائض فانصب في النوافل	
+49	ibnAshur	lists_no_choice	prefers	prefers	ويجوز عندي أن يكون القسم ب التين والزيتون معنيا بهما شجر هاتين الثمرتين	
+50	tabari	prefers	prefers	lists_no_choice	اختلف أهل التأويل في تأويله، فقال بعضهم: هو جبل موسى بن عمران صلوات الله وسلامه عليه ومسجده. ... وقال آخرون: الطور: هو كلّ جبل يُنْبِتُ.	
+50	razi	lists_no_choice	lists_no_choice	prefers	والأولى عند النحويين أن يكون سينين وسينا اسمين للمكان الذي حصل فيه الجبل	
+50	khazin	single	single	combines	وطور سينين يعني الجبل الذي كلم الله موسى عليه الصلاة والسلام وسينين اسم للمكان الذي فيه الجبل سمي سينين وسيناء لحسنه ولكونه مباركا وكل جبل فيه أشجار مثمرة يسمى سينين وسيناء	
+51	qurtubi	combines	combines	lists_no_choice	في أحسن تقويم وهو اعتداله واستواء شبابه، كذا قال عامة المفسرين. وهو أحسن ما يكون، لأنه خلق كل شي منكبا عل وجهه، وخلقه هو مستويا ... وقال أبو بكر بن طاهر: مزينا بالعقل	
+51	baydawi	combines	combines	single	في أحسن تقويم تعديل بأن خص بانتصاب القامة وحسن الصورة واستجماع خواص الكائنات	يجمع بين انتصاب القامة وحسن الصورة واستجماع الخواص
+51	khazin	combines	combines	single	يعني في أعدل قامة، وأحسن صورة، وذلك أنه تعالى خلق كل حيوان منكبا على وجهه يأكل بفيه إلا الإنسان فإنه خلقه مديد القامة حسن الصورة يتناول مأكوله بيده مزينا بالعلم، والفهم، والعقل، والتمييز، والمنطق.	يجمع بين أعدل قامة وأحسن صورة وكمال العقل
+51	abuHayyan	combines	combines	prefers	والأولى العموم في كل ما هو أحسن.	العموم
+51	abuSaud	combines	combines	single	فى أحسن تقويم أي كائنا في أحسن ما يكون من التقويم والتعديل صورة ومعنى	صورة ومعنى
+55	ibnAshur	prefers	prefers	single	فهو حكاية بالمعنى كأنه قيل: كنتم تقولون لا نترك ما نحن عليه حتى تأتينا البينة	
+56	ibnAshur	combines	lists_no_choice	combines	لأنها برشقاتها تتحمل أن يكون المقسم به خيل الغزو ورواحل الحج.	
+58	baydawi	prefers	prefers	lists_no_choice	عن النعيم الذي ألهاكم ... والنعيم بما يشغله للقرينة ... وقيل يعمان إذ كل يسأل عن شكره.	
+59	tabari	combines	combines	prefers	والصواب من القول في ذلك: أن يقال: إن ربنا أقسم بالعصر والعصر اسم للدهر، وهو العشي والليل والنهار، ولم يخصص مما شمله هذا الاسم معنى دون معنى	
+59	ibnAshur	combines	combines	lists_no_choice	فيجوز أن يكون مراد هذا الإطلاق هنا ويكون المعني به عصر النبيء صلى الله عليه وسلم... ويجوز أن يراد عصر الإسلام كله... ويجوز أن يفسر العصر في هذه الآية بالزمان كله	
+61	qurtubi	lists_no_choice	lists_no_choice	prefers	قلت: ويدل على هذا قوله تعالى: فخلف من بعدهم خلف أضاعوا الصلاة	
+61	ibnJuzayy	combines	lists_no_choice	lists_no_choice	والسهو عن الصلاة هو تركها أو تأخيرها تهاونا بها	
+61	thaalibi	prefers	lists_no_choice	lists_no_choice	يريد- والله أعلم- تأخير ترك وإهمال	
+62	qurtubi	combines	combines	prefers	قلت: أصح هذه الأقوال الأول والثاني، لأنه ثابت عن النبي صلى الله عليه وسلم نص في الكوثر	He prefers the first and second views (likely river and basin) but exactly one is required for prefers so returning V1.
+63	qurtubi	lists_no_choice	lists_no_choice	prefers	والصحيح قول من قال: إن الصلاة هنا صلاة العيد، والنحر النسك	
+63	ibnAshur	combines	prefers	prefers	ويظهر أن هذه تسلية لرسول الله صلى الله عليه وسلم عن صد المشركين إياه عن البيت في الحديبية... وهذا يرجع إلى ما رواه الطبري عن قول سعيد بن جبير	
+65	razi	lists_no_choice	lists_no_choice	prefers	فمقدمة هذا الآية دالة على أنه لا يمكن أن يكون المراد من الصمد هذا المعنى	He prefers N1 over the physical meaning of V1
+65	ibnAshur	single	prefers	single	والصمد: السيد الذي لا يستغنى عنه في المهمات، وهو سيد القوم المطاع فيهم	
+66	baydawi	single	single	combines	أي ولم يكن أحد يكافئه أو يماثله من صاحبة أو غيرها	
+66	khazin	single	single	combines	فنفى عنه. بقوله ولم يكن له كفوا أحد العديل والنظير، والصاحبة والولد	

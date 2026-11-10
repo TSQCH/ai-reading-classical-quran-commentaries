@@ -1,0 +1,10 @@
+row	who	claude type	claude holds	gemini type	gemini holds	gemini quote
+23	hawwari	single	V1	single	OTHER	أي: من بين صلب الرجل وترائب المرأة، وهو نحرها
+37	hawwari	lists_no_choice	OTHER	single	OTHER	أن على جسر جهنم سبع محابس: أولها يسأل العبد عن الإيمان
+67	hawwari	lists_no_choice	V1 V2	single	V1	أي: ومن شر الليل إذا أطبق
+1	himyan	lists_no_choice	V2 V1 N1	combines	V1 V2 N1	فيحتمل أن النبأ ذلك كله
+5	himyan	lists_no_choice	V1 V5 V4 N1 V3	single	V1	الملائكة التي تنزع أرواح الكفار من أبدانهم أي والجماعات والنازعات وكذا فيما بعد وهو وصف للملائكة
+25	himyan	lists_no_choice	V1 V5 V3 V4 N1 V2	prefers	V3	والظاهر جواز كون الاسم معتبرا أي عظم نفس اسمه ولا تذكرة إلا محترما به
+37	himyan	single	V2	combines	V1 V2	وهو كناية وتمثيل لإرصاد الكفار بالعقاب أي أعدده لهم وأنه لا يفوتونه ولا يخفى عليه حال من أحوالهم
+38	himyan	single	V1	lists_no_choice	V1 OTHER	وذمه الله على قوله أكرمني لأنه أراد به إن ربي أكرمني لأني أهل... ويجوز أن يكون الذم والردع بقوله كلا راجعين الى قوله أها
+66	himyan	single	V1	silent		

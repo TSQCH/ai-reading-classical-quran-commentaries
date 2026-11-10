@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use these data or scripts, please cite the paper and this deposit."
+title: "AI-Powered Reading of Classical Qur'an Commentaries: code and data"
+type: dataset
+version: 1.0.0
+date-released: 2026-11-11
+doi: 10.5281/zenodo.24053211
+repository-code: "https://github.com/TSQCH/ai-reading-classical-quran-commentaries"
+license:
+  - CC-BY-4.0
+  - MIT
+authors:
+  - family-names: Hammoud
+    given-names: Mahmoud
+    affiliation: "Naseeha, Muscat, Oman"
+  - family-names: Wetenkamp
+    given-names: "Bärbel"
+    affiliation: "Naseeha, Muscat, Oman"
+keywords:
+  - language models
+  - Qur'an commentaries
+  - classical Arabic
+  - inter-coder agreement
+  - reproducibility
+preferred-citation:
+  type: conference-paper
+  title: "AI-Powered Reading of Classical Qur'an Commentaries: A Source-Bound Application Tested on Eleven Language Models"
+  authors:
+    - family-names: Hammoud
+      given-names: Mahmoud
+    - family-names: Wetenkamp
+      given-names: "Bärbel"
+  collection-title: "SNM05 AI-Powered Applications"
+  conference:
+    name: "SNM05 AI-Powered Applications"
+    city: Nizwa
+    country: OM
+    date-start: 2026-11-15
+    date-end: 2026-11-15
+  institution:
+    name: "University of Nizwa"
+  year: 2026

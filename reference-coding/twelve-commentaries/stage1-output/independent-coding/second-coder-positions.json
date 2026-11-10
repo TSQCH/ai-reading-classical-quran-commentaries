@@ -1,0 +1,7051 @@
+[
+ {
+  "n": 1,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "واختلف أهل التأويل في المعني بالنبإ العظيم، فقال بعضهم: أريد به القرآن",
+  "note": "Reports Quran and resurrection views; no word of choice within the window."
+ },
+ {
+  "n": 1,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "أحدها: أنه هو القيامة وهذا هو الأقرب ويدل عليه وجوه",
+  "note": "al-aqrab for the Resurrection; Quran view called weak."
+ },
+ {
+  "n": 1,
+  "who": "qurtubi",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "والأظهر أن سؤالهم إنما كان عن البعث",
+  "note": "al-azhar ranks resurrection over Quran and the Prophet's affair."
+ },
+ {
+  "n": 1,
+  "who": "baydawi",
+  "type": "single",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "والضمير لأهل مكة كانوا يتساءلون عن البعث فيما بينهم",
+  "note": "Only states they asked about resurrection; no other view on the naba."
+ },
+ {
+  "n": 1,
+  "who": "ibnJuzayy",
+  "type": "combines",
+  "holds": [
+   "N2",
+   "V2"
+  ],
+  "evidence": "عن النبإ العظيم هو ما جاءت به الشريعة من التوحيد والبعث والجزاء وغير ذلك",
+  "note": "Comprehensive gloss covering tawhid and resurrection together."
+ },
+ {
+  "n": 1,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "evidence": "قال الأكثرون هو القرآن، وقيل هو البعث وقيل نبوة محمد صلى الله عليه وسلم",
+  "note": "Majority attribution only; no own choice."
+ },
+ {
+  "n": 1,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "N2",
+   "V2"
+  ],
+  "evidence": "والتعريف في النبإ تعريف الجنس فيشمل كل نبأ عظيم أنبأهم الرسول صلى الله عليه وسلم به",
+  "note": "Generic article covers Quran, refuting shirk, resurrection; salaf views taken as examples (later leans to tawhid)."
+ },
+ {
+  "n": 2,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "وأولى الأقوال في ذلك بالصواب أن يقال: إن الله أخبر أنه أنزل من المعصرات، وهي التي قد تحلبت بالماء من السحاب ماء",
+  "note": "Lists winds, clouds, sky; awla bi-l-sawab for clouds, rejects winds and sky with argument. [recoded on corrected window: packet window was from another sura]"
+ },
+ {
+  "n": 2,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "أما المعصرات ففيها قولان: الأول: وهو إحدى الروايتين عن ابن عباس",
+  "note": "Two views (winds, clouds) set out; defends winds against Azhari but no ranking."
+ },
+ {
+  "n": 2,
+  "who": "qurtubi",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "وأصح الأقوال أن المعصرات، السحاب",
+  "note": "asahh al-aqwal for clouds over winds and heavens."
+ },
+ {
+  "n": 2,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "وأنزلنا من المعصرات السحائب إذا أعصرت أي شارفت أن تعصرها الرياح فتمطر",
+  "note": "Clouds, then winds joined by aw; no word of choice."
+ },
+ {
+  "n": 2,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N1",
+   "V3",
+   "V1"
+  ],
+  "evidence": "والمعصرات: هي السحاب وهو مأخوذ من العصر",
+  "note": "Own gloss first, then heavens and winds reported with qila; no word of choice."
+ },
+ {
+  "n": 2,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "V3"
+  ],
+  "evidence": "وأنزلنا من المعصرات يعني الرياح التي تعصر السحاب. وهي رواية عن ابن عباس",
+  "note": "Gloss then several qila views; no choice."
+ },
+ {
+  "n": 2,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "والمعصرات: بضم الميم وكسر الصاد السحابات التي تحمل ماء المطر",
+  "note": "Only the clouds meaning given."
+ },
+ {
+  "n": 3,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N2"
+  ],
+  "evidence": "وقد اختلف أهل التأويل في مبلغ مدة الحقب، فقال بعضهم: مدة ثلاثمائة سنة",
+  "note": "Reports 300, 80 and Qatada's unending; window ends before any choice."
+ },
+ {
+  "n": 3,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N2",
+   "V2",
+   "N1",
+   "V3"
+  ],
+  "evidence": "ثم نقل عن المفسرين فيه وجوه",
+  "note": "Lexical possibility plus several reported measures; no ranking."
+ },
+ {
+  "n": 3,
+  "who": "qurtubi",
+  "type": "prefers",
+  "holds": [
+   "N2"
+  ],
+  "evidence": "وإنما المعنى- والله أعلم- ما ذكرناه أولا، أي لابثين فيها أزمانا ودهورا",
+  "note": "Calls the numeric views conflicting and unproven, chooses successive endless ages."
+ },
+ {
+  "n": 3,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N2",
+   "V2",
+   "V3"
+  ],
+  "evidence": "أحقابا دهورا متتابعة، وليس فيها ما يدل على خروجهم منها إذ لو صح أن الحقب ثمانون سنة أو سبعون ألف سنة",
+  "note": "Own gloss successive ages; numeric views mentioned without being ranked."
+ },
+ {
+  "n": 3,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "N2",
+   "N3",
+   "N4",
+   "V1"
+  ],
+  "evidence": "وهي المدة الطويلة من الدهر غير محدودة، وقيل إنها محدودة",
+  "note": "Own gloss then other views; no word of choice."
+ },
+ {
+  "n": 3,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N5"
+  ],
+  "evidence": "وقيل الحقب الواحد سبعة عشر ألف سنة",
+  "note": "Gloss 80 years (from Ali) then qila alternative; no choice."
+ },
+ {
+  "n": 3,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "N2"
+  ],
+  "evidence": "فجاءت هذه الآية على المعروف الشائع في الكلام كناية به عن الدوام دون انتهاء",
+  "note": "Huqb defined lexically (~80 yrs) but the plural read only as endless duration; no rival views."
+ },
+ {
+  "n": 4,
+  "who": "tabari",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "evidence": "هو السائل من الزمهرير في جهنم، الجامع مع شدة برده النتن",
+  "note": "His conclusion merges flowing, intense cold and stench."
+ },
+ {
+  "n": 4,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1",
+   "V3",
+   "N1"
+  ],
+  "evidence": "المسألة الرابعة: ذكروا في الغساق وجوها",
+  "note": "Five views listed, no choice."
+ },
+ {
+  "n": 4,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "والغساق: صديد أهل النار وقيحهم. وقيل الزمهرير",
+  "note": "Own gloss then qila; no word of choice."
+ },
+ {
+  "n": 4,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "وبالغساق ما يغسق أي يسيل من صديدهم، وقيل الزمهرير",
+  "note": "Own gloss then qila; no choice."
+ },
+ {
+  "n": 4,
+  "who": "ibnJuzayy",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "والحميم: الماء الحار. والغساق: صديد أهل النار",
+  "note": "Only pus of the people of Hell stated."
+ },
+ {
+  "n": 4,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "قال ابن عباس الغساق الزمهرير يحرقهم ببرده، وقيل هو صديد أهل النار",
+  "note": "Two views reported, none chosen."
+ },
+ {
+  "n": 4,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "ومعناه الصديد الذي يسيل من جروح الحرق وهو المهل",
+  "note": "Only pus meaning given."
+ },
+ {
+  "n": 5,
+  "who": "tabari",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5"
+  ],
+  "evidence": "ولم يخصص نازعة دون نازعة، فكل نازعة غرقا، فداخلة في قسمه",
+  "note": "Every nazi'a included: angel, death, star, bow."
+ },
+ {
+  "n": 5,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N3",
+   "V4",
+   "V2",
+   "V3"
+  ],
+  "evidence": "فحينئذ لا نقول مراد الله تعالى هذا، بل نقول: يحتمل أن يكون هذا هو المراد",
+  "note": "Adds his own reading, declines to fix one."
+ },
+ {
+  "n": 5,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V5",
+   "V2",
+   "V3",
+   "V4",
+   "N2"
+  ],
+  "evidence": "والنازعات: الملائكة التي تنزع أرواح الكفار، قاله علي رضي الله عنه",
+  "note": "Views attributed in turn; no word of choice."
+ },
+ {
+  "n": 5,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "N3",
+   "V4",
+   "N1"
+  ],
+  "evidence": "هذه صفات ملائكة الموت فإنهم ينزعون أرواح الكفار من أبدانهم",
+  "note": "Angels, then stars, souls, warriors, horses joined by aw; no choice."
+ },
+ {
+  "n": 5,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "V5"
+  ],
+  "evidence": "اختلف في معنى النازعات والناشطات والسابقات والسابحات والمدبرات، فقيل: إنها الملائكة وقيل: النجوم",
+  "note": "Lists views, no choice."
+ },
+ {
+  "n": 5,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V5"
+  ],
+  "evidence": "اختلفت عبارات المفسرين في هذه الكلمات هل هي صفات لشيء واحد أم لأشياء مختلفة على أوجه",
+  "note": "Sets out vujuh without ranking."
+ },
+ {
+  "n": 5,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "V4"
+  ],
+  "evidence": "فيحتمل أن يكون النازعات جماعات من الملائكة وهم الموكلون بقبض الأرواح",
+  "note": "Angels, stars, archers given as possibilities (yahtamil/yajuz); fit argued but no word of choice."
+ },
+ {
+  "n": 5,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V5",
+   "V4",
+   "V3",
+   "V2"
+  ],
+  "evidence": "قال ابن مسعود وابن عباس: النازعات، الملائكة تنزع نفوس بني آدم",
+  "note": "Reports views by authority; no choice."
+ },
+ {
+  "n": 5,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "قال ابن عباس وابن مسعود: النازعات: الملائكة، تنزع نفوس بني آدم",
+  "note": "Attributed view plus 'other things said'; not his own holding."
+ },
+ {
+  "n": 5,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "V5",
+   "V4",
+   "V2",
+   "N2",
+   "N1"
+  ],
+  "evidence": "اختلفوا في المراد بها، فقال عبد الله وابن عباس النازعات: الملائكة تنزع نفوس بني آدم",
+  "note": "Full list, no choice."
+ },
+ {
+  "n": 5,
+  "who": "abuSaud",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وإسناد التدبير إليها لأنها من أسبابه هذا والذي يليق بشأن التنزيل هو الأول",
+  "note": "After stars, warriors, horses, ranks the angels reading first."
+ },
+ {
+  "n": 5,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "V3"
+  ],
+  "evidence": "أقسم سبحانه بطوائف الملائكة التي تنزع الأرواح من الأجساد",
+  "note": "Angels, horses, stars joined by aw; no choice."
+ },
+ {
+  "n": 6,
+  "who": "tabari",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N2"
+  ],
+  "evidence": "ولم يخصص الله بذلك شيئا دون شيء، بل عم القسم بجميع الناشطات",
+  "note": "All nashitat included."
+ },
+ {
+  "n": 6,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V4",
+   "V2",
+   "V3"
+  ],
+  "evidence": "النازعات غرقا، هي: القسي، والناشطات نشطا هي الأوهاق",
+  "note": "Reports views (Ata, Mujahid, Qatada); refuses to fix one."
+ },
+ {
+  "n": 6,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1"
+  ],
+  "evidence": "وعن ابن عباس أيضا: هي أنفس المؤمنين عند الموت تنشط للخروج",
+  "note": "Attributed views only."
+ },
+ {
+  "n": 6,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "N1",
+   "N3"
+  ],
+  "evidence": "وينشطون أي يخرجون أرواح المؤمنين برفق من نشط الدلو من البئر إذا أخرجها",
+  "note": "Alternatives with aw; no choice."
+ },
+ {
+  "n": 6,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "N1"
+  ],
+  "evidence": "وقد قيل في النازعات والناشطات أنها النفوس",
+  "note": "Angels, stars, souls listed without choosing."
+ },
+ {
+  "n": 6,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "V3",
+   "N3"
+  ],
+  "evidence": "والناشطات نشطا الملائكة تنشط نفس المؤمن أي تسلها سلا رفيقا",
+  "note": "Several vujuh, no ranking."
+ },
+ {
+  "n": 6,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "N3",
+   "V1",
+   "N1"
+  ],
+  "evidence": "فيكون الموصوف إما الكواكب السيارة على وجه التشبيه لدوام تنقلها في دوائرها وإما إبل الغزو، وإما الملائكة",
+  "note": "Possibilities with imma; no choice."
+ },
+ {
+  "n": 6,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N2",
+   "V4",
+   "N1"
+  ],
+  "evidence": "واختلف المتأولون في الناشطات، فقال ابن عباس ومجاهد: هي الملائكة",
+  "note": "Reports views; no choice."
+ },
+ {
+  "n": 6,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1"
+  ],
+  "evidence": "واختلف في الناشطات فقال ابن عباس ومجاهد: هي الملائكة تنشط النفوس عند الموت",
+  "note": "Attributed views; no choice."
+ },
+ {
+  "n": 6,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "V2",
+   "N2",
+   "N1"
+  ],
+  "evidence": "والناشطات، قال ابن عباس ومجاهد: الملائكة تنشط النفوس عند الموت",
+  "note": "Lists views, no choice."
+ },
+ {
+  "n": 6,
+  "who": "abuSaud",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وإسناد التدبير إليها لأنها من أسبابه هذا والذي يليق بشأن التنزيل هو الأول",
+  "note": "Angels reading for the whole series ranked above stars, warriors, horses."
+ },
+ {
+  "n": 6,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N3",
+   "V3"
+  ],
+  "evidence": "وبالطوائف التي تنشطها أي تخرجها من نشط الدلو من البئر",
+  "note": "Angels, warriors' horses and stars joined by 'aw'; no choice."
+ },
+ {
+  "n": 7,
+  "who": "tabari",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "N1",
+   "V2",
+   "V3"
+  ],
+  "evidence": "والصواب من القول في ذلك عندي أن يقال: إن الله جل ثناؤه أقسم بالسابحات سبحا من خلقه، ولم يخصص من ذلك بعضا دون بعض، فذلك كل سابح",
+  "note": "Reports death/angels, stars, ships, then holds every swimmer is meant; no 'general' view id exists."
+ },
+ {
+  "n": 7,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "evidence": "فحينئذ لا نقول مراد الله تعالى هذا، بل نقول: يحتمل أن يكون هذا هو المراد، أما الجزم فلا سبيل إليه هاهنا",
+  "note": "Lists Ata, Mujahid, Qatada; says the word bears all but certainty is impossible."
+ },
+ {
+  "n": 7,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V1",
+   "N2",
+   "V2",
+   "N4",
+   "V3",
+   "N3"
+  ],
+  "evidence": "قتادة والحسن: هي النجوم تسبح في أفلاكها، وكذا الشمس والقمر",
+  "note": "Reports many views by attribution; no choice."
+ },
+ {
+  "n": 7,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V2",
+   "N3",
+   "N2"
+  ],
+  "evidence": "هذه صفات ملائكة الموت",
+  "note": "Alternatives (angels, stars, souls, warriors, horses) joined by 'aw'; no ranking."
+ },
+ {
+  "n": 7,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V2",
+   "N2",
+   "V3"
+  ],
+  "evidence": "وقيل: في السابحات والسابقات أنها الخيل وأنها السفن",
+  "note": "Lists views with qila; no choice."
+ },
+ {
+  "n": 7,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "N3",
+   "V2",
+   "N4",
+   "N2"
+  ],
+  "evidence": "والسابحات سبحا يعني أرواح المؤمنين حين تسبح في الملكوت",
+  "note": "Sets out several wujuh without choosing."
+ },
+ {
+  "n": 7,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "N2",
+   "V2"
+  ],
+  "evidence": "فيجوز أن يكون المراد الملائكة السائرين في أجواء السماوات وآفاق الأرض",
+  "note": "Allows angels and horses, reports stars with qila; no ranking."
+ },
+ {
+  "n": 7,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N1",
+   "N4",
+   "N2",
+   "N6",
+   "V3",
+   "V1"
+  ],
+  "evidence": "واختلف في السابحات في الآية، فقال قتادة والحسن: هي النجوم لأنها تسبح في فلك",
+  "note": "Reports many views; no choice."
+ },
+ {
+  "n": 7,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N1",
+   "N2",
+   "V3",
+   "N6"
+  ],
+  "evidence": "وقيل: هي الخيل، وقيل: هي السفن، وقيل: هي الحيتان ودواب البحر، والله أعلم",
+  "note": "Lists views with qila and ends with wallahu a'lam."
+ },
+ {
+  "n": 7,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V2",
+   "N4",
+   "N2",
+   "N5",
+   "N6",
+   "V3",
+   "V1"
+  ],
+  "evidence": "والسابحات، قال علي ومجاهد: الملائكة تتصرف في الآفاق بأمر الله",
+  "note": "Reports views; Zamakhshari's arrangement quoted, not endorsed."
+ },
+ {
+  "n": 7,
+  "who": "abuSaud",
+  "type": "prefers",
+  "holds": [
+   "N1"
+  ],
+  "evidence": "هذا والذي يليق بشأن التنزيل هو الأول",
+  "note": "After angels, stars, warriors and horses, ranks the first (angels) as fitting."
+ },
+ {
+  "n": 7,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "N2",
+   "V2"
+  ],
+  "evidence": "أو بخيل الغزاة التي تنزع في أعنتها",
+  "note": "Angels, horses, stars joined by 'aw'; no choice."
+ },
+ {
+  "n": 8,
+  "who": "tabari",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "N1",
+   "V2",
+   "V3"
+  ],
+  "evidence": "والقول عندنا في هذه، مثل القول في سائر الأحرف الماضية",
+  "note": "Reports angels, death, horses, stars; applies his 'all are meant' ruling; no general view id."
+ },
+ {
+  "n": 8,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1",
+   "V3"
+  ],
+  "evidence": "قال قتادة: الجميع هي النجوم إلا المدبرات، فإنها هي الملائكة",
+  "note": "Reports Ata, Mujahid, Qatada; no choice."
+ },
+ {
+  "n": 8,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "V3",
+   "V2"
+  ],
+  "evidence": "وقال قتادة والحسن ومعمر: هي النجوم يسبق بعضها بعضا في السير. عطاء: هي الخيل",
+  "note": "Reports many views; no choice."
+ },
+ {
+  "n": 8,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "N2",
+   "V2"
+  ],
+  "evidence": "فيسبقون بأرواح الكفار إلى النار وبأرواح المؤمنين إلى الجنة",
+  "note": "Alternatives joined by 'aw'."
+ },
+ {
+  "n": 8,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "V2",
+   "N3"
+  ],
+  "evidence": "فقيل: إنها الملائكة وقيل: النجوم",
+  "note": "Lists views; no choice."
+ },
+ {
+  "n": 8,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N2",
+   "V3",
+   "V2"
+  ],
+  "evidence": "فالسابقات سبقا يعني النجوم يسبق بعضها بعضا في السير",
+  "note": "Sets out several wujuh without choosing."
+ },
+ {
+  "n": 8,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "evidence": "فقوله تعالى: فالسابقات سبقا يصلح للحمل على هذه المعاني على اختلاف محامل وصف السابحات",
+  "note": "Ties it to each of his alternative readings of al-sabihat; no choice among them."
+ },
+ {
+  "n": 8,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N4",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "evidence": "فقال مجاهد: هي الملائكة، وقيل الرياح، وقال عطاء هي الخيل، وقيل: النجوم، وقيل المنايا تسبق الآمال",
+  "note": "Reports views; no choice."
+ },
+ {
+  "n": 8,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N4",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "evidence": "فالسابقات، فقيل هي الملائكة، وقيل: الرياح \"1\" ، وقيل: الخيل، وقيل: النجوم",
+  "note": "Lists with qila."
+ },
+ {
+  "n": 8,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N2",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "evidence": "فالسابقات، قال مجاهد: الملائكة سبقت بني آدم بالخير والعمل الصالح",
+  "note": "Reports views; no choice."
+ },
+ {
+  "n": 8,
+  "who": "abuSaud",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "هذا والذي يليق بشأن التنزيل هو الأول",
+  "note": "Angels first, stars/warriors/horses allowed, then ranks the first."
+ },
+ {
+  "n": 8,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "evidence": "والتي تسبح في جريها فتسبق إلى الغاية",
+  "note": "Angels, horses, stars joined by 'aw'."
+ },
+ {
+  "n": 9,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "evidence": "وأولى الأقوال في ذلك بالصواب: قول من قال: هم الملائكة الذين يسفرون بين الله ورسله بالوحي",
+  "note": "Lists scribes, reciters, angels; awla for angels as envoys carrying revelation (says it can accommodate the others, but ranks this one). [recoded on corrected window: packet window was from another sura]"
+ },
+ {
+  "n": 9,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "N1",
+   "V2"
+  ],
+  "evidence": "وهو اختيار الفراء أن السفرة هاهنا هم الملائكة الذين يسفرون بالوحي بين الله وبين رسله",
+  "note": "Two angelic views plus Companions/reciters; al-Farra's choice quoted, not endorsed."
+ },
+ {
+  "n": 9,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "evidence": "أي الملائكة الذين جعلهم الله سفراء بينه وبين رسله",
+  "note": "Own gloss before reported dispute without word of choice; Ibn al-Arabi's exclusion only quoted."
+ },
+ {
+  "n": 9,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N2",
+   "V3",
+   "N3"
+  ],
+  "evidence": "كتبة من الملائكة أو الأنبياء ينتسخون الكتب من اللوح أو الوحي، أو سفراء يسفرون بالوحي",
+  "note": "Alternatives joined by 'aw'."
+ },
+ {
+  "n": 9,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وقيل: لأنهم سفراء بين الله وبين عبيده، وقيل: يعني القراء من الناس. والأول أرجح",
+  "note": "Explicit arjah for the angel-scribes view."
+ },
+ {
+  "n": 9,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3"
+  ],
+  "evidence": "وقيل هم الرسل من الملائكة إلى الأنبياء واحدهم سفير",
+  "note": "Two views reported; no choice."
+ },
+ {
+  "n": 9,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V2",
+   "N2",
+   "V3"
+  ],
+  "evidence": "والمناسب للوجه الثالث: أن يكون محمله الملائكة لأنهم سفراء بين الله ورسله",
+  "note": "Matches each meaning to a reading of suhuf; no choice."
+ },
+ {
+  "n": 9,
+  "who": "ibnAtiyya",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وقال وهب بن منبه: هم الصحابة لأنهم بعضهم يسفر إلى بعض في الخبر والتعلم، والقول الأول أرجح",
+  "note": "Lists angels-as-scribes, angels-as-envoys, reciters, Companions; arjah for the first: angels as scribes. [recoded on corrected window: packet window was from another sura]"
+ },
+ {
+  "n": 9,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3"
+  ],
+  "evidence": "وقال ابن عباس أيضا: الملائكة سفرة لأنهم يسفرون بين الله وبين أنبيائه",
+  "note": "Two reports from Ibn Abbas; no choice."
+ },
+ {
+  "n": 9,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "V2",
+   "N1"
+  ],
+  "evidence": "وقال قتادة: هم القراء، وواحد السفرة سافر. وقال وهب: هم الصحابة",
+  "note": "Reports views; Zamakhshari's gloss quoted."
+ },
+ {
+  "n": 9,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "N2",
+   "V2",
+   "N1"
+  ],
+  "evidence": "وقيل بأيدي رسل من الملائكة يسفرون بالوحي بينه تعالى وبين الأنبياء",
+  "note": "Calls human readings far-fetched but does not rank scribes over envoy angels."
+ },
+ {
+  "n": 9,
+  "who": "nasafi",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "كتبة جمع سافر أي الملائكة ينتسخون الكتب من اللوح",
+  "note": "One gloss in his own voice; no other view."
+ },
+ {
+  "n": 10,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وأولى التأويلين في ذلك عندي بالصواب قول من قال: ثم الطريق، وهو الخروج من بطن أمه يسره",
+  "note": "Explicit awla bil-sawab with argument from context."
+ },
+ {
+  "n": 10,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "ذكروا في تفسيره أقوالا أحدها: قال بعضهم: المراد تسهيل خروجه من بطن أمه",
+  "note": "Lists views; supporting remark for the first is not a ranking word."
+ },
+ {
+  "n": 10,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "evidence": "مجاهد: يسره لطريق الخير والشر، أي بين له ذلك",
+  "note": "Reports views by attribution."
+ },
+ {
+  "n": 10,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "ثم سهل مخرجه من بطن أمه بأن فتح فوهة الرحم وألهمه أن ينتكس، أو ذلل له سبيل الخير والشر",
+  "note": "Two alternatives joined by 'aw'."
+ },
+ {
+  "n": 10,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "الثالث سبيل النظر السديد المؤدي إلى الإيمان، والأول أرجح لعطفه على قوله",
+  "note": "Explicit arjah with contextual reason."
+ },
+ {
+  "n": 10,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "evidence": "أي سهل له طريق خروجه من بطن أمه، وقيل سهل له العلم بطريق الحق والباطل",
+  "note": "Own gloss then qila views; no word of choice."
+ },
+ {
+  "n": 10,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "وتقديم السبيل على فعله للاهتمام بالعبرة بتيسير السبيل بمعنييه المجازيين",
+  "note": "Takes sabil as human action and as birth passage together (both figurative senses)."
+ },
+ {
+  "n": 11,
+  "who": "tabari",
+  "type": "combines",
+  "holds": [
+   "N1",
+   "V2",
+   "V1"
+  ],
+  "evidence": "فعلى التأويل الذي تأولناه لكلا القولين اللذين ذكرت عن أهل التأويل وجه صحيح",
+  "note": "Wrapping, then thrown, then light gone: reconciles both reported views."
+ },
+ {
+  "n": 11,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V1",
+   "V2"
+  ],
+  "evidence": "وفي التكوير وجهان أحدهما: التلفيف على جهة الاستدارة كتكوير العمامة",
+  "note": "Sets out two wujuh and a third; no choice."
+ },
+ {
+  "n": 11,
+  "who": "qurtubi",
+  "type": "combines",
+  "holds": [
+   "N1",
+   "V1",
+   "V2"
+  ],
+  "evidence": "فهي تكور ويمحى ضوءها، ثم يرمى بها في البحر",
+  "note": "His own 'qultu' joins wrapping, loss of light and throwing into one sequence."
+ },
+ {
+  "n": 11,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V1",
+   "V2"
+  ],
+  "evidence": "أو لف ضوؤها فذهب انبساطه في الآفاق وزال أثره، أو ألقيت عن فلكها",
+  "note": "Alternatives joined by 'aw'; awla concerns i'rab."
+ },
+ {
+  "n": 11,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "قال ابن عباس: ذهب ضوءها وأظلمت وقيل: رمى بها وقيل: اضمحلت",
+  "note": "Reports views; the arjah that follows concerns inkadarat."
+ },
+ {
+  "n": 11,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "V2"
+  ],
+  "evidence": "قال ابن عباس: أظلمت، وغورت، وقيل اضمحلت، وقيل لفت كما تلف العمامة",
+  "note": "Reports views; no word of choice."
+ },
+ {
+  "n": 11,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "N2",
+   "V1"
+  ],
+  "evidence": "وتكوير الشمس: فساد جرمها لتداخل ظاهرها في باطنها",
+  "note": "Own gloss, then notes the reported sense 'ghuwwirat' without ranking."
+ },
+ {
+  "n": 11,
+  "who": "ibnAtiyya",
+  "type": "prefers",
+  "holds": [
+   "N1"
+  ],
+  "evidence": "و \"تكوير الشمس\" : هو أن تدار ويذهب بها إلى حيث شاء الله كما يدار كور العمامة",
+  "note": "Own gloss (wound like a turban and removed); other glosses (light gone, thrown) dismissed as mere consequences of takwir."
+ },
+ {
+  "n": 11,
+  "who": "thaalibi",
+  "type": "prefers",
+  "holds": [
+   "N1"
+  ],
+  "evidence": "وتكوير الشمس هو أن تدار كما يدار كور العمامة ويذهب بها إلى حيث شاء الله",
+  "note": "Same as Ibn Atiyya: own gloss, others reduced to consequences of takwir."
+ },
+ {
+  "n": 11,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "N3",
+   "V1",
+   "V2",
+   "N4",
+   "N1"
+  ],
+  "evidence": "قال ابن عباس: إدخالها في العرش. وقال مجاهد وقتادة والحسن: ذهاب ضوئها. وقال الربيع بن خيثم: رمى بها",
+  "note": "Reports views with attributions, no choice."
+ },
+ {
+  "n": 11,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V1",
+   "V2",
+   "N4",
+   "N3"
+  ],
+  "evidence": "إما رفعها وإزالتها من مقرها فإن الثوب إذا أريد رفعه يلف لفا",
+  "note": "Alternatives joined by imma/aw (raised, light folded, thrown) plus reports; no preference."
+ },
+ {
+  "n": 11,
+  "who": "nasafi",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "ذهب بضوئها من كورت العمامه إذا لففتها أي يلف ضوءها لفا فيذهب انبساطه",
+  "note": "One meaning only: its light is removed."
+ },
+ {
+  "n": 12,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "وأولى الأقوال في ذلك بالصواب: قول من قال: معنى ذلك: ملئت حتى فاضت، فانفجرت وسالت",
+  "note": "Lists kindled, overflowed, dried up; awla for filled until overflowing. [recoded on corrected window: packet window was from another sura]"
+ },
+ {
+  "n": 12,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "V2",
+   "V1"
+  ],
+  "evidence": "وثانيها: أن يكون سجرت بمعنى فجرت وذلك لأن بين البحار حاجزا",
+  "note": "Three wujuh without choice; 'mutakallafa' targets sub-explanations of the burning view, not a ranking."
+ },
+ {
+  "n": 12,
+  "who": "qurtubi",
+  "type": "combines",
+  "holds": [
+   "V2",
+   "V3",
+   "V1"
+  ],
+  "evidence": "وقد تكون الأقوال متفقة، يكون تيبس من الماء بعد أن يفيض، بعضها إلى بعض، فتقلب نارا. قلت: ثم تسير الجبال حينئذ",
+  "note": "Opens with 'filled', lists all, then extends al-Nahhas's harmonisation with his own qultu."
+ },
+ {
+  "n": 12,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "أحميت أو ملئت بتفجير بعضها إلى بعض حتى تعود بحرا واحدا",
+  "note": "Two glosses joined by aw."
+ },
+ {
+  "n": 12,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "فالقول الأول والثاني أليق بالأصل. والأول والثالث موافق لقوله فجرت",
+  "note": "Only the first view (filled and merged) meets both of his criteria (root and Infitar parallel)."
+ },
+ {
+  "n": 12,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "evidence": "قال ابن عباس: أوقدت فصارت نارا تضطرم، وقيل فجر بعضها في بعض",
+  "note": "Ibn Abbas then qila list; no choice."
+ },
+ {
+  "n": 12,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "وتسجير البحار: فيضانها قال تعالى: والبحر المسجور",
+  "note": "States only overflowing and merging."
+ },
+ {
+  "n": 13,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وأولى التأويل ين في ذلك بالصحة، الذي تأوله عمر بن الخطاب رضى الله عنه للعلة التي اعتل بها",
+  "note": "Explicit awla for pairing like with like."
+ },
+ {
+  "n": 13,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1",
+   "N3",
+   "N1",
+   "N2"
+  ],
+  "evidence": "واعلم أنك إذا تأملت في الأقوال التي ذكرناها أمكنك أن تزيد عليها ما شئت",
+  "note": "Seven wujuh, no choice."
+ },
+ {
+  "n": 13,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N3",
+   "V2",
+   "N2"
+  ],
+  "evidence": "وقال عكرمة: وإذا النفوس زوجت قرنت الأرواح بالأجساد، أي ردت إليها",
+  "note": "Reports many views, no choice."
+ },
+ {
+  "n": 13,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1",
+   "N2",
+   "N1"
+  ],
+  "evidence": "قرنت بالأبدان أو كل منها بشكلها، أو بكتابها وعملها أو نفوس المؤمنين بالحور",
+  "note": "Alternatives joined by aw."
+ },
+ {
+  "n": 13,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "والثالث زوجت الأرواح والأجساد أي ردت إليها عند البعث والأول هو الأرجح",
+  "note": "Explicit arjah for the first (like with like)."
+ },
+ {
+  "n": 13,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N2",
+   "N1",
+   "V2"
+  ],
+  "evidence": "وقيل زوجت النفوس بأعمالها، وقيل زوجت نفوس المؤمنين بالحور العين",
+  "note": "Umar's report then a qila list."
+ },
+ {
+  "n": 13,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "ولعل قصد إفادة هذا التركيب لهذين المعنيين هو مقتضى العدول عن ذكر ما زوجت النفوس به",
+  "note": "Holds both souls-to-bodies and classing as intended; others unsuited to context."
+ },
+ {
+  "n": 14,
+  "who": "tabari",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "evidence": "فالصواب أن يعم بذلك كل ما كانت صفته الخنوس أحيانا، والجري أخرى",
+  "note": "Al-sawab is to include stars, wild cattle and gazelles; no listed 'general' view."
+ },
+ {
+  "n": 14,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "والقول هو الأول، والدليل عليه أمران",
+  "note": "Explicitly chooses stars over wild cattle with arguments."
+ },
+ {
+  "n": 14,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "evidence": "قلت: لله أن يقسم بما شاء من مخلوقاته من حيوان وجماد",
+  "note": "Quotes al-Qushayri's asahh for stars but rebuts its reasoning; no own choice."
+ },
+ {
+  "n": 14,
+  "who": "baydawi",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "فلا أقسم بالخنس بالكواكب الرواجع من خنس إذا تأخر",
+  "note": "Only the planets meaning."
+ },
+ {
+  "n": 14,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "وقيل: يعني بقر الوحش، فالخنس على هذا من خنس الأنف",
+  "note": "Own gloss (seven planets) then qila list, no word of choice."
+ },
+ {
+  "n": 14,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3"
+  ],
+  "evidence": "وقيل هي الظباء، وهي رواية عن ابن عباس",
+  "note": "Own gloss (stars) then qila alternatives, no choice."
+ },
+ {
+  "n": 14,
+  "who": "ibnAshur",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "والمعروف في أقسام القرآن أن تكون بالأشياء العظيمة الدالة على قدرة الله تعالى",
+  "note": "Explains stars at length, reports animals then argues against them."
+ },
+ {
+  "n": 15,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وأولى التأويل ين في ذلك بالصواب عندي: قول من قال: معنى ذلك: إذا أدبر",
+  "note": "Explicit awla."
+ },
+ {
+  "n": 15,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "ثم منهم من قال: المراد هاهنا أقبل الليل",
+  "note": "Both with reasons, no choice."
+ },
+ {
+  "n": 15,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "وروي عنهما أيضا وعن الحسن وغيره: أقبل بظلامه",
+  "note": "Quotes authorities both ways, no choice."
+ },
+ {
+  "n": 15,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "والليل إذا عسعس أقبل ظلامه أو أدبر وهو من الأضداد",
+  "note": "Both joined by aw."
+ },
+ {
+  "n": 15,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "فقيل: ذلك في أوله وقيل: في آخره وهذا أرجح",
+  "note": "Explicit arjah for end of night."
+ },
+ {
+  "n": 15,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "والليل إذا عسعس أي أقبل بظلامه وقيل أدبر",
+  "note": "Gloss then qila, no choice."
+ },
+ {
+  "n": 15,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "وبذلك يكون إيثار هذا الفعل لإفادته كلا حالين صالحين للقسم به فيهما",
+  "note": "Word chosen to convey both coming and going."
+ },
+ {
+  "n": 16,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "فلذلك قلنا: ما أخر: هو ما سنه من سنة حسنة وسيئة",
+  "note": "Explicit choice (wa-innama ikhtarna) with argument."
+ },
+ {
+  "n": 16,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "evidence": "أحدها: وهو الأصح أن المقصود منه الزجر عن المعصية، والترغيب في الطاعة",
+  "note": "Asahh for the general deed/omission meaning over sunna, fara'id, early/late life."
+ },
+ {
+  "n": 16,
+  "who": "qurtubi",
+  "type": "silent",
+  "holds": [],
+  "evidence": "",
+  "note": "Window covers al-Qiyama 75:13, not the Infitar phrase."
+ },
+ {
+  "n": 16,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N2",
+   "V2"
+  ],
+  "evidence": "علمت نفس ما قدمت من عمل أو صدقة. وأخرت من سيئة أو تركة، ويجوز أن يراد بالتأخير التضييع",
+  "note": "Gloss plus yajuz alternative, no choice."
+ },
+ {
+  "n": 16,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "V1"
+  ],
+  "evidence": "ومعناه: علمت كل نفس جميع أعمالها، وقيل ما قدمت في حياتها",
+  "note": "Own gloss then qila, no word of choice."
+ },
+ {
+  "n": 16,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N2"
+  ],
+  "evidence": "وقيل ما قدمت من الصدقات وأخرت من الزكوات",
+  "note": "Gloss (deeds and what left after) then qila, no choice."
+ },
+ {
+  "n": 16,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "V3"
+  ],
+  "evidence": "والمقصود من هذين تعميم التوقيف على جميع ما عملته",
+  "note": "Both readings serve the general meaning (a listed view), stated as the intent."
+ },
+ {
+  "n": 16,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "V1"
+  ],
+  "evidence": "وقال كثير من المفسرين في معنى قوله تعالى: ما قدمت وأخرت إنها عبارة عن جميع الأعمال",
+  "note": "Majority attribution and Ibn Abbas view, not adopted."
+ },
+ {
+  "n": 16,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3"
+  ],
+  "evidence": "وقال كثير من المفسرين في معنى قوله: ما قدمت وأخرت إنها عبارة عن جميع الأعمال",
+  "note": "Reports the majority view only; not in his own voice."
+ },
+ {
+  "n": 16,
+  "who": "abuHayyan",
+  "type": "silent",
+  "holds": [],
+  "evidence": "",
+  "note": "Window covers al-Qiyama 75:13; the Infitar phrase is not addressed."
+ },
+ {
+  "n": 16,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N3",
+   "N2",
+   "V2",
+   "N1"
+  ],
+  "evidence": "وعن ابن عباس أيضا ما قدم من معصية وأخر من طاعة وهو قول قتادة",
+  "note": "Attributed views and qila list, no choice."
+ },
+ {
+  "n": 16,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N2"
+  ],
+  "evidence": "{وأخرت} وتركت فلم تعمل أو ما قدمت من الصدقات وما أخرت من الميراث",
+  "note": "Two glosses joined by aw."
+ },
+ {
+  "n": 17,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وإنما اخترت القول الذي اخترت في معنى قوله: {سجين}",
+  "note": "Chooses the lowest earth, citing al-Bara report."
+ },
+ {
+  "n": 17,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "N1",
+   "N3"
+  ],
+  "evidence": "قال الواحدي: وهذا ضعيف",
+  "note": "Lists name and derivation views; rejects al-Wahidi's weakening of the sijn view but does not choose."
+ },
+ {
+  "n": 17,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V2",
+   "V1",
+   "V3",
+   "N4",
+   "N3"
+  ],
+  "evidence": "وقال أبو عبيدة والأخفش والزجاج: لفي سجين لفي حبس وضيق شديد",
+  "note": "Reports many views, no choice."
+ },
+ {
+  "n": 17,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N2",
+   "V1"
+  ],
+  "evidence": "لفي سجين كتاب جامع لأعمال الفجرة من الثقلين",
+  "note": "Own gloss (register) then qila 'name of a place', no word of choice."
+ },
+ {
+  "n": 17,
+  "who": "ibnJuzayy",
+  "type": "single",
+  "holds": [
+   "N2"
+  ],
+  "evidence": "وهو كتاب جامع يكتب فيه أعمال الشياطين والكفار، والفجار",
+  "note": "Sijjin is the comprehensive register; location reports describe where it lies, not rival meanings."
+ },
+ {
+  "n": 17,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "V3",
+   "N4",
+   "N3"
+  ],
+  "evidence": "وقيل معناه لفي سجين لفي خسار وضلال، وقيل إنه مشتق من السجن",
+  "note": "Reports and qila list, no choice."
+ },
+ {
+  "n": 17,
+  "who": "ibnAshur",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "evidence": "وقد اختلف في معناه على أقوال أشهرها وأولاها أنه علم لواد في جهنم",
+  "note": "Ranks the valley-in-Hell view with awla over the other views."
+ },
+ {
+  "n": 18,
+  "who": "tabari",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "فالصواب أن يقال: هم محجوبون عن رؤيته، وعن كرامته، إذ كان الخبر عاما",
+  "note": "Declares both vision and honour intended since the statement is general."
+ },
+ {
+  "n": 18,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "فوجب حمله على الرؤية. أما صرفه إلى الرحمة فهو عدول عن الظاهر من غير دليل",
+  "note": "Argues for deprivation of vision and rejects the mercy/honour reading."
+ },
+ {
+  "n": 18,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "وقال مجاهد في قوله تعالى: لمحجوبون: أي عن كرامته ورحمته ممنوعون",
+  "note": "Reports both; only attributes the vision view to al-jumhur, no own word of choice."
+ },
+ {
+  "n": 18,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "لمحجوبون فلا يرونه بخلاف المؤمنين ومن أنكر الرؤية جعله تمثيلا لإهانتهم",
+  "note": "Own gloss (vision) then reports the mercy reading of deniers; no explicit word of choice."
+ },
+ {
+  "n": 18,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "وقد استدل بها مالك والشافعي على صحة رؤية المؤمن لله في الآخرة، وتأولها المعتزلة أن معناها محجوبون عن رحمته",
+  "note": "Gloss then reports both readings without a word of choice."
+ },
+ {
+  "n": 18,
+  "who": "khazin",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "والذي ذهب إليه أكثر المفسرين أنهم محجوبون عن رؤية الله، وهذا هو الصحيح",
+  "note": "Calls other views weak and the vision view al-sahih."
+ },
+ {
+  "n": 18,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "وكلا المعنيين مراد هنا لأن المكذبين بيوم الدين لا يرون الله يوم القيامة",
+  "note": "States both senses (no vision, no admission to presence) are intended."
+ },
+ {
+  "n": 19,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "N1"
+  ],
+  "evidence": "إن كتاب أعمال الأبرار لفي ارتفاع إلى حد قد علم الله جل وعز منتهاه، ولا علم عندنا بغايته",
+  "note": "Al-sawab: height above height whose limit only God knows."
+ },
+ {
+  "n": 19,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "N3"
+  ],
+  "evidence": "وظاهر القرآن يشهد لهذا القول الأخير",
+  "note": "Argues the angels' guarded register reading is supported by the text and calls it awla."
+ },
+ {
+  "n": 19,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "V5",
+   "V1",
+   "V4",
+   "V2",
+   "N4",
+   "N1"
+  ],
+  "evidence": "قال ابن عباس: أي في الجنة. وعنه أيضا قال: أعمالهم في كتاب الله في السماء",
+  "note": "Reports many views with no choice."
+ },
+ {
+  "n": 19,
+  "who": "baydawi",
+  "type": "silent",
+  "holds": [],
+  "evidence": "",
+  "note": "Only refers back to his treatment of sijjin; no meaning of illiyyin given in window."
+ },
+ {
+  "n": 19,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "N3",
+   "V2",
+   "V3"
+  ],
+  "evidence": "عليون اسم علم للكتاب الذي تكتب فيه الحسنات",
+  "note": "Own gloss (register) plus reported place views (under the Throne, Paradise); no word of choice."
+ },
+ {
+  "n": 19,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N4",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N5"
+  ],
+  "evidence": "وقيل هو قائمة العرش اليمنى وقال ابن عباس في رواية عنه في الجنة، وقيل هي سدرة المنتهى",
+  "note": "Lists views with qila and no choice."
+ },
+ {
+  "n": 19,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "V3"
+  ],
+  "evidence": "وعليون علم بالغلبة لمحلة الأبرار",
+  "note": "Gives only one meaning: name of the abode of the righteous in Paradise."
+ },
+ {
+  "n": 20,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "N1"
+  ],
+  "evidence": "وأولى الأقوال في ذلك بالصواب: أن يقال: معنى ذلك: والسماء ذات منازل الشمس والقمر",
+  "note": "Awla bi-l-sawab: mansions of sun and moon (the twelve signs)."
+ },
+ {
+  "n": 20,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V2"
+  ],
+  "evidence": "اعلم أن في البروج ثلاثة أقوال: أحدها: أنها هي البروج الاثنا عشر",
+  "note": "Three views (zodiac, lunar mansions, great stars), no choice."
+ },
+ {
+  "n": 20,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1",
+   "N2",
+   "N1"
+  ],
+  "evidence": "وفي البروج أقوال أربعة: أحدها- ذات النجوم",
+  "note": "Lists four views without choosing."
+ },
+ {
+  "n": 20,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V2",
+   "N3"
+  ],
+  "evidence": "أو منازل القمر أو عظام الكواكب سميت بروجا لظهورها، أو أبواب السماء",
+  "note": "Alternatives joined by aw, no choice."
+ },
+ {
+  "n": 20,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V2"
+  ],
+  "evidence": "البروج هي المنازل المعروفة وهي اثنا عشر، تقطعها الشمس في السنة، وقيل: هي النجوم العظام",
+  "note": "Gloss then qila alternative, no word of choice."
+ },
+ {
+  "n": 20,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V2"
+  ],
+  "evidence": "وقيل البروج والكواكب العظام سميت بروجا لظهورها",
+  "note": "Gloss (twelve signs) then qila alternative, no choice."
+ },
+ {
+  "n": 20,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "N1"
+  ],
+  "evidence": "والبروج: تطلق على علامات من قبة الجو يتراءى للناظر أن الشمس تكون في سمتها مدة شهر",
+  "note": "Only the zodiacal signs meaning is given."
+ },
+ {
+  "n": 21,
+  "who": "tabari",
+  "type": "combines",
+  "holds": [
+   "V2",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8"
+  ],
+  "evidence": "وكل الذي ذكرنا أن العلماء قالوا: هو المعني مما يستحق أن يقال له",
+  "note": "Al-sawab is that all the reported referents qualify; no single view picked."
+ },
+ {
+  "n": 21,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "V8"
+  ],
+  "evidence": "وثانيها: أن يفسر المشهود بيوم الجمعة وهو قول ابن عمر وابن الزبير",
+  "note": "Supports several readings in turn; awla concerns the sense of shahid (presence), not the referent."
+ },
+ {
+  "n": 21,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N10",
+   "V6",
+   "N6",
+   "V7",
+   "V2"
+  ],
+  "evidence": "فقال علي وابن عباس وابن عمر وأبو هريرة رضي الله عنهم: الشاهد يوم الجمعة، والمشهود يوم عرفة",
+  "note": "Lists many views; his qultu extends to all days without ranking."
+ },
+ {
+  "n": 21,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "N15",
+   "N2",
+   "N1",
+   "N13",
+   "N3",
+   "N5",
+   "N10"
+  ],
+  "evidence": "ومن يشهد في ذلك اليوم من الخلائق وما أحضر فيه من العجائب",
+  "note": "Own gloss followed by many aw alternatives; no choice."
+ },
+ {
+  "n": 21,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V5",
+   "N15",
+   "N2",
+   "N7",
+   "N1",
+   "N3",
+   "V3",
+   "N4"
+  ],
+  "evidence": "ويتلخص من أقوالهم في الشاهد ستة عشر قولا يقابلها في المشهود اثنان وثلاثون قولا",
+  "note": "Enumerates views; no choice in window."
+ },
+ {
+  "n": 21,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N6",
+   "V5",
+   "N1",
+   "N3",
+   "N2",
+   "N11"
+  ],
+  "evidence": "وهذا قول ابن عباس والأكثرين أن الشاهد يوم الجمعة والمشهود يوم عرفة",
+  "note": "Majority attribution only, then qila list; no own choice."
+ },
+ {
+  "n": 21,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V3",
+   "V5",
+   "N3",
+   "N1",
+   "V1"
+  ],
+  "evidence": "وعلى مختلف الوجوه فالمناسبة ظاهرة بين شاهد ومشهود",
+  "note": "Takes them as generic (murad bihima al-naw) and allows all the senses."
+ },
+ {
+  "n": 21,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V5",
+   "V2",
+   "V3",
+   "N19",
+   "V1",
+   "N13",
+   "N7",
+   "N6",
+   "N14",
+   "N20"
+  ],
+  "evidence": "فقد اختلف الناس في المشار إليه بهما فقال ابن عباس: الشاهد الله تعالى، والمشهود يوم القيامة",
+  "note": "Long list of views without choice."
+ },
+ {
+  "n": 21,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V5",
+   "N3",
+   "V1"
+  ],
+  "evidence": "الشاهد يوم الجمعة، والمشهود يوم عرفة، ت: ولو صح لوجب الوقوف عنده",
+  "note": "Lists three; conditional remark on the hadith is not a choice."
+ },
+ {
+  "n": 21,
+  "who": "abuHayyan",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "evidence": "وهذه أقوال سبعة وعشرون لكل منها متمسك، وللصوفية أقوال غير هذه. والظاهر ما قلناه أولا",
+  "note": "After listing 27 views, al-zahir is his opening gloss: those present and the Day."
+ },
+ {
+  "n": 21,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "V2",
+   "N7",
+   "N2",
+   "N6",
+   "N19",
+   "N9",
+   "N10",
+   "N3",
+   "N11"
+  ],
+  "evidence": "وقيل الشاهد محمد صلى الله عليه وسلم والمشهود يوم القيامة",
+  "note": "Own gloss then qila list, no word of choice."
+ },
+ {
+  "n": 21,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "V2",
+   "N7",
+   "N2",
+   "N9",
+   "N10",
+   "N3",
+   "V5",
+   "N11"
+  ],
+  "evidence": "وقد كثرت أقاويل المفسرين فيهما فقيل محمد صلى الله عليه وسلم ويوم القيامة",
+  "note": "Own gloss then many reported views; no ranking word."
+ },
+ {
+  "n": 22,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "وأولى التأويلين في ذلك عندي بالصواب، وأشبههما بظاهر ما دل عليه التنزيل القول الذي ذكرناه عن ابن عباس",
+  "note": "Awla bi-l-sawab: begins and repeats punishment."
+ },
+ {
+  "n": 22,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1"
+  ],
+  "evidence": "قال ابن عباس: إن أهل جهنم تأكلهم النار حتى يصيروا فحما ثم يعيدهم خلقا جديدا",
+  "note": "Gloss (creation and resurrection) plus Ibn Abbas report, no word of choice."
+ },
+ {
+  "n": 22,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "وقال ابن عباس: يبدئ لهم عذاب الحريق في الدنيا، ثم يعيده عليهم في الآخرة. وهذا اختيار الطبري",
+  "note": "Majority attribution and Tabari's choice reported, not his own."
+ },
+ {
+  "n": 22,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "يبدئ الخلق ويعيده، أو يبدئ البطش بالكفرة في الدنيا ويعيده في الآخرة",
+  "note": "Two alternatives with aw, no choice."
+ },
+ {
+  "n": 22,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "أي يبطش بهم في الدنيا والآخرة والأول أظهر وأرجح",
+  "note": "Azhar and arjah for creation and resurrection."
+ },
+ {
+  "n": 22,
+  "who": "khazin",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "أي يخلقهم أولا في الدنيا، ثم يعيدهم أحياء بعد الموت ليجازيهم بأعمالهم في القيامة",
+  "note": "Only one meaning stated."
+ },
+ {
+  "n": 22,
+  "who": "ibnAshur",
+  "type": "prefers",
+  "holds": [
+   "N3"
+  ],
+  "evidence": "وحذف مفعولا الفعلين لقصد عموم تعلق الفعلين بكل ما يقع ابتداء، ويعاد بعد ذلك",
+  "note": "Argues for the general meaning, itself a listed view (N3)."
+ },
+ {
+  "n": 22,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N3",
+   "V2"
+  ],
+  "evidence": "قال الضحاك وابن زيد معناه: يبدئ الخلق بالإنشاء ويعيد بالحشر، وقال ابن عباس ما معناه: إن ذلك عام في جميع الأشياء",
+  "note": "Reports three views without choosing."
+ },
+ {
+  "n": 22,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N3"
+  ],
+  "evidence": "وقال ابن عباس ما معناه: إن ذلك عام في جميع الأشياء",
+  "note": "Reports two views, no choice."
+ },
+ {
+  "n": 22,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N3",
+   "V2",
+   "N1"
+  ],
+  "evidence": "وقال الطبري: يبدىء العذاب ويعيده على الكفار ونحوه عن ابن عباس",
+  "note": "Lists views, no choice."
+ },
+ {
+  "n": 22,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "أو هو يبدىء البطش بالكفرة في الدنيا ويعيده في الآخرة",
+  "note": "Two alternatives with aw."
+ },
+ {
+  "n": 22,
+  "who": "nasafi",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "أى يخلفهم ابتداء ثم يعيدهم بعد أن صيرهم ترابا",
+  "note": "Both of his framings concern creation and resurrection; no other view."
+ },
+ {
+  "n": 23,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "والصواب من القول في ذلك عندنا: قول من قال: هو موضع القلادة من المرأة",
+  "note": "Al-sawab: place of the necklace."
+ },
+ {
+  "n": 23,
+  "who": "razi",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "ترائب المرأة عظام صدرها حيث تكون القلادة، وكل عظم من ذلك تربة، وهذا قول جميع أهل اللغة",
+  "note": "Gives one meaning of tara'ib; his dispute concerns whose fluid, not the word."
+ },
+ {
+  "n": 23,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "V2",
+   "V5",
+   "V6"
+  ],
+  "evidence": "والمشهور من كلام العرب: أنها عظام الصدر والنحر",
+  "note": "Lists views; mashhur is not a ranking word of choice."
+ },
+ {
+  "n": 23,
+  "who": "baydawi",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "من بين صلب الرجل وترائب المرأة وهي عظام صدرها",
+  "note": "Only one meaning given."
+ },
+ {
+  "n": 23,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وقيل: هي الأضلاع التي أسفل الصلب، والأول هو الصحيح المعروف في اللغة",
+  "note": "Al-sahih: bones of the chest."
+ },
+ {
+  "n": 23,
+  "who": "khazin",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "يعني صلب الرجل، وترائب المرأة، وهي عظام الصدر والنحر. قال ابن عباس: هي موضع القلادة من الصدر",
+  "note": "Own gloss chest bones / necklace place (V1); no listed rival view on tara'ib."
+ },
+ {
+  "n": 23,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "ومحرر أقوال اللغويين فيها أنها عظام الصدر التي بين الترقوتين والثديين ووسموه بأنه موضع القلادة",
+  "note": "States only the chest-bone meaning (V1); no rival view given in window."
+ },
+ {
+  "n": 24,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V5"
+  ],
+  "evidence": "وأولى الأقوال في ذلك بالصواب: قول من قال معنى ذلك: إن الله على رد الإنسان المخلوق من ماء دافق من بعد مماته حيا",
+  "note": "Lists five views; awla for resurrection after death, argued from the following verse. [recoded on corrected window: packet window was from another sura]"
+ },
+ {
+  "n": 24,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V5"
+  ],
+  "evidence": "واعلم أن القول الأول أصح، ويشهد له قوله: يوم تبلى السرائر",
+  "note": "Lists the water views, calls resurrection view al-aqrab and asahh."
+ },
+ {
+  "n": 24,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V4",
+   "V3",
+   "V5",
+   "N1"
+  ],
+  "evidence": "وقال ابن عباس وقتادة والحسن وعكرمة أيضا: إنه على رد الإنسان بعد الموت لقادر. وهو اختيار الطبري. الثعلبي: وهو الأقوى",
+  "note": "Lists all views; preference is quoted from Tabari and Tha'labi, not endorsed."
+ },
+ {
+  "n": 24,
+  "who": "baydawi",
+  "type": "single",
+  "holds": [
+   "V5"
+  ],
+  "evidence": "يوم تبلى السرائر تتعرف ويميز بين ما طاب من الضمائر وما خفي من الأعمال وما خبث منها، وهو ظرف ل رجعه",
+  "note": "Only one reading: return on the Day secrets are tried, i.e. resurrection."
+ },
+ {
+  "n": 24,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V5"
+  ],
+  "evidence": "والمعنى: أن الله قادر على رجع الإنسان حيا بعد موته، والمراد إثبات البعث",
+  "note": "Calls resurrection 'al-ma'na al-sahih' against 'al-aqwal al-ukhar'."
+ },
+ {
+  "n": 24,
+  "who": "khazin",
+  "type": "prefers",
+  "holds": [
+   "V5"
+  ],
+  "evidence": "قادر على إعادته حيا بعد موته، وهو أهون عليه، وهذا القول هو الأصح، والأولى بمعنى الآية",
+  "note": "Lists qila views, then al-asahh / al-awla for resurrection."
+ },
+ {
+  "n": 24,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "V5"
+  ],
+  "evidence": "إن الذي خلق الإنسان من ماء دافق قادر على إعادة خلقه",
+  "note": "One meaning only: re-creation (resurrection); no other view mentioned."
+ },
+ {
+  "n": 25,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "وأولى الأقوال في ذلك عندنا بالصواب: قول من قال: معناه: نزه اسم ربك أن تدعو به الآلهة والأوثان",
+  "note": "Lists five views; awla for keeping the Lord's name from being given to idols. [recoded on corrected window: packet window was from another sura]"
+ },
+ {
+  "n": 25,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N1",
+   "V3",
+   "V4",
+   "V5"
+  ],
+  "evidence": "أما على الوجه الثاني وهو أن يكون الاسم صلة ويكون المعنى سبح ربك وهو اختيار جمع من المحققين",
+  "note": "Lists the views; preference attributed to 'jam' min al-muhaqqiqin'; window cut before any own choice."
+ },
+ {
+  "n": 25,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V5",
+   "V2",
+   "V3",
+   "V4"
+  ],
+  "evidence": "وقيل: نزه تسمية ربك وذكرك إياه، أن تذكره إلا وأنت خاشع معظم، ولذكره محترم. وجعلوا الاسم بمعنى التسمية، والأولى أن يكون الاسم هو المسمى",
+  "note": "Lists views; al-awla concerns the ism/musamma question, not one listed meaning."
+ },
+ {
+  "n": 25,
+  "who": "baydawi",
+  "type": "combines",
+  "holds": [
+   "N1",
+   "V2",
+   "V3"
+  ],
+  "evidence": "نزه اسمه عن الإلحاد فيه بالتأويلات الزائغة وإطلاقه على غيره زاعما أنهما فيه سواء وذكره لا على على وجه التعظيم",
+  "note": "Own gloss folds three meanings into one."
+ },
+ {
+  "n": 25,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "الرابع أن المراد قول سبحان الله، ولما كان التسبيح باللسان لا بد فيه من ذكر الإسم أوقع التسبيح على الإسم، وهذا القول هو الصحيح",
+  "note": "Lists views, picks saying Subhan as al-sahih."
+ },
+ {
+  "n": 25,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V5",
+   "V3",
+   "V4"
+  ],
+  "evidence": "أي قل سبحان ربي الأعلى، وهو قول جماعة من الصحابة والتابعين",
+  "note": "Own gloss V1 first, then qila V5, V3, V4 with no word of choice."
+ },
+ {
+  "n": 25,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "فقد تعين أن المأمور به قول دال على تنزيه الله",
+  "note": "Holds only verbal glorification; no rival views reported."
+ },
+ {
+  "n": 26,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "N1"
+  ],
+  "evidence": "والصواب من القول في ذلك عندنا: أن الله عم بقوله {فهدى} [الأعلى: 3] الخبر عن هدايته خلقه، ولم يخصص من ذلك معنى دون معنى",
+  "note": "Al-sawab for general guidance; the general meaning is itself view N1."
+ },
+ {
+  "n": 26,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "N2"
+  ],
+  "evidence": "ومنهم من حمله على ما يرجع إلى مصالح الدنيا، والأول أقوى",
+  "note": "Ranks religious guidance above worldly: al-awwal aqwa, with argument."
+ },
+ {
+  "n": 26,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N3",
+   "N4",
+   "N2"
+  ],
+  "evidence": "وقال السدي: قدر مدة الجنين في الرحم تسعة أشهر، وأقل وأكثر، ثم هداه للخروج من الرحم. وقال الفراء",
+  "note": "Reports many views; no word of choice."
+ },
+ {
+  "n": 26,
+  "who": "baydawi",
+  "type": "single",
+  "holds": [
+   "N1"
+  ],
+  "evidence": "فهدى فوجهه إلى أفعاله طبعا واختيارا بخلق الميول والإلهامات ونصب الدلائل وانزال الآيات",
+  "note": "One general gloss (every thing guided to its functions) = N1; no rivals."
+ },
+ {
+  "n": 26,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "N1"
+  ],
+  "evidence": "وهذه الأقوال أمثلة والأول أعم وأرجح",
+  "note": "First (each creature guided to what suits it) is a'amm wa arjah."
+ },
+ {
+  "n": 26,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N3",
+   "V1",
+   "N1"
+  ],
+  "evidence": "وقيل قدر مدة الجنين في الرحم وهداه إلى الخروج منه، وقيل قدر السعادة لأقوام",
+  "note": "All views introduced with qila; no choice."
+ },
+ {
+  "n": 26,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "N2"
+  ],
+  "evidence": "وإن جعل مفعول خلق خاصا، وهو الإنسان كان مفعول قدر على وزانه",
+  "note": "Gives general guidance and, conditionally, special guidance of reason; no word of choice."
+ },
+ {
+  "n": 27,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "والقول الذي هو أولى بالصواب عندي، قول من قال: معنى ذلك: فلا تنسى إلا أن نشاء نحن أن ننسيكه بنسخه ورفعه",
+  "note": "Awla bi-l-sawab for forgetting by abrogation."
+ },
+ {
+  "n": 27,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V3"
+  ],
+  "evidence": "أما قوله: إلا ما شاء الله ففيه احتمالان أحدهما: أن يقال: هذا الاستثناء غير حاصل في الحقيقة",
+  "note": "Reports khabar-vs-nahy arguments and exception options; window cut before any choice."
+ },
+ {
+  "n": 27,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "N2",
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "evidence": "والأول هو المختار، لأن الاستثناء من النهي لا يكاد يكون إلا مؤقتا معلوما",
+  "note": "Al-mukhtar decides negation vs prohibition only; no choice among V1/V2/V3/N2."
+ },
+ {
+  "n": 27,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N2",
+   "V3",
+   "N1"
+  ],
+  "evidence": "إلا ما شاء الله نسيانه بأن نسخ تلاوته، وقيل أراد به القلة والندرة",
+  "note": "Own gloss V1 then qila N2 and 'aw' V3; no word of choice."
+ },
+ {
+  "n": 27,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "والأول أظهر فإن النسيان جائز على النبي صلى الله عليه وآله وسلم فيما أراد الله أن يرفعه من القرآن",
+  "note": "Two aspects; al-awwal azhar for real exception (V1) over V3."
+ },
+ {
+  "n": 27,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N2",
+   "V3"
+  ],
+  "evidence": "وقيل هذا الاستثناء لم يقع، ولم يشأ الله أن ينسيه شيئا",
+  "note": "Own gloss V1, then qila N2 and V3; no choice."
+ },
+ {
+  "n": 27,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "N2"
+  ],
+  "evidence": "والمقصود بهذا أن بعض القرآن ينساه النبيء صلى الله عليه وسلم إذا شاء الله أن ينساه. وذلك نوعان",
+  "note": "Takes both kinds (abrogation, passing forgetfulness) as intended; calls first azhar."
+ },
+ {
+  "n": 28,
+  "who": "tabari",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "والصواب من القول في ذلك: أن يقال: وذكر الله فوحده، ودعاه ورغب إليه، لأن كل ذلك من ذكر الله",
+  "note": "Sawab is that both tawhid and invocation are covered."
+ },
+ {
+  "n": 28,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "N3"
+  ],
+  "evidence": "قال ابن عباس: ذكر معاده وموقفه بين يدي ربه فصلى له. وأقول: هذا التفسير متعين",
+  "note": "Calls Ibn Abbas's view muta'ayyin in his own voice."
+ },
+ {
+  "n": 28,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N3",
+   "N4",
+   "N2",
+   "N1",
+   "N5"
+  ],
+  "evidence": "وقيل: ذكر اسم ربه بالتكبير في أول الصلاة، لأنها لا تنعقد إلا بذكره",
+  "note": "Brief gloss then lists views with no choice."
+ },
+ {
+  "n": 28,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V2",
+   "N4",
+   "N2"
+  ],
+  "evidence": "وذكر اسم ربه بقلبه ولسانه فصلى كقوله: أقم الصلاة لذكري ويجوز أن يراد بالذكر تكبيرة التحريم",
+  "note": "Own gloss, then yajuz and qila alternatives; no choice."
+ },
+ {
+  "n": 28,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "N2"
+  ],
+  "evidence": "وعلى هذا قال جماعة: إنها يوم الفطر والمعنى أدى زكاة الفطر وذكر اسم ربه في طريق المصلى",
+  "note": "Only reports the Eid reading from a group; no own gloss or choice."
+ },
+ {
+  "n": 28,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "N2"
+  ],
+  "evidence": "وقيل أراد بالذكر تكبيرات العيد، وبالصلاة صلاة العيد",
+  "note": "Reports Eid reading (and defends its Meccan context) but gives no word of choice."
+ },
+ {
+  "n": 28,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N1"
+  ],
+  "evidence": "وفعل ذكر اسم ربه يجوز أن يكون من الذكر اللساني",
+  "note": "Gives two yajuz options (tongue, heart) without choosing."
+ },
+ {
+  "n": 28,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N2"
+  ],
+  "evidence": "وقوله وذكر اسم ربه معناه: وحده وصلى له الصلوات التي فرضت عليه",
+  "note": "Own gloss tawhid, then reports Eid view; no choice."
+ },
+ {
+  "n": 28,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N2"
+  ],
+  "evidence": "وقوله تعالى: وذكر اسم ربه أي: وحده وصلى له الصلوات المفروضة وغيرها",
+  "note": "Own gloss tawhid, then reports Eid view; no choice."
+ },
+ {
+  "n": 28,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N4",
+   "N3"
+  ],
+  "evidence": "وذكر اسم ربه: أي وحده، لم يقرنه بشيء من الأنداد",
+  "note": "Own gloss, then N4 (inference called weak) and Ibn Abbas N3; no ranking."
+ },
+ {
+  "n": 28,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V2",
+   "N4",
+   "N2"
+  ],
+  "evidence": "وذكر اسم ربه بقلبه ولسانه فصلى أقام الصلوات الخمس كقوله تعالى {وأقم الصلاة لذكري} أو كبر تكبيرة الافتتاح",
+  "note": "Own gloss with 'aw' and qila alternatives; no choice."
+ },
+ {
+  "n": 28,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N4",
+   "N3",
+   "N2"
+  ],
+  "evidence": "{وذكر اسم ربه} وكبر للافتتاح",
+  "note": "Own gloss opening takbir, then reports Ibn Abbas and Dahhak; no choice."
+ },
+ {
+  "n": 29,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "والصواب من القول أن يقال: عني بقوله: {فصلى} [الأعلى: 15] : الصلوات",
+  "note": "Al-sawab: the (prescribed) prayers, against Eid and du'a readings."
+ },
+ {
+  "n": 29,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "N2"
+  ],
+  "evidence": "وثالثها: الخدمة وهي المراد بقوله: فصلى فإن الصلاة عبارة عن التواضع والخشوع",
+  "note": "Within the view he calls muta'ayyin, salla = service and humility (N2)."
+ },
+ {
+  "n": 29,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "V2",
+   "N1"
+  ],
+  "evidence": "قال ابن عباس: هذا في الصلاة المفروضة، وهي الصلوات الخمس. وقيل: الدعاء",
+  "note": "Lists views with no choice."
+ },
+ {
+  "n": 29,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "وقيل تزكى تصدق للفطر وذكر اسم ربه كبره يوم العيد فصلى صلاته",
+  "note": "Own gloss (prayer, unspecified) then qila Eid; no choice."
+ },
+ {
+  "n": 29,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "وصلى صلاة العيد، وقد روي هذا عن النبي صلى الله عليه وسلم وقيل المراد أدى زكاة ماله وصلى الصلوات الخمس",
+  "note": "Reports Eid and five prayers; no choice."
+ },
+ {
+  "n": 29,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "وقيل وذكر اسم ربه فصلى يعني الصلوات الخمس، وقيل أراد بالذكر تكبيرات العيد، وبالصلاة صلاة العيد",
+  "note": "Reports Eid and five prayers; no word of choice."
+ },
+ {
+  "n": 29,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N2"
+  ],
+  "evidence": "ثم الإقبال على طاعته وعبادته وهو المشار إليه بقوله: فصلى والصلاة تشير إلى العبادة",
+  "note": "Reports hadith 'the five prayers' and gives own reading as worship; no ranking."
+ },
+ {
+  "n": 29,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "وصلى له الصلوات التي فرضت عليه، وتنفل أيضا بما أمكنه من صلاة وبر",
+  "note": "Own gloss V1 then reports Eid view; no choice."
+ },
+ {
+  "n": 29,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "وصلى له الصلوات المفروضة وغيرها، وقال أبو سعيد الخدري وغيره: هذه الآية نزلت في صبيحة يوم الفطر",
+  "note": "Own gloss V1 then reports Eid view; no choice."
+ },
+ {
+  "n": 29,
+  "who": "abuHayyan",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "فصلى: أي أتى الصلاة المفروضة وما أمكنه من النوافل",
+  "note": "Own gloss only: obligatory prayer; no rival view for fasalla reported."
+ },
+ {
+  "n": 29,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "فصلى أقام الصلوات الخمس كقوله تعالى {وأقم الصلاة لذكري} أو كبر تكبيرة الافتتاح فصلى وقيل تزكى أي تصدق صدقة الفطر وذكر اسم ربه أي كبره يوم العيد فصلى أي صلاته",
+  "note": "Five prayers, then eid prayer via qila; no choice."
+ },
+ {
+  "n": 29,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "{فصلى} الخمس وبه يحتج على وجوب تكبيرة الافتتاح",
+  "note": "Own gloss (five prayers), then reports al-Dahhak's eid-prayer view without a word of choice."
+ },
+ {
+  "n": 30,
+  "who": "tabari",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "ولم يخبرنا أنه عنى غاشية القيامة، ولا أنه عنى غاشية النار، وكلتاهما غاشية",
+  "note": "Al-sawab is that both are meant; the report is general."
+ },
+ {
+  "n": 30,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "القول الثالث: الغاشية أهل النار يغشونها ويقعون فيها والأول أقرب",
+  "note": "Lists three views, ranks the first (Resurrection) with aqrab."
+ },
+ {
+  "n": 30,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N2",
+   "N1"
+  ],
+  "evidence": "أي القيامة التي تغشى الخلائق بأهوالها وأفزاعها، قاله أكثر المفسرين. وقال سعيد بن جبير ومحمد بن كعب: الغاشية: النار",
+  "note": "Attributes V1 to most mufassirun; no own choice."
+ },
+ {
+  "n": 30,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "الداهية التي تغشى الناس بشدائدها يعني يوم القيامة، أو النار من قوله تعالى وتغشى وجوههم النار",
+  "note": "Two options joined by aw; no choice."
+ },
+ {
+  "n": 30,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "الغاشية هي القيامة لأنها تغشى جميع الخلق، وقيل: هي النار من قوله: وتغشى وجوههم النار [ابراهيم: 50] وهذا ضعيف",
+  "note": "Calls the fire view weak, keeps Resurrection."
+ },
+ {
+  "n": 30,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "حديث الغاشية يعني القيامة، سميت غاشية لأنها تغشى كل شيء بأهوالها، وقيل الغاشية النار",
+  "note": "Own gloss then qila; no word of choice."
+ },
+ {
+  "n": 30,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "والغاشية هنا: علم بالغلبة على ساعة القيامة",
+  "note": "Only the Resurrection meaning, no other view mentioned."
+ },
+ {
+  "n": 31,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "evidence": "واختلف أهل التأويل في الذي عني بذلك، فقال بعضهم: عني به النهار",
+  "note": "Lists daytime, Fajr prayer, daybreak; no tarjih in window."
+ },
+ {
+  "n": 31,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "V1",
+   "V2",
+   "N1",
+   "N3",
+   "N2",
+   "N4"
+  ],
+  "evidence": "أما قوله: والفجر فذكروا فيه وجوها أحدها: ما روي عن ابن عباس أن الفجر هو الصبح المعروف",
+  "note": "Enumerates views without choice."
+ },
+ {
+  "n": 31,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "V1",
+   "N2",
+   "V2",
+   "N1",
+   "N3"
+  ],
+  "evidence": "واختلف في الفجر، فقال قوم: الفجر هنا: انفجار الظلمة عن النهار من كل يوم",
+  "note": "Reports many views; no choice."
+ },
+ {
+  "n": 31,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "V2"
+  ],
+  "evidence": "والفجر أقسم بالصبح أو فلقه كقوله: والصبح إذا تنفس أو بصلاته",
+  "note": "Daybreak or its prayer, joined by aw."
+ },
+ {
+  "n": 31,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "evidence": "وقيل: أراد انفجار العيون من الحجارة وهذا هذا بعيد والأول أظهر وأشهر",
+  "note": "Daily dawn ranked azhar; specific dawns said to lack evidence."
+ },
+ {
+  "n": 31,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "V2",
+   "N2",
+   "N3",
+   "N1"
+  ],
+  "evidence": "الفجر هو انفجار الصبح في كل يوم",
+  "note": "Reports views (Ibn Abbas, then prayer, then specific dawns) without choice."
+ },
+ {
+  "n": 31,
+  "who": "ibnAshur",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "evidence": "فالتعريف في الفجر تعريف الجنس وهو الأظهر لمناسبة عطف والليل إذا يسر",
+  "note": "Generic daily dawn ranked azhar over specific dawns."
+ },
+ {
+  "n": 32,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "والصواب من القول في ذلك عندنا: أنها عشر الأضحى، لإجماع الحجة من أهل التأويل عليه",
+  "note": "Al-sawab: first ten of Dhu al-Hijja."
+ },
+ {
+  "n": 32,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2"
+  ],
+  "evidence": "ذكروا فيه وجوها أحدها: أنها عشر ذي الحجة",
+  "note": "Three views, no choice."
+ },
+ {
+  "n": 32,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N2",
+   "N1"
+  ],
+  "evidence": "وعن ابن عباس أيضا: هي العشر الأواخر من رمضان، وقاله الضحاك. وقال ابن عباس أيضا ويمان والطبري: هي العشر الأول من المحرم",
+  "note": "Reports views; no own choice."
+ },
+ {
+  "n": 32,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N2"
+  ],
+  "evidence": "وليال عشر عشر ذي الحجة ولذلك فسر الفجر بفجر عرفة، أو النحر أو عشر رمضان الأخير",
+  "note": "Own gloss with an aw alternative; no word of choice."
+ },
+ {
+  "n": 32,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "evidence": "وليال عشر هي عشر ذي الحجة عند الجمهور وقيل العشر الأول من المحرم",
+  "note": "Attributes V1 to the majority only; no own choice."
+ },
+ {
+  "n": 32,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N2",
+   "N1"
+  ],
+  "evidence": "روي عن ابن عباس أنها العشر الأول من ذي الحجة لأنها أيام الاشتغال بأعمال الحج",
+  "note": "Reports three views without choice."
+ },
+ {
+  "n": 32,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "فتعين أنها الليالي المرادة بليال عشر",
+  "note": "Only the Dhu al-Hijja meaning, no rival view mentioned."
+ },
+ {
+  "n": 33,
+  "who": "tabari",
+  "type": "combines",
+  "holds": [
+   "V5",
+   "N1",
+   "V1"
+  ],
+  "evidence": "ولم يخصص نوعا من الشفع ولا من الوتر دون نوع بخبر ولا عقل، وكل شفع ووتر فهو مما أقسم به",
+  "note": "Al-sawab: every even and odd the exegetes named is included."
+ },
+ {
+  "n": 33,
+  "who": "razi",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N4",
+   "N5",
+   "N8"
+  ],
+  "evidence": "ولقائل أن يقول أيضا: إني أحمل الكلام على الكل لأن الألف واللام في الشفع والوتر تفيد العموم",
+  "note": "All twenty views possible; text may be carried on all. Hedged."
+ },
+ {
+  "n": 33,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V5",
+   "V1",
+   "N10",
+   "V3"
+  ],
+  "evidence": "واختاره النحاس، وقال: حديث أبي الزبير عن جابر هو الذي صح",
+  "note": "Quotes al-Nahhas's choice without endorsing it."
+ },
+ {
+  "n": 33,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V4",
+   "V3",
+   "V5",
+   "V1"
+  ],
+  "evidence": "والشفع والوتر والأشياء كلها شفعها ووترها، أو الخلق لقوله: ومن كل شيء خلقنا زوجين والخالق",
+  "note": "General meaning and creation/Creator joined by aw; no ranking between them."
+ },
+ {
+  "n": 33,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V5",
+   "V3",
+   "N2",
+   "N7",
+   "N8",
+   "N9",
+   "N1"
+  ],
+  "evidence": "وقيل المراد الأعداد منها شفع ووتر فهذه عشرة أقوال",
+  "note": "Ten views, no choice."
+ },
+ {
+  "n": 33,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "V4",
+   "V5",
+   "V2",
+   "N5",
+   "N3",
+   "N4"
+  ],
+  "evidence": "وقيل الخلق كله فيه شفع وفيه وتر. وقيل هما الصلوات منها شفع ومنها وتر",
+  "note": "Reports views without choice."
+ },
+ {
+  "n": 33,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V5"
+  ],
+  "evidence": "وينبغي حمل الآية على كلا التفسيرين",
+  "note": "Carries the verse on both hadith-based meanings."
+ },
+ {
+  "n": 33,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N10",
+   "V5",
+   "V2",
+   "V3",
+   "N2",
+   "V4",
+   "N7",
+   "N8",
+   "N5",
+   "N4",
+   "N9",
+   "N1"
+  ],
+  "evidence": "واختلف الناس في الشفع والوتر فقال جابر عن النبي صلى الله عليه وسلم: الشفع يوم النحر والوتر يوم عرفة",
+  "note": "Long list, no choice."
+ },
+ {
+  "n": 33,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V5"
+  ],
+  "evidence": "واختلف في \"الشفع والوتر\" ما هما؟ على أقوال كثيرة",
+  "note": "Notes many views, reports one hadith; no choice."
+ },
+ {
+  "n": 33,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V5",
+   "N10",
+   "V1"
+  ],
+  "evidence": "ذكر في كتاب التحرير والتحبير فيها ستة وثلاثين قولا ضجرنا من قراءتها",
+  "note": "Reports hadiths and al-Nahhas's choice without endorsing."
+ },
+ {
+  "n": 33,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V4",
+   "N6",
+   "V1"
+  ],
+  "evidence": "أي الأشياء كلها شفعها ووترها أو شفع هذه الليالي ووترها",
+  "note": "Options joined by aw; ends with God knows best."
+ },
+ {
+  "n": 33,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V4",
+   "N6",
+   "V5",
+   "V1",
+   "V3"
+  ],
+  "evidence": "شفع كل الأشياء ووترها أو شفع هذه الليالي ووترها أو شفع الصلاة ووترها",
+  "note": "Five options with aw; no choice."
+ },
+ {
+  "n": 34,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V6"
+  ],
+  "evidence": "وأشبه الأقوال فيه بالصواب عندي: أنها اسم قبيلة من عاد",
+  "note": "Explicit choice: a tribe of Ad."
+ },
+ {
+  "n": 34,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V6",
+   "V1",
+   "V2",
+   "V3",
+   "N2"
+  ],
+  "evidence": "وفي المراد منه في هذه الآية أقوال: أحدها: أن المتقدمين من قبيلة عاد كانوا يسمون بعاد الأولى",
+  "note": "Lists views; objection to Alexandria/Damascus attributed to others."
+ },
+ {
+  "n": 34,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V4",
+   "V5",
+   "V6",
+   "V1"
+  ],
+  "evidence": "وقال مجاهد: إرم أمة من الأمم. وعنه أيضا: أن معنى إرم: القديمة",
+  "note": "Reports views without choice."
+ },
+ {
+  "n": 34,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V6",
+   "V1"
+  ],
+  "evidence": "إرم عطف بيان لعاد على تقدير مضاف أي سبط إرم، أو أهل إرم إن صح أنه إسم بلدتهم",
+  "note": "Tribe or town, joined by aw; no ranking."
+ },
+ {
+  "n": 34,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V6",
+   "V1",
+   "V3",
+   "V2"
+  ],
+  "evidence": "إرم هي قبيلة عاد سميت باسم أحد أجدادها",
+  "note": "Own gloss then qila (city); his azhar concerns the referent of allati, another question."
+ },
+ {
+  "n": 34,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V6",
+   "V3",
+   "V2"
+  ],
+  "evidence": "وإرم هو جد عاد على ما ذكر في نسبه عاد. وقيل إن المتقدمين من قوم عاد كانوا يسمون بإرم اسم جدهم",
+  "note": "Lists views; weakens Damascus/Alexandria only."
+ },
+ {
+  "n": 34,
+  "who": "ibnAshur",
+  "type": "prefers",
+  "holds": [
+   "V6"
+  ],
+  "evidence": "فعاد وإرم اسمان لقبيلة عاد الأولى",
+  "note": "Argues for tribe named after ancestor; calls the city story fabricated."
+ },
+ {
+  "n": 34,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V6",
+   "N1",
+   "V1",
+   "V2",
+   "V3",
+   "V5"
+  ],
+  "evidence": "وقال جمهور المفسرين: إرم مدينة لهم عظيمة كانت على وجه الدهر باليمن",
+  "note": "Weakens two views but does not choose among the rest; support is tied to a reading."
+ },
+ {
+  "n": 34,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V6",
+   "N1",
+   "V1"
+  ],
+  "evidence": "وقال الجمهور: إرم: مدينة لهم عظيمة كانت على وجه الدهر باليمن",
+  "note": "Reports views, majority attribution only."
+ },
+ {
+  "n": 34,
+  "who": "abuHayyan",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وإن كان يترجح كونها مدينة بقوله: لم يخلق مثلها في البلاد",
+  "note": "Own word of preference (yatarajjah) for the city."
+ },
+ {
+  "n": 34,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V6",
+   "V1"
+  ],
+  "evidence": "بتقدير مضاف أي سبط إرم أو أهل إرم على ما قبل من أن إرم اسم بلدتهم",
+  "note": "Tribe or town; no ranking."
+ },
+ {
+  "n": 34,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V6",
+   "V1"
+  ],
+  "evidence": "وقيل إرم بلدتهم وأرضهم التي كانوا فيها",
+  "note": "Tribe gloss itself introduced with qila; no choice."
+ },
+ {
+  "n": 35,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "وأشبه الأقوال في ذلك بما دل عليه ظاهر التنزيل: قول من قال: عني بذلك أنهم",
+  "note": "Explicit choice: tent-poles of nomads (ahl amud sayyara)."
+ },
+ {
+  "n": 35,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1",
+   "V3"
+  ],
+  "evidence": "أو يكون المراد بذات العماد أنهم طوال الأجسام على تشبيه قدودهم بالأعمدة وقيل: ذات البناء الرفيع",
+  "note": "Conditional options; no choice."
+ },
+ {
+  "n": 35,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "V2",
+   "V3",
+   "V4"
+  ],
+  "evidence": "وقال الضحاك: ذات العماد ذات القوة والشدة",
+  "note": "Reports views; his azhar concerns the pronoun in mithlaha."
+ },
+ {
+  "n": 35,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "V1",
+   "N3"
+  ],
+  "evidence": "ذات العماد ذات البناء الرفيع أو القدود الطوال، أو الرفعة والثبات",
+  "note": "Three glosses joined by aw, no choice."
+ },
+ {
+  "n": 35,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "V2",
+   "V1"
+  ],
+  "evidence": "العماد أعمدة بنيانهم أو أعمدة بيوتهم من الشعر لأنهم كانوا أهل عمود وقال ابن عباس: ذلك كناية عن طول أبدانهم",
+  "note": "Lists views by Iram reading; azhar concerns the referent of the next clause, not the phrase."
+ },
+ {
+  "n": 35,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1",
+   "V3"
+  ],
+  "evidence": "وسموا ذات العماد لأنهم كانوا أهل عمد سيارة، وهو قول قتادة ومجاهد والكلبي",
+  "note": "Reports several views with qila, no choice."
+ },
+ {
+  "n": 35,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V4",
+   "N2"
+  ],
+  "evidence": "وهو هنا مستعار للقوة تشبيها للقبيلة القوية بالبيت ذات العماد",
+  "note": "Own gloss (strength) then allows the road-markers view with yajuz; no word of choice."
+ },
+ {
+  "n": 35,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "V2",
+   "V1"
+  ],
+  "evidence": "واختلف الناس في قوله تعالى: ذات العماد فمن قال إرم مدينة، قال العماد أعمدة الحجارة التي بنيت بها",
+  "note": "Reports the dispute without choosing."
+ },
+ {
+  "n": 35,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "V2"
+  ],
+  "evidence": "واختلف في قوله تعالى: ذات العماد فمن قال: إرم مدينة قال: العماد أعمدة الحجارة التي بنيت بها",
+  "note": "Reports the dispute without choosing."
+ },
+ {
+  "n": 35,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "evidence": "فقال ابن عباس: هي كناية عن طول أبدانهم",
+  "note": "Lists attributed views; yatarajjah concerns Iram as a city, not the phrase."
+ },
+ {
+  "n": 35,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "evidence": "أي ذات القدود الطوال على تشبيه قاماتهم بالأعمدة",
+  "note": "Three alternatives joined by aw, no choice."
+ },
+ {
+  "n": 35,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1",
+   "V3"
+  ],
+  "evidence": "فالمعنى أنهم كانوا بدويين أهل عمد أو طوال الأجسام على تشبيه قدودهم بالأعمدة",
+  "note": "Alternatives by reading of Iram, no choice."
+ },
+ {
+  "n": 36,
+  "who": "tabari",
+  "type": "combines",
+  "holds": [
+   "V2",
+   "V3"
+  ],
+  "evidence": "وأولى هذه الأقوال عندي بالصواب، قول من قال: عني بذلك: الأوتاد التي توتد",
+  "note": "Prefers literal pegs over V1/V5 but leaves open torture (V2) or play (V3); no single view."
+ },
+ {
+  "n": 36,
+  "who": "razi",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "V3"
+  ],
+  "evidence": "واعلم أن الكلام محتمل لكل ذلك",
+  "note": "Lists four views and says the phrase bears all of them."
+ },
+ {
+  "n": 36,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "أي الجنود والعساكر والجموع والجيوش التي تشد ملكه، قاله ابن عباس. وقيل: كان يعذب الناس بالأوتاد",
+  "note": "Attributed gloss then qila, no choice."
+ },
+ {
+  "n": 36,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "لكثرة جنوده ومضاربهم التي كانوا يضربونها إذا نزلوا، أو لتعذيبه بالأوتاد",
+  "note": "Two alternatives joined by aw."
+ },
+ {
+  "n": 36,
+  "who": "ibnJuzayy",
+  "type": "silent",
+  "holds": [],
+  "evidence": "",
+  "note": "No passage on the phrase; he refers to Surat Sad."
+ },
+ {
+  "n": 36,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "V2"
+  ],
+  "evidence": "وقيل معناه ذي الملك كما قيل في ظل ملك راسخ الأوتاد. وقيل سمي بذلك لأنه كان يعذب الناس بالأوتاد",
+  "note": "First gloss then qila views, no word of choice."
+ },
+ {
+  "n": 36,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "N2",
+   "N1"
+  ],
+  "evidence": "لأن مملكته كانت تحتوي على الأهرام",
+  "note": "Own gloss (pyramids) then allows firm power with yajuz; no word of choice."
+ },
+ {
+  "n": 36,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V5",
+   "V1",
+   "V3",
+   "V2"
+  ],
+  "evidence": "واختلف الناس في أوتاده فقيل أبنيته العالية العظيمة، قاله محمد بن كعب، وقيل جنوده",
+  "note": "Reports the dispute without choosing."
+ },
+ {
+  "n": 36,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V5",
+   "V1",
+   "V2"
+  ],
+  "evidence": "واختلف في أوتاده فقيل: أبنيته العالية، وقيل جنوده الذين بهم يثبت ملكه",
+  "note": "Reports the dispute without choosing."
+ },
+ {
+  "n": 36,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V3",
+   "V2",
+   "V5",
+   "V1"
+  ],
+  "evidence": "فاستعير لثبات العز والملك واستقامة الأمر",
+  "note": "Sad passage: quotes Zamakhshari (qalahu al-Zamakhshari) then lists others, no own choice."
+ },
+ {
+  "n": 36,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "وصف بذلك لكثرة جنوده وخيامهم التي يضربونها في منازلهم أو لتعذيبه بالأوتاد",
+  "note": "Two alternatives joined by aw."
+ },
+ {
+  "n": 36,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "أي ذي الجنود الكثيرة وكانت لهم مضارب كثيرة يضربونها إذا نزلوا وقيل كان له أوتاد يعذب الناس بها",
+  "note": "Gloss then qila, no choice."
+ },
+ {
+  "n": 37,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "لبالمرصاد يرصدهم بأعمالهم في الدنيا وفي الآخرة",
+  "note": "Own gloss before reporting the dispute (yara wa-yasma vs. lying in wait for wrongdoers), no word of choice."
+ },
+ {
+  "n": 37,
+  "who": "razi",
+  "type": "combines",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "وهذه الوجوه متقاربة",
+  "note": "Lists views and says they are close to one another."
+ },
+ {
+  "n": 37,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "أي يرصد عمل كل إنسان حتى يجازيه به، قاله الحسن وعكرمة. وقيل: أي على طريق العباد لا يفوته أحد",
+  "note": "Lists views; qawl hasan is not a ranking."
+ },
+ {
+  "n": 37,
+  "who": "baydawi",
+  "type": "single",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "وهو تمثيل لإرصاده العصاة بالعقاب",
+  "note": "One meaning in his own voice."
+ },
+ {
+  "n": 37,
+  "who": "ibnJuzayy",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "ورقيب على كل إنسان، وأنه لا يفوته أحد من الجبابرة والكفار",
+  "note": "States both watching everyone and not letting tyrants escape together."
+ },
+ {
+  "n": 37,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "قال ابن عباس يعني بحيث يرى ويسمع، وقيل عليه طريق العباد، لا يفوته أحد",
+  "note": "Reports several views without a word of choice."
+ },
+ {
+  "n": 37,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "فهو تمثيل لعموم علم الله تعالى بما يكون من أعمال العباد وحركاتهم",
+  "note": "Joins all-knowing watch with requital of every wrongdoer (bi-l-mirsad li-kull tagh)."
+ },
+ {
+  "n": 37,
+  "who": "ibnAtiyya",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "أي أنه عند لسان كل قائل، ومرصد لكل فاعل",
+  "note": "One meaning; other remarks concern grammar and a report."
+ },
+ {
+  "n": 37,
+  "who": "thaalibi",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "أي: أنه تعالى عند لسان كل قائل ومرصد لكل فاعل",
+  "note": "One meaning in his own voice."
+ },
+ {
+  "n": 37,
+  "who": "abuHayyan",
+  "type": "single",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "وهذا مثل لإرصاده العصاة بالعقاب وأنهم لا يفوتونه",
+  "note": "One meaning; the Ibn Atiyya point is grammatical."
+ },
+ {
+  "n": 37,
+  "who": "abuSaud",
+  "type": "single",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "وهذا تمثيل لإرصاده تعالى بالعصاة وأنهم لا يفوتونه",
+  "note": "One meaning in his own voice."
+ },
+ {
+  "n": 37,
+  "who": "nasafi",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وهذا مثل لإرصاده العباد وأنهم لا يفوتونه وأنه عالم بما يصدر منهم",
+  "note": "Watching all servants and their deeds, good or bad."
+ },
+ {
+  "n": 38,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وأولى القولين في ذلك بالصواب: القول الذي ذكرناه عن قتادة",
+  "note": "Explicit choice of Qatada's view."
+ },
+ {
+  "n": 38,
+  "who": "razi",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "لم أبتله بالغنى لكرامته علي، ولم أبتله بالفقر لهوانه علي",
+  "note": "Only V1, adopted and elaborated; V2 not mentioned."
+ },
+ {
+  "n": 38,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "فليس الغنى لفضله، ولا الفقر لهوانه",
+  "note": "Own gloss then reports al-Farra (V2) without choosing."
+ },
+ {
+  "n": 38,
+  "who": "baydawi",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "فيقول ربي أهانن لقصور نظره وسوء فكره",
+  "note": "One meaning: rebuke of reading wealth/poverty as honour/humiliation."
+ },
+ {
+  "n": 38,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "والجواب من وجهين: أحدهما: أن الإنسان يقول: ربي أكرمني على وجه الفخر بذلك والكبر",
+  "note": "Two answers on what was rebuked, no choice."
+ },
+ {
+  "n": 38,
+  "who": "khazin",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "فرد الله تعالى على من ظن أن سعة الرزق إكرام وأن الفقر إهانة فقال تعالى: كلا",
+  "note": "One meaning in his own voice."
+ },
+ {
+  "n": 38,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "فمناط الردع جعل الإنعام علامة على إرادة الله إكرام المنعم عليه",
+  "note": "One meaning, argued, no other view mentioned."
+ },
+ {
+  "n": 39,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وأولى القولين في ذلك بالصواب القول الذي ذكرناه عن ابن عباس والضحاك، أن ذلك إنما يقال لهم عند رد الأرواح في الأجساد يوم البعث",
+  "note": "Two views (at resurrection, at death); awla for return of souls to bodies at resurrection. [recoded on corrected window: packet window was from another sura]"
+ },
+ {
+  "n": 39,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "وفيه وجهان الأول: أنه إنما يوجد عند الموت",
+  "note": "Two times given (death, resurrection), no choice."
+ },
+ {
+  "n": 39,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "أي إلى صاحبك وجسدك، قاله ابن عباس وعكرمة وعطاء. واختاره الطبري",
+  "note": "Reports Tabari's choice without endorsing it; also at-death view."
+ },
+ {
+  "n": 39,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "ارجعي إلى ربك إلى أمره أو موعده بالموت",
+  "note": "Alternatives (death or resurrection), no choice."
+ },
+ {
+  "n": 39,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "هذا الخطاب والنداء يكون عند الموت، وقيل: عند البعث",
+  "note": "Explicit wa-l-awwal arjah for at death."
+ },
+ {
+  "n": 39,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1",
+   "N2"
+  ],
+  "evidence": "قيل يقال لها ذلك عند خروجها من الدنيا",
+  "note": "Reports several times with qila."
+ },
+ {
+  "n": 39,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "N2"
+  ],
+  "evidence": "فيجوز أن يقال يوم الجزاء",
+  "note": "Two permissible readings with yajuz, no word of choice."
+ },
+ {
+  "n": 39,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1",
+   "N2",
+   "N1"
+  ],
+  "evidence": "واختلف الناس في هذا النداء متى يقع فقال ابن زيد وغيره: هو عند خروج نفس المؤمن من جسده في الدنيا",
+  "note": "Reports four views without choosing."
+ },
+ {
+  "n": 39,
+  "who": "thaalibi",
+  "type": "combines",
+  "holds": [
+   "V2",
+   "V1",
+   "N2",
+   "N1"
+  ],
+  "evidence": "ولا مانع/ أن يكون النداء في جميع هذه المواطن",
+  "note": "Says the call can occur at all these times."
+ },
+ {
+  "n": 39,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1",
+   "N1",
+   "N2"
+  ],
+  "evidence": "قال ابن زيد: يقال لها ذلك عند الموت وخروجها من جسد المؤمن في الدنيا. وقيل: عند البعث",
+  "note": "Lists views; his zahir concerns the speaker, not the time."
+ },
+ {
+  "n": 39,
+  "who": "abuSaud",
+  "type": "prefers",
+  "holds": [
+   "N1"
+  ],
+  "evidence": "أو على لسان الملك عند تمام حساب الناس وهو الأظهر وقيل عند البعث وقيل عند الموت",
+  "note": "Explicit al-azhar for after the reckoning."
+ },
+ {
+  "n": 39,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1",
+   "N1"
+  ],
+  "evidence": "وإنما يقال لها عند الموت أو عند الموت أو عند البعث أو عند دخول الجنة",
+  "note": "Lists death, resurrection, entry to Paradise joined by aw; no choice."
+ },
+ {
+  "n": 40,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "N1"
+  ],
+  "evidence": "والصواب من القول في ذلك: ما قاله الذي قالوا: إن الله أقسم بكل والد وولده",
+  "note": "al-sawab for the general meaning, every parent and offspring."
+ },
+ {
+  "n": 40,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V3",
+   "V1",
+   "N1"
+  ],
+  "evidence": "وخامسها: يعني كل والد ومولود، وهذا مناسب",
+  "note": "Five numbered views; 'munasib' praises the fifth without ranking it above the others."
+ },
+ {
+  "n": 40,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V3",
+   "V1",
+   "N1",
+   "N3"
+  ],
+  "evidence": "وقيل: هو عموم في كل والد وكل مولود، قاله عطية العوفي. وروي معناه عن ابن عباس أيضا. وهو اختبار الطبري",
+  "note": "Reports Adam, Ibrahim, barren, general (Tabari's choice), Prophet; calls V1 far but does not choose among the rest."
+ },
+ {
+  "n": 40,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V3"
+  ],
+  "evidence": "والوالد آدم أو إبراهيم عليهما الصلاة والسلام. وما ولد ذريته أو محمد",
+  "note": "Gives Adam or Ibrahim with aw; no choice."
+ },
+ {
+  "n": 40,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N2",
+   "V3",
+   "N3",
+   "N1"
+  ],
+  "evidence": "ووالد وما ولد فيه خمسة أقوال: أحدها: أنه أراد آدم وجميع ولده، الثاني نوح وولده",
+  "note": "Five views listed, no choice."
+ },
+ {
+  "n": 40,
+  "who": "khazin",
+  "type": "single",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "ووالد وما ولد يعني آدم وذريته أقسم الله تعالى بمكة لشرفها",
+  "note": "Only Adam and his offspring given, in his own voice."
+ },
+ {
+  "n": 40,
+  "who": "ibnAshur",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "evidence": "والذي يناسب القسم بهذا البلد أن يكون المراد ب والد إبراهيم عليه السلام",
+  "note": "Uses al-rajih and argues from context that the father is Ibrahim and his followers incl. Muhammad."
+ },
+ {
+  "n": 40,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N2",
+   "V3",
+   "N1",
+   "V1"
+  ],
+  "evidence": "فقال مجاهد: هو آدم وجميع ولده، وقال بعض رواة التفسير: هو نوح وجميع ولده",
+  "note": "Reports Adam, Nuh, Ibrahim, general, barren; no choice."
+ },
+ {
+  "n": 40,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N1"
+  ],
+  "evidence": "قال مجاهد: هو آدم وجميع ولده \"2\" ، وقال ابن عباس: ما معناه أن الوالد والولد هنا على العموم",
+  "note": "Reports Mujahid and Ibn Abbas; no choice."
+ },
+ {
+  "n": 40,
+  "who": "abuHayyan",
+  "type": "prefers",
+  "holds": [
+   "N1"
+  ],
+  "evidence": "والظاهر أن قوله: ووالد وما ولد، لا يراد به معين، بل ينطلق على كل والد",
+  "note": "al-zahir for the general meaning, then reports the others."
+ },
+ {
+  "n": 40,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "V2",
+   "N1"
+  ],
+  "evidence": "وقيل آدم عليه السلام ونسله وهو أنسب لمضمون الجواب من حيث شموله للكل إلا أن التفخيم",
+  "note": "Own gloss Ibrahim, then calls Adam view 'ansab' with a counter-objection; no clear choice."
+ },
+ {
+  "n": 40,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N1",
+   "V3"
+  ],
+  "evidence": "هما آدم وولده أو كل والد وولده أو إبراهيم وولده",
+  "note": "Three views joined by aw; no choice."
+ },
+ {
+  "n": 41,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وأولى الأقوال في ذلك بالصواب: قول من قال: معنى ذلك أنه خلق يكابد الأمور ويعالجها",
+  "note": "awla bi-l-sawab for hardship."
+ },
+ {
+  "n": 41,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "واعلم أن اللائق بالآية هو الوجه الأول",
+  "note": "Gives hardship, uprightness, strength; declares the first the fitting one."
+ },
+ {
+  "n": 41,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3"
+  ],
+  "evidence": "في كبد أي في شدة وعناء من مكابدة الدنيا",
+  "note": "Own gloss hardship, then reports uprightness without a word of choice."
+ },
+ {
+  "n": 41,
+  "who": "baydawi",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "لقد خلقنا الإنسان في كبد تعب ومشقة من كبد الرجل كبدا إذا وجعت كبده",
+  "note": "Only toil and hardship given."
+ },
+ {
+  "n": 41,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "ومعنى في كبد على هذا في السماء وهذا ضعيف والأول هو الصحيح",
+  "note": "Uprightness and 'in the sky' called weak; first is al-sahih."
+ },
+ {
+  "n": 41,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "N1"
+  ],
+  "evidence": "الكبد الاستواء، والاستقامة، فعلى هذا يكون المعنى، خلقنا الإنسان منتصبا معتدل القامة",
+  "note": "Reports hardship, uprightness, strength; no choice."
+ },
+ {
+  "n": 41,
+  "who": "ibnAshur",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "فالذي يلتئم مع السياق ويناسب القسم أن الكبد التعب الذي يلازم أصحاب الشرك",
+  "note": "Argues for toil/hardship (of polytheists) against other mufassirs' treatments."
+ },
+ {
+  "n": 42,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "والصواب من القول في ذلك أن يقال: أقسم جل ثناؤه بالشمس ونهارها، لأن ضوء الشمس الظاهرة هو النهار",
+  "note": "al-sawab: the daytime."
+ },
+ {
+  "n": 42,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1",
+   "N1"
+  ],
+  "evidence": "ذكر المفسرون في ضحاها ثلاثة أقوال قال مجاهد والكلبي: ضوؤها، وقال قتادة: هو النهار كله",
+  "note": "Three views; heat called weakest but no choice between light and daytime."
+ },
+ {
+  "n": 42,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N1",
+   "N3",
+   "V1"
+  ],
+  "evidence": "قال مجاهد: وضحاها أي ضوئها وإشراقها",
+  "note": "Reports light, heat, created things, daytime; no choice in meaning."
+ },
+ {
+  "n": 42,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N2"
+  ],
+  "evidence": "والشمس وضحاها وضوئها إذا أشرقت، وقيل الضحوة ارتفاع النهار",
+  "note": "Own gloss light, then qila on the time of morning; no word of choice."
+ },
+ {
+  "n": 42,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "N2"
+  ],
+  "evidence": "الضحى ارتفاع الضوء وكماله، والضحاء بالفتح والمد بعد ذلك إلى الزوال وقيل: الضحى النهار كله، والأول هو المعروف في اللغة",
+  "note": "Ranks the rise and fullness of light over 'whole day' as the known usage."
+ },
+ {
+  "n": 42,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N2",
+   "V1",
+   "N1"
+  ],
+  "evidence": "والشمس وضحاها أي إذا بدا ضوءها والضحى حين ترتفع الشمس، ويصفو ضوءها، وقيل الضحى النهار كله",
+  "note": "Own gloss then qila for daytime and heat (heat weakest); no choice."
+ },
+ {
+  "n": 42,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "N2"
+  ],
+  "evidence": "والضحى: وقت ارتفاع الشمس عن أفق مشرقها، وظهور شعاعها",
+  "note": "Only the time of the sun's rise given."
+ },
+ {
+  "n": 43,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1",
+   "V3"
+  ],
+  "evidence": "ومعنى قوله: {طحاها} [الشمس: 6] بسطها يمينا وشمالا، ومن كل جانب. [ص:439] وقد اختلف أهل التأويل",
+  "note": "Own gloss spreading, then reports three views without a word of choice."
+ },
+ {
+  "n": 43,
+  "who": "razi",
+  "type": "single",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "الطحو كالدحو وهو البسط، وإبدال الطاء من الدال جائز، والمعنى وسعها",
+  "note": "Only spreading given."
+ },
+ {
+  "n": 43,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V3",
+   "N1",
+   "V1"
+  ],
+  "evidence": "أي بسطها، كذا قال عامة المفسرين، مثل دحاها",
+  "note": "Spreading attributed to most, then dividing, creating, what comes out; no choice."
+ },
+ {
+  "n": 43,
+  "who": "baydawi",
+  "type": "silent",
+  "holds": [],
+  "evidence": "",
+  "note": "No passage on this phrase."
+ },
+ {
+  "n": 43,
+  "who": "ibnJuzayy",
+  "type": "single",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "طحاها أي مدها",
+  "note": "Only stretching given."
+ },
+ {
+  "n": 43,
+  "who": "khazin",
+  "type": "single",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "والأرض وما طحاها أي بسطها وسطحها على الماء",
+  "note": "Only spreading given."
+ },
+ {
+  "n": 43,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "وطحو الأرض: بسطها وتوطئتها للسير والجلوس والاضطجاع",
+  "note": "Only spreading given."
+ },
+ {
+  "n": 44,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "وقال آخرون: بل معنى ذلك: ولم يخف الذي عقرها عقباها: أي عقبى فعلته التي فعل",
+  "note": "Reports God-not-fearing and the slayer-not-fearing; his only sawab concerns the fa/wa reading, not the meaning. [recoded on corrected window: packet window was from another sura]"
+ },
+ {
+  "n": 44,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "V2"
+  ],
+  "evidence": "ففيه وجوه أولها: أنه كناية عن الرب تعالى إذ هو أقرب المذكورات",
+  "note": "Three referents (God, Salih, the hamstringer) listed; no choice."
+ },
+ {
+  "n": 44,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "evidence": "أي فعل الله ذلك بهم غير خائف أن تلحقه تبعة الدمدمة من أحد",
+  "note": "Own gloss God, then reports hamstringer and Salih; 'al-ajwad' concerns the reading with fa'."
+ },
+ {
+  "n": 44,
+  "who": "baydawi",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "ولا يخاف عقباها أي عاقبة الدمدمة أو عاقبة هلاك ثمود وتبعتها فيبقي بعض الإبقاء",
+  "note": "Only God not fearing consequence; the aw alternates the referent of the pronoun, not the subject."
+ },
+ {
+  "n": 44,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وقيل: إن ضمير الفاعل لصالح وهذا بعيد",
+  "note": "Subject is God; Salih and hamstringer views both called far-fetched."
+ },
+ {
+  "n": 44,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "evidence": "ولا يخاف عقباها أي لا يخاف الله تبعة من أحد في هلاكهم كذا قال ابن عباس: وقيل هو راجع إلى العاقر",
+  "note": "Own gloss God, then qila for hamstringer and Salih; no choice."
+ },
+ {
+  "n": 44,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "أخبر الله أنه الغالب الذي لا يقدر مغلوبه على أخذ الثأر منه",
+  "note": "Only God as subject given."
+ },
+ {
+  "n": 45,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وأولاها بالصواب عندي: قول من قال: عني به التصديق بالخلف من الله على نفقته",
+  "note": "awla bi-l-sawab for the replacement (khalaf)."
+ },
+ {
+  "n": 45,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N1",
+   "V1",
+   "V4",
+   "V3"
+  ],
+  "evidence": "وصدق بالحسنى فالحسنى فيها وجوه أحدها: أنها قول لا إله إلا الله",
+  "note": "Four numbered views; Qaffal's wide sense only quoted; no choice."
+ },
+ {
+  "n": 45,
+  "who": "qurtubi",
+  "type": "combines",
+  "holds": [
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "V1"
+  ],
+  "evidence": "وكله متقارب المعنى، إذ كله يرجع إلى الثواب الذي هو الجنة",
+  "note": "Lists views and states they are close and all return to reward."
+ },
+ {
+  "n": 45,
+  "who": "baydawi",
+  "type": "single",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "وصدق بالكلمة الحسنى وهي ما دلت على حق ككلمة التوحيد",
+  "note": "Only the word of tawhid given."
+ },
+ {
+  "n": 45,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "N3",
+   "V2",
+   "V3",
+   "V4",
+   "V1"
+  ],
+  "evidence": "أي بالخصلة الحسنة وهي الإسلام، ولذلك عبر عنها بعضهم بأنها لا إله إلا الله، أو بالمثوبة الحسنى وهي الجنة",
+  "note": "Islam/tawhid or Paradise with aw, then qila reward and khalaf; no choice."
+ },
+ {
+  "n": 45,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1",
+   "V3",
+   "V4"
+  ],
+  "evidence": "قال ابن عباس صدق بقول لا إله إلا الله وعنه صدق بالخلف به",
+  "note": "Reports tawhid, khalaf, Paradise, promise; no choice."
+ },
+ {
+  "n": 45,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V3",
+   "V2",
+   "N1",
+   "V4",
+   "N2"
+  ],
+  "evidence": "وحاصل الاحتمالات يحوم حول التصديق بوعد الله بما هو حسن من مثوبة أو نصر أو إخلاف ما تلف فيرجع هذا التصديق إلى الإيمان",
+  "note": "Lists possibilities and reduces them all to one sense; harmonising, not choosing."
+ },
+ {
+  "n": 45,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1",
+   "V3",
+   "V4"
+  ],
+  "evidence": "واختلف الناس في \"الحسنى\" ما هي في هذه السورة، فقال أبو عبد الرحمن السلمي وغيره: هي لا إله إلا الله",
+  "note": "Reports four views; no choice."
+ },
+ {
+  "n": 45,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1",
+   "V3",
+   "V4"
+  ],
+  "evidence": "وصدق بالحسنى قيل هي: لا إله إلا الله، وقيل: هي الخلف الذي وعد الله به، وقيل: هي الجنة",
+  "note": "Four qila views; no choice."
+ },
+ {
+  "n": 45,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "V4",
+   "V2"
+  ],
+  "evidence": "فقال ابن عباس وعكرمة وجماعة: هي الحلف في الدنيا الوارد به وعد الله تعالى. وقال مجاهد والحسن وجماعة: الجنة",
+  "note": "Reports four views; no choice."
+ },
+ {
+  "n": 45,
+  "who": "abuSaud",
+  "type": "combines",
+  "holds": [
+   "N2",
+   "V2",
+   "N3",
+   "V3"
+  ],
+  "evidence": "وهي الإيمان أو بالكلمة الحسنى وهي كلمة التوحيد أو بالملة الحسنى وهي ملة الإسلام أو بالمثوبة الحسنى وهي الجنة",
+  "note": "Lists four with aw, then on kadhdhaba bi-l-husna calls them mutually entailing meanings (al-ma'ani al-mutalazima)."
+ },
+ {
+  "n": 45,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N3",
+   "V3",
+   "V2"
+  ],
+  "evidence": "ملة الحسنى وهي ملة الإسلام أو بالمثوبة الحسنى وهى الحنة أو بالكلمة وهي لا إله إلا الله",
+  "note": "Three alternatives joined by aw, no choice."
+ },
+ {
+  "n": 46,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وأولى القولين في ذلك بالصواب قول من قال: معناه: إذا تردى في جهنم، لأن ذلك هو المعروف من التردي",
+  "note": "Two views (fell into Hell, died); awla for falling into Hell, with a lexical argument. [recoded on corrected window: packet window was from another sura]"
+ },
+ {
+  "n": 46,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V1",
+   "V2"
+  ],
+  "evidence": "تردى في الحفرة إذا قبر، أو تردى في قعر جهنم",
+  "note": "Two wujuh (fall into grave/Hell; perish from al-rada) with no choice."
+ },
+ {
+  "n": 46,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "أي مات. يقال: ردي الرجل يردى ردى: إذا هلك",
+  "note": "Own gloss 'died' then reports Abu Salih 'fell into Hell' and uses both; no word of choice."
+ },
+ {
+  "n": 46,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N1",
+   "V1"
+  ],
+  "evidence": "إذا تردى هلك تفعل من الردى، أو تردى في حفرة القبر أو قعر جهنم",
+  "note": "Three alternatives with aw."
+ },
+ {
+  "n": 46,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N1",
+   "V1",
+   "N2"
+  ],
+  "evidence": "واختلف في معنى تردى على أربعة أقوال",
+  "note": "Lists four views without choice."
+ },
+ {
+  "n": 46,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "إذا تردى أي إذا مات، وقيل هوى في جهنم",
+  "note": "Own gloss then qila; no word of choice."
+ },
+ {
+  "n": 46,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "والتردي: السقوط من علو إلى سفل",
+  "note": "Only falling into Hell, in his own voice."
+ },
+ {
+  "n": 47,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "evidence": "وأولى هذه الأقوال بالصواب عندي في ذلك قول من قال معناه: والليل إذا سكن بأهله، وثبت بظلامه",
+  "note": "Awla bi-l-sawab for 'became still'."
+ },
+ {
+  "n": 47,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "N2",
+   "N1"
+  ],
+  "evidence": "ثلاثة أوجه متقاربة: سكن وأظلم وغطى",
+  "note": "Three close meanings, no choice."
+ },
+ {
+  "n": 47,
+  "who": "qurtubi",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "evidence": "والقول الأول أشهر في اللغة: سجى سكن",
+  "note": "Lists views, then ranks 'became still' above them as better attested in the language."
+ },
+ {
+  "n": 47,
+  "who": "baydawi",
+  "type": "single",
+  "holds": [
+   "V3"
+  ],
+  "evidence": "سكن أهله أو ركد ظلامه",
+  "note": "Both glosses fall under V3 (stillness of people or of darkness)."
+ },
+ {
+  "n": 47,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "evidence": "وهذا أقرب في الاشتقاق وهو اختيار ابن عطية",
+  "note": "Aqrab for 'became still' after four views."
+ },
+ {
+  "n": 47,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "V3"
+  ],
+  "evidence": "قال ابن عباس أقبل بظلامه وعنه إذا ذهب وقيل معناه غطى كل شيء بظلامه",
+  "note": "Reports four views, no choice."
+ },
+ {
+  "n": 47,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "N3"
+  ],
+  "evidence": "إذا امتد وطال مدة ظلامه",
+  "note": "Only 'lengthened, its darkness extended'."
+ },
+ {
+  "n": 48,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "N3"
+  ],
+  "evidence": "وأولى الأقوال في ذلك بالصواب، قول من قال: إن الله تعالى ذكره، أمر نبيه أن يجعل فراغه من كل ما كان به مشتغلا، من أمر دنياه وآخرته",
+  "note": "Awla for the general reading (finishing any occupation, worldly or religious), which is listed view N3; by the rule exception this is a vote for N3. [recoded on corrected window; type corrected by the second coder on spot-check from combines]"
+ },
+ {
+  "n": 48,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "N3"
+  ],
+  "evidence": "وبالجملة فالمعنى أن يواصل بين بعض العبادات وبعض، وأن لا يخلي وقتا من أوقاته منها",
+  "note": "After listing specific views he concludes with the general view N3."
+ },
+ {
+  "n": 48,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "V2",
+   "V3"
+  ],
+  "evidence": "قال ابن عباس وقتادة: فإذا فرغت من صلاتك فانصب أي بالغ في الدعاء",
+  "note": "Reports many views; Ibn al-Arabi's rejection concerns readings only."
+ },
+ {
+  "n": 48,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N2",
+   "V2",
+   "V1"
+  ],
+  "evidence": "فإذا فرغت من التبيلغ. فانصب فاتعب في العبادة",
+  "note": "Own gloss then qila others; no word of choice."
+ },
+ {
+  "n": 48,
+  "who": "ibnJuzayy",
+  "type": "single",
+  "holds": [
+   "N3"
+  ],
+  "evidence": "والمعنى إذا فرغت من أمر فاجتهد في آخر ثم اختلف في تعيين الأمرين",
+  "note": "States the general meaning (N3) as the sense; the others are presented as specifications of it."
+ },
+ {
+  "n": 48,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "N3",
+   "V1",
+   "N1",
+   "V2",
+   "N2"
+  ],
+  "evidence": "وأن لا يخلي وقتا من أوقاته منها، فإذا فرغ من عبادة أتبعها بأخرى",
+  "note": "Own general gloss then reports specific views; no word of choice."
+ },
+ {
+  "n": 48,
+  "who": "ibnAshur",
+  "type": "prefers",
+  "holds": [
+   "N3"
+  ],
+  "evidence": "وإنما هو اختلاف في الأمثلة فحذف المتعلق هنا لقصد العموم",
+  "note": "Argues the general meaning (N3) against restricting to one object."
+ },
+ {
+  "n": 48,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "N3",
+   "N1",
+   "V3",
+   "V1",
+   "V2"
+  ],
+  "evidence": "ثم أمر تعالى نبيه إذا فرغ من شغل من أشغال النبوة والعبادة أن ينصب في آخر",
+  "note": "Own gloss then reports views; only objects to al-Hasan's; no explicit choice."
+ },
+ {
+  "n": 48,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N3",
+   "N1",
+   "V1"
+  ],
+  "evidence": "ثم أمر تعالى نبيه إذا فرغ من شغل من أشغال النبوة والعبادة أن ينصب في آخره",
+  "note": "Own gloss followed by reported views, no word of choice."
+ },
+ {
+  "n": 48,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "N3",
+   "N1",
+   "V3",
+   "V1",
+   "V2"
+  ],
+  "evidence": "أمره بأن يدأب في العبادة إذا فرغ من مثلها ولا يفتر",
+  "note": "Own gloss then reports views; objection to al-Hasan only; no choice."
+ },
+ {
+  "n": 48,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "N2",
+   "V2",
+   "V1",
+   "V3"
+  ],
+  "evidence": "أي من التبليغ وقيل من الغزو",
+  "note": "Own gloss then three qila; no word of choice."
+ },
+ {
+  "n": 48,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N2",
+   "V1",
+   "N3"
+  ],
+  "evidence": "أي فإذا فرغت من دعوة الخلق فاجتهد في عبادة الرب وعن ابن عباس",
+  "note": "Own gloss plus Ibn Abbas and general continuation; no choice."
+ },
+ {
+  "n": 49,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "والصواب من القول في ذلك عندنا: قول من قال: التين: هو التين الذي يؤكل، والزيتون: هو الزيتون الذي يعصر منه الزيت",
+  "note": "Lists the fruits, Damascus/Jerusalem, Noah's mosque; al-sawab for the edible fig and olive. [recoded on corrected window: packet window was from another sura]"
+ },
+ {
+  "n": 49,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "فلأجل هذا السؤال حصل فيه قولان: الأول: أن المراد من التين والزيتون هذان الشيئان المشهوران",
+  "note": "Announces two views; no choice in the window."
+ },
+ {
+  "n": 49,
+  "who": "qurtubi",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وأصح هذه الأقوال الأول، لأنه الحقيقة",
+  "note": "Asahh for the known fruits."
+ },
+ {
+  "n": 49,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "وقيل المراد بهما جبلان من الأرض المقدسة أو مسجدا دمشق وبيت المقدس، أو البلدان",
+  "note": "Own gloss (fruits) then qila; no word of choice."
+ },
+ {
+  "n": 49,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "والأظهر أنهما الموضعان من الشام",
+  "note": "Al-azhar for the two places in Syria."
+ },
+ {
+  "n": 49,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N2",
+   "V3"
+  ],
+  "evidence": "وقيل هما جبلان فالتين الجبل الذي عليه دمشق",
+  "note": "Ibn Abbas fruits then several qila; no choice."
+ },
+ {
+  "n": 49,
+  "who": "ibnAshur",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "evidence": "ولكن مناسبة ذكر هذين مع طور سينين ومع البلد الأمين تقتضي أن يكون لهما محمل أوفق بالمناسبة",
+  "note": "Argues against the literal fruits in favour of Nuh's mosque / al-Aqsa mount, which he develops (also allows N4)."
+ },
+ {
+  "n": 50,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وأولى الأقوال في ذلك بالصواب: قول من قال: طور سينين: جبل معروف",
+  "note": "Lists Moses' mount, any vegetated mountain, sinin as an epithet; awla for a known mountain, rejects the epithet reading. [recoded on corrected window: packet window was from another sura]"
+ },
+ {
+  "n": 50,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "V2"
+  ],
+  "evidence": "والأولى عند النحويين أن يكون سينين وسينا اسمين للمكان",
+  "note": "Awla is attributed to grammarians and al-Wahidi, not endorsed in his own voice."
+ },
+ {
+  "n": 50,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V1",
+   "V2"
+  ],
+  "evidence": "وقال مقاتل والكلبي: سينين كل جبل فيه شجر مثمر",
+  "note": "Reports views, no choice."
+ },
+ {
+  "n": 50,
+  "who": "baydawi",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "يعني الجبل الذي ناجى عليه موسى عليه الصلاة والسلام ربه وسينين وسيناء اسمان للموضع",
+  "note": "One meaning only."
+ },
+ {
+  "n": 50,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V2"
+  ],
+  "evidence": "ومعنى سينين مبارك فهو من إضافة الموصوف إلى الصفة، وقيل: معناه ذو الشجر",
+  "note": "Own gloss then qila; no word of choice."
+ },
+ {
+  "n": 50,
+  "who": "khazin",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وسينين اسم للمكان الذي فيه الجبل سمي سينين وسيناء لحسنه ولكونه مباركا",
+  "note": "Holds sinin as place-name; the other senses appear only as reason for the name."
+ },
+ {
+  "n": 50,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "evidence": "وقيل: سينين اسم الأشجار بالنبطية أو بالحبشية، وقيل: معناه الحسن",
+  "note": "Own gloss then qila; no word of choice."
+ },
+ {
+  "n": 51,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وأولى الأقوال في ذلك بالصواب: أن يقال: إن معنى ذلك: {لقد خلقنا الإنسان في أحسن} [التين: 4] صورة وأعدلها",
+  "note": "Lists best form, youthful vigour, upright stature; awla for the best and most balanced form. [recoded on corrected window: packet window was from another sura]"
+ },
+ {
+  "n": 51,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "N1",
+   "V1"
+  ],
+  "evidence": "والحاصل أن القول الأول راجع إلى الصورة الظاهرة، والثاني إلى/ السيرة الباطنة",
+  "note": "Lists outward and inward views without choosing."
+ },
+ {
+  "n": 51,
+  "who": "qurtubi",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "evidence": "فهذا يدلك على أن الإنسان أحسن خلق الله باطنا وظاهرا",
+  "note": "Concludes the phrase covers outward and inward excellence."
+ },
+ {
+  "n": 51,
+  "who": "baydawi",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V3"
+  ],
+  "evidence": "تعديل بأن خص بانتصاب القامة وحسن الصورة واستجماع خواص الكائنات",
+  "note": "One gloss that joins upright stature, fair form and faculties."
+ },
+ {
+  "n": 51,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "evidence": "فيه قولان: أحدهما أن أحسن التقويم هو",
+  "note": "Two views (form/intellect/youth vs fitra), no choice."
+ },
+ {
+  "n": 51,
+  "who": "khazin",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V3",
+   "N1"
+  ],
+  "evidence": "يعني في أعدل قامة، وأحسن صورة",
+  "note": "Single gloss joining form, stature and intellect."
+ },
+ {
+  "n": 51,
+  "who": "ibnAshur",
+  "type": "prefers",
+  "holds": [
+   "N1"
+  ],
+  "evidence": "فالمرضي عند الله هو تقويم إدراك الإنسان ونظره العقلي الصحيح",
+  "note": "Argues explicitly for intellect/fitra against outward form and youth."
+ },
+ {
+  "n": 51,
+  "who": "ibnAtiyya",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V3",
+   "N1"
+  ],
+  "evidence": "والصواب أن جميع هذا هو حسن التقويم إلا قول عكرمة",
+  "note": "Al-sawab: all views together except youth (V2)."
+ },
+ {
+  "n": 51,
+  "who": "thaalibi",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V3",
+   "N1"
+  ],
+  "evidence": "وحسن التقويم يشمل جميع محاسن الإنسان الظاهرة والباطنة",
+  "note": "States the phrase covers form, stature and intellect."
+ },
+ {
+  "n": 51,
+  "who": "abuHayyan",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "evidence": "وقال عكرمة: شبابه وقوته، والأولى العموم في كل ما هو أحسن",
+  "note": "Lists four views then says the general meaning covering all is best; no listed view means 'all'."
+ },
+ {
+  "n": 51,
+  "who": "abuSaud",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V3",
+   "N1"
+  ],
+  "evidence": "أحسن ما يكون من التقويم والتعديل صورة ومعنى حيث برأه الله تعالى مستوي القامة",
+  "note": "Own gloss merges form, upright stature and inner faculties (form and meaning) into one."
+ },
+ {
+  "n": 51,
+  "who": "nasafi",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "في أحسن تعديل لشكله وصورته وتسوية اعضائه",
+  "note": "One gloss in his own voice: best proportion of shape and form; no other view."
+ },
+ {
+  "n": 52,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وأولى الأقوال في ذلك عندي بالصحة، وأشبهها بتأويل الآية، قول من قال: معناه: ثم رددناه إلى أرذل العمر",
+  "note": "Explicit awla for decrepit old age, with argument."
+ },
+ {
+  "n": 52,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "ففيه وجهان: الأول: قال ابن عباس: يريد أرذل العمر",
+  "note": "Two views (old age, the Fire) reported without choice."
+ },
+ {
+  "n": 52,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N2",
+   "N1"
+  ],
+  "evidence": "أي إلى أرذل العمر، وهو الهرم بعد الشباب",
+  "note": "Old age first, then the Fire, filth, and misguidance reported; no choice word."
+ },
+ {
+  "n": 52,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "بأن جعلناه من أهل النار أو إلى أسفل سافلين وهو النار. وقيل هو أرذل العمر",
+  "note": "Own gloss (the Fire) then qila old age; no word of choice."
+ },
+ {
+  "n": 52,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "V2"
+  ],
+  "evidence": "وأسفل سافلين الكفر أو تشويه الصورة في النار",
+  "note": "Two qawls (old age; disbelief or the Fire) without choosing."
+ },
+ {
+  "n": 52,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "يعني إلى الهرم وأرذل العمر فيضعف بدنه وينقص عقله",
+  "note": "Own gloss old age, then qila the Fire; no choice word."
+ },
+ {
+  "n": 52,
+  "who": "ibnAshur",
+  "type": "prefers",
+  "holds": [
+   "N1"
+  ],
+  "evidence": "فالمراد: أسفل سافلين في الاعتقاد بخالقه بقرينة قوله: إلا الذين آمنوا",
+  "note": "Argues for lowness of belief by contextual evidence; place of punishment only allowed as yajuz."
+ },
+ {
+  "n": 52,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "والاستثناء على هذا منقطع، وهذا قول حسن",
+  "note": "Calls old age 'hasan' (not a ranking) and reports the Fire view."
+ },
+ {
+  "n": 52,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "وقيل متصل بناء على أن معناه في النار على كفره",
+  "note": "Reports old age (Qatada, Thalabi) and the Fire view; no choice."
+ },
+ {
+  "n": 52,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "وقال الحسن ومجاهد وأبو العالية وابن زيد وقتادة أيضا: أسفل سافلين في النار على كفره",
+  "note": "Attributes old age and the Fire to authorities; quotes Zamakhshari with both."
+ },
+ {
+  "n": 52,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "أي جعلناه من أهل النار الذين هم أقبح من كل قبيح",
+  "note": "Own gloss the Fire then qila old age; 'al-awwal azhar' concerns i'rab only."
+ },
+ {
+  "n": 52,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "أو ثم رددناه بعد ذلك التقويم والتحسين أسفل من سفل في حسن الصورة والشكل",
+  "note": "Gives the Fire and decrepitude as alternatives with aw; no choice."
+ },
+ {
+  "n": 53,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وأولى الأقوال في ذلك عندي بالصواب قول من قال: معنى ما معنى من. ووجه تأويل الكلام إلى: فمن يكذبك يا محمد",
+  "note": "Lists three views; awla for ma meaning man, addressed to the Prophet. [recoded on corrected window: packet window was from another sura]"
+ },
+ {
+  "n": 53,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "والثاني: وهو اختيار الفراء إنه خطاب مع محمد صلى الله عليه وسلم",
+  "note": "Two answers; only reports al-Farra's choice."
+ },
+ {
+  "n": 53,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V3",
+   "V1"
+  ],
+  "evidence": "وقال قتادة أيضا والفراء: المعنى فمن يكذبك أيها الرسول بعد هذا البيان بالدين. واختاره الطبري",
+  "note": "All three introduced with qila/attribution; quotes Tabari's choice without endorsing."
+ },
+ {
+  "n": 53,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V1",
+   "V2"
+  ],
+  "evidence": "فأي شيء يكذبك يا محمد دلالة أو نطقا",
+  "note": "Own gloss (Prophet, interrogative) then qila ma=man and qila the human; no choice."
+ },
+ {
+  "n": 53,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V2"
+  ],
+  "evidence": "فيه قولان: أحدهما: أنه خطاب للنبي صلى الله عليه وسلم",
+  "note": "Two qawls without choice."
+ },
+ {
+  "n": 53,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "وقيل هو خطاب للنبي صلى الله عليه وسلم والمعنى فمن يكذبك أيها الرسول",
+  "note": "Own gloss (the human) then qila the Prophet; no choice."
+ },
+ {
+  "n": 53,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "و (ما) يجوز أن تكون استفهامية، والاستفهام توبيخي، والخطاب للإنسان",
+  "note": "Both readings given as yajuz; no ranking."
+ },
+ {
+  "n": 53,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V2"
+  ],
+  "evidence": "وقال جمهور من المتأولين: المخاطب الإنسان الكافر",
+  "note": "Reports Qatada's view and the majority's; does not adopt either."
+ },
+ {
+  "n": 53,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "وقال قتادة: المعنى: فمن يكذبك يا محمد",
+  "note": "Own gloss (the human) then Qatada's view; no choice word."
+ },
+ {
+  "n": 53,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N1"
+  ],
+  "evidence": "والخطاب في فما يكذبك للإنسان الكافر، قاله الجمهور",
+  "note": "Attributes to the majority and reports Qatada; no adoption."
+ },
+ {
+  "n": 53,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V1",
+   "V2"
+  ],
+  "evidence": "للرسول صلى الله عليه وسلم أي فأي شيء يكذبك دلالة أو نطقا",
+  "note": "Own gloss then two qila views; no choice."
+ },
+ {
+  "n": 53,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "أو لرسول الله صلى الله عليه وسلم فمن ينسبك إلى الكذب بعد هذا الدليل فما بمعنى من",
+  "note": "Two alternatives joined with aw; no choice."
+ },
+ {
+  "n": 54,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "والصواب من القول في ذلك: القول الأول الذي ذكرناه قبل، على ما تأوله قتادة",
+  "note": "Explicit al-sawab for 'every matter decreed that year'."
+ },
+ {
+  "n": 54,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N3",
+   "V1",
+   "V2"
+  ],
+  "evidence": "وثانيها: وهو قول الأكثرين/ من أجل كل أمر قدر في تلك السنة من خير أو شر",
+  "note": "Three wujuh; majority attribution only, no choice word."
+ },
+ {
+  "n": 54,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N2",
+   "V2",
+   "N1"
+  ],
+  "evidence": "أمر بكل أمر قدره الله وقضاه في تلك السنة إلى قابل، قاله ابن عباس",
+  "note": "Own gloss (min = bi) then reading-based and sentence-break views reported; no choice."
+ },
+ {
+  "n": 54,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "من أجل كل أمر قدر في تلك السنة، وقرئ \"من كل امرئ\" أي من أجل كل إنسان",
+  "note": "Own gloss then the variant-reading meaning; no word of choice."
+ },
+ {
+  "n": 54,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "أن من بمعنى الباء أي ينزلون بكل أمر وهذا ضعيف",
+  "note": "Holds 'for every matter decreed', calls min=bi weak and says al-azhar is to stop at min kulli amr."
+ },
+ {
+  "n": 54,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "N2",
+   "V1"
+  ],
+  "evidence": "أي بكل أمر من الخير والبركة، وقيل بكل ما أمر به وقضاه من كل أمر",
+  "note": "Own gloss then qila; no choice."
+ },
+ {
+  "n": 54,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "N4",
+   "N2",
+   "V1"
+  ],
+  "evidence": "يجوز أن تكون بيانية تبين الإذن",
+  "note": "Gives bayaniyya, bi-meaning and causal min, all as yajuz."
+ },
+ {
+  "n": 55,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "وأولى الأقوال في ذلك بالصحة أن يقال: معنى ذلك: لم يكن الذين كفروا من أهل الكتاب والمشركين مفترقين في أمر محمد",
+  "note": "Explicit awla for 'not divided over Muhammad'."
+ },
+ {
+  "n": 55,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "N1"
+  ],
+  "evidence": "والجواب: عنه من وجوه أولها: وأحسنها الوجه الذي لخصه صاحب \"الكشاف\"",
+  "note": "Ranks the reported-saying view as best of the answers and faults the second."
+ },
+ {
+  "n": 55,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N2",
+   "N3",
+   "V2",
+   "N4"
+  ],
+  "evidence": "أي منتهين عن كفرهم، مائلين عنه",
+  "note": "Own gloss then many qila views; no choice."
+ },
+ {
+  "n": 55,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1"
+  ],
+  "evidence": "منفكين عما كانوا عليه من دينهم، أو الوعد باتباع الحق إذا جاءهم الرسول",
+  "note": "Two alternatives with aw; no choice."
+ },
+ {
+  "n": 55,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "N2"
+  ],
+  "evidence": "الرابع وهو الأظهر عندي أن المعنى لم يكونوا لينفصلوا من الدنيا",
+  "note": "Explicit al-azhar for 'not leaving the world before the proof'."
+ },
+ {
+  "n": 55,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1"
+  ],
+  "evidence": "أي منتهين عن كفرهم وشركهم وقيل معناه زائلين",
+  "note": "Own gloss then qila, then quotes al-Razi's 'ahsanuha' without endorsing it."
+ },
+ {
+  "n": 55,
+  "who": "ibnAshur",
+  "type": "prefers",
+  "holds": [
+   "N1"
+  ],
+  "evidence": "وحاصل المعنى: أنكم كنتم تقولون لا نترك ما نحن عليه من الدين حتى تأتينا البينة",
+  "note": "Argues for the reported-saying reading as the one that resolves the difficulty others missed."
+ },
+ {
+  "n": 56,
+  "who": "tabari",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2",
+   "V4",
+   "V5"
+  ],
+  "evidence": "ولم يضع الله دلالة على أن المراد من ذلك بعض دون بعض فكل ما أورت النار قدحا، فداخلة فيما أقسم به",
+  "note": "Says all kinds of fire-striking are included; no listed view means 'all'."
+ },
+ {
+  "n": 56,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "واعلم أن الوجه الأول أقرب لأن لفظ الإيراء حقيقة في إيراء النار",
+  "note": "Explicit aqrab for hooves striking fire."
+ },
+ {
+  "n": 56,
+  "who": "qurtubi",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "قلت: هذه الأقوال مجاز، ومنه قولهم: فلان يوري زناد الضلالة. والأول: الحقيقة",
+  "note": "Calls other views figurative and keeps the literal hoof view."
+ },
+ {
+  "n": 56,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N3"
+  ],
+  "evidence": "ويحتمل أن يكون القسم بالنفوس العادية أثر كمالهن الموريات بأفكارهن أنوار المعارف",
+  "note": "Own gloss (horses striking fire) then a second possibility; no choice."
+ },
+ {
+  "n": 56,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V6"
+  ],
+  "evidence": "وذلك عند ضرب الأرض لأرجل الخيل أو الإبل",
+  "note": "Leaves horses or camels open."
+ },
+ {
+  "n": 56,
+  "who": "khazin",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وهذا القول في تفسير هذه الآيات أولى بالصحة، وأشبه بالمعنى، لأن الضبح من صفة",
+  "note": "Explicit awla for the horses, citing hooves striking fire."
+ },
+ {
+  "n": 56,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V6",
+   "V3",
+   "V2",
+   "N4"
+  ],
+  "evidence": "وكل من سنابك الخيل ومناسم الإبل تقدح إذا صكت الحجر الصوان نارا",
+  "note": "Hooves or camel pads, then night fires, war and ladling broth, all as yajuz."
+ },
+ {
+  "n": 57,
+  "who": "tabari",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "ولم يخصص من ذلك مغيرة دون مغيرة، فكل مغيرة صبحا، فداخلة فيما أقسم به",
+  "note": "Includes every morning raider; no listed view means 'all'."
+ },
+ {
+  "n": 57,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "واعلم أن ألفاظ هذه الآيات تنادي أن المراد هو الخيل",
+  "note": "Argues the words point to horses, against the camels view."
+ },
+ {
+  "n": 57,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "الخيل تغير على العدو عند الصبح، عن ابن عباس وأكثر المفسرين",
+  "note": "Attributes horses to the majority and reports camels; no choice word."
+ },
+ {
+  "n": 57,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1"
+  ],
+  "evidence": "فالمغيرات يغير أهلها على العدو. صبحا أي في وقته",
+  "note": "Own gloss V1, then raises N1 as possibility (yahtamil); no word of choice."
+ },
+ {
+  "n": 57,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "اختلف في العاديات والموريات والمغيرات هل يراد بها الخيل أو الإبل",
+  "note": "Reports horses vs camels dispute without choosing."
+ },
+ {
+  "n": 57,
+  "who": "khazin",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وهذا القول في تفسير هذه الآيات أولى بالصحة، وأشبه بالمعنى، لأن الضبح من صفة",
+  "note": "Gives camel view then horse view and ranks horse view awla."
+ },
+ {
+  "n": 57,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "لأنها برشقاتها تتحمل أن يكون المقسم به خيل الغزو ورواحل الحج",
+  "note": "Says the wording deliberately bears both horses and pilgrim camels."
+ },
+ {
+  "n": 58,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V5"
+  ],
+  "evidence": "والصواب من القول في ذلك: أن يقال: إن الله أخبر أنه سائل هؤلاء القوم عن النعيم، ولم يخصص",
+  "note": "al-sawab: all kinds of na'im, the general view V5."
+ },
+ {
+  "n": 58,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V5"
+  ],
+  "evidence": "والتاسع: وهو الأولى أنه يجب حمله على جميع النعم",
+  "note": "Lists views then calls the all-blessings view al-awla with arguments."
+ },
+ {
+  "n": 58,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1"
+  ],
+  "evidence": "قلت: هذا القول حسن، لأن اللفظ يعم",
+  "note": "Lists many views; 'hasan' without ranking over the others."
+ },
+ {
+  "n": 58,
+  "who": "baydawi",
+  "type": "prefers",
+  "holds": [
+   "N5"
+  ],
+  "evidence": "عن النعيم الذي ألهاكم، والخطاب مخصوص بكل من ألهاه دنياه عن دينه والنعيم بما يشغله للقرينة",
+  "note": "Holds na'im that distracted them, argues by context; others with qila."
+ },
+ {
+  "n": 58,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V5"
+  ],
+  "evidence": "فقيل: النعيم الأمن والصحة، وقيل: الطعام والشراب، وهذه أمثلة، والصواب العموم في كل ما يتلذذ به",
+  "note": "al-sawab: generality, others called mere examples."
+ },
+ {
+  "n": 58,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V4",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N6"
+  ],
+  "evidence": "واختلفوا في النعيم الذي يسأل البعد عنه، فروي عن ابن مسعود رفعه قال لتسألن يومئذ عن النعيم قال الأمن، والصحة",
+  "note": "Lists views without choice; 'wa-huwa al-awla' concerns who is asked, not the meaning."
+ },
+ {
+  "n": 58,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "N5"
+  ],
+  "evidence": "أي عن النعيم الذي خولتموه في الدنيا فلم تشكروا الله عليه وكان به بطركم",
+  "note": "Only his own gloss: the enjoyment within their takathur that diverted them; excludes health; no other views given."
+ },
+ {
+  "n": 59,
+  "who": "tabari",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "N1",
+   "N4"
+  ],
+  "evidence": "والعصر اسم للدهر، وهو العشي والليل والنهار، ولم يخصص مما شمله هذا الاسم معنى دون معنى",
+  "note": "Says every sense of the name is included; no listed view means 'all'."
+ },
+ {
+  "n": 59,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "اعلم أنهم ذكروا في تفسير العصر أقوالا. الأول: أنه الدهر",
+  "note": "Window shows a list of views with the first argued; no word of choice visible."
+ },
+ {
+  "n": 59,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N4",
+   "N5",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "evidence": "والعصر أي الدهر، قاله ابن عباس وغيره",
+  "note": "Own gloss attributed to Ibn Abbas, then lists others with qila; no choice."
+ },
+ {
+  "n": 59,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N2",
+   "N3",
+   "V1"
+  ],
+  "evidence": "أقسم سبحانه بصلاة العصر لفضلها، أو بعصر النبوة أو بالدهر",
+  "note": "Three alternatives joined by aw; no choice."
+ },
+ {
+  "n": 59,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "N2",
+   "N1",
+   "V1"
+  ],
+  "evidence": "والعصر فيه ثلاثة أقوال: الأول أنه صلاة العصر",
+  "note": "Three views listed, none chosen."
+ },
+ {
+  "n": 59,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "evidence": "قال ابن عباس: هو الدهر قيل أقسم الله به لما فيه من العبر",
+  "note": "Lists views with qila; no choice."
+ },
+ {
+  "n": 59,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "N3",
+   "V1",
+   "N1"
+  ],
+  "evidence": "وهذه المعاني لا يفي باحتمالها غير لفظ العصر",
+  "note": "Says the word was chosen to bear all these senses."
+ },
+ {
+  "n": 59,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N4",
+   "N5",
+   "N2"
+  ],
+  "evidence": "قال ابن عباس: العصر: الدهر",
+  "note": "Reports several views by attribution; no choice."
+ },
+ {
+  "n": 59,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N2",
+   "N1"
+  ],
+  "evidence": "قال ابن عباس: العصر الدهر \"1\" ، وقال مقاتل: العصر هي صلاة العصر",
+  "note": "Reports three attributed views; no choice."
+ },
+ {
+  "n": 59,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N4",
+   "N5",
+   "N2"
+  ],
+  "evidence": "قال ابن عباس: هو الدهر",
+  "note": "Reports views by attribution; no choice."
+ },
+ {
+  "n": 59,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "N2",
+   "N1",
+   "N3",
+   "V1"
+  ],
+  "evidence": "أقسم سبحانه بصلاة العصر لفضلها الباهر أو بالعشي",
+  "note": "Alternatives joined by aw; no choice."
+ },
+ {
+  "n": 59,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N2",
+   "N1",
+   "V1"
+  ],
+  "evidence": "أو أقسم بالعشي كما أقسم بالضحى لما فيها من دلائل القدرة أو أقسم بالزمان",
+  "note": "Three alternatives with aw; no choice."
+ },
+ {
+  "n": 60,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "evidence": "وأولى الأقوال بالصواب في ذلك قول من قال: معناه: أنهم يعذبون بعمد في النار",
+  "note": "Lists shut with pillars, bound in pillars, pillars of torment; awla for being tormented with pillars in the Fire. [recoded on corrected window: packet window was from another sura]"
+ },
+ {
+  "n": 60,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "في تفسير الآية وجهان الأول: أنها عمد أغلقت بها تلك الأبواب",
+  "note": "Two views given, none chosen."
+ },
+ {
+  "n": 60,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "V2",
+   "N1"
+  ],
+  "evidence": "وقال قتادة: عمد يعذبون بها. واختاره الطبري",
+  "note": "Lists many views; quotes Tabari's choice without endorsing."
+ },
+ {
+  "n": 60,
+  "who": "baydawi",
+  "type": "single",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "في عمد ممددة أي موثقين في أعمدة ممدودة مثل المقاطر",
+  "note": "Only one meaning: bound in long pillars."
+ },
+ {
+  "n": 60,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "وفي المعنى قولان: أحدهما أن أبواب جهنم أغلقت عليهم",
+  "note": "Two views, no choice."
+ },
+ {
+  "n": 60,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "evidence": "وقال قتادة: بلغنا أنهم عمد يعذبون بها في النار، وقيل هي أوتاد الأطباق",
+  "note": "Lists attributed views; no choice."
+ },
+ {
+  "n": 60,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N2"
+  ],
+  "evidence": "إما من ضمير عليهم أي في حال كونهم في عمد، أي موثوقين في عمد",
+  "note": "Two options (bound in pillars / fire amid pillars like roasting); no choice."
+ },
+ {
+  "n": 60,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "وقال ابن زيد: المعنى في عمد حديد مغلولين بها والكل من نار",
+  "note": "Reports Ibn Mas'ud reading (bi-'amad) and Ibn Zayd; no choice."
+ },
+ {
+  "n": 60,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "وقال ابن زيد: المعنى: في عمد حديد مغلولين بها، والكل من نار",
+  "note": "Reports Ibn Mas'ud reading and Ibn Zayd; no choice."
+ },
+ {
+  "n": 60,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1",
+   "V3"
+  ],
+  "evidence": "قال ابن زيد: في عمد حديد مغلولين بها",
+  "note": "Reports views; al-zahir concerns afterlife vs grave, not the meaning of 'amad."
+ },
+ {
+  "n": 60,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "إما حال من الضمير المجرور في عليهم أي كائنين في عمد ممددة أي موثقين فيها",
+  "note": "Two options with imma/aw; no choice."
+ },
+ {
+  "n": 60,
+  "who": "nasafi",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "أى توصد عليهم الأبواب وتمدد على الأبواب العمد استيثاقا في استيثاق",
+  "note": "Only one meaning: doors shut and pillars stretched over them."
+ },
+ {
+  "n": 61,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "evidence": "وأولى الأقوال في ذلك عندي بالصواب بقوله: ساهون لاهون يتغافلون عنها",
+  "note": "Awla: heedless neglect, which he says subsumes the others."
+ },
+ {
+  "n": 61,
+  "who": "razi",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "N1"
+  ],
+  "evidence": "واعلم أن قوله: عن صلاتهم ساهون يفيد أمرين: إخراجها عن الوقت، وكون الإنسان غافلا فيها",
+  "note": "States the phrase conveys both meanings."
+ },
+ {
+  "n": 61,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "evidence": "وعنه أيضا: الذين يؤخرونها عن أوقاتها",
+  "note": "Lists many reports; supporting verse is not a ranking."
+ },
+ {
+  "n": 61,
+  "who": "baydawi",
+  "type": "single",
+  "holds": [
+   "V3"
+  ],
+  "evidence": "الذين هم عن صلاتهم ساهون أي غافلون غير مبالين بها",
+  "note": "Only one meaning: heedless, not caring."
+ },
+ {
+  "n": 61,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1"
+  ],
+  "evidence": "والسهو عن الصلاة هو تركها أو تأخيرها تهاونا بها",
+  "note": "Gives leaving or delaying as alternatives; no choice."
+ },
+ {
+  "n": 61,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "evidence": "وقيل ساه عنها لا يبالي صلى أو لم يصل",
+  "note": "Lists views with qila; no choice."
+ },
+ {
+  "n": 61,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N1"
+  ],
+  "evidence": "يجوز أن يكون معناه الذين لا يؤدون الصلاة إلا رياء فإذا خلوا تركوا الصلاة. ويجوز أن يكون معناه",
+  "note": "Two permissible meanings, no choice."
+ },
+ {
+  "n": 61,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "evidence": "وقال قتادة ساهون، هو الترك لها وهم الغافلون",
+  "note": "Reports views; glosses hadith but does not choose."
+ },
+ {
+  "n": 61,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "يريد- والله أعلم- تأخير ترك وإهمال، وإلى هذا نحا مجاهد",
+  "note": "Reports hadith and Mujahid; window cut; no choice."
+ },
+ {
+  "n": 61,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "evidence": "وقال قتادة: هو الترك لها، أو هم الغافلون الذين لا يبالي أحدهم",
+  "note": "Reports many views; no choice."
+ },
+ {
+  "n": 61,
+  "who": "abuSaud",
+  "type": "single",
+  "holds": [
+   "V3"
+  ],
+  "evidence": "غافلون غير مبالين بها",
+  "note": "Only one meaning: heedless, not caring."
+ },
+ {
+  "n": 61,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N1"
+  ],
+  "evidence": "أى لا يصلونها سرا لأنهم لا يعتقدون وجوبها ويصلونها علانية رياء وقيل",
+  "note": "Own gloss then qila alternative; no choice."
+ },
+ {
+  "n": 62,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وأولى هذه الأقوال بالصواب عندي، قول من قال: هو اسم النهر الذي أعطيه رسول الله",
+  "note": "Awla bi-l-sawab: the river in Paradise."
+ },
+ {
+  "n": 62,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "N2"
+  ],
+  "evidence": "واختلف المفسرون فيه على وجوه الأول: وهو المشهور والمستفيض عند السلف والخلف أنه نهر في الجنة",
+  "note": "Lists views; 'mashhur' is not a choice."
+ },
+ {
+  "n": 62,
+  "who": "qurtubi",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V3"
+  ],
+  "evidence": "قلت: أصح هذه الأقوال الأول والثاني، لأنه ثابت عن النبي",
+  "note": "Picks first and second (river and pool) together, not one."
+ },
+ {
+  "n": 62,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "V1",
+   "V3",
+   "N2",
+   "N1"
+  ],
+  "evidence": "الكوثر الخير المفرط الكثرة من العلم والعمل وشرف الدارين",
+  "note": "Own gloss first, then reports others; no word of choice."
+ },
+ {
+  "n": 62,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "evidence": "ولا شك أن الله أعطاه هذه الأشياء كلها، ولكن الصحيح أن المراد بالكوثر الحوض",
+  "note": "Lists seven views, then al-sahih: the Hawd."
+ },
+ {
+  "n": 62,
+  "who": "khazin",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وأولى الأقاويل في الكوثر الذي عليه جمهور العلماء، أنه نهر في الجنة",
+  "note": "Own awla for the river in Paradise, backed by hadith."
+ },
+ {
+  "n": 62,
+  "who": "ibnAshur",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "evidence": "والكوثر: اسم في اللغة للخير الكثير ... وكلام النبيء صلى الله عليه وسلم المروي في حديث أنس لا يقتضي حصر معاني اللفظ فيما ذكره",
+  "note": "Holds 'abundant good' (itself a listed view) and argues the hadith does not restrict it."
+ },
+ {
+  "n": 63,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V5"
+  ],
+  "evidence": "وأولى هذه الأقوال عندي بالصواب: قول من قال: معنى ذلك: فاجعل صلاتك كلها لربك خالصا",
+  "note": "Explicit awla bi-l-sawab for 'make prayer and sacrifice for God alone'."
+ },
+ {
+  "n": 63,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "evidence": "قال: الأكثرون حمله على نحر البدن أولى لوجوه ... وإذا ثبت هذا فنقول استدلت الحنفية",
+  "note": "Gives five arguments for camel sacrifice and builds on it ('if this is established'); borderline, as the awla is voiced via al-akthar."
+ },
+ {
+  "n": 63,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V4",
+   "V6",
+   "V1",
+   "V2",
+   "N1",
+   "V5",
+   "V3"
+  ],
+  "evidence": "وقال علي رضي الله عنه ومحمد ابن كعب: المعنى ضع اليمنى على اليسرى حذاء النحر في الصلاة",
+  "note": "Reports many views in the window without choosing."
+ },
+ {
+  "n": 63,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "V4"
+  ],
+  "evidence": "وانحر البدن التي هي خيار أموال العرب ... وقد فسرت الصلاة بصلاة العيد والنحر بالتضحية",
+  "note": "Own gloss (camels) then reports the Eid/sacrifice view, no word of choice."
+ },
+ {
+  "n": 63,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V3",
+   "V4",
+   "V5",
+   "V1",
+   "V2"
+  ],
+  "evidence": "فصل لربك وانحر فيه خمسة أقوال",
+  "note": "Five views listed, none chosen."
+ },
+ {
+  "n": 63,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V5",
+   "V4",
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "evidence": "معناه أن ناسا كانوا يصلون لغير الله تعالى وينحرون لغير الله ... وقيل معناه فصل لربك صلاة العيد",
+  "note": "Several views with qila; closing summary of the verse lacks a word of choice."
+ },
+ {
+  "n": 63,
+  "who": "ibnAshur",
+  "type": "prefers",
+  "holds": [
+   "V6"
+  ],
+  "evidence": "ويظهر أن هذه تسلية لرسول الله صلى الله عليه وسلم عن صد المشركين إياه عن البيت في الحديبية",
+  "note": "Argues the verse fits Hudaybiya (yazhar), tying it to Sa'id b. Jubayr's report; also notes the 'for God' sense."
+ },
+ {
+  "n": 64,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وأولى القولين في ذلك بالصواب عندي، قول من قال: كانت تحمل الشوك، فتطرحه في طريق رسول الله",
+  "note": "Explicit awla bi-l-sawab for carrying thorns."
+ },
+ {
+  "n": 64,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "evidence": "وذكروا في تفسير كونها حمالة الحطب وجوها: أحدها: أنها كانت تحمل حزمة من الشوك",
+  "note": "Four views listed, none chosen."
+ },
+ {
+  "n": 64,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N4",
+   "V1",
+   "N1",
+   "N3"
+  ],
+  "evidence": "وقيل: المعنى حمالة الحطب في النار، وفيه بعد",
+  "note": "Reports several views; only rejects the Hell reading, no choice among the rest."
+ },
+ {
+  "n": 64,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V2",
+   "V1"
+  ],
+  "evidence": "يعني حطب جهنم فإنها كانت تحمل الأوزار ... أو النميمة ... أو حزمة الشوك",
+  "note": "Alternatives joined by aw, no choice."
+ },
+ {
+  "n": 64,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N2",
+   "N1"
+  ],
+  "evidence": "وفي وصفها بحمالة الحطب أربعة أقوال",
+  "note": "Four views listed, none chosen."
+ },
+ {
+  "n": 64,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "evidence": "حمالة الحطب قيل كانت تحمل الشوك ... وقيل كانت تمشي بالنميمة ... وقيل حمالة الخطايا",
+  "note": "All views introduced with qila, no choice."
+ },
+ {
+  "n": 64,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "N3"
+  ],
+  "evidence": "فيحتمل أنها صفتها في جهنم ... ويحتمل أنها صفتها التي كانت تعمل في الدنيا ... على طريقة التوجيه",
+  "note": "Reads the epithet as deliberately bearing both the worldly thorn-carrying and the Hell punishment (tawjih)."
+ },
+ {
+  "n": 64,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2"
+  ],
+  "evidence": "وقيل إن قوله حمالة الحطب استعارة لذنوبها ... وقيل هي استعارة لسعيها على الدين والمؤمنين",
+  "note": "Ibn Abbas view plus two qila views, no choice."
+ },
+ {
+  "n": 64,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1"
+  ],
+  "evidence": "فلذلك سميت حمالة الحطب قاله ابن عباس \"1\" ، وقيل هو استعارة لذن",
+  "note": "Attributed view plus qila, no choice."
+ },
+ {
+  "n": 64,
+  "who": "abuHayyan",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "والظاهر أنها كانت تحمل الحطب، أي ما فيه شوك، لتؤذي بإلقائه في طريق الرسول",
+  "note": "Al-zahir marks his choice among the views he then lists."
+ },
+ {
+  "n": 64,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N3",
+   "N4"
+  ],
+  "evidence": "وكانت تحمل حزمة من الشوك والحسك والسعدان فتنثرها بالليل ... وقيل كانت تمشي بالنميمة",
+  "note": "Own gloss then other views, no word of choice."
+ },
+ {
+  "n": 64,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "كانت تحمل حزمة من الشوك والحسك فتنثرها بالليل ... وقيل كانت تمشي بالنميمة",
+  "note": "Own gloss then qila alternative, no choice."
+ },
+ {
+  "n": 65,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "N1"
+  ],
+  "evidence": "الصمد عند العرب: هو السيد الذي يصمد إليه، الذي لا أحد فوقه ... فالذي هو أولى بتأويل الكلمة، المعنى المعروف",
+  "note": "Awla for the lexical sense 'lord to whom one turns' (wording also close to V4)."
+ },
+ {
+  "n": 65,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "V1",
+   "V2",
+   "V4"
+  ],
+  "evidence": "ذكروا في تفسير الصمد وجهين الأول: أنه فعل بمعنى مفعول ... والقول الثاني: أن الصمد هو الذي لا جوف له",
+  "note": "Supports first view and reinterprets the second metaphorically, but keeps both; no ranking in window."
+ },
+ {
+  "n": 65,
+  "who": "qurtubi",
+  "type": "prefers",
+  "holds": [
+   "N1"
+  ],
+  "evidence": "قلت: قد أتينا على هذه الأقوال مبينة في الصمد، في (كتاب الأسنى) وأن الصحيح منها. ما شهد له الاشتقاق، وهو القول الأول",
+  "note": "Al-sahih = first view, 'the one resorted to in needs'."
+ },
+ {
+  "n": 65,
+  "who": "baydawi",
+  "type": "single",
+  "holds": [
+   "N1"
+  ],
+  "evidence": "الله الصمد السيد المصمود إليه في الحوائج من صمد إليه إذا قصد",
+  "note": "One meaning only, no other views."
+ },
+ {
+  "n": 65,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "N1"
+  ],
+  "evidence": "والأول هو المراد هنا على الأظهر",
+  "note": "Al-azhar for the first of three views."
+ },
+ {
+  "n": 65,
+  "who": "khazin",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V3",
+   "V4",
+   "N1",
+   "V5"
+  ],
+  "evidence": "والأولى أن يحمل لفظ الصمد على كل ما قيل فيه لأنه محتمل له",
+  "note": "Says the word should carry all the stated meanings."
+ },
+ {
+  "n": 65,
+  "who": "ibnAshur",
+  "type": "prefers",
+  "holds": [
+   "N1"
+  ],
+  "evidence": "وقد كثرت عبارات المفسرين من السلف في معنى الصمد، وكلها مندرجة تحت هذا المعنى الجامع",
+  "note": "Holds 'lord resorted to' and subsumes all other glosses under it."
+ },
+ {
+  "n": 66,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "evidence": "فقال بعضهم: معنى ذلك: ولم يكن له شبيه ولا مثل ... وقال آخرون: معنى ذلك، أنه لم يكن له صاحبة",
+  "note": "Two views reported; lexical gloss favours V1 but no word of choice (al-sawab concerns the reading)."
+ },
+ {
+  "n": 66,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "وثالثها: وهو التحقيق أنه تعالى ... يمتنع أن يكون مساويا له في شيء من صفات الجلال",
+  "note": "Marks the 'no equal in any attribute' reading as al-tahqiq over the consort view."
+ },
+ {
+  "n": 66,
+  "who": "qurtubi",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "(ولم يكن له كفوا أحد) أي لم يكن له مثلا أحد.",
+  "note": "Only the 'no like' meaning given in the window."
+ },
+ {
+  "n": 66,
+  "who": "baydawi",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "أي ولم يكن أحد يكافئه أو يماثله من صاحبة أو غيرها",
+  "note": "General 'none equals Him' (V1), consort only as an instance."
+ },
+ {
+  "n": 66,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "فيكون نفيا للصاحبة وهذا بعيد والأول هو الصحيح",
+  "note": "Rejects consort reading as far-fetched; al-sahih is 'no peer'."
+ },
+ {
+  "n": 66,
+  "who": "khazin",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "أي ليس له من خلقه مثل، ولا نظير ولا شبيه",
+  "note": "General 'no like' meaning; consort mentioned only as included."
+ },
+ {
+  "n": 66,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "ومعناه: المساوي والممائل في الصفات",
+  "note": "One meaning only."
+ },
+ {
+  "n": 67,
+  "who": "tabari",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V3",
+   "V4"
+  ],
+  "evidence": "ولم يخصص بعض ذلك بل عم الأمر بذلك، فكل غاسق، فإنه صلى الله عليه وسلم كان يؤمر بالاستعاذة من شره",
+  "note": "Awla: the verse covers night, setting star and moon alike."
+ },
+ {
+  "n": 67,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V4"
+  ],
+  "evidence": "وللمفسرين في الآية أقوال: / أحدها: أن الغاسق إذا وقب هو الليل إذا دخل",
+  "note": "Lists views, no choice in window."
+ },
+ {
+  "n": 67,
+  "who": "qurtubi",
+  "type": "prefers",
+  "holds": [
+   "V4"
+  ],
+  "evidence": "وقال قتادة: إذا وقب إذا غاب. وهو أصح، لأن في الترمذي عن عائشة",
+  "note": "Asahh, backed by the moon hadith."
+ },
+ {
+  "n": 67,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V4"
+  ],
+  "evidence": "ومن شر غاسق ليل عظيم ظلامه ... وقيل المراد به القمر",
+  "note": "Own gloss then qila alternative, no choice."
+ },
+ {
+  "n": 67,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V4",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "evidence": "فيه سبعة أقوال، الأول: أنه الليل إذا أظلم ... وهذا قول الأكثرين",
+  "note": "Seven views; majority attribution only."
+ },
+ {
+  "n": 67,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V4",
+   "V1",
+   "V3"
+  ],
+  "evidence": "فعلى هذا الحديث المراد به القمر ... وقال ابن عباس: الغاسق الليل ... وقيل الغاسق الثريا",
+  "note": "Conditional and reported views, no own choice."
+ },
+ {
+  "n": 67,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "evidence": "والغاسق: وصف الليل إذا اشتدت ظلمته",
+  "note": "Only the night meaning given."
+ },
+ {
+  "n": 67,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4"
+  ],
+  "evidence": "واختلف الناس في: \"الغاسق إذا وقب\" فقال ابن عباس ومجاهد والحسن",
+  "note": "Reports views without choosing."
+ },
+ {
+  "n": 67,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V4"
+  ],
+  "evidence": "قال السهيلي: وهذا أصح ما قيل لهذا الحديث الصحيح، انتهى",
+  "note": "Asahh is quoted from al-Suhayli, not his own."
+ },
+ {
+  "n": 67,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V4",
+   "V3",
+   "N1"
+  ],
+  "evidence": "والغاسق: الليل، ووقب: أظلم ودخل على الناس، قاله ابن عباس والحسن ومجاهد",
+  "note": "Reports views, no choice."
+ },
+ {
+  "n": 67,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V4",
+   "V3",
+   "N3"
+  ],
+  "evidence": "أي ومن شر ليل معتكر ظلامه ... وقيل الغاسق هو القمر ... وقيل الغاسق الثريا",
+  "note": "Own gloss then qila views, no choice."
+ },
+ {
+  "n": 67,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V4"
+  ],
+  "evidence": "الغاسق الليل إذا اعتكر ظلامه ... فأشار إلى القمر فقال تعوذي بالله من شر هذا فإنه الغاسق إذا وقب",
+  "note": "Night gloss plus moon hadith, no choice."
+ }
+]

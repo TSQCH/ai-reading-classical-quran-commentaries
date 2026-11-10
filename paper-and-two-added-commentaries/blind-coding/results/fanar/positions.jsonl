@@ -1,0 +1,134 @@
+{"holds": ["V2"], "note": "", "quote": "عن النبإ العظيم أي البعث", "row": 1, "type": "prefers", "who": "hawwari", "seconds": 22.5}
+{"holds": ["V2"], "note": "", "quote": "من السحاب", "row": 2, "type": "prefers", "who": "hawwari", "seconds": 5.0}
+{"holds": ["V2"], "note": "", "quote": "الحقب ثمانون سنة", "row": 3, "type": "prefers", "who": "hawwari", "seconds": 5.6}
+{"holds": ["V1", "V2", "V3"], "note": "The commentator lists three views and does not choose among them.", "quote": "وقال بعضهم: هو القيح الغليظ المنتن. وقال بعضهم: هي بالفارسية الغساق بلسانهم، أي: المنتن. وبعضهم يقول: الغساق: الذي لا يستطاع من شدة برده، وهو الزمهرير.", "row": 4, "type": "lists_no_choice", "who": "hawwari", "seconds": 12.8}
+{"holds": ["V1"], "note": "", "quote": "عن علي بن أبي طالب قال: هي النجوم تنزع من المشرق وتغرق في المغرب.", "row": 5, "type": "prefers", "who": "hawwari", "seconds": 6.8}
+{"holds": ["V1"], "note": "", "quote": "عن علي بن أبي طالب قال: هي النجوم تنزع من المشرق وتغرق في المغرب. وهو تفسير الحسن.", "row": 6, "type": "prefers", "who": "hawwari", "seconds": 6.7}
+{"holds": ["V2"], "note": "", "quote": "قال: { والسابحات سبحا } يعني النجوم كقوله...", "row": 7, "type": "prefers", "who": "hawwari", "seconds": 5.6}
+{"holds": ["V1"], "note": "", "quote": "قال عز وجل: { فالسابقات سبقا } يعني الملائكة.", "row": 8, "type": "prefers", "who": "hawwari", "seconds": 5.7}
+{"holds": ["V3"], "note": "", "quote": "بأيدي سفرة أي كتبة. يعني الملائكة", "row": 9, "type": "prefers", "who": "hawwari", "seconds": 5.9}
+{"holds": ["V2"], "note": "", "quote": "وقال مجاهد: هو مثل قوله: { إنا هديناه السبيل } أي: بينا له السبيل، سبيل الهدى وسبيل الضلالة", "row": 10, "type": "prefers", "who": "hawwari", "seconds": 8.0}
+{"holds": ["V1"], "note": "", "quote": "أي: ذهب ضوءها.", "row": 11, "type": "prefers", "who": "hawwari", "seconds": 5.9}
+{"holds": ["V2"], "note": "", "quote": "فتصير أعماق البحار ورؤوس الجبال سواء", "row": 12, "type": "prefers", "who": "hawwari", "seconds": 6.2}
+{"holds": ["V1", "V2"], "note": "The commentator combines both views, stating that 'إذا النفوس زوجت' can mean both 'قرن كل إنسان بشكله ونظيره في العمل' and 'ردّ الأرواح إلى الأجساد'.", "quote": "قال الحسن: يلحق كل شيعة بشيعتها: اليهود باليهود والنصارى بالنصارى، والمجوس بالمجوس، وكل من كان يعبد من دون الله شيئا بعضهم من بعض، والمنافقون بالمنافقين والمؤمنون بالمؤمنين. وتفسير مجاهد: الأمثال من الناس جمع بينهم.", "row": 13, "type": "combines", "who": "hawwari", "seconds": 17.6}
+{"holds": ["V2"], "note": "", "quote": "هي في ذلك جارية، ولكنها لا ترى بالنهار.", "row": 14, "type": "lists_no_choice", "who": "hawwari", "seconds": 7.5}
+{"holds": ["V2"], "note": "", "quote": "إذا أدبر", "row": 15, "type": "prefers", "who": "hawwari", "seconds": 6.5}
+{"holds": ["V1", "V3"], "note": "The commentator combines both views, stating that 'ما قدمت' refers to both good and bad deeds, and 'ما أخرت' refers to both good and bad deeds, but also to the continuation of good or bad deeds through one's actions and teachings.", "quote": "ما قدمت من عمل، خيرا كان أو شرا، وما أخرت أي من سنة حسنة فعمل بها بعده فله مثل آجر من عمل بها ولا ينقص من أجورهم شيئا، أو سنة سيئة فعمل بها بعده فعليه مثل وزر من عمل بها ولا ينقص من أوزارهم شيئا.", "row": 16, "type": "combines", "who": "hawwari", "seconds": 16.7}
+{"holds": ["V1"], "note": "The commentator mentions 'في سفال' which is equivalent to V1.", "quote": "قال الحسن: لفي سفال.", "row": 17, "type": "prefers", "who": "hawwari", "seconds": 6.7}
+{"holds": ["V2"], "note": "", "quote": "عن ثواب ربهم لمحرومون", "row": 18, "type": "prefers", "who": "hawwari", "seconds": 5.3}
+{"holds": ["V1", "N1"], "note": "The commentator mentions 'في صعود إلى الله' and 'علو فوق علو لا يعلم غايته إلا الله', but does not explicitly choose one view.", "quote": "في صعود إلى الله", "row": 19, "type": "lists_no_choice", "who": "hawwari", "seconds": 8.9}
+{"holds": ["V2"], "note": "", "quote": "ذات النجوم", "row": 20, "type": "prefers", "who": "hawwari", "seconds": 5.6}
+{"holds": ["V1"], "note": "", "quote": "قال رسول الله صلى الله عليه وسلم. (وشاهد) يوم الجمعة (ومشهود) يوم عرفة.", "row": 21, "type": "prefers", "who": "hawwari", "seconds": 7.2}
+{"holds": ["V1"], "note": "", "quote": "يبدئ الخلق ثم يعيده بالبعث", "row": 22, "type": "prefers", "who": "hawwari", "seconds": 5.4}
+{"holds": ["V4"], "note": "", "quote": "من بين صلب الرجل وترائب المرأة", "row": 23, "type": "prefers", "who": "hawwari", "seconds": 5.3}
+{"holds": ["V2"], "note": "The commentator mentions 'رد الإنسان ماء كما كان' as one of the views but does not choose it. He then mentions 'إحياء الإنسان بعد موته وبعثه' and 'إن الله على رجعه' (referring to resurrection) without explicitly choosing either. However, the context of 'رجعه' (return) in the verse is more likely referring to resurrection, which corresponds to V5. But since he doesn't explicitly choose, we'll record 'lists_no_choice'.", "quote": "وَقَالَ بَعْضُهُمْ: { إِنَّهُ عَلَى رَجْعِهِ } أَيْ عَلَى رَجْعِ ذَلِكَ، أَيْ النُّطْفَةِ، فِي الْإِحْلِيلِ لَقَادِرٌ.", "row": 24, "type": "lists_no_choice", "who": "hawwari", "seconds": 25.1}
+{"holds": ["V1"], "note": "", "quote": "صل لربك الأعلى", "row": 25, "type": "prefers", "who": "hawwari", "seconds": 4.9}
+{"holds": ["V1", "N1"], "note": "The commentator combines both V1 and N1, as he mentions 'هدى الإنسان للخير والشر والبهائم للمراتع' and then 'هداية عامة لكل مخلوق إلى ما يصلحه دون تخصيص'.", "quote": "فبين له سبيل الهدى وسبيل الضلالة في تفسير الحسن.", "row": 26, "type": "combines", "who": "hawwari", "seconds": 10.5}
+{"holds": ["V1"], "note": "", "quote": "وهذا هو الأقرب", "row": 27, "type": "prefers", "who": "hawwari", "seconds": 5.7}
+{"holds": ["V2"], "note": "", "quote": "ذكر الله باللسان ودعاؤه والرغبة إليه", "row": 28, "type": "single", "who": "hawwari", "seconds": 5.5}
+{"holds": ["V2"], "note": "", "quote": "صلاة العيد يوم الفطر", "row": 29, "type": "prefers", "who": "hawwari", "seconds": 4.7}
+{"holds": ["V1"], "note": "", "quote": "تفسير الحسن: الغاشية: القيامة تغشى الناس بعذابها وعقابها.", "row": 30, "type": "prefers", "who": "hawwari", "seconds": 6.0}
+{"holds": ["V2"], "note": "", "quote": "يعني الصبح", "row": 31, "type": "single", "who": "hawwari", "seconds": 4.4}
+{"holds": ["V1"], "note": "", "quote": "العشر الأول من ذي الحجة", "row": 32, "type": "prefers", "who": "hawwari", "seconds": 4.7}
+{"holds": ["V3"], "note": "The commentator mentions 'الشفع الخلق والوتر الله' as one of the views, but does not explicitly choose it. However, he mentions 'تفسير الحسن' which states 'العدد كله منه الشفع ومنه الوتر', which can be interpreted as combining V1, V2, and V3. But since V3 is explicitly mentioned, we'll record it as 'holds'.", "quote": "الشفع الخلق والوتر الله", "row": 33, "type": "prefers", "who": "hawwari", "seconds": 12.8}
+{"holds": ["V6"], "note": "The commentator mentions 'قبيلة من عاد سميت باسم جدها' as one of the views, but then states 'وتفسير الحسن: إن لعاد اسمين: عاد وإرم', which suggests he prefers the view that 'إرم' is a name for 'عاد'. However, the exact choice is not explicitly stated with a word of choice. Therefore, the type is 'lists_no_choice'.", "quote": "", "row": 34, "type": "lists_no_choice", "who": "hawwari", "seconds": 11.9}
+{"holds": ["V3"], "note": "", "quote": "ذات البناء الرفيع", "row": 35, "type": "prefers", "who": "hawwari", "seconds": 5.0}
+{"holds": ["V2"], "note": "", "quote": "وكان إذا غضب على أحد أوتد له في الأرض أربعة أوتاد على يديه ورجليه", "row": 36, "type": "prefers", "who": "hawwari", "seconds": 7.2}
+{"holds": ["V2"], "note": "", "quote": "يرصد أهل الظلم والعصاة بالعقاب فلا يفوتونه", "row": 37, "type": "prefers", "who": "hawwari", "seconds": 6.0}
+{"holds": ["V1"], "note": "", "quote": "قال الحسن: أكذبهما الله جميعا بقوله: (كلا) أي: لا بالغنى أكرمت ولا بالفقر أهنت.", "row": 38, "type": "prefers", "who": "hawwari", "seconds": 7.5}
+{"holds": ["V2"], "note": "", "quote": "يقال للنفس عند الموت", "row": 39, "type": "single", "who": "hawwari", "seconds": 4.4}
+{"holds": ["V2"], "note": "", "quote": "أي: آدم وما ولد", "row": 40, "type": "prefers", "who": "hawwari", "seconds": 4.9}
+{"holds": ["V3"], "note": "", "quote": "في انتصاب", "row": 41, "type": "prefers", "who": "hawwari", "seconds": 4.7}
+{"holds": ["V2"], "note": "", "quote": "وضوئها", "row": 42, "type": "single", "who": "hawwari", "seconds": 4.2}
+{"holds": ["V2"], "note": "", "quote": "أقسم بها وبنفسه. { والأرض وما طحاها } أي بسطها", "row": 43, "type": "prefers", "who": "hawwari", "seconds": 5.7}
+{"holds": ["V1"], "note": "The commentator explicitly states 'الله لا يخاف تبعة إهلاكهم' as his preferred view.", "quote": "لا يخاف عقباها", "row": 44, "type": "prefers", "who": "hawwari", "seconds": 6.7}
+{"holds": ["V3"], "note": "", "quote": "فسنيسره لليسرى", "row": 45, "type": "prefers", "who": "hawwari", "seconds": 4.7}
+{"holds": ["V2"], "note": "", "quote": "إذا تردى في القبر إذا مات", "row": 46, "type": "prefers", "who": "hawwari", "seconds": 5.1}
+{"holds": ["V2"], "note": "", "quote": "إذا أظلم", "row": 47, "type": "prefers", "who": "hawwari", "seconds": 4.7}
+{"holds": ["V2"], "note": "", "quote": "فإذا فرغت من قتال أعدائك فانصب إلى ربك في العبادة", "row": 48, "type": "prefers", "who": "hawwari", "seconds": 6.1}
+{"holds": ["V2"], "note": "The commentator mentions 'موضعان بالشام: مسجدا دمشق وبيت المقدس' as a view, but does not explicitly choose it. However, he mentions it without any other preference words, so it's listed_no_choice.", "quote": "موضعان بالشام: مسجدا دمشق وبيت المقدس", "row": 49, "type": "lists_no_choice", "who": "hawwari", "seconds": 10.9}
+{"holds": ["V1"], "note": "", "quote": "أي: الجبل الحسن", "row": 50, "type": "prefers", "who": "hawwari", "seconds": 4.9}
+{"holds": ["V1"], "note": "", "quote": "أعدل خلق وأحسن صورة", "row": 51, "type": "prefers", "who": "hawwari", "seconds": 5.0}
+{"holds": ["V2"], "note": "", "quote": "يعني بالإنسان ها هنا المشرك", "row": 52, "type": "prefers", "who": "hawwari", "seconds": 5.0}
+{"holds": ["V2"], "note": "", "quote": "ما الذي يحملك على التكذيب", "row": 53, "type": "prefers", "who": "hawwari", "seconds": 5.1}
+{"holds": ["V2"], "note": "", "quote": "على قراءة من كل امرئ: يسلّمون على كل مؤمن", "row": 54, "type": "prefers", "who": "hawwari", "seconds": 5.4}
+{"holds": ["V1"], "note": "", "quote": "أي: منتهين عن كفرهم", "row": 55, "type": "single", "who": "hawwari", "seconds": 5.2}
+{"holds": ["V1"], "note": "", "quote": "تصيب الحجارة بحوافرها فتخرج منها النار", "row": 56, "type": "prefers", "who": "hawwari", "seconds": 5.4}
+{"holds": ["V1"], "note": "", "quote": "قال الحسن: هي الخيل تغير على العدو إذا أصبحت.", "row": 57, "type": "prefers", "who": "hawwari", "seconds": 5.5}
+{"holds": ["V5"], "note": "", "quote": "ثم لتسألن يومئذ عن النعيم", "row": 58, "type": "single", "who": "hawwari", "seconds": 5.2}
+{"holds": ["V1"], "note": "", "quote": "عصر النهار، وهو ما بين زوال الشمس إلى الليل.", "row": 59, "type": "single", "who": "hawwari", "seconds": 4.8}
+{"holds": ["V2"], "note": "", "quote": "في عمد ممددة", "row": 60, "type": "prefers", "who": "hawwari", "seconds": 4.8}
+{"holds": ["V2"], "note": "", "quote": "قال: { فذلك الذي يدع اليتيم } أي: يدفعه عن حقه { ولا يحض على طعام المسكين }", "row": 61, "type": "prefers", "who": "hawwari", "seconds": 6.4}
+{"holds": ["V3"], "note": "Uses 'حوض النبي ﷺ' as the primary explanation.", "quote": "وقال عطاء: الكوثر حوض أعطاه الله النبي عليه السلام في الجنة.", "row": 62, "type": "single", "who": "hawwari", "seconds": 6.7}
+{"holds": ["V4"], "note": "", "quote": "يوم النحر", "row": 63, "type": "single", "who": "hawwari", "seconds": 4.5}
+{"holds": ["V2"], "note": "", "quote": "حمالة النميمة", "row": 64, "type": "prefers", "who": "hawwari", "seconds": 4.4}
+{"holds": ["V5"], "note": "", "quote": "الباقي. وتفسير بعضهم: الصمد: الذي قد انتهى في الشرف والسؤدد.", "row": 65, "type": "prefers", "who": "hawwari", "seconds": 5.7}
+{"holds": ["V2"], "note": "", "quote": "لم يكن له كفوا أحد", "row": 66, "type": "single", "who": "hawwari", "seconds": 4.2}
+{"holds": ["V1"], "note": "", "quote": "من شر الليل إذا أطبق", "row": 67, "type": "prefers", "who": "hawwari", "seconds": 4.5}
+{"holds": ["V2"], "note": "", "quote": "وهذا هو الأقرب", "row": 1, "type": "prefers", "who": "himyan", "seconds": 5.4}
+{"holds": ["V1", "V2"], "note": "Himyan combines both views (V1 and V2) without choosing one.", "quote": "وأنزلنا من المعصرات السحاب التي تتحلب بالمطر", "row": 2, "type": "combines", "who": "himyan", "seconds": 8.0}
+{"holds": ["V2"], "note": "The commentator mentions V2 (80 years or eighty) and states it as a possibility, but does not explicitly choose it over other views. He also mentions other views (V1, V3, N1, N2, N3, N4, V5) without choosing any. Therefore, the type is 'lists_no_choice'. However, since he mentions V2 and does not explicitly reject it, it could be considered a preference, but the rule states that 'prefers' requires an explicit choice. So, the correct type is 'lists_no_choice'.", "quote": "وهذا كما نقول فلان جار بيت بيت لم ترد بيتين بل أردت يجري من بيت إلى آخر ومن الآخر الى الآخر وهكذا", "row": 3, "type": "lists_no_choice", "who": "himyan", "seconds": 20.4}
+{"holds": ["V1", "V2", "V3"], "note": "The commentator lists three views and does not choose among them.", "quote": "قال ابن عباس سئل العبد في مجالس على جهنم عن التوحيد فالصلاة فالزكاة فالصوم فالحج فالعمرة فالمظالم فإن لم يوف في واحد انخرق به وإن وفى بها نجا", "row": 4, "type": "lists_no_choice", "who": "himyan", "seconds": 13.8}
+{"holds": ["V1"], "note": "", "quote": "الملائكة التي تنزع أرواح الكفار من أبدانهم", "row": 5, "type": "prefers", "who": "himyan", "seconds": 6.6}
+{"holds": ["V1", "N1"], "note": "Himyan combines both V1 (angels) and N1 (souls) as he mentions both in his explanation.", "quote": "والناشطات نفوس المؤمنين تنشط للخروج", "row": 6, "type": "combines", "who": "himyan", "seconds": 8.4}
+{"holds": ["V1"], "note": "", "quote": "الملائكة التي تنزع أرواح الكفار من أبدانهم", "row": 7, "type": "prefers", "who": "himyan", "seconds": 6.0}
+{"holds": ["V1", "V2", "V3", "N2", "OTHER"], "note": "The commentator combines multiple views, including V1, V2, V3, N2, and mentions 'أرواح المؤمنين تسبق' which is not listed as a view but is similar to N2. The quote is too long, but the essence is that the commentator combines several views.", "quote": "الملائكة التي تنزع أرواح الكفار من أبدانهم أي والجماعات والنازعات وكذا فيما بعد وهو وصف للملائكة. ... الملائكة تسبح من السماء أي تنزل منها بأمره ... الملائكة تسبق بأرواح المؤمنين إلى الجنة وبأرواح الكافرين إلى النار ... أرواح المؤمنين تسبح في الملكوت والكرامات والسابقات المستبقة إلى ذلك الخير والمدبرات المتصرفات في ذلك لشرفها وقوتها.", "row": 8, "type": "combines", "who": "himyan", "seconds": 25.0}
+{"holds": ["V3"], "note": "", "quote": "جمع سافر بمعنى كاتب وهم الملائكة ينسخونها من اللوح المحفوظ", "row": 9, "type": "prefers", "who": "himyan", "seconds": 7.8}
+{"holds": ["V1"], "note": "", "quote": "سهل له طريق الخروج من بطن أمه", "row": 10, "type": "prefers", "who": "himyan", "seconds": 5.8}
+{"holds": ["V1"], "note": "The commentator mentions 'ذهاب ضوئها وإظلامها' as one of the views, but his own explanation seems to lean towards 'لف ضوءها وزال أثره', which is not explicitly listed. However, since 'ذهاب ضوئها' is a component of V1, we can consider it as holding V1.", "quote": "لف ضوءها وزال أثره", "row": 11, "type": "prefers", "who": "himyan", "seconds": 12.9}
+{"holds": ["V1"], "note": "", "quote": "أُوقدت فصارت نارًا", "row": 12, "type": "prefers", "who": "himyan", "seconds": 5.8}
+{"holds": ["V2", "N1"], "note": "The commentator combines V2 and N1, stating that souls are returned to bodies and also that souls of believers are paired with hur al-ʿayn, and souls of disbelievers with devils.", "quote": "قرنت بشكلها يقرن الرجل الصالح بالرجل الصالح في الجنة والسوء بالسوء في النار رووا ذلك عنه صلى الله عليه وسلم", "row": 13, "type": "combines", "who": "himyan", "seconds": 12.1}
+{"holds": ["V1"], "note": "", "quote": "النجمات والكواكب السيارة أو عامتها", "row": 14, "type": "single", "who": "himyan", "seconds": 6.7}
+{"holds": ["V2"], "note": "", "quote": "أقبل بظلمته", "row": 15, "type": "prefers", "who": "himyan", "seconds": 6.5}
+{"holds": ["V3"], "note": "", "quote": "ما قدّمت وأخّرت من خير أو شرّ", "row": 16, "type": "prefers", "who": "himyan", "seconds": 5.3}
+{"holds": ["V1", "V2"], "note": "Himyan combines V1 and V2, stating both the 'earth below' and 'under the foot of Satan' interpretations.", "quote": "قال الحسن لفي سفال وعن كعب حجر أسود تحت الأرض السابعة السفلى لا يصعد وهو محل إبليس وجنوده وعليه مجاهد", "row": 17, "type": "combines", "who": "himyan", "seconds": 10.4}
+{"holds": ["V2"], "note": "", "quote": "عن حرمة ربهم أو ثوابه", "row": 18, "type": "prefers", "who": "himyan", "seconds": 5.6}
+{"holds": ["V3"], "note": "", "quote": "الجنة ومحل الأبرار فيها", "row": 19, "type": "prefers", "who": "himyan", "seconds": 5.2}
+{"holds": ["V1", "V2"], "note": "Himyan combines both 'القصور' and 'النجوم أو عظام الكواكب' as interpretations of 'البروج'.", "quote": "وَقِيلَ ذَاتُ الْكَوَاكِبِ الْعِظَامِ لِظُهُورِهَا", "row": 20, "type": "combines", "who": "himyan", "seconds": 10.4}
+{"holds": ["V1", "V4", "V5", "V6", "V7", "V8", "V9", "V10", "V11", "V12", "V13", "V14", "V15", "V16", "V17", "V18", "V19", "V20"], "note": "Himyan lists all views without choosing any.", "quote": "الشاهد النبي صلى الله عليه وسلم والمشهود أمته", "row": 21, "type": "lists_no_choice", "who": "himyan", "seconds": 15.1}
+{"holds": ["V2"], "note": "", "quote": "يبدئ بطش الكفار في الدنيا ويعيده في الاخرة", "row": 22, "type": "prefers", "who": "himyan", "seconds": 6.7}
+{"holds": ["V5"], "note": "", "quote": "عظام الصدر وقيل عظام الصدر والنحر", "row": 23, "type": "prefers", "who": "himyan", "seconds": 6.2}
+{"holds": ["V5"], "note": "", "quote": "قاله ابن عباس وقتادة وهو الصحيح", "row": 24, "type": "prefers", "who": "himyan", "seconds": 6.8}
+{"holds": ["V1"], "note": "", "quote": "عن ابن عباس: عظم ربك وقل سبحان ربي الأعلى", "row": 25, "type": "prefers", "who": "himyan", "seconds": 6.4}
+{"holds": ["V1", "N1"], "note": "The commentator combines both views V1 and N1, stating that 'هدى' can mean guiding humans and animals to their benefits, and also a general guidance to all creatures without specifying.", "quote": "فهدى لاكتسابها وقيل قدر لكل حيوان ما يصلحه فهداه اليه", "row": 26, "type": "combines", "who": "himyan", "seconds": 10.9}
+{"holds": ["V1"], "note": "", "quote": "لا ينسى إلا ما شاء الله إنساءه بنسخ تلاوته", "row": 27, "type": "prefers", "who": "himyan", "seconds": 7.4}
+{"holds": ["N4"], "note": "", "quote": "تكبيرة الإحرام في أول الصلاة", "row": 28, "type": "prefers", "who": "himyan", "seconds": 5.9}
+{"holds": ["V2"], "note": "", "quote": "صلاة العيد", "row": 29, "type": "prefers", "who": "himyan", "seconds": 6.3}
+{"holds": ["V1"], "note": "", "quote": "قال بعض المفسرين بمعنى قد والتحقيق أنها للتقرير والتوقيف تحريكا لنفس السامع الى تلقي الخبر * { أتاك حديث الغاشية } القيامة لأنها تغشى الناس بأهوالها", "row": 30, "type": "prefers", "who": "himyan", "seconds": 8.7}
+{"holds": ["V2"], "note": "", "quote": "صلاة الفجر", "row": 31, "type": "prefers", "who": "himyan", "seconds": 4.7}
+{"holds": ["V1"], "note": "", "quote": "العشر الأوائل من ذي الحجة", "row": 32, "type": "prefers", "who": "himyan", "seconds": 5.6}
+{"holds": ["V1", "V3"], "note": "The commentator mentions V1 and V3 as possible interpretations, but does not explicitly choose one. He also mentions V4 and V5, but does not endorse them. The quote does not indicate a preference.", "quote": "وَقِيلَ الشَّفَعُ يَوْمُ النَّحْرِ وَالْوَتْرُ يَوْمُ عَرَفَةَ", "row": 33, "type": "lists_no_choice", "who": "himyan", "seconds": 14.2}
+{"holds": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "N1", "N2"], "note": "Himyan lists all views without choosing.", "quote": "وَقِيلَ إِرَمُ فِي الْأَصْلِ اسْمُ أَبِيهِمْ وَلَكَ تَقْدِيرُ الْمَضَافِ كَمَا مَرَّ", "row": 34, "type": "lists_no_choice", "who": "himyan", "seconds": 14.5}
+{"holds": ["V3"], "note": "", "quote": "ذات البناء الرفيع المشيد على العمد", "row": 35, "type": "prefers", "who": "himyan", "seconds": 5.6}
+{"holds": ["V2"], "note": "", "quote": "تعذيب الناس بالأوتاد", "row": 36, "type": "prefers", "who": "himyan", "seconds": 5.8}
+{"holds": ["V2"], "note": "", "quote": "أي أعدده لهم وأنه لا يفوتونه ولا يخفى عليه حال من أحوالهم", "row": 37, "type": "prefers", "who": "himyan", "seconds": 8.5}
+{"holds": ["V1"], "note": "", "quote": "كلا", "row": 38, "type": "prefers", "who": "himyan", "seconds": 5.5}
+{"holds": ["V2"], "note": "", "quote": "يقال للنفس عند الموت", "row": 39, "type": "prefers", "who": "himyan", "seconds": 5.8}
+{"holds": ["V2"], "note": "", "quote": "آدم وذريته", "row": 40, "type": "prefers", "who": "himyan", "seconds": 6.8}
+{"holds": ["V1"], "note": "", "quote": "في شدة ومشقة يكابد أمور الدنيا والآخرة", "row": 41, "type": "single", "who": "himyan", "seconds": 6.5}
+{"holds": ["V2"], "note": "", "quote": "ضوءها إذا أشرقت وارتفعت", "row": 42, "type": "prefers", "who": "himyan", "seconds": 5.2}
+{"holds": ["V2"], "note": "", "quote": "بسطها ومدها", "row": 43, "type": "prefers", "who": "himyan", "seconds": 5.5}
+{"holds": ["V1"], "note": "", "quote": "وهذا هو الأقرب", "row": 44, "type": "prefers", "who": "himyan", "seconds": 5.1}
+{"holds": ["V3"], "note": "", "quote": "بالجنة", "row": 45, "type": "prefers", "who": "himyan", "seconds": 5.3}
+{"holds": ["V2"], "note": "", "quote": "تردى في جهنم أي وقع فيها", "row": 46, "type": "prefers", "who": "himyan", "seconds": 5.9}
+{"holds": ["N1"], "note": "", "quote": "غطى كل شيء بظلامه", "row": 47, "type": "prefers", "who": "himyan", "seconds": 5.4}
+{"holds": ["V3"], "note": "", "quote": "إذا فرغت من أمر الدنيا فانصب في العبادة", "row": 48, "type": "prefers", "who": "himyan", "seconds": 6.7}
+{"holds": ["V1"], "note": "", "quote": "المأكولين", "row": 49, "type": "single", "who": "himyan", "seconds": 5.5}
+{"holds": ["V1"], "note": "", "quote": "وَطُورُ سِينِينَ ۚ الْجَبَلُ الَّذِي كَلَّمَ اللَّهُ مُوسَى عَلَيْهِ وَسَالَمَ وَسِينِينَ مَضَافٌ إِلَيْهِ وَهُوَ اسْمٌ مُفْرَدٌ يُعْرَبُ كَجَمْعِ الْمُذَكَّرِ السَّالِمِ وَيَجُوزُ إِعْرَابُهُ عَلَى النُّونِ مَعَ لُزُومِ الْيَاءِ وَعَلَيْهِ فَالْفَتْحَةُ خَفْضٌ لِأَنَّهُ عَلَمٌ أَعْجَمِيٌّ وَيَجُوزُ فِيهِ فِي غَيْرِ الْقُرْآنِ غَيْرُ ذَلِكَ وَهُوَ اسْمٌ لِلْأَرْضِ الَّتِي فِيهَا الْجَبَلُ وَسُمِّيَتْ سِينِينَ وَسِينَاءَ لِحُسْنِهَا وَبَرَكَتِهَا بِالْأَشْجَارِ", "row": 50, "type": "prefers", "who": "himyan", "seconds": 36.7}
+{"holds": ["V1"], "note": "", "quote": "أعدل خلق وأحسن صورة", "row": 51, "type": "prefers", "who": "himyan", "seconds": 6.6}
+{"holds": ["V1"], "note": "", "quote": "أرذل العمر والهرم وذهاب العقل", "row": 52, "type": "prefers", "who": "himyan", "seconds": 6.7}
+{"holds": ["V3"], "note": "The commentator combines the views, but the preference is clear for V3.", "quote": "وهذا هو الأقرب", "row": 53, "type": "prefers", "who": "himyan", "seconds": 7.4}
+{"holds": ["V1"], "note": "", "quote": "قضاه الله فيها لتلك السنة", "row": 54, "type": "prefers", "who": "himyan", "seconds": 6.1}
+{"holds": ["V1"], "note": "", "quote": "منتهين وزائلين عن كفرهم وشركهم", "row": 55, "type": "prefers", "who": "himyan", "seconds": 6.7}
+{"holds": ["V6"], "note": "", "quote": "فالموريات قدحا بحوافرها", "row": 56, "type": "prefers", "who": "himyan", "seconds": 5.9}
+{"holds": ["V1"], "note": "", "quote": "الخيل تغير على العدو وقت الصبح", "row": 57, "type": "prefers", "who": "himyan", "seconds": 6.0}
+{"holds": ["V4"], "note": "The commentator mentions 'الرطب والماء البارد' as part of the 'النعيم' and quotes Ibn Hisham's statement that it is what some people say is meant by 'النعيم'.", "quote": "الرطب والماء البارد كذا قيل", "row": 58, "type": "prefers", "who": "himyan", "seconds": 10.3}
+{"holds": ["V1", "N2", "N3", "N4", "N5"], "note": "The commentator combines multiple views without choosing one.", "quote": "وقيل عصر النبوة بما فيه من الأعاجيب كعصر نبينا وعصر سيدنا موسى عليهما الصلاة والسلام", "row": 59, "type": "combines", "who": "himyan", "seconds": 10.3}
+{"holds": ["V1"], "note": "", "quote": "وهذا هو الأقرب", "row": 60, "type": "prefers", "who": "himyan", "seconds": 5.1}
+{"holds": ["V3"], "note": "", "quote": "غافلون غير مبالين بها صلوها أو تركوها", "row": 61, "type": "prefers", "who": "himyan", "seconds": 6.4}
+{"holds": ["V2"], "note": "", "quote": "قيل لأعرابية رجع ابنها من السفر بم آب ابنك فقالت آب بكوثر.", "row": 62, "type": "prefers", "who": "himyan", "seconds": 7.2}
+{"holds": ["V4"], "note": "", "quote": "صلاة العيد ثم نحر الأضحية", "row": 63, "type": "prefers", "who": "himyan", "seconds": 6.1}
+{"holds": ["V3"], "note": "The commentator mentions 'عيّرت النبي بالفقر فعُيّرت بأنها كانت تحتطب' and 'كانت تحمل الحطب على ظهرها لشدة بخلها فعُيّرت بالبخل', which indicates a preference for V3.", "quote": "عيّرت النبي بالفقر فعُيّرت بأنها كانت تحتطب", "row": 64, "type": "prefers", "who": "himyan", "seconds": 12.4}
+{"holds": ["V3"], "note": "", "quote": "الذي لم يلد ولم يولد", "row": 65, "type": "prefers", "who": "himyan", "seconds": 6.6}
+{"holds": ["V2"], "note": "", "quote": "لم تكن له صاحبة", "row": 66, "type": "prefers", "who": "himyan", "seconds": 5.5}
+{"holds": ["V4"], "note": "", "quote": "وقيل الغاسق الليل ووقوبه اقباله بضلامه", "row": 67, "type": "prefers", "who": "himyan", "seconds": 6.6}

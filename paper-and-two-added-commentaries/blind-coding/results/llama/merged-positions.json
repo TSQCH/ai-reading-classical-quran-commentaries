@@ -1,0 +1,1861 @@
+[
+ {
+  "row": 1,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 7.2
+ },
+ {
+  "row": 2,
+  "who": "hawwari",
+  "type": "single",
+  "holds": [
+   "V2"
+  ],
+  "quote": "وأنزلنا من المعصرات مآء ثجاجا",
+  "note": "",
+  "seconds": 1.7
+ },
+ {
+  "row": 3,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.9
+ },
+ {
+  "row": 4,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.1
+ },
+ {
+  "row": 5,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.9
+ },
+ {
+  "row": 6,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.7
+ },
+ {
+  "row": 7,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V2",
+   "N1",
+   "N4",
+   "N6"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.4
+ },
+ {
+  "row": 8,
+  "who": "hawwari",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "فالسابقات سبقا يعني الملائكة",
+  "note": "",
+  "seconds": 1.4
+ },
+ {
+  "row": 9,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.0
+ },
+ {
+  "row": 10,
+  "who": "hawwari",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "ثم السبيل يسره",
+  "note": "",
+  "seconds": 2.0
+ },
+ {
+  "row": 11,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.8
+ },
+ {
+  "row": 12,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.7
+ },
+ {
+  "row": 13,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "N2",
+   "N3",
+   "V1",
+   "V2"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.9
+ },
+ {
+  "row": 14,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.1
+ },
+ {
+  "row": 15,
+  "who": "hawwari",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "quote": "والليل إذا عسعس",
+  "note": "",
+  "seconds": 2.0
+ },
+ {
+  "row": 16,
+  "who": "hawwari",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "quote": "عموم ما قدّمت وأخّرت من خير أو شرّ",
+  "note": "",
+  "seconds": 1.6
+ },
+ {
+  "row": 17,
+  "who": "hawwari",
+  "type": "single",
+  "holds": [
+   "V5"
+  ],
+  "quote": "شجرة سوداء تحت الأرض السابعة",
+  "note": "",
+  "seconds": 1.5
+ },
+ {
+  "row": 18,
+  "who": "hawwari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "لمحجوبون عن رَبِّهِمْ",
+  "note": "",
+  "seconds": 1.5
+ },
+ {
+  "row": 19,
+  "who": "hawwari",
+  "type": "prefers",
+  "holds": [
+   "V5"
+  ],
+  "quote": "كتاب الأبرار لفي عليين",
+  "note": "",
+  "seconds": 1.5
+ },
+ {
+  "row": 20,
+  "who": "hawwari",
+  "type": "single",
+  "holds": [
+   "N1"
+  ],
+  "quote": "ذات البروج الاثنا عشر",
+  "note": "",
+  "seconds": 1.4
+ },
+ {
+  "row": 21,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7",
+   "N8",
+   "N9",
+   "N10",
+   "N11",
+   "N12",
+   "N13",
+   "N14",
+   "N15",
+   "N16",
+   "N17",
+   "N18",
+   "N19",
+   "N20"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 3.6
+ },
+ {
+  "row": 22,
+  "who": "hawwari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "يبدىء الخلق ويعيده، أي: يبعثه يوم القيامة",
+  "note": "",
+  "seconds": 1.7
+ },
+ {
+  "row": 23,
+  "who": "hawwari",
+  "type": "single",
+  "holds": [
+   "V2"
+  ],
+  "quote": "يعني النجوم المضيئة",
+  "note": "",
+  "seconds": 1.4
+ },
+ {
+  "row": 24,
+  "who": "hawwari",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "يعني رد الإنسان ماء كما كان",
+  "note": "",
+  "seconds": 1.5
+ },
+ {
+  "row": 25,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.5
+ },
+ {
+  "row": 26,
+  "who": "hawwari",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "quote": "هدى الإنسان للخير والشر والبهائم للمراتع",
+  "note": "",
+  "seconds": 1.4
+ },
+ {
+  "row": 27,
+  "who": "hawwari",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "quote": "فلا تنسى إلا ما شآء الله",
+  "note": "",
+  "seconds": 1.3
+ },
+ {
+  "row": 28,
+  "who": "hawwari",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "ذكر اسم ربه فصلى",
+  "note": "",
+  "seconds": 1.4
+ },
+ {
+  "row": 29,
+  "who": "hawwari",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "quote": "فذكر أي: بالقرآن",
+  "note": "",
+  "seconds": 1.3
+ },
+ {
+  "row": 30,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.5
+ },
+ {
+  "row": 31,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.7
+ },
+ {
+  "row": 32,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.3
+ },
+ {
+  "row": 33,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7",
+   "N8",
+   "N9",
+   "N10"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.3
+ },
+ {
+  "row": 34,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "N1",
+   "N2"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.1
+ },
+ {
+  "row": 35,
+  "who": "hawwari",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "quote": "يعني طول أجسامهم",
+  "note": "",
+  "seconds": 1.7
+ },
+ {
+  "row": 36,
+  "who": "hawwari",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "تعذيب الناس بالأوتاد",
+  "note": "",
+  "seconds": 1.8
+ },
+ {
+  "row": 37,
+  "who": "hawwari",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "إن ربك لبالمرصاد",
+  "note": "",
+  "seconds": 1.8
+ },
+ {
+  "row": 38,
+  "who": "hawwari",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "quote": "فمن قرأها بالياء فهو يقول للنبي عليه السلام، ومن قرأها بالتاء فهو يقول للمشركين، يقول لهم كلا بل لا تكرمون اليتيم ولا تحضون على طعام المسكين",
+  "note": "",
+  "seconds": 2.5
+ },
+ {
+  "row": 39,
+  "who": "hawwari",
+  "type": "single",
+  "holds": [
+   "V2"
+  ],
+  "quote": "يقال للنفس عند الموت",
+  "note": "",
+  "seconds": 1.3
+ },
+ {
+  "row": 40,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.7
+ },
+ {
+  "row": 41,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "N1"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.6
+ },
+ {
+  "row": 42,
+  "who": "hawwari",
+  "type": "single",
+  "holds": [
+   "V2"
+  ],
+  "quote": "ضوء الشمس وإشراقها",
+  "note": "",
+  "seconds": 1.3
+ },
+ {
+  "row": 43,
+  "who": "hawwari",
+  "type": "single",
+  "holds": [
+   "V2"
+  ],
+  "quote": "بسطها ومدها",
+  "note": "",
+  "seconds": 1.2
+ },
+ {
+  "row": 44,
+  "who": "hawwari",
+  "type": "single",
+  "holds": [
+   "V2"
+  ],
+  "quote": "ولا يخاف عقباها",
+  "note": "",
+  "seconds": 1.5
+ },
+ {
+  "row": 45,
+  "who": "hawwari",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "فأما من أعطى واتقى وصدق بالحسنى",
+  "note": "",
+  "seconds": 1.4
+ },
+ {
+  "row": 46,
+  "who": "hawwari",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "quote": "إذا تردى في جهنم",
+  "note": "",
+  "seconds": 1.4
+ },
+ {
+  "row": 47,
+  "who": "hawwari",
+  "type": "single",
+  "holds": [
+   "V2"
+  ],
+  "quote": "ذهب وأدبر",
+  "note": "",
+  "seconds": 1.3
+ },
+ {
+  "row": 48,
+  "who": "hawwari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "فإذا فرغت من الصلاة فانصب في الدعاء",
+  "note": "",
+  "seconds": 1.5
+ },
+ {
+  "row": 49,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.7
+ },
+ {
+  "row": 50,
+  "who": "hawwari",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "quote": "جبل موسى المعروف، وسينين اسم موضعه",
+  "note": "",
+  "seconds": 1.5
+ },
+ {
+  "row": 51,
+  "who": "hawwari",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "quote": "فَلَقَدْ خَلَقْنَا الإنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ",
+  "note": "",
+  "seconds": 1.8
+ },
+ {
+  "row": 52,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "N2"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.4
+ },
+ {
+  "row": 53,
+  "who": "hawwari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "فما يكذبك بعد",
+  "note": "",
+  "seconds": 1.4
+ },
+ {
+  "row": 54,
+  "who": "hawwari",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "أي: بأمر ربهم",
+  "note": "",
+  "seconds": 1.3
+ },
+ {
+  "row": 55,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.6
+ },
+ {
+  "row": 56,
+  "who": "hawwari",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "فالموريات قدحا أي: تصيب الحجارة بحوافرها فتخرج منها النار",
+  "note": "",
+  "seconds": 1.7
+ },
+ {
+  "row": 57,
+  "who": "hawwari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "هي الخيل تغير على العدو إذا أصبحت",
+  "note": "",
+  "seconds": 1.5
+ },
+ {
+  "row": 58,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.9
+ },
+ {
+  "row": 59,
+  "who": "hawwari",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "quote": "عصر النهار، وهو ما بين زوال الشمس إلى الليل",
+  "note": "",
+  "seconds": 1.2
+ },
+ {
+  "row": 60,
+  "who": "hawwari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "فإذا مدت تلك العمد أطبقت على أهلها",
+  "note": "",
+  "seconds": 1.5
+ },
+ {
+  "row": 61,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.2
+ },
+ {
+  "row": 62,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.4
+ },
+ {
+  "row": 63,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "N1",
+   "N2"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.7
+ },
+ {
+  "row": 64,
+  "who": "hawwari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.5
+ },
+ {
+  "row": 65,
+  "who": "hawwari",
+  "type": "single",
+  "holds": [
+   "V3"
+  ],
+  "quote": "لم يلد ولم يولد",
+  "note": "",
+  "seconds": 1.1
+ },
+ {
+  "row": 66,
+  "who": "hawwari",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "quote": "وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+  "note": "",
+  "seconds": 1.3
+ },
+ {
+  "row": 67,
+  "who": "hawwari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "أي: ومن شر الليل إذا أطبق",
+  "note": "",
+  "seconds": 1.2
+ },
+ {
+  "row": 1,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.9
+ },
+ {
+  "row": 2,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.9
+ },
+ {
+  "row": 3,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.1
+ },
+ {
+  "row": 4,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.9
+ },
+ {
+  "row": 5,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.0
+ },
+ {
+  "row": 6,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.0
+ },
+ {
+  "row": 7,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.1
+ },
+ {
+  "row": 8,
+  "who": "himyan",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "فالسابقات سبقا الملائكة تسبق بأرواح المؤمنين إلى الجنة",
+  "note": "",
+  "seconds": 1.9
+ },
+ {
+  "row": 9,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.0
+ },
+ {
+  "row": 10,
+  "who": "himyan",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "ثم دل على انحطاط قدره من حيث أنه مخلوق من نطفة وصائر الى القبر",
+  "note": "",
+  "seconds": 2.3
+ },
+ {
+  "row": 11,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "لفت من كورة العمامة إذا لففتها بمعنى رفعت لأن الثوب إذا أريد رفعه لف",
+  "note": "",
+  "seconds": 1.9
+ },
+ {
+  "row": 12,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.9
+ },
+ {
+  "row": 13,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.2
+ },
+ {
+  "row": 14,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.1
+ },
+ {
+  "row": 15,
+  "who": "himyan",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "quote": "وَاللَّيْلِ إِذَا عَسْعَسَ",
+  "note": "",
+  "seconds": 2.1
+ },
+ {
+  "row": 16,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.7
+ },
+ {
+  "row": 17,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.8
+ },
+ {
+  "row": 18,
+  "who": "himyan",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "عَنْ حُرْمَةِ رَبِهِمْ",
+  "note": "",
+  "seconds": 1.9
+ },
+ {
+  "row": 19,
+  "who": "himyan",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "قائمة العرش اليمنى",
+  "note": "",
+  "seconds": 1.6
+ },
+ {
+  "row": 20,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N3"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.4
+ },
+ {
+  "row": 21,
+  "who": "himyan",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "quote": "الشاهد الإنسان أو الخلائق الحاضرون والمشهود يوم القيامة",
+  "note": "",
+  "seconds": 2.0
+ },
+ {
+  "row": 22,
+  "who": "himyan",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "quote": "يبدئ كل ما لم يكن ويعيد كل ما يعاد",
+  "note": "",
+  "seconds": 1.7
+ },
+ {
+  "row": 23,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.0
+ },
+ {
+  "row": 24,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.2
+ },
+ {
+  "row": 25,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.1
+ },
+ {
+  "row": 26,
+  "who": "himyan",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "هدى الذكور لمأتى الإناث",
+  "note": "",
+  "seconds": 1.8
+ },
+ {
+  "row": 27,
+  "who": "himyan",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "quote": "فلا تنسى إلا ما شاء الله",
+  "note": "",
+  "seconds": 1.9
+ },
+ {
+  "row": 28,
+  "who": "himyan",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّى",
+  "note": "",
+  "seconds": 2.1
+ },
+ {
+  "row": 29,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.0
+ },
+ {
+  "row": 30,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.6
+ },
+ {
+  "row": 31,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N5",
+   "N6"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.7
+ },
+ {
+  "row": 32,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.6
+ },
+ {
+  "row": 33,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7",
+   "N8",
+   "N9",
+   "N10"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.7
+ },
+ {
+  "row": 34,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "N1",
+   "N2"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.2
+ },
+ {
+  "row": 35,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.9
+ },
+ {
+  "row": 36,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V5",
+   "N1",
+   "N2"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.1
+ },
+ {
+  "row": 37,
+  "who": "himyan",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "إن ربك لبالمرصاد أي في المكان الذي يترقب فيه الرصد مفعال من رصده",
+  "note": "",
+  "seconds": 2.3
+ },
+ {
+  "row": 38,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.9
+ },
+ {
+  "row": 39,
+  "who": "himyan",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "يقال للنفس عند الموت",
+  "note": "",
+  "seconds": 2.0
+ },
+ {
+  "row": 40,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.2
+ },
+ {
+  "row": 41,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "N1"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.9
+ },
+ {
+  "row": 42,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.7
+ },
+ {
+  "row": 43,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.8
+ },
+ {
+  "row": 44,
+  "who": "himyan",
+  "type": "single",
+  "holds": [
+   "V2"
+  ],
+  "quote": "العاقر لم يخف عاقبة فعلته",
+  "note": "",
+  "seconds": 1.7
+ },
+ {
+  "row": 45,
+  "who": "himyan",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "وهذا ممتنع لوجهين أحدهما أن القسم الإنشائي لا يقبل التعليق",
+  "note": "",
+  "seconds": 2.1
+ },
+ {
+  "row": 46,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.7
+ },
+ {
+  "row": 47,
+  "who": "himyan",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "quote": "أقبل بظلامه",
+  "note": "",
+  "seconds": 1.6
+ },
+ {
+  "row": 48,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.1
+ },
+ {
+  "row": 49,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "هما تينكم هذا وزيتونكم هذا",
+  "note": "",
+  "seconds": 2.1
+ },
+ {
+  "row": 50,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.7
+ },
+ {
+  "row": 51,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.9
+ },
+ {
+  "row": 52,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.1
+ },
+ {
+  "row": 53,
+  "who": "himyan",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "فمن يكذبك بعد هذا البيان",
+  "note": "",
+  "seconds": 1.8
+ },
+ {
+  "row": 54,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.9
+ },
+ {
+  "row": 55,
+  "who": "himyan",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "حَتّى تَأْتِيَهُمُ الْبَيِّنَةُ",
+  "note": "",
+  "seconds": 2.0
+ },
+ {
+  "row": 56,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.2
+ },
+ {
+  "row": 57,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.8
+ },
+ {
+  "row": 58,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.6
+ },
+ {
+  "row": 59,
+  "who": "himyan",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "المراد الليل والنهار لأنه يقال لهما العصران",
+  "note": "",
+  "seconds": 1.7
+ },
+ {
+  "row": 60,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.7
+ },
+ {
+  "row": 61,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.9
+ },
+ {
+  "row": 62,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 1.7
+ },
+ {
+  "row": 63,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "N1",
+   "N2"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.2
+ },
+ {
+  "row": 64,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.4
+ },
+ {
+  "row": 65,
+  "who": "himyan",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "quote": "قل هو الله الواحد لا شريك له فعلا ولا صفة ولا قولا ولا ذاتا",
+  "note": "",
+  "seconds": 2.2
+ },
+ {
+  "row": 66,
+  "who": "himyan",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+  "note": "",
+  "seconds": 2.1
+ },
+ {
+  "row": 67,
+  "who": "himyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "",
+  "note": "",
+  "seconds": 2.4
+ }
+]

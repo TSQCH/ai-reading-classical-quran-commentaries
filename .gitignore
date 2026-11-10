@@ -1,0 +1,22 @@
+# Text taken from altafsir.com and the packets cut from it: not redistributed (see README).
+paper-and-two-added-commentaries/sources/altafsir-com/
+paper-and-two-added-commentaries/blind-coding/data/
+
+# API keys of the service runners (see README): never part of the repository.
+_secrets/
+
+# Written when the scripts are run.
+**/__pycache__/
+**/logs/
+**/previous-versions/
+paper-and-two-added-commentaries/figures/
+paper-and-two-added-commentaries/sources/springer-template/
+paper-and-two-added-commentaries/human-coding/send-to-reader-*/
+paper-and-two-added-commentaries/human-coding/sample-key/
+
+# Drafts and builds of the paper: the text of the paper is not part of the repository.
+SNM05-paper-*
+
+# Output of the archived service runners: kept apart from the folders of the published coders.
+**/results/deepseek-api/
+**/results/archive-api-runs/

@@ -1,0 +1,72 @@
+row	who	claude type	claude holds	llama type	llama holds	llama quote
+1	hawwari	single	V2	lists_no_choice	V1 V2 N1 N2	
+2	hawwari	lists_no_choice	V3 V2	single	V2	وأنزلنا من المعصرات مآء ثجاجا
+3	hawwari	single	V2	lists_no_choice	V1 V2 V3 N1 N2 N3 N4 N5	
+7	hawwari	single	V2	lists_no_choice	V2 N1 N4 N6	
+8	hawwari	single	V1	prefers	V2	فالسابقات سبقا يعني الملائكة
+9	hawwari	single	V1	lists_no_choice	V1 V2 V3 N1 N2 N3	
+10	hawwari	single	V2	prefers	V2	ثم السبيل يسره
+15	hawwari	lists_no_choice	V2 V1	single	V1	والليل إذا عسعس
+16	hawwari	single	V1	prefers	V3	عموم ما قدّمت وأخّرت من خير أو شرّ
+17	hawwari	lists_no_choice	OTHER N1	single	V5	شجرة سوداء تحت الأرض السابعة
+18	hawwari	single	V1	prefers	V1	لمحجوبون عن رَبِّهِمْ
+19	hawwari	lists_no_choice	N1 V1 V2	prefers	V5	كتاب الأبرار لفي عليين
+20	hawwari	lists_no_choice	V2	single	N1	ذات البروج الاثنا عشر
+22	hawwari	single	V1	prefers	V1	يبدىء الخلق ويعيده، أي: يبعثه يوم القيامة
+23	hawwari	single	V1	single	V2	يعني النجوم المضيئة
+24	hawwari	lists_no_choice	V5 V1	prefers	V2	يعني رد الإنسان ماء كما كان
+25	hawwari	single	V4	lists_no_choice	V1 V2 V3 V4 V5 N1	
+26	hawwari	lists_no_choice	V1 V2	single	V1	هدى الإنسان للخير والشر والبهائم للمراتع
+28	hawwari	silent		prefers	V2	ذكر اسم ربه فصلى
+29	hawwari	lists_no_choice	V1 V2	single	V1	فذكر أي: بالقرآن
+31	hawwari	single	V3	lists_no_choice	V1 V2 V3 N1 N2 N3 N4 N5 N6	
+32	hawwari	single	V1	lists_no_choice	N1 N2 N3	
+35	hawwari	lists_no_choice	V2 V3 V1	single	V1	يعني طول أجسامهم
+36	hawwari	single	V2	prefers	V2	تعذيب الناس بالأوتاد
+37	hawwari	lists_no_choice	OTHER	prefers	V2	إن ربك لبالمرصاد
+38	hawwari	lists_no_choice	V1	single	V1	فمن قرأها بالياء فهو يقول للنبي عليه السلام، ومن قرأها بالتاء فهو يقول للمشركين، يقول لهم كلا بل لا تكرمون اليتيم ولا تح
+39	hawwari	single	V1	single	V2	يقال للنفس عند الموت
+40	hawwari	single	V2	lists_no_choice	V1 V2 N1 N2 N3	
+42	hawwari	lists_no_choice	V2 N1	single	V2	ضوء الشمس وإشراقها
+44	hawwari	lists_no_choice	V1 V2	single	V2	ولا يخاف عقباها
+45	hawwari	single	V3	prefers	V2	فأما من أعطى واتقى وصدق بالحسنى
+46	hawwari	lists_no_choice	N1 V1	single	V1	إذا تردى في جهنم
+47	hawwari	single	N2	single	V2	ذهب وأدبر
+48	hawwari	lists_no_choice	V2 V1	prefers	V1	فإذا فرغت من الصلاة فانصب في الدعاء
+50	hawwari	lists_no_choice	N1 V1	single	V1	جبل موسى المعروف، وسينين اسم موضعه
+51	hawwari	lists_no_choice	V1 V2	single	V1	فَلَقَدْ خَلَقْنَا الإنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ
+53	hawwari	lists_no_choice	V2	prefers	V1	فما يكذبك بعد
+54	hawwari	single	N2	prefers	V2	أي: بأمر ربهم
+55	hawwari	single	V1	lists_no_choice	V1 N1 N2 N3 N4	
+56	hawwari	lists_no_choice	V1 N1	prefers	V2	فالموريات قدحا أي: تصيب الحجارة بحوافرها فتخرج منها النار
+57	hawwari	lists_no_choice	V1	prefers	V1	هي الخيل تغير على العدو إذا أصبحت
+59	hawwari	single	N1	single	V1	عصر النهار، وهو ما بين زوال الشمس إلى الليل
+60	hawwari	single	V1	prefers	V1	فإذا مدت تلك العمد أطبقت على أهلها
+63	hawwari	single	V4	lists_no_choice	V1 V2 V3 V4 V5 V6 N1 N2	
+65	hawwari	lists_no_choice	V5 V4 V1	single	V3	لم يلد ولم يولد
+67	hawwari	lists_no_choice	V1 V2	prefers	V1	أي: ومن شر الليل إذا أطبق
+3	himyan	prefers	N2	lists_no_choice	V1 V2 V3 N1 N2 N3 N4 N5	
+8	himyan	lists_no_choice	V1 N2 V2 V3	prefers	V2	فالسابقات سبقا الملائكة تسبق بأرواح المؤمنين إلى الجنة
+10	himyan	lists_no_choice	V1 V2 N1	prefers	V2	ثم دل على انحطاط قدره من حيث أنه مخلوق من نطفة وصائر الى القبر
+15	himyan	lists_no_choice	V2 V1	single	V1	وَاللَّيْلِ إِذَا عَسْعَسَ
+18	himyan	prefers	V1	prefers	V2	عَنْ حُرْمَةِ رَبِهِمْ
+19	himyan	lists_no_choice	V1 V2 V3 V4 N1 N5 N4 N3	prefers	V2	قائمة العرش اليمنى
+21	himyan	lists_no_choice	V3 N15 N2 N1 N13 N3 N5 V8 N9 N10 V1 V6 N6 V5 N11	prefers	V3	الشاهد الإنسان أو الخلائق الحاضرون والمشهود يوم القيامة
+22	himyan	lists_no_choice	V1 N3 V2	prefers	V3	يبدئ كل ما لم يكن ويعيد كل ما يعاد
+24	himyan	prefers	V5	lists_no_choice	V1 V2 V3 V4 V5 N1	
+26	himyan	lists_no_choice	N1 N4 V1 V2 N3 N2	prefers	V2	هدى الذكور لمأتى الإناث
+27	himyan	lists_no_choice	V1 N2 V3 N1 V2	single	V1	فلا تنسى إلا ما شاء الله
+28	himyan	lists_no_choice	N4 N2 V2 N1 V1	prefers	V2	وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّى
+37	himyan	single	V2	prefers	V2	إن ربك لبالمرصاد أي في المكان الذي يترقب فيه الرصد مفعال من رصده
+38	himyan	single	V1	lists_no_choice	V1 V2	
+39	himyan	lists_no_choice	V2 N1 V1 N2	prefers	V2	يقال للنفس عند الموت
+43	himyan	single	V2	lists_no_choice	V1 V2 V3 N1	
+44	himyan	lists_no_choice	V1 V2 N1	single	V2	العاقر لم يخف عاقبة فعلته
+45	himyan	lists_no_choice	V3 N3 N2 V2 V4	prefers	V2	وهذا ممتنع لوجهين أحدهما أن القسم الإنشائي لا يقبل التعليق
+47	himyan	lists_no_choice	N1 V3 V1 V2	single	V1	أقبل بظلامه
+51	himyan	single	V1	lists_no_choice	V1 V2 V3 N1	
+53	himyan	lists_no_choice	N1 V1 V2	prefers	V1	فمن يكذبك بعد هذا البيان
+55	himyan	lists_no_choice	V1 N1	prefers	V2	حَتّى تَأْتِيَهُمُ الْبَيِّنَةُ
+59	himyan	lists_no_choice	V1 N4 N3 N2	prefers	V1	المراد الليل والنهار لأنه يقال لهما العصران
+65	himyan	lists_no_choice	N1 V4 V5 V1 V3	prefers	V3	قل هو الله الواحد لا شريك له فعلا ولا صفة ولا قولا ولا ذاتا
+66	himyan	single	V1	prefers	V1	وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ

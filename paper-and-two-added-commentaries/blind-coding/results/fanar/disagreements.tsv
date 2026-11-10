@@ -1,0 +1,122 @@
+row	who	claude type	claude holds	fanar type	fanar holds	fanar quote
+1	hawwari	single	V2	prefers	V2	عن النبإ العظيم أي البعث
+2	hawwari	lists_no_choice	V3 V2	prefers	V2	من السحاب
+3	hawwari	single	V2	prefers	V2	الحقب ثمانون سنة
+5	hawwari	lists_no_choice	V3 V1 N2	prefers	V1	عن علي بن أبي طالب قال: هي النجوم تنزع من المشرق وتغرق في المغرب.
+6	hawwari	lists_no_choice	V3 V1	prefers	V1	عن علي بن أبي طالب قال: هي النجوم تنزع من المشرق وتغرق في المغرب. وهو تفسير الحسن.
+7	hawwari	single	V2	prefers	V2	قال: { والسابحات سبحا } يعني النجوم كقوله...
+8	hawwari	single	V1	prefers	V1	قال عز وجل: { فالسابقات سبقا } يعني الملائكة.
+9	hawwari	single	V1	prefers	V3	بأيدي سفرة أي كتبة. يعني الملائكة
+10	hawwari	single	V2	prefers	V2	وقال مجاهد: هو مثل قوله: { إنا هديناه السبيل } أي: بينا له السبيل، سبيل الهدى وسبيل الضلالة
+11	hawwari	lists_no_choice	V1	prefers	V1	أي: ذهب ضوءها.
+12	hawwari	lists_no_choice	V2 V1	prefers	V2	فتصير أعماق البحار ورؤوس الجبال سواء
+13	hawwari	lists_no_choice	V1 N1 V2	combines	V1 V2	قال الحسن: يلحق كل شيعة بشيعتها: اليهود باليهود والنصارى بالنصارى، والمجوس بالمجوس، وكل من كان يعبد من دون الله شيئا بعض
+15	hawwari	lists_no_choice	V2 V1	prefers	V2	إذا أدبر
+16	hawwari	single	V1	combines	V1 V3	ما قدمت من عمل، خيرا كان أو شرا، وما أخرت أي من سنة حسنة فعمل بها بعده فله مثل آجر من عمل بها ولا ينقص من أجورهم شيئا، أ
+17	hawwari	lists_no_choice	OTHER N1	prefers	V1	قال الحسن: لفي سفال.
+18	hawwari	single	V1	prefers	V2	عن ثواب ربهم لمحرومون
+20	hawwari	lists_no_choice	V2	prefers	V2	ذات النجوم
+21	hawwari	lists_no_choice	V1	prefers	V1	قال رسول الله صلى الله عليه وسلم. (وشاهد) يوم الجمعة (ومشهود) يوم عرفة.
+22	hawwari	single	V1	prefers	V1	يبدئ الخلق ثم يعيده بالبعث
+23	hawwari	single	V1	prefers	V4	من بين صلب الرجل وترائب المرأة
+25	hawwari	single	V4	prefers	V1	صل لربك الأعلى
+26	hawwari	lists_no_choice	V1 V2	combines	V1 N1	فبين له سبيل الهدى وسبيل الضلالة في تفسير الحسن.
+27	hawwari	single	V1	prefers	V1	وهذا هو الأقرب
+28	hawwari	silent		single	V2	ذكر الله باللسان ودعاؤه والرغبة إليه
+29	hawwari	lists_no_choice	V1 V2	prefers	V2	صلاة العيد يوم الفطر
+30	hawwari	lists_no_choice	V1 V2	prefers	V1	تفسير الحسن: الغاشية: القيامة تغشى الناس بعذابها وعقابها.
+31	hawwari	single	V3	single	V2	يعني الصبح
+32	hawwari	single	V1	prefers	V1	العشر الأول من ذي الحجة
+33	hawwari	lists_no_choice	V3 V5 N1	prefers	V3	الشفع الخلق والوتر الله
+35	hawwari	lists_no_choice	V2 V3 V1	prefers	V3	ذات البناء الرفيع
+36	hawwari	single	V2	prefers	V2	وكان إذا غضب على أحد أوتد له في الأرض أربعة أوتاد على يديه ورجليه
+37	hawwari	lists_no_choice	OTHER	prefers	V2	يرصد أهل الظلم والعصاة بالعقاب فلا يفوتونه
+38	hawwari	lists_no_choice	V1	prefers	V1	قال الحسن: أكذبهما الله جميعا بقوله: (كلا) أي: لا بالغنى أكرمت ولا بالفقر أهنت.
+39	hawwari	single	V1	single	V2	يقال للنفس عند الموت
+40	hawwari	single	V2	prefers	V2	أي: آدم وما ولد
+41	hawwari	lists_no_choice	V3 V1	prefers	V3	في انتصاب
+42	hawwari	lists_no_choice	V2 N1	single	V2	وضوئها
+43	hawwari	single	V2	prefers	V2	أقسم بها وبنفسه. { والأرض وما طحاها } أي بسطها
+44	hawwari	lists_no_choice	V1 V2	prefers	V1	لا يخاف عقباها
+45	hawwari	single	V3	prefers	V3	فسنيسره لليسرى
+46	hawwari	lists_no_choice	N1 V1	prefers	V2	إذا تردى في القبر إذا مات
+47	hawwari	single	N2	prefers	V2	إذا أظلم
+48	hawwari	lists_no_choice	V2 V1	prefers	V2	فإذا فرغت من قتال أعدائك فانصب إلى ربك في العبادة
+50	hawwari	lists_no_choice	N1 V1	prefers	V1	أي: الجبل الحسن
+51	hawwari	lists_no_choice	V1 V2	prefers	V1	أعدل خلق وأحسن صورة
+52	hawwari	lists_no_choice	V2 V1	prefers	V2	يعني بالإنسان ها هنا المشرك
+53	hawwari	lists_no_choice	V2	prefers	V2	ما الذي يحملك على التكذيب
+54	hawwari	single	N2	prefers	V2	على قراءة من كل امرئ: يسلّمون على كل مؤمن
+56	hawwari	lists_no_choice	V1 N1	prefers	V1	تصيب الحجارة بحوافرها فتخرج منها النار
+57	hawwari	lists_no_choice	V1	prefers	V1	قال الحسن: هي الخيل تغير على العدو إذا أصبحت.
+58	hawwari	lists_no_choice	N1	single	V5	ثم لتسألن يومئذ عن النعيم
+59	hawwari	single	N1	single	V1	عصر النهار، وهو ما بين زوال الشمس إلى الليل.
+60	hawwari	single	V1	prefers	V2	في عمد ممددة
+61	hawwari	lists_no_choice	V3 V1	prefers	V2	قال: { فذلك الذي يدع اليتيم } أي: يدفعه عن حقه { ولا يحض على طعام المسكين }
+62	hawwari	lists_no_choice	V2 N1 V3	single	V3	وقال عطاء: الكوثر حوض أعطاه الله النبي عليه السلام في الجنة.
+64	hawwari	lists_no_choice	V1 V2	prefers	V2	حمالة النميمة
+65	hawwari	lists_no_choice	V5 V4 V1	prefers	V5	الباقي. وتفسير بعضهم: الصمد: الذي قد انتهى في الشرف والسؤدد.
+66	hawwari	single	V1	single	V2	لم يكن له كفوا أحد
+67	hawwari	lists_no_choice	V1 V2	prefers	V1	من شر الليل إذا أطبق
+1	himyan	lists_no_choice	V2 V1 N1	prefers	V2	وهذا هو الأقرب
+2	himyan	lists_no_choice	V2 V1 V3 N1	combines	V1 V2	وأنزلنا من المعصرات السحاب التي تتحلب بالمطر
+3	himyan	prefers	N2	lists_no_choice	V2	وهذا كما نقول فلان جار بيت بيت لم ترد بيتين بل أردت يجري من بيت إلى آخر ومن الآخر الى الآخر وهكذا
+5	himyan	lists_no_choice	V1 V5 V4 N1 V3	prefers	V1	الملائكة التي تنزع أرواح الكفار من أبدانهم
+6	himyan	lists_no_choice	V1 N1 N3 V3	combines	V1 N1	والناشطات نفوس المؤمنين تنشط للخروج
+7	himyan	lists_no_choice	N1 N3 N2 V2	prefers	V1	الملائكة التي تنزع أرواح الكفار من أبدانهم
+8	himyan	lists_no_choice	V1 N2 V2 V3	combines	V1 V2 V3 N2 OTHER	الملائكة التي تنزع أرواح الكفار من أبدانهم أي والجماعات والنازعات وكذا فيما بعد وهو وصف للملائكة. ... الملائكة تسبح من ا
+9	himyan	lists_no_choice	V1 N2 N1 V2 V3	prefers	V3	جمع سافر بمعنى كاتب وهم الملائكة ينسخونها من اللوح المحفوظ
+10	himyan	lists_no_choice	V1 V2 N1	prefers	V1	سهل له طريق الخروج من بطن أمه
+11	himyan	lists_no_choice	N1 V1 V2	prefers	V1	لف ضوءها وزال أثره
+12	himyan	lists_no_choice	V1 V2 V3	prefers	V1	أُوقدت فصارت نارًا
+13	himyan	lists_no_choice	V2 V1 N1 N2	combines	V2 N1	قرنت بشكلها يقرن الرجل الصالح بالرجل الصالح في الجنة والسوء بالسوء في النار رووا ذلك عنه صلى الله عليه وسلم
+14	himyan	lists_no_choice	V1 V3 V2	single	V1	النجمات والكواكب السيارة أو عامتها
+15	himyan	lists_no_choice	V2 V1	prefers	V2	أقبل بظلمته
+16	himyan	lists_no_choice	N3 N2 V2 V1	prefers	V3	ما قدّمت وأخّرت من خير أو شرّ
+17	himyan	lists_no_choice	V1 N1 N4 N3 N2	combines	V1 V2	قال الحسن لفي سفال وعن كعب حجر أسود تحت الأرض السابعة السفلى لا يصعد وهو محل إبليس وجنوده وعليه مجاهد
+18	himyan	prefers	V1	prefers	V2	عن حرمة ربهم أو ثوابه
+19	himyan	lists_no_choice	V1 V2 V3 V4 N1 N5 N4 N3	prefers	V3	الجنة ومحل الأبرار فيها
+20	himyan	lists_no_choice	N1 V2 N3	combines	V1 V2	وَقِيلَ ذَاتُ الْكَوَاكِبِ الْعِظَامِ لِظُهُورِهَا
+22	himyan	lists_no_choice	V1 N3 V2	prefers	V2	يبدئ بطش الكفار في الدنيا ويعيده في الاخرة
+23	himyan	lists_no_choice	V1 V4 V2	prefers	V5	عظام الصدر وقيل عظام الصدر والنحر
+25	himyan	lists_no_choice	V1 V5 V3 V4 N1 V2	prefers	V1	عن ابن عباس: عظم ربك وقل سبحان ربي الأعلى
+26	himyan	lists_no_choice	N1 N4 V1 V2 N3 N2	combines	V1 N1	فهدى لاكتسابها وقيل قدر لكل حيوان ما يصلحه فهداه اليه
+27	himyan	lists_no_choice	V1 N2 V3 N1 V2	prefers	V1	لا ينسى إلا ما شاء الله إنساءه بنسخ تلاوته
+28	himyan	lists_no_choice	N4 N2 V2 N1 V1	prefers	N4	تكبيرة الإحرام في أول الصلاة
+29	himyan	lists_no_choice	V2 V1	prefers	V2	صلاة العيد
+30	himyan	lists_no_choice	V1 V2	prefers	V1	قال بعض المفسرين بمعنى قد والتحقيق أنها للتقرير والتوقيف تحريكا لنفس السامع الى تلقي الخبر * { أتاك حديث الغاشية } القيا
+31	himyan	lists_no_choice	V3 V2 N2 N3 N1 N5	prefers	V2	صلاة الفجر
+32	himyan	lists_no_choice	V1 N3 N2 N1	prefers	V1	العشر الأوائل من ذي الحجة
+35	himyan	lists_no_choice	V3 V1 N3 V2	prefers	V3	ذات البناء الرفيع المشيد على العمد
+36	himyan	lists_no_choice	V1 V5 N1 V2	prefers	V2	تعذيب الناس بالأوتاد
+37	himyan	single	V2	prefers	V2	أي أعدده لهم وأنه لا يفوتونه ولا يخفى عليه حال من أحوالهم
+38	himyan	single	V1	prefers	V1	كلا
+39	himyan	lists_no_choice	V2 N1 V1 N2	prefers	V2	يقال للنفس عند الموت
+40	himyan	lists_no_choice	V2 N1 V3 N3	prefers	V2	آدم وذريته
+41	himyan	lists_no_choice	V1 V3 N1	single	V1	في شدة ومشقة يكابد أمور الدنيا والآخرة
+42	himyan	lists_no_choice	V2 V1 N1 N2	prefers	V2	ضوءها إذا أشرقت وارتفعت
+43	himyan	single	V2	prefers	V2	بسطها ومدها
+44	himyan	lists_no_choice	V1 V2 N1	prefers	V1	وهذا هو الأقرب
+45	himyan	lists_no_choice	V3 N3 N2 V2 V4	prefers	V3	بالجنة
+46	himyan	lists_no_choice	V2 V1 N1	prefers	V2	تردى في جهنم أي وقع فيها
+47	himyan	lists_no_choice	N1 V3 V1 V2	prefers	N1	غطى كل شيء بظلامه
+48	himyan	lists_no_choice	N2 N3 V2 V1 V3 N1	prefers	V3	إذا فرغت من أمر الدنيا فانصب في العبادة
+49	himyan	lists_no_choice	V1 V2 N3 N2 V3	single	V1	المأكولين
+50	himyan	lists_no_choice	V1 V2	prefers	V1	وَطُورُ سِينِينَ ۚ الْجَبَلُ الَّذِي كَلَّمَ اللَّهُ مُوسَى عَلَيْهِ وَسَالَمَ وَسِينِينَ مَضَافٌ إِلَيْهِ وَهُوَ اسْمٌ 
+51	himyan	single	V1	prefers	V1	أعدل خلق وأحسن صورة
+52	himyan	lists_no_choice	V2 N1 V1	prefers	V1	أرذل العمر والهرم وذهاب العقل
+53	himyan	lists_no_choice	N1 V1 V2	prefers	V3	وهذا هو الأقرب
+54	himyan	lists_no_choice	V1 N2 V2	prefers	V1	قضاه الله فيها لتلك السنة
+55	himyan	lists_no_choice	V1 N1	prefers	V1	منتهين وزائلين عن كفرهم وشركهم
+56	himyan	lists_no_choice	V1 V6 OTHER	prefers	V6	فالموريات قدحا بحوافرها
+57	himyan	lists_no_choice	V1 V2	prefers	V1	الخيل تغير على العدو وقت الصبح
+58	himyan	lists_no_choice	V4 V5 N5 N1	prefers	V4	الرطب والماء البارد كذا قيل
+59	himyan	lists_no_choice	V1 N4 N3 N2	combines	V1 N2 N3 N4 N5	وقيل عصر النبوة بما فيه من الأعاجيب كعصر نبينا وعصر سيدنا موسى عليهما الصلاة والسلام
+60	himyan	lists_no_choice	V2 V1 V3	prefers	V1	وهذا هو الأقرب
+61	himyan	lists_no_choice	V3 V1 V2 N1	prefers	V3	غافلون غير مبالين بها صلوها أو تركوها
+62	himyan	lists_no_choice	N1 N2 V3 V1 V2	prefers	V2	قيل لأعرابية رجع ابنها من السفر بم آب ابنك فقالت آب بكوثر.
+63	himyan	lists_no_choice	V5 V3 V4 V1 V2	prefers	V4	صلاة العيد ثم نحر الأضحية
+64	himyan	lists_no_choice	N1 N3 V2 V1 N4	prefers	V3	عيّرت النبي بالفقر فعُيّرت بأنها كانت تحتطب
+65	himyan	lists_no_choice	N1 V4 V5 V1 V3	prefers	V3	الذي لم يلد ولم يولد
+66	himyan	single	V1	prefers	V2	لم تكن له صاحبة
+67	himyan	lists_no_choice	V1 V4 V3	prefers	V4	وقيل الغاسق الليل ووقوبه اقباله بضلامه

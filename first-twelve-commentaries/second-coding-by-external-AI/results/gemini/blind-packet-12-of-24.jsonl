@@ -1,0 +1,26 @@
+{"row": 33, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "N10", "V5", "V2", "V3", "N2", "V4", "N7", "N8", "N5", "N4", "N9", "N1", "OTHER"], "quote": "واختلف الناس في الشفع والوتر", "note": "OTHER for views like Maghrib and Subh, or Hawwa and Adam"}
+{"row": 33, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V5"], "quote": "واختلف في \"الشفع والوتر\" ما هما؟ على أقوال كثيرة", "note": ""}
+{"row": 33, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V5", "N10", "V1"], "quote": "وذكر ابن عطية في الشفع والوتر أربعة عشر قولا، والزمخشري ثلاثة أقوال", "note": ""}
+{"row": 33, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V4", "N6", "V1"], "quote": "ولقد كثرت فيهما الأقوال والله تعالى أعلم بحقيقة الحال", "note": ""}
+{"row": 33, "who": "nasafi", "type": "lists_no_choice", "holds": ["V4", "N6", "V5", "V1", "V3"], "quote": "شفع كل الأشياء ووترها أو شفع هذه الليالي ووترها", "note": ""}
+{"row": 34, "who": "tabari", "type": "prefers", "holds": ["V6"], "quote": "وأشبه الأقوال فيه بالصواب عندي: أنها اسم قبيلة من عاد", "note": ""}
+{"row": 34, "who": "razi", "type": "lists_no_choice", "holds": ["N1", "V6", "V1", "V2", "V3", "N2"], "quote": "وفي المراد منه في هذه الآية أقوال", "note": ""}
+{"row": 34, "who": "qurtubi", "type": "lists_no_choice", "holds": ["N1", "V4", "V5", "OTHER", "V6"], "quote": "وإرم: قيل هو سام بن نوح", "note": "OTHER for القوية"}
+{"row": 34, "who": "baydawi", "type": "lists_no_choice", "holds": ["V6", "V1"], "quote": "إرم عطف بيان لعاد على تقدير مضاف أي سبط إرم، أو أهل إرم إن صح أنه إسم بلدتهم", "note": ""}
+{"row": 34, "who": "ibnJuzayy", "type": "prefers", "holds": ["V1"], "quote": "أو صفة للمدينة وهذا أظهر لقوله في البلاد", "note": ""}
+{"row": 34, "who": "khazin", "type": "lists_no_choice", "holds": ["N1", "V6", "V3", "V2", "V1"], "quote": "وإرم هو جد عاد على ما ذكر في نسبه عاد. وقيل إن المتقدمين من قوم عاد كانوا يسمون بإرم", "note": ""}
+{"row": 34, "who": "ibnAshur", "type": "prefers", "holds": ["V6"], "quote": "فعاد وإرم اسمان لقبيلة عاد الأولى", "note": ""}
+{"row": 34, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V6", "N1", "V1", "V2", "V3", "V5"], "quote": "واختلف الناس في إرم فقال مجاهد وقتادة: هي القبيلة بعينها", "note": ""}
+{"row": 34, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V6", "N1", "V1"], "quote": "واختلف في: \"إرم\" فقال مجاهد: هي القبيلة بعينها", "note": ""}
+{"row": 34, "who": "abuHayyan", "type": "prefers", "holds": ["V1"], "quote": "وإن كان يترجح كونها مدينة بقوله: لم يخلق مثلها في البلاد", "note": ""}
+{"row": 34, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V6", "V1"], "quote": "بتقدير مضاف أي سبط إرم أو أهل إرم على ما قبل من أن إرم اسم بلدتهم", "note": ""}
+{"row": 34, "who": "nasafi", "type": "lists_no_choice", "holds": ["V6", "V1"], "quote": "فارم عطف بيان لعاد وإيذان بأنهم عاد الأولى القديمة وقيل إرم بلدتهم", "note": ""}
+{"row": 35, "who": "tabari", "type": "prefers", "holds": ["V2"], "quote": "وأشبه الأقوال في ذلك بما دل عليه ظاهر التنزيل: قول من قال: عني بذلك أنهم كانوا أهل عمود سيارة", "note": ""}
+{"row": 35, "who": "razi", "type": "lists_no_choice", "holds": ["V2", "V1", "V3"], "quote": "في إعرابه وجهان وذلك لأنا إن جعلنا: إرم اسم القبيلة فالمعنى أنهم كانوا بدويين", "note": ""}
+{"row": 35, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "N1", "V2", "V3", "V4"], "quote": "قال أبو عبيدة: ذات العماد ذات الطول", "note": ""}
+{"row": 35, "who": "baydawi", "type": "lists_no_choice", "holds": ["V3", "V1", "N3"], "quote": "ذات العماد ذات البناء الرفيع أو القدود الطوال، أو الرفعة والثبات", "note": ""}
+{"row": 35, "who": "ibnJuzayy", "type": "prefers", "holds": ["V3"], "quote": "أو صفة للمدينة وهذا أظهر لقوله في البلاد", "note": "Preference established by choosing the city referent for the phrase 'allati lam yukhlaq'."}
+{"row": 35, "who": "khazin", "type": "lists_no_choice", "holds": ["V2", "V1", "V3"], "quote": "وسموا ذات العماد لأنهم كانوا أهل عمد سيارة", "note": ""}
+{"row": 35, "who": "ibnAshur", "type": "prefers", "holds": ["V4"], "quote": "وهو هنا مستعار للقوة تشبيها للقبيلة القوية بالبيت ذات العماد", "note": ""}
+{"row": 35, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V3", "V2", "V1"], "quote": "واختلف الناس في قوله تعالى: ذات العماد فمن قال إرم مدينة، قال العماد أعمدة الحجارة", "note": ""}
+{"row": 35, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V3", "V2"], "quote": "واختلف في قوله تعالى: ذات العماد فمن قال: إرم مدينة قال: العماد أعمدة الحجارة", "note": ""}

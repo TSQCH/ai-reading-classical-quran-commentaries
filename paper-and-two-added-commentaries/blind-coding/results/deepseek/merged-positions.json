@@ -1,0 +1,1637 @@
+[
+ {
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "note": "",
+  "quote": "قال عز وجل: { عن النبإ العظيم } أي البعث، وذلك منهم تكذيب واستهزاء. قال عز وجل: { الذي هم فيه مختلفون } يعني البعث اختلف فيه المشركون والمؤمنون، فآمن به المؤمنون وكفر به المشركون.",
+  "row": 1,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 134.7
+ },
+ {
+  "holds": [
+   "V2",
+   "V3"
+  ],
+  "note": "",
+  "quote": "أنزلنا من المعصرات ماء ثجاجا",
+  "row": 2,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 109.3
+ },
+ {
+  "holds": [
+   "V2"
+  ],
+  "note": "",
+  "quote": "لابثين فيها أحقابا",
+  "row": 3,
+  "type": "single",
+  "who": "hawwari",
+  "seconds": 109.4
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "note": "",
+  "quote": "قال بعضهم: هو القيح الغليظ المنتن. وقال بعضهم: هي بالفارسية الغساق بلسانهم، أي: المنتن. وبعضهم يقول: الغساق: الذي لا يستطاع من شدة برده، وهو الزمهرير.",
+  "row": 4,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 93.2
+ },
+ {
+  "holds": [],
+  "note": "",
+  "quote": "ذكروا عن محمد بن علي قال: هي الملائكة تنزع أنفس بني آدم. قال سفيان. وبعضهم يقول: هي النجوم.",
+  "row": 5,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 102.7
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "note": "",
+  "quote": "ذكروا عن محمد بن علي قال: هي الملائكة تنزع أنفس بني آدم. قال سفيان. وبعضهم يقول: هي النجوم. وقال بعضهم: هي بقر الوحش.",
+  "row": 6,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 392.8
+ },
+ {
+  "holds": [
+   "V2",
+   "N1"
+  ],
+  "note": "",
+  "quote": "النجوم",
+  "row": 7,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 263.0
+ },
+ {
+  "holds": [
+   "V1"
+  ],
+  "note": "",
+  "quote": "فالسابقات سبقا",
+  "row": 8,
+  "type": "single",
+  "who": "hawwari",
+  "seconds": 117.9
+ },
+ {
+  "holds": [
+   "V3"
+  ],
+  "note": "",
+  "quote": "بأيدي سفرة أي: كتبة، يعني الملائكة",
+  "row": 9,
+  "type": "single",
+  "who": "hawwari",
+  "seconds": 92.9
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "note": "",
+  "quote": "ثم السبيل يسره",
+  "row": 10,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 92.6
+ },
+ {
+  "holds": [
+   "OTHER"
+  ],
+  "note": "The commentator describes the event but does not explicitly choose a view, thus lists_no_choice.",
+  "quote": "قال رسول الله صلى الله عليه وسلم على بعير معقول أول النهار، ثم مر عليه آخر النهار وهو كما هو، فقال:",
+  "row": 11,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 88.9
+ },
+ {
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "note": "",
+  "quote": "قال: { وإذا البحار سجرت } أي: فاضت، فتصير أعماق البحار ورؤوس الجبال سواء.",
+  "row": 12,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 294.4
+ },
+ {
+  "holds": [
+   "OTHER"
+  ],
+  "note": "يزوج كل إنسان نظيره من الجنة، ويزوج كل إنسان نظيره من أهل النار",
+  "quote": "يزوج كل إنسان نظيره من الجنة، ويزوج كل إنسان نظيره من أهل النار",
+  "row": 13,
+  "type": "prefers",
+  "who": "hawwari",
+  "seconds": 151.6
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "note": "Hawwari presents multiple interpretations without preference.",
+  "quote": "قال بعضهم: بلغنا أنها خمسة تجري في مجرى الشمس: وهي الزهرة والمشتري، والمريخ، وزحل، وعطارد. وقال بعضهم: { الجوار } يعني جريها في السماء { الكنس } تفسير الحسن: أن ترجع إلى مطلعها في القابلة. وقال الكلبي: { الكنس } يعني أنها تكنس، أي: تتغيب وتتوارى بالنهار كما تتوارى الظباء في كناسها. وبعضهم يقول: { الجوار الكنس } هي بقر الوحش.",
+  "row": 14,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 244.0
+ },
+ {
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "note": "",
+  "quote": "تفسير الحسن: إذا أظلم، وتفسير الكلبي: إذا أدبر. وقال مجاهد: يقال إقباله ويقال إدباره.",
+  "row": 15,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 110.2
+ },
+ {
+  "holds": [
+   "V3"
+  ],
+  "note": "",
+  "quote": "علمت نفس ما قدمت من عمل، خيرا كان أو شرا، (وما أخرت) أي من سنة حسنة فعمل بها بعده فله مثل آجر من عمل بها ولا ينقص من أجورهم شيئا، أو سنة سيئة فعمل بها بعده فعليه مثل وزر من عمل بها ولا ينقص من أوزارهم شيئا",
+  "row": 16,
+  "type": "single",
+  "who": "hawwari",
+  "seconds": 155.1
+ },
+ {
+  "holds": [],
+  "note": "",
+  "quote": "قال الحسن: لفي سفال. وقال كعب: حجر أسود تحت الأرض السابعة لا يصعد",
+  "row": 17,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 69.4
+ },
+ {
+  "holds": [
+   "V1"
+  ],
+  "note": "",
+  "quote": "كلا إنهم عن ربهم يومئذ لمحجوبون. { ثم إنهم لصالوا الجحيم } أي النار { ثم يقال هذا الذي كنتم به تكذبون } أي: في الدنيا، يقال ذلك للمشركين وهم في النار.",
+  "row": 18,
+  "type": "single",
+  "who": "hawwari",
+  "seconds": 161.7
+ },
+ {
+  "holds": [],
+  "note": "",
+  "quote": "",
+  "row": 19,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 290.7
+ },
+ {
+  "holds": [],
+  "note": "",
+  "quote": "",
+  "row": 20,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 143.4
+ },
+ {
+  "holds": [
+   "V1"
+  ],
+  "note": "",
+  "quote": "قال الحسن: قال رسول الله صلى الله عليه وسلم. (وشاهد) يوم الجمعة (ومشهود) يوم عرفة.",
+  "row": 21,
+  "type": "single",
+  "who": "hawwari",
+  "seconds": 149.8
+ },
+ {
+  "holds": [
+   "V1"
+  ],
+  "note": "",
+  "quote": "إن الذين آمنوا وعملوا الصالحات لهم جنات تجري من تحتها الأنهار ذلك الفوز الكبير } أي: النجاة العظيمة من النار إلى الجنة.",
+  "row": 22,
+  "type": "single",
+  "who": "hawwari",
+  "seconds": 132.7
+ },
+ {
+  "holds": [
+   "V4"
+  ],
+  "note": "",
+  "quote": "من بين صلب الرجل ونحرها، وهو نحرها",
+  "row": 23,
+  "type": "single",
+  "who": "hawwari",
+  "seconds": 146.6
+ },
+ {
+  "holds": [
+   "V5"
+  ],
+  "note": "",
+  "quote": "لإحياء الإنسان بعد موته وبعثه",
+  "row": 24,
+  "type": "single",
+  "who": "hawwari",
+  "seconds": 154.3
+ },
+ {
+  "holds": [
+   "V1"
+  ],
+  "note": "",
+  "quote": "سبح اسم ربك الأعلى أي: صل لربك الأعلى",
+  "row": 25,
+  "type": "single",
+  "who": "hawwari",
+  "seconds": 135.5
+ },
+ {
+  "holds": [],
+  "note": "",
+  "quote": "قال (فهدى) أي فبين له سبيل الهدى وسبيل الضلالة في تفسير الحسن. وبعضهم يقول (قدر فهدى) أي: علم الذكر كيف يأتي الأنثى.",
+  "row": 26,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 213.3
+ },
+ {
+  "holds": [],
+  "note": "",
+  "quote": "سنقرئك فلا تنسى إلا ما شآء الله. وقال تعالى: إنه يعلم الجهر وما يخفى",
+  "row": 27,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 167.1
+ },
+ {
+  "holds": [
+   "V2",
+   "N2"
+  ],
+  "note": "The commentator lists multiple interpretations without choosing, hence 'lists_no_choice'.",
+  "quote": "وذكر اسم ربه فصلى",
+  "row": 28,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 169.3
+ },
+ {
+  "holds": [
+   "V2",
+   "N1"
+  ],
+  "note": "",
+  "quote": " وقال بعضهم: { قد أفلح من تزكى } أي زكاة الفطر { وذكر اسم ربه فصلى } أي: صلاة العيد أي: أدى زكاة الفطر قبل أن يخرج إلى المصلى.",
+  "row": 29,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 225.0
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "note": "",
+  "quote": "تفسير الحسن: الغاشية: القيامة تغشى الناس بعذابها وعقابها. وتفسير الكلبي: الغاشية غاشية النار.",
+  "row": 30,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 162.9
+ },
+ {
+  "holds": [
+   "V2"
+  ],
+  "note": "",
+  "quote": "قوله تعالى: { والْفَجْرِ } يعني الصبح",
+  "row": 31,
+  "type": "single",
+  "who": "hawwari",
+  "seconds": 33.7
+ },
+ {
+  "holds": [],
+  "note": "",
+  "quote": "",
+  "row": 32,
+  "type": "silent",
+  "who": "hawwari",
+  "seconds": 51.2
+ },
+ {
+  "holds": [],
+  "note": "",
+  "quote": "قال بعضهم: الشفع الخلق، والوتر الله. ذكروا عن عمر بن حصين أنه قال: إن من الصلاة شفعا ومنها وترا. وتفسير الحسن: العدد كله منه الشفع ومنه الوتر، يعني بالشفع الاثنين، وبالوتر الواحد.",
+  "row": 33,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 172.7
+ },
+ {
+  "holds": [
+   "V6"
+  ],
+  "note": "",
+  "quote": "وتفسر بعضهم: إرم قبيلة من عاد",
+  "row": 34,
+  "type": "single",
+  "who": "hawwari",
+  "seconds": 132.0
+ },
+ {
+  "holds": [
+   "V1",
+   "V3"
+  ],
+  "note": "",
+  "quote": "تقول العرب للرجل الطويل: المعمد. { ذات العماد }. تفسير الحسن: ذات البناء الرفيع. وقيل: يعني ذات الطول",
+  "row": 35,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 151.0
+ },
+ {
+  "holds": [
+   "V2"
+  ],
+  "note": "",
+  "quote": "كان إذا غضب على أحد أوتد له في الأرض أربعة أوتاد على يديه ورجليه، ولذلك سمي ذا الأوتاد.",
+  "row": 36,
+  "type": "single",
+  "who": "hawwari",
+  "seconds": 246.6
+ },
+ {
+  "holds": [
+   "V2"
+  ],
+  "note": "The commentator explains that the phrase refers to monitoring those who do wrong, aligning with V2, but does not explicitly choose between the views.",
+  "quote": "ينتظر أهل الظلم والعصاة بالعقاب فلا يفوتونه",
+  "row": 37,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 214.6
+ },
+ {
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "note": "",
+  "quote": "بل لا تكرمون اليتيم ولا تحاضون على طعام المسكين",
+  "row": 38,
+  "type": "combines",
+  "who": "hawwari",
+  "seconds": 182.9
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "note": "",
+  "quote": "يتمنى لو آمن في الدنيا فيحيا في الجنة",
+  "row": 39,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 306.6
+ },
+ {
+  "holds": [
+   "V2"
+  ],
+  "note": "",
+  "quote": "آدم وذريته",
+  "row": 40,
+  "type": "single",
+  "who": "hawwari",
+  "seconds": 151.3
+ },
+ {
+  "holds": [
+   "V1",
+   "V3"
+  ],
+  "note": "",
+  "quote": "قال عز وجل: { لقد خلقنا الإنسان في كبد } أي في انتصاب. وقيل: في شدة وذلك أن الخلق كلهم منكب إلا ابن آدم",
+  "row": 41,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 195.7
+ },
+ {
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "note": "",
+  "quote": "أي: وضوئها، وبعضهم يقول: وحرها",
+  "row": 42,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 178.9
+ },
+ {
+  "holds": [
+   "V2"
+  ],
+  "note": "",
+  "quote": "والأرض وما طحاها",
+  "row": 43,
+  "type": "single",
+  "who": "hawwari",
+  "seconds": 198.2
+ },
+ {
+  "holds": [
+   "OTHER"
+  ],
+  "note": "The commentator provides a narrative explanation without explicitly choosing a view.",
+  "quote": "ولا يخاف عقباها",
+  "row": 44,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 168.7
+ },
+ {
+  "holds": [
+   "V3"
+  ],
+  "note": "",
+  "quote": "وصدق بالحسنى",
+  "row": 45,
+  "type": "single",
+  "who": "hawwari",
+  "seconds": 130.4
+ },
+ {
+  "holds": [
+   "V1"
+  ],
+  "note": "",
+  "quote": "قال بعضهم: إذا تردى في النار، إذا هوى فيها.",
+  "row": 46,
+  "type": "prefers",
+  "who": "hawwari",
+  "seconds": 204.1
+ },
+ {
+  "holds": [
+   "OTHER"
+  ],
+  "note": "The commentator explains the general meaning without choosing a specific view.",
+  "quote": "وَاللَّيْلِ إِذَا سَجَى",
+  "row": 47,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 122.3
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "note": "",
+  "quote": "تفسير الحسن: فإذا فرغت من قتال أعدائك فانصب إلى ربك في العبادة. قال: أمره الله أن لا يؤثر شيئا من أمر الدنيا على شيء من أمر الآخرة؛ والله أعلم كيف كان تفسير الحسن هذه الآية. وقال الكلبي: فإذا فرغت من الصلاة فانصب في الدعاء.",
+  "row": 48,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 94.9
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N4"
+  ],
+  "note": "",
+  "quote": "قال بعضهم: التين جبل دمشق، والزيتون جبل بيت المقدس. وقال الكلبي: تينكم هذا وزيتونكم هذا.",
+  "row": 49,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 92.8
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "note": "",
+  "quote": "الطور: الجبل، و(سنين): الحسن. أي: الجبل الحسن.",
+  "row": 50,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 70.3
+ },
+ {
+  "holds": [
+   "V1"
+  ],
+  "note": "",
+  "quote": "قال عز وجل: { لقد خلقنا الإنسان في أحسن تقويم } أي: في أحسن صورة وقال مجاهد: في أحسن الخلق",
+  "row": 51,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 65.5
+ },
+ {
+  "holds": [],
+  "note": "",
+  "quote": "ثم رددناه أسفل سافلين",
+  "row": 52,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 88.5
+ },
+ {
+  "holds": [
+   "V3"
+  ],
+  "note": "",
+  "quote": "قال عز وجل: { أليس الله بأحكم الحاكمين } ذكروا أن رسول الله صلى الله عليه وسلم قال:",
+  "row": 53,
+  "type": "single",
+  "who": "hawwari",
+  "seconds": 69.3
+ },
+ {
+  "holds": [
+   "N2"
+  ],
+  "note": "",
+  "quote": "من كل أمر",
+  "row": 54,
+  "type": "single",
+  "who": "hawwari",
+  "seconds": 136.5
+ },
+ {
+  "holds": [
+   "V2"
+  ],
+  "note": "",
+  "quote": "قال عز وجل: { لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ مُنْفَكِّينَ حَتَّى تَأْتِيَهُمُ الْبَيِّنَةُ } أي: إلا من بعد ما جاءهم البيان من الله.",
+  "row": 55,
+  "type": "single",
+  "who": "hawwari",
+  "seconds": 113.7
+ },
+ {
+  "holds": [
+   "OTHER"
+  ],
+  "note": "The commentator presents multiple interpretations without choosing one, so it's lists_no_choice.",
+  "quote": "فالموريات قَدْحًا أي: تصيب الحجارة بحوافرها فتخرج منها النار.",
+  "row": 56,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 72.9
+ },
+ {
+  "holds": [
+   "V1"
+  ],
+  "note": "",
+  "quote": "فَالْمُغِيرَاتِ صُبْحًا",
+  "row": 57,
+  "type": "prefers",
+  "who": "hawwari",
+  "seconds": 60.4
+ },
+ {
+  "holds": [],
+  "note": "",
+  "quote": "",
+  "row": 58,
+  "type": "silent",
+  "who": "hawwari",
+  "seconds": 78.6
+ },
+ {
+  "holds": [
+   "OTHER"
+  ],
+  "note": "The commentator explains the term 'العصر' but does not explicitly choose a view, merely presenting interpretations.",
+  "quote": "قوله تعالى: { والعصر } أي: عصر النهار، وهو ما بين زوال الشمس إلى الليل.",
+  "row": 59,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 53.6
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "note": "",
+  "quote": "لها عمد هي ممدودة بها",
+  "row": 60,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 71.6
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "note": "",
+  "quote": "فويل للمصلين } وهم المنافقون { الذين هم عن صلاتهم ساهون",
+  "row": 61,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 70.6
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "note": "",
+  "quote": "ذكروا أن رسول الله صلى الله عليه وسلم ذكر في حديث ليلة أسري به قال: وقال مجاهد: الكوثر: الخير كله. وقال الحسن: الكوثر: القرآن. وقال عطاء: الكوثر حوض أعطاه الله النبي عليه السلام في الجنة.",
+  "row": 62,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 89.7
+ },
+ {
+  "holds": [],
+  "note": "",
+  "quote": "",
+  "row": 63,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 69.8
+ },
+ {
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "note": "",
+  "quote": "قال الحسن: كانت تلقي العضاه على طريق النبي عليه السلام، فكأنما يطأ به كثيبا. وقال مجاهد: { حمالة الحطب } يعني حمالة النميمة؛ [تمشي بالنميمة].",
+  "row": 64,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 100.8
+ },
+ {
+  "holds": [
+   "V5"
+  ],
+  "note": "",
+  "quote": "أي: الباقي",
+  "row": 65,
+  "type": "single",
+  "who": "hawwari",
+  "seconds": 52.0
+ },
+ {
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "note": "Commentator presents multiple views without preference.",
+  "quote": "قال بعضهم: الصمد: الذي قد انتهى في الشرف والسؤدد. وتفسير الكلبي: الذي لا يأكل ولا يشرب.",
+  "row": 66,
+  "type": "lists_no_choice",
+  "who": "hawwari",
+  "seconds": 60.5
+ },
+ {
+  "holds": [
+   "V1"
+  ],
+  "note": "",
+  "quote": "قال بعضهم: عن ابن عباس في قوله تعالى: [الإسراء:78] أي اجتماع الليل وظلمته.",
+  "row": 67,
+  "type": "single",
+  "who": "hawwari",
+  "seconds": 146.8
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "note": "",
+  "quote": "النبأ العظيم كما مر البعث عن قتادة أو القرآن وعليه الجمهور ومجاهد أو النبوة دعاهم صلى الله عليه وسلم إلى التوحيد وأخبرهم بالبعث وأنه رسول تتكذبوه فيحتمل أن النبأ ذلك كله، وعن ابن عباس وقتادة في رواية عنه أن النبأ هو الشرع الذي جاء به محمد صلى الله عليه وسلم.",
+  "row": 1,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 340.1
+ },
+ {
+  "holds": [],
+  "note": "",
+  "quote": "المعصرات السحب التي تتحلب بالمطر",
+  "row": 2,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 78.7
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "note": "",
+  "quote": "",
+  "row": 3,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 75.7
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "note": "",
+  "quote": "",
+  "row": 4,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 203.7
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "note": "",
+  "quote": "الملائكة التي تنزع أرواح الكفار من أبدانهم",
+  "row": 5,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 74.5
+ },
+ {
+  "holds": [
+   "V1"
+  ],
+  "note": "",
+  "quote": "النفوس تنشط للخروج لما ترى من الكرامة",
+  "row": 6,
+  "type": "single",
+  "who": "himyan",
+  "seconds": 63.8
+ },
+ {
+  "holds": [
+   "OTHER"
+  ],
+  "note": "The commentator discusses multiple interpretations without choosing one, thus lists_no_choice.",
+  "quote": "السабحات سبحا",
+  "row": 7,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 71.1
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "note": "",
+  "quote": "فالسَّابِقَاتِ سَبْقًا | الملائكة تسبق بأرواح المؤمنين إلى الجنة وبأرواح الكافرين إلى النار",
+  "row": 8,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 117.7
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "note": "",
+  "quote": "",
+  "row": 9,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 82.5
+ },
+ {
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "note": "",
+  "quote": "ثم السبيل يسره",
+  "row": 10,
+  "type": "combines",
+  "who": "himyan",
+  "seconds": 65.9
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "note": "The commentator presents multiple interpretations without choosing one.",
+  "quote": "بسم الله الرحمن الرحيم { إذا الشمس كورت } لفت من كورة العمامة إذا لففتها بمعنى رفعت لأن الثوب إذا أريد رفعه لف، فافها عبارة عن إزالتها أو لف ضوءها وزال أثره فحذف المضاف أو كنى عن ذهاب الضوء بلفها لأنها ما دامت غير ملفوفة فضوؤها منبسط أو أزيل ضوءها وهي باقية ولله أن يفعل ما يشاء.",
+  "row": 11,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 67.6
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "note": "",
+  "quote": "قال Ibn عباس وابي Ibn كعب ومجاهد أوقدت فصارت نارًا ; V2 = مُلئت حتى فاضت وفُجّر بعضها في بعض ; V3 = ذهب ماؤها ويبست",
+  "row": 12,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 106.9
+ },
+ {
+  "holds": [
+   "V2",
+   "N2"
+  ],
+  "note": "Combines V2 and N2 as both are part of the overall meaning.",
+  "quote": "وَعَنْ النَّعْمَانِ بْنِ بَشِيرٍ وَعُمَرِ بْنِ الْخَطَّابِ وَابْنِ عَبَّاسٍ قَرَّنَتْ بِشَكْلِهَا يُقَرَّنُ الرَّجُلُ الصَّالِحُ بِالرَّجُلِ الصَّالِحِ فِي الْجَنَّةِ وَالسُّوءِ بِالسُّوءِ فِي النَّارِ رَوَوْا ذَلِكَ عَنْهُمْ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَقِيلَ أَنَّ النَّعْمَانَ سَأَلَ عُمَرَ فَأَجَابَهُ بِذَلِكَ وَقِيلَ يُحْشَرُ الرَّجُلُ مَعَ صَاحِبِ عَمَلِهِ مَنْ رَغِبَ فِي الْعِلْمِ مَعَ مَنْ رَغِبَ فِيهِ وَالزَّانِي مَعَ الزَّانِي وَهَكَذَا وَعَنْ الْحَسَنِ الْيَهُودَ بِالْيَهُودِ وَالنَّصْرَانِيَّ بِالنَّصْرَانِيَّ وَهَكَذَا وَالْمُنَافِقَ بِالْمُنَافِقِ وَالْمُؤْمِنَ بِالْمُؤْمِنَ وَقَالَ الْكَلْبِيُّ يُقَرَّنُ الْمُؤْمِنُ بِالْحُورَاءِ وَالْكَافِرُ بِشَيْطَانِهِ وَقِيلَ تُقَرَّنُ بِكُتُبِهَا وَأَعْمَالِهَا وَفِي الْآيَةِ خَصَّ عَلِيٌ خَلِيلَ الْخَيْرِ قَالَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+  "row": 13,
+  "type": "combines",
+  "who": "himyan",
+  "seconds": 180.7
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "note": "",
+  "quote": "الخنس الجواري الكنس الظبا تأوي الى أماكنها وعليه ابن مسعود وقال الجمهور المراد الدراري السبعة الخمسة المذكورة والشمس والقمر وقيل بقر الوحش",
+  "row": 14,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 295.7
+ },
+ {
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "note": "",
+  "quote": "الحسن قال أقبل بظلمته وقال ابن عباس والكلبي أدبر",
+  "row": 15,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 56.1
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "note": "",
+  "quote": "{ علمت نفس } جواب إذا الأولى وما عطف عليها",
+  "row": 16,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 172.5
+ },
+ {
+  "holds": [],
+  "note": "",
+  "quote": "",
+  "row": 17,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 74.3
+ },
+ {
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "note": "",
+  "quote": "وعن كرامته وعليه ابن كيسان أو ذلك تمثيلا لإهانتهم因为他 لا يرد على الملوك إلا المكرمون وليس ثم نظر الى الله أصلا",
+  "row": 18,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 75.5
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7"
+  ],
+  "note": "The commentator lists multiple views without preference.",
+  "quote": "جبل لواحد له من لفظه ومعناه مواضع عالية علوا عظيما وقيل جمع علي بتشديد اللام من العلو كسجين من السجن مبالغة في العلو وقيل اسم مفرد لموضع واحد مشتمل على مواضع على صيغة الجمع الجمع السالم المذكر وقيل جمع على في الأصل ثم سمى به الموضع وهو موضع في السماء السابعة تحت العرش رواه البراء وابن عباس وقال مجاهد أيضا كذلك.",
+  "row": 19,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 115.0
+ },
+ {
+  "holds": [],
+  "note": "",
+  "quote": "الإثني عشر شبهت بالقصور لأنها تنزلها السيارات ولأنها تظهر وعن ابن عباس ذات النجوم وقيل ذات الكواكب العظام لظهورها وقيل منازل القمر وقيل البروج النوازل على حذف مضاف أي وأبواب السماء",
+  "row": 20,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 80.3
+ },
+ {
+  "holds": [],
+  "note": "",
+  "quote": "وشهود ما أحضر فيه من العجائب...",
+  "row": 21,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 83.9
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "note": "",
+  "quote": "يبدئ الخلق أولا ويبعثهم بعد فنائهم ومن هذه قدرته لا يعجزه شيء ويفعل ما يريد من بطش وغيره قاله الضحاك وبن زيد وعن ابن عباس",
+  "row": 22,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 79.9
+ },
+ {
+  "holds": [],
+  "note": "",
+  "quote": "",
+  "row": 23,
+  "type": "silent",
+  "who": "himyan",
+  "seconds": 77.2
+ },
+ {
+  "holds": [
+   "V5"
+  ],
+  "note": "",
+  "quote": "قال Ibn Juzayy: إنه على رجعه, أي على قدرته على إعادته بعد الموت",
+  "row": 24,
+  "type": "prefers",
+  "who": "himyan",
+  "seconds": 83.3
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1"
+  ],
+  "note": "",
+  "quote": "قل سبحان ربي الأعلى عن ابن عباس",
+  "row": 25,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 93.4
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "note": "",
+  "quote": "فهداية عامة لكل مخلوق إلى ما يصلحه دون تخصيص",
+  "row": 26,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 90.0
+ },
+ {
+  "holds": [],
+  "note": "",
+  "quote": "",
+  "row": 27,
+  "type": "silent",
+  "who": "himyan",
+  "seconds": 67.4
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "note": "",
+  "quote": " ذكر الله باللسان ودعاؤه والرغبة إليه ",
+  "row": 28,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 113.4
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "note": "",
+  "quote": "قيل فصلها صلاة العيد...",
+  "row": 29,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 130.2
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "note": "The commentator lists multiple views without explicitly choosing one, thus it's lists_no_choice.",
+  "quote": "القيامة لأنها تغشى الناس بأهوالها أي تعلوهم وتغطيهم أو النار كما قال وتغشى وجوههم النار",
+  "row": 30,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 203.0
+ },
+ {
+  "holds": [
+   "OTHER"
+  ],
+  "note": "The commentator presents multiple interpretations but does not explicitly choose one, hence lists_no_choice.",
+  "quote": "فجر كل يوم أقسم به تعظيما له لما يحصل به من ذهاب الليل وظهور الضوء وانتشار الناس وسائر الحيوانات في طلب الأرزاق وذلك يشبه نشر الموتى من قبورهم للبعث والمراد الوقت أو نفس الطلوع وذلك مذهب الجمهور",
+  "row": 31,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 18.3
+ },
+ {
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "note": "",
+  "quote": "",
+  "row": 32,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 169.5
+ },
+ {
+  "holds": [],
+  "note": "The commentator lists various interpretations without choosing one, thus it's lists_no_choice.",
+  "quote": "الشفع الخلق والوتر الله",
+  "row": 33,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 229.8
+ },
+ {
+  "holds": [
+   "OTHER"
+  ],
+  "note": "The commentator discusses multiple interpretations without choosing, thus lists_no_choice.",
+  "quote": "{ إرم } بدل عاد أو عطف بيان والمراد به قوم عاد وأصله اسم جدهم سموا به...",
+  "row": 34,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 131.3
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "note": "",
+  "quote": "ذَاتِ الْعِمَادِ",
+  "row": 35,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 159.5
+ },
+ {
+  "holds": [
+   "V2"
+  ],
+  "note": "",
+  "quote": "ذو الأوتاد هو الذي يعذب الناس بها",
+  "row": 36,
+  "type": "single",
+  "who": "himyan",
+  "seconds": 126.6
+ },
+ {
+  "holds": [
+   "OTHER"
+  ],
+  "note": "The commentator explains the phrase in his own words, focusing on God's surveillance and justice, which aligns with V2 but isn't explicitly stated as such.",
+  "quote": "إن ربك لبالمرصاد أي في المكان الذي يترقب فيه الرصد مفعال من رصده كالميقات من وقت والميعاد من وعد وهو كناية وتمثيل لإرصاد الكفار بالعقاب أي أعددهم لهم وأنه لا يفوتونه ولا يخفى عليه حال من أحوالهم.",
+  "row": 37,
+  "type": "single",
+  "who": "himyan",
+  "seconds": 207.3
+ },
+ {
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "note": "The commentator discusses both views but does not explicitly choose between them.",
+  "quote": "قال { ولا تنقمع الشهوات بشيء كما تنقمع بنار الخوف انتهى الله لا يريد من الإنسان إلا الطاعة والسعي للآخرة",
+  "row": 38,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 246.5
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "note": "",
+  "quote": "ثاقه أحد فعذاب مفعول يعذب لا مفعول مطلق وإنما تعدى اليه لتضمنه معنى يتولى أو مفعول مطلق والمفعول محذوف أي لا يعذب تعذيبه أحد أي لا يتولى تعذيب العاصي والأمر في ذلك اليوم كله لله وللإنسان أي لا يتولى تعذيب الإنسان أحد أو لا يعذبه ذلك التعذيب غير الله",
+  "row": 39,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 220.2
+ },
+ {
+  "holds": [
+   "N1"
+  ],
+  "note": "",
+  "quote": "و قال الوالد آدم عليه الصلاة والسلام * { وما ولد } من الأنبياء والمؤمنين إلى يوم القيامة ولا حرمة لغيرهم حتى يقسم به، وقيل المراد العموم فإن في خلق كل أحد قدرة عظيمة",
+  "row": 40,
+  "type": "single",
+  "who": "himyan",
+  "seconds": 268.1
+ },
+ {
+  "holds": [
+   "V1",
+   "V3",
+   "V4",
+   "N1"
+  ],
+  "note": "",
+  "quote": "وهو حشيش طيب الرائحة، وقيل الآية من أولها لآخرها مكية قبل الهجرة...",
+  "row": 41,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 186.4
+ },
+ {
+  "holds": [
+   "OTHER"
+  ],
+  "note": "The commentator lists multiple interpretations without choosing, but the exact meaning isn't among the provided views.",
+  "quote": "قاله مجاهد، وقيل الضحى النهار كله لأن الضحى هو نور الشمس وهو حاصل في النهار كله وقال مقاتل الضحى حرها لأنه ونورها متلازمان إذا اشتد نورها قوي حرها وهو ضعيف،",
+  "row": 42,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 226.4
+ },
+ {
+  "holds": [
+   "V2"
+  ],
+  "note": "",
+  "quote": "الأرض وما طحاها بسطها وأوسعها وسطحها على الماء.",
+  "row": 43,
+  "type": "single",
+  "who": "himyan",
+  "seconds": 310.9
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "note": "",
+  "quote": "وجائز أن يراد بأشقاها الجماعة االمجتمعين على العقر",
+  "row": 44,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 648.1
+ },
+ {
+  "holds": [
+   "V3",
+   "V4",
+   "N3"
+  ],
+  "note": "",
+  "quote": "وصدق بالجنة أو بملة الإسلام أو بالخصلة التي هي الإيمان أو الكلمة الحسنى وهي ما دلت على حق ككلمة التوحيد وما دل على ثواب",
+  "row": 45,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 202.2
+ },
+ {
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "note": "",
+  "quote": "قال جندب بن عبد الله لا فقر بعد الجنة ولا غنى بعد النار لا يفك أسيرها ولا يستغني فقيرها ووزن تردى تفعل بفتح التاء والفاء والعين المشددة.",
+  "row": 46,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 202.8
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "note": "",
+  "quote": "غطى كل شيء بظلامه وقيل سكن ظلامه أو سكن فيه الناس",
+  "row": 47,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 157.6
+ },
+ {
+  "holds": [],
+  "note": "",
+  "quote": "إذا فرغت من تبليغ الرسالة فانصب في العبادة والاستغفار",
+  "row": 48,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 111.7
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "note": "",
+  "quote": "التين والزيتون المأكولان",
+  "row": 49,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 223.4
+ },
+ {
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "note": "",
+  "quote": "جبل موسى المعروف، وسينين اسم موضعه",
+  "row": 50,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 549.6
+ },
+ {
+  "holds": [
+   "N1"
+  ],
+  "note": "",
+  "quote": "وخلقنا الإنسان خير خلقة وأحسن تقويم",
+  "row": 51,
+  "type": "single",
+  "who": "himyan",
+  "seconds": 313.8
+ },
+ {
+  "holds": [
+   "OTHER"
+  ],
+  "note": "The commentator discusses various interpretations without explicitly choosing one, thus it's lists_no_choice.",
+  "quote": "",
+  "row": 52,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 266.9
+ },
+ {
+  "holds": [
+   "OTHER"
+  ],
+  "note": "The commentator presents multiple interpretations without choosing one, thus lists_no_choice.",
+  "quote": "ه فيها.",
+  "row": 53,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 132.0
+ },
+ {
+  "holds": [
+   "V1"
+  ],
+  "note": "",
+  "quote": "قضاه الله فيها لتلك السنة",
+  "row": 54,
+  "type": "prefers",
+  "who": "himyan",
+  "seconds": 461.2
+ },
+ {
+  "holds": [
+   "N3"
+  ],
+  "note": "",
+  "quote": "ولم يكن المشركون وأهل الكتاب منفكين عن كفرهم وشركهم حتى تأتيهم البينة التي تهديهم وتبين الحق لهم",
+  "row": 55,
+  "type": "single",
+  "who": "himyan",
+  "seconds": 284.2
+ },
+ {
+  "holds": [
+   "V1"
+  ],
+  "note": "",
+  "quote": "الخيل التي توري النار بحوافرها",
+  "row": 56,
+  "type": "single",
+  "who": "himyan",
+  "seconds": 300.3
+ },
+ {
+  "holds": [
+   "V1"
+  ],
+  "note": "",
+  "quote": "فَالْمُغِيرَاتِ صُبْحًا",
+  "row": 57,
+  "type": "single",
+  "who": "himyan",
+  "seconds": 278.4
+ },
+ {
+  "holds": [
+   "V5"
+  ],
+  "note": "",
+  "quote": "النعيم ما يلتذ به من الصحة والفراغ والأمن والمطعم والمشرب وكل منفعة",
+  "row": 58,
+  "type": "combines",
+  "who": "himyan",
+  "seconds": 356.9
+ },
+ {
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "note": "",
+  "quote": "قال ابن عباس الدهر لما يخلق الله فيه من العبر والعجائب وقيل المراد الليل والنهار",
+  "row": 59,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 137.9
+ },
+ {
+  "holds": [
+   "V3"
+  ],
+  "note": "",
+  "quote": "عمد يعذبون بها في النار",
+  "row": 60,
+  "type": "single",
+  "who": "himyan",
+  "seconds": 283.1
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "note": "The commentator discusses multiple interpretations but does not explicitly choose one.",
+  "quote": "وعن بعض أن العبد يسجد السجدة وعنده أنه تقرب إلى الله بها ولو قسمت ذنوبه في سجدته على أهل مدينة لهلكوا وذلك إذا أصغى إلى هوى أو استولى باطل على قلبه، وعن أنس وعطاء بن يسار الحمد لله الذي قال عن صلاتهم ولم يقل في صلاتهم",
+  "row": 61,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 192.9
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "note": "",
+  "quote": "الجمهور أنه نهر في الجنة",
+  "row": 62,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 183.8
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "N1",
+   "N2"
+  ],
+  "note": "",
+  "quote": "",
+  "row": 63,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 297.2
+ },
+ {
+  "holds": [
+   "N1"
+  ],
+  "note": "",
+  "quote": "كانت تحمل الحطب في جهنم",
+  "row": 64,
+  "type": "single",
+  "who": "himyan",
+  "seconds": 188.4
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1"
+  ],
+  "note": "Commentator lists multiple views without preference.",
+  "quote": "ذلك تحقيق وإثبات للوجود",
+  "row": 65,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 315.4
+ },
+ {
+  "holds": [],
+  "note": "",
+  "quote": "ولم يكن له كفؤا أحد قيل وتكرير لفظ الله للدلالة على أن من لم يتصف به لم يستحق الألوهية",
+  "row": 66,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 233.2
+ },
+ {
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N2"
+  ],
+  "note": "",
+  "quote": "فيه محاكاة لفاتحة يوم القيامة وقيل خص الصباح لأنه وقت إجابة الملهوفين ودعاء المضطرين وقيل واد في جهنم إذا فتح استعاذ منه ليلها كلهم لشدة حره",
+  "row": 67,
+  "type": "lists_no_choice",
+  "who": "himyan",
+  "seconds": 136.1
+ }
+]

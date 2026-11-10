@@ -1,0 +1,624 @@
+{"row": 1, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 26.4}
+{"row": 1, "who": "razi", "type": "prefers", "holds": ["V2"], "quote": "وهذا هو الأقرب", "note": "", "seconds": 1.7}
+{"row": 1, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 1, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 1, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 1, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 1, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 2, "who": "tabari", "type": "prefers", "holds": ["V2"], "quote": "وإنما قلنا ذلك أولى بالصواب", "note": "", "seconds": 2.3}
+{"row": 2, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 2, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 2, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 2, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 2, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 2, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "وأنزلنا من المعصرات ماء ثجاجا", "note": "", "seconds": 2.0}
+{"row": 3, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 3, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 3, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 3, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 3, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 3, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 3, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 4, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 4, "who": "razi", "type": "prefers", "holds": ["V2"], "quote": "الجواب عن الثاني: أنه لم يقل لا يذوقون فيها البرد بل قال لا يذوقون فيها بردا واحدا، وهو البرد الذي ينتفعون به ويستريحون إليه.", "note": "", "seconds": 2.5}
+{"row": 4, "who": "qurtubi", "type": "prefers", "holds": ["V1"], "quote": "فلهم منه من العذاب ما الله أعلم به", "note": "", "seconds": 2.0}
+{"row": 4, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "إلا حميما وغساقا", "note": "", "seconds": 2.2}
+{"row": 4, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 4, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 4, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "إلا حميما وغساقا", "note": "", "seconds": 2.2}
+{"row": 5, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 5, "who": "razi", "type": "combines", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3"], "quote": "فحينئذ يندرج تحته جميع هذه الوجوه", "note": "", "seconds": 2.5}
+{"row": 5, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 5, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 5, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 5, "who": "khazin", "type": "prefers", "holds": ["V1"], "quote": "يعني الملائكة تنزع أرواح الكفار من أقاصي أجسامهم", "note": "", "seconds": 2.2}
+{"row": 5, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 5, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 5, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 5, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 5, "who": "abuSaud", "type": "prefers", "holds": ["V1"], "quote": "در مؤكد بحذف الزوائد أي إغراقا في النزع", "note": "", "seconds": 2.1}
+{"row": 5, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 6, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 6, "who": "razi", "type": "combines", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3", "N4"], "quote": "فحينئذ يندرج تحته جميع هذه الوجوه", "note": "", "seconds": 2.5}
+{"row": 6, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 6, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 6, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 6, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 6, "who": "ibnAshur", "type": "prefers", "holds": ["V1"], "quote": "وهو إثبات البعث لأن الموت أول منازل الآخرة", "note": "", "seconds": 2.1}
+{"row": 6, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 6, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 6, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 6, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 6, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 7, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 7, "who": "razi", "type": "combines", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "فحينئذ يندرج تحته جميع هذه الوجوه", "note": "", "seconds": 2.6}
+{"row": 7, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 7, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 7, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.5}
+{"row": 7, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 7, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "قوله تعالى: والنجم إذا هوى [النجم: 1] ", "note": "", "seconds": 2.1}
+{"row": 7, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.5}
+{"row": 7, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 7, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 7, "who": "abuSaud", "type": "prefers", "holds": ["V2"], "quote": "يسبح في الفلك فيسبق بعضها بعضا", "note": "", "seconds": 2.0}
+{"row": 7, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 8, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 8, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 8, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 8, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 8, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 8, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 8, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "فالسابقات سبقا", "note": "", "seconds": 1.9}
+{"row": 8, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 8, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 8, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 8, "who": "abuSaud", "type": "prefers", "holds": ["V2"], "quote": "فيدبرون أمرها", "note": "", "seconds": 1.9}
+{"row": 8, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 9, "who": "tabari", "type": "combines", "holds": ["V3"], "quote": "وأولى الأقوال في ذلك بالصواب قول من قال: هم الملائكة الذين يَسْفِرون بين الله ورسله بالوحي.", "note": "", "seconds": 2.1}
+{"row": 9, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 9, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 9, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 9, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 9, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 9, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 9, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 9, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 9, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 9, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 9, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 10, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 10, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 10, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 10, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 10, "who": "ibnJuzayy", "type": "prefers", "holds": ["V2"], "quote": "ثم السبيل يسره", "note": "", "seconds": 2.0}
+{"row": 10, "who": "khazin", "type": "prefers", "holds": ["V2"], "quote": "ثم السبيل يسره أي سهل له العلم بطريق الحق والباطل", "note": "", "seconds": 2.1}
+{"row": 10, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "وفرع على فعل خلقه فعل فقدره بفاء التفريع", "note": "", "seconds": 2.1}
+{"row": 11, "who": "tabari", "type": "combines", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "فإذا فعل ذلك بها ذهب ضوءها", "note": "", "seconds": 2.5}
+{"row": 11, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 11, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 11, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 11, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 11, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 11, "who": "ibnAshur", "type": "prefers", "holds": ["V1"], "quote": "إذا الشمس كُوِّرَتْ", "note": "", "seconds": 2.0}
+{"row": 11, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 11, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 11, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 11, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 11, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 12, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 12, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 12, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 12, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 12, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 12, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 12, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "V3"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 13, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 13, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 13, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 13, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 13, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 13, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 13, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "إذا الأشخاص نوعت وصنفت فجعلت أصنافا: المؤمنون، والصالحون، والكفار، والفجار", "note": "", "seconds": 2.5}
+{"row": 14, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 14, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "فإذا ذكر الله خنس", "note": "", "seconds": 2.1}
+{"row": 14, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 14, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 14, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 14, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 14, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 15, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 15, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "وأما قوله تعالى: والليل إذا عسعس", "note": "", "seconds": 2.1}
+{"row": 15, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 15, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "والليل إذا عسعس", "note": "", "seconds": 2.0}
+{"row": 15, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "وَاللَّيْلِ إِذَا عَسْعَسَ", "note": "", "seconds": 2.2}
+{"row": 15, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": "", "seconds": 1.8}
+{"row": 15, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "أقبل بظلامه", "note": "", "seconds": 1.8}
+{"row": 16, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 16, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 16, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 16, "who": "baydawi", "type": "single", "holds": ["V2"], "quote": "علمت نفس ما قدمت من عمل أو صدقة", "note": "", "seconds": 2.0}
+{"row": 16, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 16, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 16, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 16, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 16, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 16, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 16, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 16, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 17, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 17, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 17, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 17, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V3", "N1", "N2", "N3", "N4"], "quote": "كتاب مرقوم أي مسطور بين الكتابة أو معلم بعلم من رآه أنه لا خير فيه", "note": "", "seconds": 2.7}
+{"row": 17, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 17, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 17, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 18, "who": "tabari", "type": "combines", "holds": ["V1", "V2"], "quote": "فالصواب أن يقال: هم محجوبون عن رؤيته، وعن كرامته", "note": "", "seconds": 2.3}
+{"row": 18, "who": "razi", "type": "prefers", "holds": ["V2"], "quote": "لمحجوبون أي غير مقربين", "note": "", "seconds": 1.9}
+{"row": 18, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": "", "seconds": 1.8}
+{"row": 18, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 18, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": "", "seconds": 1.8}
+{"row": 18, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "قيل عن كرامته ورحمته ممنوعون، وقيل إن الله لا ينظر إليهم ولا يزكيهم", "note": "", "seconds": 2.3}
+{"row": 18, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "عن ربهم لمحجوبون", "note": "", "seconds": 2.0}
+{"row": 19, "who": "tabari", "type": "combines", "holds": ["V1", "V2", "V3", "V4", "V5"], "quote": "فبين أن قوله: {لفي عليين} [المطففين: 18] معناه: في علو وارتفاع، في سماء فوق سماء، وعلو فوق علو", "note": "", "seconds": 2.9}
+{"row": 19, "who": "razi", "type": "prefers", "holds": ["V3"], "quote": "كلا إن كتاب الأبرار لفي عليين", "note": "", "seconds": 1.9}
+{"row": 19, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.5}
+{"row": 19, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.5}
+{"row": 19, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.5}
+{"row": 19, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.5}
+{"row": 19, "who": "ibnAshur", "type": "combines", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5"], "quote": "إن الأبرار لفي نعيم (22) على الأرائك ينظرون (23) تعرف في وجوههم نضرة النعيم (24) يسقون من رحيق مختوم (25) ختامه مسك وفي ذلك فليتنافس المتنافسون (26) ومزاجه من تسنيم (27) عينا يشرب بها المقربون (28)", "note": "", "seconds": 4.2}
+{"row": 20, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 20, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 20, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 20, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 20, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 20, "who": "khazin", "type": "prefers", "holds": ["V2"], "quote": "يعني البروج الاثنا عشر", "note": "", "seconds": 1.9}
+{"row": 20, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "وسمي برجا لأن المصطلحين تخيلوا أن الشمس تحل فيه مدة", "note": "", "seconds": 2.2}
+{"row": 21, "who": "tabari", "type": "prefers", "holds": ["V1"], "quote": "فذلك قوله", "note": "", "seconds": 2.2}
+{"row": 21, "who": "razi", "type": "prefers", "holds": ["V2"], "quote": "حمل الآية على هذا الاحتمال الثاني أولى", "note": "", "seconds": 2.2}
+{"row": 21, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "V8", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N10", "N11", "N12", "N13", "N14", "N15", "N16", "N17", "N18", "N19", "N20"], "quote": "", "note": "", "seconds": 4.0}
+{"row": 21, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "V8", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N10", "N11", "N12", "N13", "N14", "N15", "N16", "N17", "N18", "N19", "N20"], "quote": "", "note": "", "seconds": 4.0}
+{"row": 21, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "V8", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N10", "N11", "N12", "N13", "N14", "N15", "N16", "N17", "N18", "N19", "N20"], "quote": "", "note": "", "seconds": 4.0}
+{"row": 21, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "V8", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N10", "N11", "N12", "N13", "N14", "N15", "N16", "N17", "N18", "N19", "N20"], "quote": "", "note": "", "seconds": 4.0}
+{"row": 21, "who": "ibnAshur", "type": "prefers", "holds": ["V1"], "quote": "يوم شاهد ويوم مشهود", "note": "", "seconds": 2.2}
+{"row": 21, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "V8", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N10", "N11", "N12", "N13", "N14", "N15", "N16", "N17", "N18", "N19", "N20"], "quote": "", "note": "", "seconds": 4.0}
+{"row": 21, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "V8", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N10", "N11", "N12", "N13", "N14", "N15", "N16", "N17", "N18", "N19", "N20"], "quote": "", "note": "", "seconds": 4.1}
+{"row": 21, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "V8", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N10", "N11", "N12", "N13", "N14", "N15", "N16", "N17", "N18", "N19", "N20"], "quote": "", "note": "", "seconds": 4.0}
+{"row": 21, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "V8", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N10", "N11", "N12", "N13", "N14", "N15", "N16", "N17", "N18", "N19", "N20"], "quote": "", "note": "", "seconds": 4.0}
+{"row": 21, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "V8", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N10", "N11", "N12", "N13", "N14", "N15", "N16", "N17", "N18", "N19", "N20"], "quote": "", "note": "", "seconds": 4.0}
+{"row": 22, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 22, "who": "razi", "type": "prefers", "holds": ["V2"], "quote": "إنه هو يبدئ ويعيد أي إنه يخلق خلقه ثم يفنيهم ثم يعيدهم أحياء", "note": "", "seconds": 2.3}
+{"row": 22, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 22, "who": "baydawi", "type": "combines", "holds": ["V1", "V2", "N1", "N2", "N3"], "quote": "إنه هو يبدئ ويعيد", "note": "", "seconds": 2.3}
+{"row": 22, "who": "ibnJuzayy", "type": "prefers", "holds": ["V1"], "quote": "إنه يبدئ ويعيد أي يبدئ الخلق بالنشأة الأولى، ويعيدهم بالنشأة الآخرة للبعث", "note": "", "seconds": 2.4}
+{"row": 22, "who": "khazin", "type": "single", "holds": ["V3"], "quote": "إنه هو يبدئ ويعيد", "note": "", "seconds": 2.0}
+{"row": 22, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "في البدء والعود، أي في الدنيا والآخرة", "note": "", "seconds": 2.1}
+{"row": 22, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 22, "who": "thaalibi", "type": "combines", "holds": ["N3"], "quote": "فيهما قسمان يستوفيان جميع الأشياء", "note": "", "seconds": 2.1}
+{"row": 22, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 22, "who": "abuSaud", "type": "prefers", "holds": ["V2"], "quote": "إنه هو يبدىء ويعيد أي هو يبدىء الخلق وهو يعيده من غير دخل لأحد في شيء منهما", "note": "", "seconds": 2.4}
+{"row": 22, "who": "nasafi", "type": "single", "holds": ["V3"], "quote": "عامّ في جميع الأشياء: يبدئ كل ما يُبدأ ويعيد كل ما يُعاد", "note": "", "seconds": 2.2}
+{"row": 23, "who": "tabari", "type": "prefers", "holds": ["V1"], "quote": "وبه جاءت أشعارهم", "note": "", "seconds": 2.0}
+{"row": 23, "who": "razi", "type": "lists_no_choice", "holds": ["V2", "V3", "V4", "V5", "V6"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 23, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 23, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6"], "quote": "يخرج من بين الصلب والترائب", "note": "", "seconds": 2.3}
+{"row": 23, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 23, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 23, "who": "ibnAshur", "type": "single", "holds": ["V2"], "quote": "ومحرر أقوال اللغويين فيها أنها عظام الصدر التي بين الترقوتين والثديين ووسموه بأنه موضع القلادة من المرأة.", "note": "", "seconds": 2.5}
+{"row": 24, "who": "tabari", "type": "prefers", "holds": ["V5"], "quote": "وَعُنِي بقوله: ﴿يَوْمَ تُبْلَى السَّرَائِرُ﴾", "note": "", "seconds": 2.7}
+{"row": 24, "who": "razi", "type": "prefers", "holds": ["V2"], "quote": "يوم تبلى السرائر", "note": "", "seconds": 1.9}
+{"row": 24, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 24, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 24, "who": "ibnJuzayy", "type": "prefers", "holds": ["V2"], "quote": "يعيده", "note": "", "seconds": 1.9}
+{"row": 24, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 24, "who": "ibnAshur", "type": "single", "holds": ["V2"], "quote": "رد الإنسان ماء كما كان", "note": "", "seconds": 1.9}
+{"row": 25, "who": "tabari", "type": "prefers", "holds": ["V1"], "quote": "فقال بعضهم: معناه: عظم ربك الأعلى، لا ربّ أعلى منه وأعظم", "note": "", "seconds": 2.1}
+{"row": 25, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 25, "who": "qurtubi", "type": "prefers", "holds": ["V1"], "quote": "سبح اسم ربك الأعلى", "note": "", "seconds": 1.9}
+{"row": 25, "who": "baydawi", "type": "prefers", "holds": ["V2"], "quote": "نزه اسمه عن الإلحاد فيه بالتأويلات الزائغة", "note": "", "seconds": 2.2}
+{"row": 25, "who": "ibnJuzayy", "type": "prefers", "holds": ["V1"], "quote": "سبح اسم ربك الأعلى", "note": "", "seconds": 2.0}
+{"row": 25, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 25, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "والتسبيح: التنزيه عن النقائص وهو من الأسماء التي لا تضاف لغير اسم الله تعالى", "note": "", "seconds": 2.4}
+{"row": 26, "who": "tabari", "type": "lists_no_choice", "holds": [], "quote": "وقال آخرون: بل معنى ذلك: هدى الذكور لمأتى الإناث", "note": "", "seconds": 2.1}
+{"row": 26, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 26, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "فهدى أي أرشد", "note": "", "seconds": 2.1}
+{"row": 26, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "فهدى", "note": "", "seconds": 2.2}
+{"row": 26, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 26, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 26, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "فهدى كل مقدر إلى ما قدر له", "note": "", "seconds": 2.0}
+{"row": 27, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 1.8}
+{"row": 27, "who": "razi", "type": "prefers", "holds": ["V2"], "quote": "فلا يترك العمل إلا بما نسخ", "note": "", "seconds": 1.9}
+{"row": 27, "who": "qurtubi", "type": "prefers", "holds": ["V2"], "quote": "فلا تنسى أي فتحفظ", "note": "", "seconds": 2.0}
+{"row": 27, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 27, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 27, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "فلا تنسى يعني ما يقرأ عليك، وذلك أن النبي صلى الله عليه وسلم كان إذا نزل جبريل بالوحي، لم يفرغ من آخر الآية حتى يتكلم رسول الله صلى الله عليه وسلم بأولها، مخافة أن ينساها، فأنزل الله تعالى سنقرئك فلا تنسى", "note": "", "seconds": 3.3}
+{"row": 27, "who": "ibnAshur", "type": "prefers", "holds": ["V1"], "quote": "فإنه سيتتابع ويتكاثر فلا يخش نسيانه", "note": "", "seconds": 2.2}
+{"row": 28, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 28, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 28, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 28, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 28, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 28, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 28, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "فالتذكر هو غاية الذكرى المأمور بها الرسول صلى الله عليه وسلم في قوله تعالى: فذكر [الأعلى: 9]", "note": "", "seconds": 2.5}
+{"row": 28, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 28, "who": "thaalibi", "type": "single", "holds": ["V2"], "quote": "وذكر اسم ربه فصلى", "note": "", "seconds": 2.0}
+{"row": 28, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 28, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 28, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 29, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 29, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 29, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 29, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 29, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 29, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 29, "who": "ibnAshur", "type": "prefers", "holds": ["V1"], "quote": "فمادة التفعل للتكلف وبذل الجهد، وأصل ذلك هو التوحيد والاستعداد للأعمال الصالحة التي جاء بها الإسلام", "note": "", "seconds": 2.4}
+{"row": 29, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 29, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 29, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 29, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 29, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 30, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 30, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "N1", "N2"], "quote": "أما قوله تعالى: وجوه يومئذ خاشعة عاملة ناصبة فاعلم أنه وصف لأهل الشقاوة،", "note": "", "seconds": 2.5}
+{"row": 30, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 30, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "N1", "N2"], "quote": "وجوه يومئذ خاشعة", "note": "", "seconds": 2.1}
+{"row": 30, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 30, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 30, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 31, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 31, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 31, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 31, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 31, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 31, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 31, "who": "ibnAshur", "type": "single", "holds": ["V2"], "quote": "وقوله: والفجر الجامع بين انتهاء ظلمة الليل وابتداء نور النهار", "note": "", "seconds": 2.1}
+{"row": 32, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 32, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 32, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 32, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 32, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 32, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 32, "who": "ibnAshur", "type": "prefers", "holds": ["V1"], "quote": "ففيها يكون الإحرام ودخول مكة وأعمال الطواف", "note": "", "seconds": 2.0}
+{"row": 33, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N10"], "quote": "", "note": "", "seconds": 2.9}
+{"row": 33, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N10"], "quote": "", "note": "", "seconds": 2.9}
+{"row": 33, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N10"], "quote": "", "note": "", "seconds": 2.9}
+{"row": 33, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N10"], "quote": "", "note": "", "seconds": 2.9}
+{"row": 33, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N10"], "quote": "", "note": "", "seconds": 2.9}
+{"row": 33, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N10"], "quote": "", "note": "", "seconds": 2.9}
+{"row": 33, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N10"], "quote": "", "note": "", "seconds": 3.0}
+{"row": 33, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N10"], "quote": "", "note": "", "seconds": 2.9}
+{"row": 33, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N10"], "quote": "", "note": "", "seconds": 2.9}
+{"row": 33, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N10"], "quote": "", "note": "", "seconds": 2.9}
+{"row": 33, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N10"], "quote": "", "note": "", "seconds": 2.9}
+{"row": 33, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N10"], "quote": "", "note": "", "seconds": 2.9}
+{"row": 34, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "N1", "N2"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 34, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "N1", "N2"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 34, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "N1", "N2"], "quote": "إرم ذات العماد", "note": "", "seconds": 2.3}
+{"row": 34, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "N1", "N2"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 34, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "N1", "N2"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 34, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "N1", "N2"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 34, "who": "ibnAshur", "type": "single", "holds": ["V1"], "quote": "اسم بلدة كانت عاد تسكنها", "note": "", "seconds": 2.0}
+{"row": 34, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "N1", "N2"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 34, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "N1", "N2"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 34, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "N1", "N2"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 34, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "N1", "N2"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 34, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "N1", "N2"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 35, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 35, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 35, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 35, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 35, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 35, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 35, "who": "ibnAshur", "type": "single", "holds": ["V3"], "quote": "ذات العماد", "note": "", "seconds": 1.9}
+{"row": 35, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 35, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 35, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 35, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 35, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 36, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V5", "N1", "N2"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 36, "who": "razi", "type": "prefers", "holds": ["V2"], "quote": "يعذيب الناس بالأوتاد", "note": "", "seconds": 1.9}
+{"row": 36, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V5", "N1", "N2"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 36, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V5", "N1", "N2"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 36, "who": "ibnJuzayy", "type": "silent", "holds": [], "quote": "", "note": "", "seconds": 0.9}
+{"row": 36, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V5", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 36, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V5", "N1", "N2"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 36, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V5", "N1", "N2"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 36, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V5", "N1", "N2"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 36, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V5", "N1", "N2"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 36, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V5", "N1", "N2"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 36, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V5", "N1", "N2"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 37, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 37, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 37, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 37, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 37, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "يرى ويسمع ويرقب أعمال العباد كلها", "note": "", "seconds": 2.1}
+{"row": 37, "who": "khazin", "type": "prefers", "holds": ["V2"], "quote": "إن ربك لبالمرصاد يعني بحيث يرى ويسمع", "note": "", "seconds": 2.1}
+{"row": 37, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "يرى ويسمع ويرقب أعمال العباد كلها", "note": "", "seconds": 2.1}
+{"row": 37, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 37, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 37, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 37, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "يرى ويسمع ويرقب أعمال العباد كلها", "note": "", "seconds": 2.1}
+{"row": 37, "who": "nasafi", "type": "prefers", "holds": ["V2"], "quote": "إن ربك لبالمرصاد", "note": "", "seconds": 2.0}
+{"row": 38, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "فقال: بل لستم تكرمون اليتيم، فلذلك أهنتكم", "note": "", "seconds": 2.2}
+{"row": 38, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": "", "seconds": 1.8}
+{"row": 38, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 38, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 38, "who": "ibnJuzayy", "type": "prefers", "holds": ["V1"], "quote": "إنكار جعل الغنى كرامة والفقر إهانة", "note": "", "seconds": 2.0}
+{"row": 38, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 38, "who": "ibnAshur", "type": "prefers", "holds": ["V1"], "quote": "ليست حالة الإنسان في هذه الحياة الدنيا دليلا على منزلته عند الله تعالى", "note": "", "seconds": 2.2}
+{"row": 39, "who": "tabari", "type": "prefers", "holds": ["V1"], "quote": "إنما يقال لهم عند ردّ الأرواح في الأجساد يوم البعث", "note": "", "seconds": 1.7}
+{"row": 39, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 1.8}
+{"row": 39, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 39, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 39, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 39, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 39, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "يرجعي إلى ربك إظهارا في مقام الإضمار بقرينة تفريع", "note": "", "seconds": 2.2}
+{"row": 39, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 39, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 39, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 39, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 39, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 40, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 40, "who": "razi", "type": "lists_no_choice", "holds": ["V2", "V3", "N1", "N2", "N3"], "quote": "ولولاد آدم وما ولد ذريته، أقسم بهم إذ هم من أعجب خلق الله على وجه الأرض", "note": "", "seconds": 2.4}
+{"row": 40, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 40, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 40, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 40, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 40, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "إبراهيم وذريته", "note": "", "seconds": 1.9}
+{"row": 40, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 40, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 40, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 40, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 40, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 41, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V3", "V4", "N1"], "quote": "قال: شدة وقال آخرون: معنى ذلك أنه خلق منتصبا معتدل القامة", "note": "", "seconds": 2.5}
+{"row": 41, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V3", "N1"], "quote": "فالمعنى أيحسب ذلك الإنسان الشديد أنه لشدته لا يقدر عليه أحد", "note": "", "seconds": 2.3}
+{"row": 41, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V3", "N1"], "quote": "في شدة ومشقة يكابد أمور الدنيا والآخرة", "note": "", "seconds": 2.2}
+{"row": 41, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V3", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 41, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V3", "N1"], "quote": "فيه قولان: أحدهما أن معناه أيظن أن لن يقدر أحد على بعثه وجزائه، والآخر: أيظن أن لن يقدر أحد أن يغلبه", "note": "", "seconds": 2.7}
+{"row": 41, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V3", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 41, "who": "ibnAshur", "type": "prefers", "holds": ["V1"], "quote": "فالمقصود إثبات إعادة خلق الإنسان بعد الموت للبعث والجزاء الذي أنكروه", "note": "", "seconds": 2.2}
+{"row": 42, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 42, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 42, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 42, "who": "baydawi", "type": "combines", "holds": ["V2", "N2"], "quote": "الضحوة ارتفاع النهار والضحى فوق ذلك", "note": "", "seconds": 2.1}
+{"row": 42, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 42, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 42, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "وكل من الشمس، والقمر والسماء والأرض، ونفس الإنسان، من أعظم مخلوقات الله ذاتا ومعنى الدالة على بديع حكمته وقوي قدرته", "note": "", "seconds": 2.6}
+{"row": 43, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 43, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "فاختصاص الشمس وسائر السماويات بالمقدار المعين، لا بد وأن يكون لتقدير مقدر وتدبير مدبر", "note": "", "seconds": 2.4}
+{"row": 43, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 43, "who": "baydawi", "type": "silent", "holds": [], "quote": "", "note": "", "seconds": 0.9}
+{"row": 43, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 43, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 43, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "بسطها ومدها", "note": "", "seconds": 1.9}
+{"row": 44, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 44, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 44, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 44, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 44, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "وأما قد أفلح فكلام تابع لقوله فألهمها فجورها وتقواها على سبيل الاستطراد", "note": "", "seconds": 2.5}
+{"row": 44, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 44, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 45, "who": "tabari", "type": "prefers", "holds": ["V1"], "quote": "أولاها بالصواب عندي: قول من قال: عني به التصديق بالخلف من الله على نفقته", "note": "", "seconds": 2.3}
+{"row": 45, "who": "razi", "type": "prefers", "holds": ["V2"], "quote": "فأما من أعطى واتقى وصدق بالحسنى", "note": "", "seconds": 2.1}
+{"row": 45, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 45, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 45, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 45, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 45, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "وروي أن هذا نزل بسبب أن أبا بكر اشترى بلالا من أمية بن خلف وأعتقه لينجيه من تعذيب أمية بن خلف", "note": "", "seconds": 2.5}
+{"row": 45, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 45, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 45, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 45, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 45, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 46, "who": "tabari", "type": "prefers", "holds": ["V1"], "quote": "أولى القولين في ذلك بالصواب قول من قال: معناه: إذا تردّى في جهنم", "note": "", "seconds": 1.7}
+{"row": 46, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 1.8}
+{"row": 46, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 46, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 46, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 46, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 46, "who": "ibnAshur", "type": "prefers", "holds": ["V1"], "quote": "لا لثبوت التيسير من أصله", "note": "", "seconds": 2.0}
+{"row": 47, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 47, "who": "razi", "type": "prefers", "holds": ["V2"], "quote": "ذهب وأدبر", "note": "", "seconds": 1.8}
+{"row": 47, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 47, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 47, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 47, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N3"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 47, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "ذهب وأدبر", "note": "", "seconds": 1.8}
+{"row": 48, "who": "tabari", "type": "prefers", "holds": ["V2"], "quote": "أولى الأقوال في ذلك بالصواب، قول من قال: إن الله تعالى ذكره، أمر نبيه أن يجعل فراغه من كلّ ما كان به مشتغلا من أمر دنياه وآخرته، مما أدّى له الشغل به، وأمره بالشغل به إلى النصب في عبادته", "note": "", "seconds": 3.2}
+{"row": 48, "who": "razi", "type": "single", "holds": ["V1"], "quote": "إذا فرغت من الصلاة فانصب في الدعاء", "note": "", "seconds": 2.1}
+{"row": 48, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 48, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 48, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 48, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 48, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "فالمقصود بالأمر هو فانصب", "note": "", "seconds": 2.1}
+{"row": 48, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 48, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 48, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 48, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 48, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 49, "who": "tabari", "type": "prefers", "holds": ["V1"], "quote": "فقال: التين: هو التين الذي يُؤكل، والزيتون: هو الزيتون الذي يُعصر منه الزيت", "note": "", "seconds": 2.7}
+{"row": 49, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 49, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 49, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 49, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 49, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 49, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 50, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 1.3}
+{"row": 50, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "فقال كعب: التين دمشق والزيتون بيت المقدس، وقال شهر بن حوشب: التين الكوفة، والزيتون الشام، وعن الربيع هما جبلان بين همدان وحلوان", "note": "", "seconds": 2.8}
+{"row": 50, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 50, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 50, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 50, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 50, "who": "ibnAshur", "type": "combines", "holds": ["V1", "V2", "N1"], "quote": "فالتين إيماء إلى رسالة نوح وهي أول شريعة لرسول، والزيتون إيماء إلى شريعة إبراهيم", "note": "", "seconds": 2.5}
+{"row": 51, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 51, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 51, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 51, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 51, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "أحسن التقويم فيه قولان", "note": "", "seconds": 2.1}
+{"row": 51, "who": "khazin", "type": "single", "holds": ["V1"], "quote": "يعني في أعدل قامة، وأحسن صورة", "note": "", "seconds": 2.0}
+{"row": 51, "who": "ibnAshur", "type": "prefers", "holds": ["V1"], "quote": "أحسن تقويم له", "note": "", "seconds": 1.9}
+{"row": 51, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 51, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "وقال بعض العلماء بالعموم، أي: الإنسان أحسن المخلوقات تقويما", "note": "", "seconds": 2.3}
+{"row": 51, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 51, "who": "abuSaud", "type": "single", "holds": ["V1"], "quote": "لقد خلقنا الإنسان في أحسن تقويم", "note": "", "seconds": 1.9}
+{"row": 51, "who": "nasafi", "type": "single", "holds": ["V1"], "quote": "فى أحسن تقويم", "note": "", "seconds": 1.7}
+{"row": 52, "who": "tabari", "type": "prefers", "holds": ["V2"], "quote": "أولى الأقوال في ذلك عندي بالصحة، وأشبهها بتأويل الآية، قول من قال: معناه: ثم رددناه إلى النار في أقبح صورة", "note": "", "seconds": 2.6}
+{"row": 52, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 52, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "له باطنا وظاهرا، جمال هيئة، وبديع تركيب الرأس بما فيه، والصدر بما جمعه، والبطن بما حواه، والفرج وما طواه، واليدان وما بطشتاه، والرجلان وما احتملتاه", "note": "", "seconds": 3.2}
+{"row": 52, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 52, "who": "ibnJuzayy", "type": "prefers", "holds": ["V2"], "quote": "ثم رددناه أسفل سافلين الضعف والهرم والخرف", "note": "", "seconds": 2.2}
+{"row": 52, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 52, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 52, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 52, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 52, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 52, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 52, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 53, "who": "tabari", "type": "prefers", "holds": ["V1"], "quote": "قالوا: \"ما\" في معنى \"مَن\"", "note": "", "seconds": 2.0}
+{"row": 53, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "فمن يكذبك بعد هذا البيان", "note": "", "seconds": 2.1}
+{"row": 53, "who": "qurtubi", "type": "prefers", "holds": ["V1"], "quote": "فما يحملك على أن تكذب بالبعث والجزاء", "note": "", "seconds": 2.1}
+{"row": 53, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 53, "who": "ibnJuzayy", "type": "prefers", "holds": ["V1"], "quote": "فمن يكذبك بعد هذا البيان", "note": "", "seconds": 2.0}
+{"row": 53, "who": "khazin", "type": "prefers", "holds": ["V1"], "quote": "فما الذي يلجئك أيها الناس إلى هذا الكذب", "note": "", "seconds": 2.0}
+{"row": 53, "who": "ibnAshur", "type": "prefers", "holds": ["V1"], "quote": "فمن يكذبك بعد هذا البيان", "note": "", "seconds": 2.1}
+{"row": 53, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 53, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 53, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 53, "who": "abuSaud", "type": "prefers", "holds": ["V1"], "quote": "فما يكذبك بعد بالدين", "note": "", "seconds": 1.9}
+{"row": 53, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 54, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 54, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 54, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 54, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 54, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 54, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 54, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 55, "who": "tabari", "type": "prefers", "holds": ["V2"], "quote": "أولى الأقوال في ذلك بالصحة أن يقال: معنى ذلك: لم يكن الذين كفروا من أهل الكتاب والمشركين مفترقين في أمر محمد، حتى تأتيهم البينة", "note": "", "seconds": 2.8}
+{"row": 55, "who": "razi", "type": "prefers", "holds": ["V1"], "quote": "لم يكن الذين كفروا منفكين عن كفرهم حتى تأتيهم البينة", "note": "", "seconds": 2.2}
+{"row": 55, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 55, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 55, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 55, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 55, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 56, "who": "tabari", "type": "prefers", "holds": ["V1"], "quote": "فداخلة فيما أقسم به، لعموم ذلك بالظاهر", "note": "", "seconds": 2.2}
+{"row": 56, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 56, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.5}
+{"row": 56, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.5}
+{"row": 56, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.5}
+{"row": 56, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.5}
+{"row": 56, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.5}
+{"row": 57, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 57, "who": "razi", "type": "prefers", "holds": ["V1"], "quote": "فالمغيرات صبحا", "note": "", "seconds": 1.8}
+{"row": 57, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 57, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 57, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "اختلف في العاديات والموريات والمغيرات هل يراد بها الخيل أو الإبل؟", "note": "", "seconds": 2.3}
+{"row": 57, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 57, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 58, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.6}
+{"row": 58, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.5}
+{"row": 58, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.5}
+{"row": 58, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.5}
+{"row": 58, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.6}
+{"row": 58, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.5}
+{"row": 58, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6"], "quote": "", "note": "", "seconds": 2.6}
+{"row": 59, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 59, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 59, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 59, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 59, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 59, "who": "khazin", "type": "prefers", "holds": ["V1"], "quote": "قيل هو الدهر", "note": "", "seconds": 1.8}
+{"row": 59, "who": "ibnAshur", "type": "prefers", "holds": ["N3"], "quote": "عصر النبي ﷺ أو عصر الإسلام", "note": "", "seconds": 1.9}
+{"row": 59, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 59, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 59, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 59, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 59, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 60, "who": "tabari", "type": "prefers", "holds": ["V3"], "quote": "وأولى الأقوال بالصواب في ذلك قول من قال: معناه: أنهم يعذّبون بعمد في النار", "note": "", "seconds": 1.9}
+{"row": 60, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 60, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 60, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3"], "quote": "إنها عليهم مؤصدة في عمد ممددة", "note": "", "seconds": 2.2}
+{"row": 60, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 60, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 60, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 60, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 60, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 60, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 60, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 60, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 61, "who": "tabari", "type": "prefers", "holds": ["V3"], "quote": "وتغافلون عنها ويلهون", "note": "", "seconds": 2.1}
+{"row": 61, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 61, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 61, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 61, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 61, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 61, "who": "ibnAshur", "type": "prefers", "holds": ["V3"], "quote": "فوصفهم ب \"المصلين\" إذن تهكم", "note": "", "seconds": 2.1}
+{"row": 61, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 61, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 61, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 61, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 61, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 62, "who": "tabari", "type": "prefers", "holds": ["V2"], "quote": "وإنما قلنا ذلك أولى الأقوال في ذلك، لتتابع الأخبار عن رسول الله صلى الله عليه وسلم بأن ذلك كذلك", "note": "", "seconds": 2.3}
+{"row": 62, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V3", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 62, "who": "qurtubi", "type": "prefers", "holds": ["V2"], "quote": "لأن فيه من الخير الكثير", "note": "", "seconds": 1.9}
+{"row": 62, "who": "baydawi", "type": "prefers", "holds": ["V2"], "quote": "الخير الكثير", "note": "", "seconds": 1.9}
+{"row": 62, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 62, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 62, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "والكلام مسوق مساق البشارة وإنشاء العطاء", "note": "", "seconds": 2.1}
+{"row": 63, "who": "tabari", "type": "prefers", "holds": ["V5"], "quote": "اجعل صلاتك ونحرك لله لا للأوثان", "note": "", "seconds": 2.1}
+{"row": 63, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "N1"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 63, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "N1"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 63, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "N1"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 63, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "N1"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 63, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "N1"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 63, "who": "ibnAshur", "type": "prefers", "holds": ["V2"], "quote": "فسبح بحمد ربك وكن من الساجدين", "note": "", "seconds": 2.1}
+{"row": 64, "who": "tabari", "type": "prefers", "holds": ["V1"], "quote": "أولى القولين في ذلك بالصواب عندي، قول من قال: كانت تحمل الشوك، فتطرحه في طريق رسول الله صلى الله عليه وسلم، لأن ذلك هو أظهر معنى ذلك", "note": "", "seconds": 2.7}
+{"row": 64, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 64, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 64, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 64, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 64, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 64, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 64, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 64, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 64, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 64, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "N1", "N2", "N3", "N4"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 64, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "N4"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 65, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 65, "who": "razi", "type": "prefers", "holds": ["V2"], "quote": "ذاك ثالث ثلاثة لا أحد", "note": "", "seconds": 1.9}
+{"row": 65, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 65, "who": "baydawi", "type": "single", "holds": ["V2"], "quote": "ومنها رجل ممسود الخلق أي مجدوله، وهو ترشيح للمجاز أو تصوير لها بصورة الحطابة التي تحمل الحزمة وتربطها في جيدها تحقيرا لشأنها، أو بيانا لحالها", "note": "", "seconds": 2.8}
+{"row": 65, "who": "ibnJuzayy", "type": "prefers", "holds": ["V1"], "quote": "وهذا هو الأقرب", "note": "", "seconds": 1.9}
+{"row": 65, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1"], "quote": "", "note": "", "seconds": 2.1}
+{"row": 65, "who": "ibnAshur", "type": "single", "holds": ["V2"], "quote": "وهو فعل بمعنى مفعول من: صمد إليه، إذا قصده", "note": "", "seconds": 2.1}
+{"row": 66, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": "", "seconds": 1.9}
+{"row": 66, "who": "razi", "type": "prefers", "holds": ["V2"], "quote": "لم يكن له صاحبة", "note": "", "seconds": 1.8}
+{"row": 66, "who": "qurtubi", "type": "prefers", "holds": ["V1"], "quote": "فإذا سقط \"1\" بطل معنى الآية", "note": "", "seconds": 2.0}
+{"row": 66, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": "", "seconds": 1.8}
+{"row": 66, "who": "ibnJuzayy", "type": "prefers", "holds": ["V1"], "quote": "لا شبيه له ولا مثل ولا نظير", "note": "", "seconds": 2.0}
+{"row": 66, "who": "khazin", "type": "prefers", "holds": ["V1"], "quote": "فعلى هذا يقتضي أن لا يكون في الوجود صمد سوى الله تعالى العظيم", "note": "", "seconds": 2.1}
+{"row": 66, "who": "ibnAshur", "type": "single", "holds": ["V1"], "quote": "لا شبيه له ولا مثل ولا نظير", "note": "", "seconds": 1.8}
+{"row": 67, "who": "tabari", "type": "prefers", "holds": ["V1"], "quote": "فكل غاسق، فإنه صلى الله عليه وسلم كان يؤمر بالاستعاذة من شره إذا وقب", "note": "", "seconds": 2.3}
+{"row": 67, "who": "razi", "type": "prefers", "holds": ["V2"], "quote": "فيه تخرج السباع من آجامها والهوام من مكانها", "note": "", "seconds": 2.1}
+{"row": 67, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 67, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 67, "who": "ibnJuzayy", "type": "prefers", "holds": ["V1"], "quote": "فإنه ليس المقصود نفي الكفؤ مطلقا إنما المقصود نفي الكفؤ عن الله تعالى", "note": "", "seconds": 2.3}
+{"row": 67, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 67, "who": "ibnAshur", "type": "prefers", "holds": ["V1"], "quote": "فوصف الله بالصفة التي فيها تمهيد للإجابة", "note": "", "seconds": 2.1}
+{"row": 67, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 67, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 67, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 67, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 67, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "N1", "N2", "N3"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 17, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 17, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V3", "N1", "N5"], "quote": "كلا إن كتاب الفجار لفي سجين", "note": "", "seconds": 2.3}
+{"row": 17, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V3", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.2}
+{"row": 17, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 17, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "N1", "N2", "N3", "N4", "N5"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 19, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6", "N7"], "quote": "", "note": "", "seconds": 2.8}
+{"row": 19, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6", "N7"], "quote": "كلا بل ران على قلوبهم ما كانوا يكسبون", "note": "", "seconds": 2.9}
+{"row": 19, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6", "N7"], "quote": "", "note": "", "seconds": 2.6}
+{"row": 19, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6", "N7"], "quote": "", "note": "", "seconds": 2.6}
+{"row": 19, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2", "N3", "N4", "N5", "N6", "N7"], "quote": "", "note": "", "seconds": 2.6}
+{"row": 63, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "N1", "N2"], "quote": "", "note": "", "seconds": 2.0}
+{"row": 63, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "N1", "N2"], "quote": "", "note": "", "seconds": 2.3}
+{"row": 63, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "N1", "N2"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 63, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "V6", "N1", "N2"], "quote": "", "note": "", "seconds": 2.4}
+{"row": 63, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3", "V4", "V5", "N1", "N2"], "quote": "", "note": "", "seconds": 2.3}

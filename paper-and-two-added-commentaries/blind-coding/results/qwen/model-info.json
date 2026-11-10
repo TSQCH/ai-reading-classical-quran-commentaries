@@ -1,0 +1,11 @@
+{
+ "slug": "qwen",
+ "ollama_model": "qwen3:14b",
+ "citation": "Qwen3-14B (Alibaba), Q4_K_M",
+ "quantisation": "Q4_K_M",
+ "positions": 134,
+ "one_position_per_call": true,
+ "temperature": 0,
+ "num_ctx": 8192,
+ "json_schema_output": true
+}

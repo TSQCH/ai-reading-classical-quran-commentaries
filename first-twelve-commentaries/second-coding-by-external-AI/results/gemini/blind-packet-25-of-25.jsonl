@@ -1,0 +1,15 @@
+{"row": 17, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["N3", "N1", "N5", "V3", "V2", "V1", "N4"], "quote": "واختلف الناس في \"سجين\" ما هو؟", "note": ""}
+{"row": 17, "who": "thaalibi", "type": "lists_no_choice", "holds": ["N3", "N1"], "quote": "واختلف في سجين ما هو؟", "note": ""}
+{"row": 17, "who": "abuHayyan", "type": "prefers", "holds": ["N2"], "quote": "والظاهر أن سجينا هو كتاب", "note": ""}
+{"row": 17, "who": "abuSaud", "type": "lists_no_choice", "holds": ["N2", "N3", "V1", "V2", "OTHER"], "quote": "وسجين علم لكتاب جامع هو ديوان الشر... وقيل هو اسم المكان", "note": "OTHER: اسم المكان"}
+{"row": 17, "who": "nasafi", "type": "single", "holds": ["N2"], "quote": "سجين كتاب جامع هو ديوان الشر", "note": ""}
+{"row": 19, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["N7", "N1", "V2", "V1", "V4", "V3", "N2", "N6"], "quote": "واختلف الناس في الموضع المعروف بعليين، ما هو؟", "note": ""}
+{"row": 19, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "V4", "V3"], "quote": "واختلف في الموضع المعروف ب عليين ما هو؟", "note": ""}
+{"row": 19, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["N7", "N5", "N3", "N1", "V5"], "quote": "وعليون: الملائكة، أو المواضع العلية، أو علم لديوان الخير", "note": ""}
+{"row": 19, "who": "abuSaud", "type": "single", "holds": ["N3"], "quote": "وعليون علم لديوان الخير الذي دون فيه كل ما أعملته الملائكة", "note": ""}
+{"row": 19, "who": "nasafi", "type": "single", "holds": ["N3"], "quote": "هو علم لديوان الخير الذي دون فيه كل ما عملته الملائكة وصلحاء الثقلين", "note": ""}
+{"row": 63, "who": "ibnAtiyya", "type": "single", "holds": ["V3"], "quote": "فكأنه تعالى قال: ليكن شغلك هذين", "note": "أورد قول الجمهور ثم تبناه في تفسيره للمراد"}
+{"row": 63, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V3"], "quote": "والنحر/ نحر الهدي، والنسك، والضحايا على قول الجمهور.", "note": "أورده بصيغة النقل عن الجمهور دون اختياره صراحة"}
+{"row": 63, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V3", "V4", "V6", "V5", "V1", "V2", "OTHER", "N2", "N1"], "quote": "والنحر: نحر الهدي والنسك والضحايا، قاله الجمهور", "note": "OTHER: صلاة الفجر بجمع، والنحر بمنى"}
+{"row": 63, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V3", "OTHER", "V4", "V1", "V2", "N1"], "quote": "وانحر البدن التي هي خيار أموال العرب... وعن عطية هي صلاة الفجر بجمع", "note": "OTHER: صلاة الفجر بجمع والنحر بمنى. بدأ بتفسيره ثم سرد الأقوال الأخرى"}
+{"row": 63, "who": "nasafi", "type": "single", "holds": ["V5"], "quote": "وانحر لوجهه وباسمه إذا نحرت مخالفا لعبدة الأوثان في النحر لها", "note": "تفسيره يجمع بين النحر وإخلاصه لله خلافاً للمشركين (V5)"}

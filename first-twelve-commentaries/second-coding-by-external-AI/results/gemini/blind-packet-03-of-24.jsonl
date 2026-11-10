@@ -1,0 +1,26 @@
+{"row": 7, "who": "tabari", "type": "combines", "holds": ["V1", "N1", "V2", "V3"], "quote": "إن الله جل ثناؤه أقسم بالسابحات سبحا من خلقه، ولم يخصص من ذلك بعضا دون بعض", "note": ""}
+{"row": 7, "who": "razi", "type": "lists_no_choice", "holds": ["N3", "V3", "V1", "V2"], "quote": "أما الجزم فلا سبيل إليه هاهنا.", "note": ""}
+{"row": 7, "who": "qurtubi", "type": "lists_no_choice", "holds": ["N1", "V1", "N2", "V2", "N4", "V3", "N3"], "quote": "", "note": ""}
+{"row": 7, "who": "baydawi", "type": "lists_no_choice", "holds": ["N1", "V2", "N3", "OTHER", "N2"], "quote": "", "note": "أنفس الغزاة أو أيديهم"}
+{"row": 7, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["N1", "V2", "N3", "N2", "V3"], "quote": "", "note": ""}
+{"row": 7, "who": "khazin", "type": "lists_no_choice", "holds": ["N1", "N3", "V2", "N4", "N2", "OTHER"], "quote": "", "note": "الإبل"}
+{"row": 7, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["N1", "N2", "V2"], "quote": "", "note": ""}
+{"row": 7, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V2", "N1", "N4", "OTHER", "N2", "N6", "V3", "V1"], "quote": "", "note": "السماوات"}
+{"row": 7, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V2", "N1", "N2", "V3", "N6"], "quote": "", "note": ""}
+{"row": 7, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["N1", "V2", "N4", "N2", "N5", "N6", "V3", "V1"], "quote": "", "note": ""}
+{"row": 7, "who": "abuSaud", "type": "prefers", "holds": ["N1"], "quote": "هذا والذي يليق بشأن التنزيل هو الأول", "note": ""}
+{"row": 7, "who": "nasafi", "type": "lists_no_choice", "holds": ["N1", "N2", "V2"], "quote": "", "note": ""}
+{"row": 8, "who": "tabari", "type": "combines", "holds": ["V1", "N1", "V2", "V3"], "quote": "والقول عندنا في هذه، مثل القول في سائر الأحرف الماضية", "note": ""}
+{"row": 8, "who": "razi", "type": "lists_no_choice", "holds": ["N2", "V2", "V1", "V3"], "quote": "", "note": ""}
+{"row": 8, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "N1", "N2", "V3", "V2"], "quote": "", "note": ""}
+{"row": 8, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V3", "N2", "OTHER", "V2"], "quote": "", "note": "أنفس الغزاة"}
+{"row": 8, "who": "ibnJuzayy", "type": "lists_no_choice", "holds": ["V1", "V3", "V2", "N3"], "quote": "", "note": ""}
+{"row": 8, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "N2", "V3", "V2", "OTHER"], "quote": "", "note": "الإبل"}
+{"row": 8, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["V1", "V2", "V3"], "quote": "", "note": ""}
+{"row": 8, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "N4", "V2", "V3", "N1"], "quote": "", "note": ""}
+{"row": 8, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V1", "N4", "V2", "V3", "N1"], "quote": "", "note": ""}
+{"row": 8, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["V1", "N2", "V2", "V3", "N1"], "quote": "", "note": ""}
+{"row": 8, "who": "abuSaud", "type": "prefers", "holds": ["V1"], "quote": "هذا والذي يليق بشأن التنزيل هو الأول", "note": ""}
+{"row": 8, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2", "V3"], "quote": "", "note": ""}
+{"row": 9, "who": "tabari", "type": "prefers", "holds": ["V3"], "quote": "وأولى الأقوال في ذلك بالصواب قول من قال: هم الملائكة الذين يَسْفِرون بين الله ورسله بالوحي", "note": ""}
+{"row": 9, "who": "razi", "type": "lists_no_choice", "holds": ["V1", "V3", "N1", "V2"], "quote": "", "note": ""}

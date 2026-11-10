@@ -1,0 +1,9788 @@
+[
+ {
+  "row": 1,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "واختلف أهل التأويل في المعني بالنبإ العظيم، فقال بعضهم: أريد به القرآن وقال آخرون: عني به البعث",
+  "note": "",
+  "seconds": 63.0
+ },
+ {
+  "row": 1,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "وهذا هو الأقرب",
+  "note": "Razi prefers the view that the 'Great News' refers to the resurrection after death and the Day of Judgement.",
+  "seconds": 41.3
+ },
+ {
+  "row": 1,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "القرآن، دليله قوله: قل هو نبأ عظيم. أنتم عنه معرضون",
+  "note": "",
+  "seconds": 16.2
+ },
+ {
+  "row": 1,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "النبإ العظيم بيان لشأن المفخم أو صلة يتساءلون",
+  "note": "",
+  "seconds": 40.8
+ },
+ {
+  "row": 1,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "النبإ العظيم هو ما جاءت به الشريعة من التوحيد والبعث والجزاء وغير ذلك",
+  "note": "",
+  "seconds": 17.1
+ },
+ {
+  "row": 1,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل هو البعث وقيل نبوة محمد صلى الله عليه وسلم",
+  "note": "",
+  "seconds": 43.5
+ },
+ {
+  "row": 1,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "وعن ابن عباس: هو القرآن، وعن مجاهد وقتادة: هو البعث يوم القيامة.",
+  "note": "",
+  "seconds": 43.6
+ },
+ {
+  "row": 2,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "والأولى بالصواب أن يقال: إن الله أخبر أنه أنزل من المعصرات - وهي التي قد تحلبت بالماء من السحاب - ماء",
+  "note": "He prefers the view of 'clouds that are filled with rain' because of the preposition 'min'.",
+  "seconds": 46.8
+ },
+ {
+  "row": 2,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "أما المعصرات ففيها قولان: الأول: وهي الرياح...والثاني: وهي السحاب",
+  "note": "",
+  "seconds": 41.9
+ },
+ {
+  "row": 2,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "وقال مجاهد وقتادة: والمعصرات الرياح. وقاله ابن عباس: كأنها تعصر السحاب. وعن ابن عباس أيضا: أنها السحاب. وقال سفيان والربيع وأبو العالية والضحاك: أي السحائب التي تنعصر بالماء",
+  "note": "",
+  "seconds": 22.7
+ },
+ {
+  "row": 2,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "وأنزلنا من المعصرات ماء ثجاجا",
+  "note": "",
+  "seconds": 44.3
+ },
+ {
+  "row": 2,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "ومنها: وفيه يعصرون، وقيل: هي السموات وقيل: الرياح والثجاج السريع الاندفاع",
+  "note": "",
+  "seconds": 17.4
+ },
+ {
+  "row": 2,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "وقيل هي السحاب وفي الرواية الأخرى عن ابن عباس المعصرات السحابة التي حان لها أن تمطر",
+  "note": "",
+  "seconds": 41.3
+ },
+ {
+  "row": 2,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "والمعصرات: بضم الميم وكسر الصاد السحابات التي تحمل ماء المطر",
+  "note": "He combines the views of clouds and sky, stating that 'al-mu'sirat' refers to clouds carrying rain.",
+  "seconds": 19.7
+ },
+ {
+  "row": 3,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "حدثنا عمران بن موسى القزاز، قال: ثنا عبد الوارث بن سعيد، قال: ثنا إسحاق بن سويد، عن بشير بن كعب، في قوله: {لابثين فيها أحقابا} [النبأ: 23] قال: [ص:24] بلغني أن الحقب ثلاثمائة سنة",
+  "note": "",
+  "seconds": 52.9
+ },
+ {
+  "row": 3,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "أحدها: قال عطاء والكلبي ومقاتل عن ابن عباس في قوله: أحقابا الحقب الواحد بضع وثمانون سنة",
+  "note": "Lists multiple durations without choosing.",
+  "seconds": 44.0
+ },
+ {
+  "row": 3,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "وقيل: إنه ألف شهر.",
+  "note": "Lists many views without choosing, then offers a general interpretation.",
+  "seconds": 44.3
+ },
+ {
+  "row": 3,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "أحقابا دهورا متتابعة، وليس فيها ما يدل على خروجهم منها",
+  "note": "",
+  "seconds": 18.8
+ },
+ {
+  "row": 3,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "وقيل: إنها محدودة ثم اختلف في مقدارها، فروي عن النبي صلى الله عليه وسلم أنها ثمانون ألف سنة، وقال ابن عباس: ثلاثون سنة وقيل ثلاثمائة سنة",
+  "note": "",
+  "seconds": 50.7
+ },
+ {
+  "row": 3,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "وقيل الحقب الواحد سبعة عشر ألف سنة.",
+  "note": "Lists multiple durations without choosing.",
+  "seconds": 18.2
+ },
+ {
+  "row": 3,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "وهو زمن طويل نحو الثمانين سنة",
+  "note": "Lists multiple durations without choosing.",
+  "seconds": 44.4
+ },
+ {
+  "row": 4,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "الغساق: الزمهرير",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 37.7
+ },
+ {
+  "row": 4,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "ذكروا في الغساق وجوها. أحدها: قال أبو معاذ كنت أسمع مشايخنا يقولون الغساق فارسية معربة",
+  "note": "",
+  "seconds": 44.7
+ },
+ {
+  "row": 4,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "الغساق: صديد أهل النار وقيحهم. وقيل الزمهرير.",
+  "note": "Lists multiple meanings for 'ghasaqa' and 'hamiman'.",
+  "seconds": 49.8
+ },
+ {
+  "row": 4,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "الزمهرير",
+  "note": "",
+  "seconds": 47.9
+ },
+ {
+  "row": 4,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "الغساق: صديد أهل النار",
+  "note": "",
+  "seconds": 43.3
+ },
+ {
+  "row": 4,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "وقيل الغساق الزمهرير يحرقهم ببرده، وقيل هو صديد أهل النار.",
+  "note": "",
+  "seconds": 48.6
+ },
+ {
+  "row": 4,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "الغساق: قرأه الجمهور بتخفيف السين: وقرأه حمزة والكسائي وحفص بتشديد السين وهما لغتان فيه",
+  "note": "He lists three views without choosing.",
+  "seconds": 19.4
+ },
+ {
+  "row": 5,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V5"
+  ],
+  "quote": "والمعنى: والنازعات إغراقا، كما يغرق النازع في القوس",
+  "note": "He prefers the view that the 'Nazعات' refers to something that 'drowns' in a metaphorical sense, like an arrow in a bow.",
+  "seconds": 48.1
+ },
+ {
+  "row": 5,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "النازعات غرقا هي: القسي، والناشطات نشطا هي الأوهاق، والسابحات السفن، والسابقات الخيل، والمدبرات الملائكة",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 50.0
+ },
+ {
+  "row": 5,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5"
+  ],
+  "quote": "النازعات: الملائكة التي تنزع أرواح الكفار",
+  "note": "",
+  "seconds": 16.6
+ },
+ {
+  "row": 5,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "فالنازعات غرقا والناشطات نشطا والسابحات سبحا فالسابقات سبقا فالمدبرات أمرا",
+  "note": "",
+  "seconds": 50.0
+ },
+ {
+  "row": 5,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل: إنها الملائكة وقيل: النجوم",
+  "note": "",
+  "seconds": 18.4
+ },
+ {
+  "row": 5,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "اختلفت عبارات المفسرين في هذه الكلمات هل هي صفات لشيء واحد أم لأشياء مختلفة",
+  "note": "",
+  "seconds": 19.5
+ },
+ {
+  "row": 5,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "فيحتمل أن يكون النازعات جماعات من الملائكة وهم الموكلون بقبض الأرواح",
+  "note": "Lists multiple interpretations without choosing.",
+  "seconds": 20.8
+ },
+ {
+  "row": 5,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "النازعات، الملائكة تنزع نفوس بني آدم",
+  "note": "",
+  "seconds": 45.3
+ },
+ {
+  "row": 5,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "النازعات: الملائكة، تنزع نفوس بني آدم",
+  "note": "",
+  "seconds": 42.3
+ },
+ {
+  "row": 5,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال عبد الله وابن عباس النازعات: الملائكة تنزع نفوس بني آدم، وغرقا: إغراقا",
+  "note": "",
+  "seconds": 47.8
+ },
+ {
+  "row": 5,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "قيل يرى الكافر نفسه في وقت النزع كأنها تغرق",
+  "note": "",
+  "seconds": 17.3
+ },
+ {
+  "row": 5,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "بالطوائف التي تنزع الأرواح من الأجساد غرقا أي إغراقا في النزع أي تنزعها من أقاصي الأجساد",
+  "note": "",
+  "seconds": 45.2
+ },
+ {
+  "row": 6,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "والصواب من القول في ذلك عندي أن يقال: إن الله جل ثناؤه أقسم",
+  "note": "He prefers the general view, but does not explicitly reject the others.",
+  "seconds": 15.9
+ },
+ {
+  "row": 6,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "النازعات غرقا هي: القسي، والناشطات نشطا هي الأوهاق، والسابحات السفن، والسابقات الخيل، والمدبرات الملائكة",
+  "note": "Lists multiple interpretations without choosing.",
+  "seconds": 48.6
+ },
+ {
+  "row": 6,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "النازعات: الملائكة التي تنزع أرواح الكفار",
+  "note": "",
+  "seconds": 18.0
+ },
+ {
+  "row": 6,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "والنازعات غرقا والناشطات نشطا والسابحات سبحا فالسابقات سبقا فالمدبرات أمرا",
+  "note": "",
+  "seconds": 47.2
+ },
+ {
+  "row": 6,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقيل: إنها الملائكة وقيل: النجوم، فعلى القول بأنها الملائكة سماهم نازعات",
+  "note": "",
+  "seconds": 19.7
+ },
+ {
+  "row": 6,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "النازعات غرقا يعني الملائكة تنزع أرواح الكفار من أقاصي أجسامهم",
+  "note": "",
+  "seconds": 46.3
+ },
+ {
+  "row": 6,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "الناشطات: يجوز أن تكون الموصوفات بالنشاط، وهو قوة الانطلاق للعمل",
+  "note": "",
+  "seconds": 41.7
+ },
+ {
+  "row": 6,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقال ابن مسعود وابن عباس: النازعات، الملائكة تنزع نفوس بني آدم",
+  "note": "",
+  "seconds": 45.2
+ },
+ {
+  "row": 6,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقيل: هي النجوم، وقيل: هي الملائكة لأنها تتصرف في الآفاق بأمر الله، وقيل: هي الخيل، وقيل: هي السفن، وقيل: هي الحيتان ودواب البحر",
+  "note": "",
+  "seconds": 23.7
+ },
+ {
+  "row": 6,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقال عبد الله وابن عباس النازعات: الملائكة تنزع نفوس بني آدم، وغرقا: إغراقا، وهي المبالغة في الفعل، أو غرقا في جهنم، يعني نفوس الكفار، قاله علي وابن عباس.",
+  "note": "",
+  "seconds": 47.4
+ },
+ {
+  "row": 6,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "قيل يرى الكافر نفسه في وقت النزع كأنها تغرق",
+  "note": "",
+  "seconds": 17.5
+ },
+ {
+  "row": 6,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "والطوائف التي تنشطها أي تخرجها من نشط الدلو من البئر إذا أخرجها",
+  "note": "",
+  "seconds": 18.7
+ },
+ {
+  "row": 7,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "قال بعضهم: هي الموت تسبح في نفس ابن آدم",
+  "note": "",
+  "seconds": 46.2
+ },
+ {
+  "row": 7,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "النازعات غرقا هي: القسي، والناشطات نشطا هي الأوهاق، والسابحات السفن، والسابقات الخيل، والمدبرات الملائكة",
+  "note": "Lists multiple interpretations without choosing.",
+  "seconds": 54.1
+ },
+ {
+  "row": 7,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "وعن عطاء أيضا وقتادة والحسن والأخفش: هي النجوم تنشط من أفق إلى أفق: أي تذهب.",
+  "note": "",
+  "seconds": 20.7
+ },
+ {
+  "row": 7,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "الروح ملك موكل على الأرواح أو جنسها، أو جبريل أو خلق أعظم من الملائكة",
+  "note": "",
+  "seconds": 19.9
+ },
+ {
+  "row": 7,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "وقيل: إنها الملائكة وقيل: النجوم",
+  "note": "",
+  "seconds": 19.1
+ },
+ {
+  "row": 7,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "واختلفوا على أن المراد بقوله فالمدبرات أمرا وصف لشيء واحد وهم الملائكة",
+  "note": "",
+  "seconds": 19.8
+ },
+ {
+  "row": 7,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "ويحتمل أن تكون النازعات جماعات الرماة بالسهام في الغزو يقال: نزع في القوس",
+  "note": "",
+  "seconds": 20.5
+ },
+ {
+  "row": 7,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "وقال عطاء وجماعة: السابحات: الخيل، ويقال للفرس: سابح",
+  "note": "",
+  "seconds": 20.3
+ },
+ {
+  "row": 7,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "قيل: هي النجوم، وقيل: هي الملائكة، وقيل: هي الخيل، وقيل: هي السفن، وقيل: هي الحيتان ودواب البحر",
+  "note": "",
+  "seconds": 22.6
+ },
+ {
+  "row": 7,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "وقال السدي وجماعة: تنزع بالموت إلى ربها، وغرقا: أي إغراقا في الصدر.",
+  "note": "",
+  "seconds": 20.0
+ },
+ {
+  "row": 7,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "ويجوز أن يراد بالسابحات وما بعدها طوائف من الملائكة يسبحون في مضيهم أي يسرعون فيه",
+  "note": "",
+  "seconds": 20.4
+ },
+ {
+  "row": 7,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "والطوتئف التي تنشطها أي تخرجها من نشط الدلو من البئر إذا أخرجها وبالطوتئف التي تسبح في مضيها أي تسرع فتسبق إلى ما أمروا به",
+  "note": "",
+  "seconds": 51.2
+ },
+ {
+  "row": 8,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "ذكر من قال ذلك: حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، {فالسابقات سبقا} [النازعات: 4] قال: هي النجوم",
+  "note": "",
+  "seconds": 21.3
+ },
+ {
+  "row": 8,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "النازعات غرقا هي: القسي، والناشطات نشطا هي الأوهاق، والسابحات السفن، والسابقات الخيل، والمدبرات الملائكة",
+  "note": "Lists multiple interpretations without choosing.",
+  "seconds": 48.1
+ },
+ {
+  "row": 8,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "حسن والأخفش: هي النجوم تنشط من أفق إلى أفق",
+  "note": "",
+  "seconds": 46.8
+ },
+ {
+  "row": 8,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "فالسابقات سبقا فالمدبرات أمرا هذه صفات ملائكة الموت",
+  "note": "",
+  "seconds": 17.0
+ },
+ {
+  "row": 8,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "فقيل: إنها الملائكة وقيل: النجوم",
+  "note": "",
+  "seconds": 40.4
+ },
+ {
+  "row": 8,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "اختلفت عبارات المفسرين في هذه الكلمات هل هي صفات لشيء واحد أم لأشياء مختلفة",
+  "note": "",
+  "seconds": 17.6
+ },
+ {
+  "row": 8,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وعن ابن عباس: الناشطات الملائكة تنشيط نفوس المؤمنين، وعنه هي نفوس المؤمنين تنشط للخروج",
+  "note": "",
+  "seconds": 19.7
+ },
+ {
+  "row": 8,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقال عطاء: الناشطات في الآية: البقرة الوحشية وما جرى مجراها من الحيوان",
+  "note": "",
+  "seconds": 43.3
+ },
+ {
+  "row": 8,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقيل: هي الملائكة، وقيل: هي الرياح",
+  "note": "",
+  "seconds": 44.6
+ },
+ {
+  "row": 8,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقال السدي وجماعة: تنزع بالموت إلى ربها، وغرقا: أي إغراقا في الصدر.",
+  "note": "",
+  "seconds": 18.4
+ },
+ {
+  "row": 8,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "قيل يرى الكافر نفسه في وقت النزع كأنها تغرق",
+  "note": "",
+  "seconds": 44.7
+ },
+ {
+  "row": 8,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "والطوائف التي تسبح في مضيها أي تسرع فتسبق إلى ما أمروا به",
+  "note": "",
+  "seconds": 45.5
+ },
+ {
+  "row": 9,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "quote": "وأولى الأقوال في ذلك بالصواب قول من قال: هم الملائكة الذين يَسْفِرون بين الله ورسله بالوحي.",
+  "note": "",
+  "seconds": 14.8
+ },
+ {
+  "row": 9,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "القول الثاني: وهو اختيار الفراء أن السفرة هاهنا هم الملائكة الذين يسفرون بالوحي بين الله وبين رسله",
+  "note": "",
+  "seconds": 18.7
+ },
+ {
+  "row": 9,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "الكتبة من الملائكة",
+  "note": "",
+  "seconds": 15.5
+ },
+ {
+  "row": 9,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "بأيدي سفرة كتبة من الملائكة أو الأنبياء ينتسخون الكتب من اللوح أو الوحي، أو سفراء يسفرون بالوحي بين الله تعالى ورسله",
+  "note": "",
+  "seconds": 20.8
+ },
+ {
+  "row": 9,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "الأول أرجح",
+  "note": "He prefers the view that 'sufara' are angels.",
+  "seconds": 13.7
+ },
+ {
+  "row": 9,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "قال ابن عباس: يعني كتبة، وهم الملائكة الكرام الكاتبون، واحدهم سافر",
+  "note": "He lists multiple views without choosing.",
+  "seconds": 18.8
+ },
+ {
+  "row": 9,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "فالمناسب للوجه الأول: أن يكون السفرة كتاب القرآن من أصحاب رسول الله صلى الله عليه وسلم، أو أن يكون المراد قراء القرآن",
+  "note": "",
+  "seconds": 19.3
+ },
+ {
+  "row": 9,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "واختلف الناس في \"السفرة\"، فقال ابن عباس رضي الله عنهما: هم الملائكة، وقال ابن عباس رضي الله عنهما: الملائكة سفرة، وقال قتادة: هم القراء",
+  "note": "",
+  "seconds": 21.4
+ },
+ {
+  "row": 9,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "الضعيف من أهل الخير وتقديمه على الشريف العاري من الخير",
+  "note": "",
+  "seconds": 16.2
+ },
+ {
+  "row": 9,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "كتبة ينسخون الكتب من اللوح المحفوظ.",
+  "note": "",
+  "seconds": 15.8
+ },
+ {
+  "row": 9,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "بأيدى سفرة أي كتبة من الملائكة ينتسخون الكتب من اللوح",
+  "note": "",
+  "seconds": 43.4
+ },
+ {
+  "row": 9,
+  "who": "nasafi",
+  "type": "single",
+  "holds": [
+   "V1"
+  ],
+  "quote": "بأيدي سفرة كتبة جمع سافر أي الملائكة ينتسخون الكتب من اللوح",
+  "note": "",
+  "seconds": 13.9
+ },
+ {
+  "row": 10,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "وذكر من قال ذلك: حدثنا أبو كريب، قال: ثنا وكيع، عن سفيان، عن منصور، عن مجاهد، {ثم السبيل يسره} [عبس: 20] قال: هو كقوله: {إنا هديناه السبيل إما شاكرا وإما كفورا} [الإنسان: 3]",
+  "note": "He explicitly prefers the view equating it to guidance on the path of right and wrong, citing مجاهد's comparison to another verse.",
+  "seconds": 52.1
+ },
+ {
+  "row": 10,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "أحدها: قال بعضهم: المراد تسهيل خروجه من بطن أمه",
+  "note": "",
+  "seconds": 36.6
+ },
+ {
+  "row": 10,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "يسره للخروج من بطن أمه. مجاهد: يسره لطريق الخير والشر، أي بين له ذلك.",
+  "note": "",
+  "seconds": 37.5
+ },
+ {
+  "row": 10,
+  "who": "baydawi",
+  "type": "combines",
+  "holds": [
+   "V2"
+  ],
+  "quote": "ثم سهل مخرجه من بطن أمه بأن فتح فوهة الرحم وألهمه أن ينتكس، أو ذلل له سبيل الخير والشر",
+  "note": "He combines two meanings of 'يسره'",
+  "seconds": 17.3
+ },
+ {
+  "row": 10,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "والأول أرجح لعطفه على قوله: من نطفة خلقه فقدره",
+  "note": "He prefers the first view, but acknowledges the second is correct.",
+  "seconds": 16.5
+ },
+ {
+  "row": 10,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "وقيل سهل له العلم بطريق الحق والباطل، وقيل يسر على كل أحد ما خلق له وقدر عليه.",
+  "note": "",
+  "seconds": 16.4
+ },
+ {
+  "row": 10,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "تيسير خروجه من بطن أمه ; تبيين طريق الخير والشر والحق والباطل ; تيسير كل أحد لما خلق له",
+  "note": "",
+  "seconds": 17.8
+ },
+ {
+  "row": 11,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "ذكر من قال ذلك: حدثنا أبو كريب، قال: ثنا وكيع، عن سفيان، عن أبيه، عن أبي يعلى، عن ربيع بن خثيم، {إذا الشمس كورت} [التكوير: 1] قال: رمي بها",
+  "note": "He prefers the view that the sun is thrown, but also mentions other views and ultimately offers his own interpretation.",
+  "seconds": 24.3
+ },
+ {
+  "row": 11,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وفي التكوير وجهان أحدهما: التلفيف على جهة الاستدارة كتكوير العمامة، وفي قول ثالث: كورت الحائط ودهورته إذا طرحته حتى يسقط",
+  "note": "He lists six views without choosing.",
+  "seconds": 21.6
+ },
+ {
+  "row": 11,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقيل: الفاسق، [يقال [: فجر فجورا: أي فسق، وفجر: أي كذب",
+  "note": "",
+  "seconds": 18.6
+ },
+ {
+  "row": 11,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "إذا الشمس كورت لفت من كورت العمامة إذا لففتها بمعنى رفعت",
+  "note": "",
+  "seconds": 17.7
+ },
+ {
+  "row": 11,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقيل: رمى بها وقيل: اضمحلت وأصله من تكوير العمامة",
+  "note": "",
+  "seconds": 17.6
+ },
+ {
+  "row": 11,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "قال ابن عباس: أظلمت، وغورت، وقيل اضمحلت، وقيل لفت كما تلف العمامة",
+  "note": "",
+  "seconds": 18.7
+ },
+ {
+  "row": 11,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وتكوير الشمس: فساد جرمها لتداخل ظاهرها في باطنها",
+  "note": "",
+  "seconds": 17.2
+ },
+ {
+  "row": 11,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "فمنهم من قال: ذهاب نورها قاله قتادة، ومنهم من قال: رمي بها، قاله الربيع بن خيثم وغير ذلك",
+  "note": "",
+  "seconds": 20.5
+ },
+ {
+  "row": 11,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "تكوير الشمس هو أن تدار كما يدار كور العمامة ويذهب بها إلى حيث شاء الله- تعالى-، وعبر المفسرون عن ذلك بعبارات",
+  "note": "",
+  "seconds": 21.1
+ },
+ {
+  "row": 11,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقال أبو صالح: نكست وعن ابن عباس أيضا: أظلمت وعن مجاهد: اضمحلت",
+  "note": "",
+  "seconds": 44.7
+ },
+ {
+  "row": 11,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "أي لفت من كورت العمامة إذا لففتها على أن المراد بذلك إما رفعها وإزالتها من مقرها",
+  "note": "",
+  "seconds": 44.2
+ },
+ {
+  "row": 11,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "إذا الشمس كورت ذهب بضوئها من كورت العمامه إذا لففتها أي يلف ضوءها لفا فيذهب انبساطه وانتشاره في الآفاق",
+  "note": "",
+  "seconds": 20.8
+ },
+ {
+  "row": 12,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "قال: معنى ذلك: مُلئت حتى فاضت",
+  "note": "He prefers the view that the seas overflowed, citing linguistic evidence.",
+  "seconds": 15.8
+ },
+ {
+  "row": 12,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "أحدها: أن أصل الكلمة من سجرت التنور إذا أوقدتها",
+  "note": "",
+  "seconds": 15.5
+ },
+ {
+  "row": 12,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "وقال ابن أبي زمنين: سجرت: حقيقته ملئت، فيفيض بعضها إلى بعض فتصير شيئا واحدا.",
+  "note": "",
+  "seconds": 16.7
+ },
+ {
+  "row": 12,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "وإذا البحار سجرت أحميت أو ملئت بتفجير بعضها إلى بعض حتى تعود بحرا واحدا",
+  "note": "",
+  "seconds": 16.6
+ },
+ {
+  "row": 12,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "أحدها ملئت وفجر بعضها إلى بعض حتى تعود بحرا واحدا والآخر ملئت نيرانا لتعذيب أهل النار والثالث فرغت من مائها ويبست",
+  "note": "",
+  "seconds": 18.6
+ },
+ {
+  "row": 12,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "قال ابن عباس: أوقدت فصارت نارا تضطرم، وقيل فجر بعضها في بعض العذاب، والملح حتى صارت البحار كلها بحرا واحدا وقيل صارت مياهها من حميم أهل النار، وقيل سجرت أي يبست، وذهب ماؤها فلم تبق فيها قطرة.",
+  "note": "",
+  "seconds": 22.9
+ },
+ {
+  "row": 12,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "وذكر هذا بالنسبة إلى الوحوش إيماء إلى شدة الهول فالوحوش التي من طبعها نفرة بعضها عن بعض تتجمع في مكان واحد",
+  "note": "",
+  "seconds": 17.5
+ },
+ {
+  "row": 13,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "V3",
+   "N3"
+  ],
+  "quote": "ذكر من قال ذلك: حدثنا ابن عبد الأعلى، قال: ثنا المعتمر، عن أبيه، عن أبي عمرو، عن عكرمة، {وإذا النفوس زوجت} [التكوير: 7] قال: الأرواح ترجع إلى الأجساد",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 24.3
+ },
+ {
+  "row": 13,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "أحدها: قرنت الأرواح بالأجساد وثانيها: قال الحسن: يصيرون فيها ثلاثة أزواج",
+  "note": "He lists multiple views without choosing one.",
+  "seconds": 18.7
+ },
+ {
+  "row": 13,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال النعمان بن بشير: قال النبي صلى الله عليه وسلم وإذا النفوس زوجت قال: (يقرن كل رجل مع كل قوم كانوا يعملون كعمله).",
+  "note": "",
+  "seconds": 19.3
+ },
+ {
+  "row": 13,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وإذا النفوس زوجت قرنت بالأبدان أو كل منها بشكلها، أو بكتابها وعملها أو نفوس المؤمنين بالحور ونفوس الكافرين بالشياطين.",
+  "note": "",
+  "seconds": 20.0
+ },
+ {
+  "row": 13,
+  "who": "ibnJuzayy",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "والأول هو الأرجح، لأنه روي عن النبي صلى الله عليه وسلم وعن عمر بن الخطاب وابن عباس",
+  "note": "He prefers the first view on the meaning of 'زوجت النفوس' (V1) despite mentioning two others.",
+  "seconds": 18.8
+ },
+ {
+  "row": 13,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل ألحق كل امرئ بشيعته اليهود باليهود، والنصارى بالنصارى",
+  "note": "",
+  "seconds": 17.0
+ },
+ {
+  "row": 13,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "ويجوز أن يكون المعنى وإذا الأشخاص نوعت وصنفت فجعلت أصنافا: المؤمنون، والصالحون، والكفار، والفجار",
+  "note": "",
+  "seconds": 20.0
+ },
+ {
+  "row": 14,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "ذكر من قال ذلك: حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، في قوله: {فلا أقسم بالخنس الجوار الكنس} [التكوير: 16] يعني: الظباء",
+  "note": "",
+  "seconds": 43.7
+ },
+ {
+  "row": 14,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "والقول الأظهر: أن ذلك إشارة إلى رجوع الكواكب الخمسة",
+  "note": "",
+  "seconds": 12.8
+ },
+ {
+  "row": 14,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "وقال الفراء في قوله تعالى: فلا أقسم بالخنس. الجوار الكنس: إنها النجوم الخمسة، زحل والمشتري والمريخ والزهرة وعطارد",
+  "note": "",
+  "seconds": 18.7
+ },
+ {
+  "row": 14,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "النجوم والكواكب السيارة أو عامتها ; بقر الوحش ; الظباء",
+  "note": "",
+  "seconds": 37.6
+ },
+ {
+  "row": 14,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "وقيل: يعني بقر الوحش، فالخنس على هذا من خنس الأنف والكنس من سكناها في كناسها",
+  "note": "",
+  "seconds": 43.3
+ },
+ {
+  "row": 14,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "وقيل هي الظباء، وهي رواية عن ابن عباس، وأصل الخنوس الرجوع إلى وراء، والكنوس هو أن تأوي إلى كناسها، وهو الموضع الذي يأوي إليه الوحوش.",
+  "note": "",
+  "seconds": 19.2
+ },
+ {
+  "row": 14,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "والجمهور على أن المراد بموصوفاتها (30/152) الكواكب",
+  "note": "He combines the views of planets, wild animals, and gazelles, arguing that the descriptions are metaphorical for the planets, but also acknowledging the view that they refer to literal animals.",
+  "seconds": 21.2
+ },
+ {
+  "row": 15,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله {والليل إذا عسعس} [التكوير: 17] : إذا أدبر (24/160) حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله {والليل إذا عسعس} [التكوير: 17] قال: عسعس: تولى، وقال: تنفس الصبح من هاهنا",
+  "note": "",
+  "seconds": 28.7
+ },
+ {
+  "row": 15,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "والقول هو الأول، والدليل عليه أمران",
+  "note": "He prefers V1 based on two arguments, dismissing other views.",
+  "seconds": 13.9
+ },
+ {
+  "row": 15,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "قال الفراء: أجمع المفسرون على أن معنى عسعس أدبر، حكاه الجوهري. وقال بعض أصحابنا: إنه دنا من أوله وأظلم",
+  "note": "",
+  "seconds": 18.4
+ },
+ {
+  "row": 15,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "والليل إذا عسعس أقبل ظلامه أو أدبر وهو من الأضداد يقال عسعس الليل وسعسع إذا أدبر.",
+  "note": "",
+  "seconds": 16.7
+ },
+ {
+  "row": 15,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "وقيل: معناه كشفت وهذا أليق بالكشط",
+  "note": "",
+  "seconds": 14.2
+ },
+ {
+  "row": 15,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "والليل إذا عسعس أي أقبل بظلامه وقيل أدبر",
+  "note": "",
+  "seconds": 13.8
+ },
+ {
+  "row": 15,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "وقال مجاهد عن ابن عباس: أقبل بظلامه، وقال مجاهد أيضا عن ابن عباس معناه: أدبر ظلامه",
+  "note": "",
+  "seconds": 16.5
+ },
+ {
+  "row": 16,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "حدثني يعقوب، قال: ثنا هشيم، قال: أخبرنا العوام، عن إبراهيم التيمي، قال: ذكروا عنده هذه الآية {علمت نفس ما قدمت وأخرت}",
+  "note": "Lists multiple interpretations without choosing.",
+  "seconds": 48.6
+ },
+ {
+  "row": 16,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "الأول: أن المراد بهذه الأمور ذكر يوم القيامة",
+  "note": "",
+  "seconds": 15.9
+ },
+ {
+  "row": 16,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "أي بما قدم من المعصية، وأخر من الطاعة.",
+  "note": "",
+  "seconds": 43.0
+ },
+ {
+  "row": 16,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وعلمت نفس ما قدمت وأخرت",
+  "note": "",
+  "seconds": 15.6
+ },
+ {
+  "row": 16,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل ما قدمت في حياتها وما أخرت مما تركته بعد موتها من سنتها أو وصية أوصت بها",
+  "note": "",
+  "seconds": 42.1
+ },
+ {
+  "row": 16,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل معناه أي طريق تسلكون أبين من هذه الطريقة التي قد بينت لكم.",
+  "note": "",
+  "seconds": 17.4
+ },
+ {
+  "row": 16,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "وما قدمت وأخرت: هو العمل الذي قدمته النفس، أي عملته مقدما وهو ما عملته في أول العمر، والعمل الذي أخرته، أي عملته مؤخرا أي في آخر مدة الحياة",
+  "note": "He combines the meanings of 'what was done' and 'what was postponed' as actions done at the beginning and end of life.",
+  "seconds": 23.7
+ },
+ {
+  "row": 16,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال كثير من المفسرين في معنى قوله تعالى: ما قدمت وأخرت إنها عبارة عن جميع الأعمال لأن هذا التقسيم يعم الطاعات المعمولة والمتروكة وكذلك المعاصي.",
+  "note": "He lists multiple views without choosing.",
+  "seconds": 23.0
+ },
+ {
+  "row": 16,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال كثير من المفسرين في معنى قوله: ما قدمت وأخرت إنها عبارة عن جميع الأعمال من طاعة أو معصية.",
+  "note": "",
+  "seconds": 19.8
+ },
+ {
+  "row": 16,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال ابن عباس أيضا: بما قدم من المعاصي وأخر من الطاعات.",
+  "note": "",
+  "seconds": 17.1
+ },
+ {
+  "row": 16,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "ومعنى ما قدم وأخر ما أسلف من عمل خير أو شر وأخر من سنة حسنة أو سيئة يعمل بها بعده",
+  "note": "",
+  "seconds": 19.4
+ },
+ {
+  "row": 16,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "علمت نفس ما قدمت وأخرت {علمت نفس} أي كل نفس برة وفاجرة {ما قدمت} ما عملت من طاعة {وأخرت} وتركت فلم تعمل أو ما قدمت من الصدقات وما أخرت من الميراث",
+  "note": "",
+  "seconds": 47.4
+ },
+ {
+  "row": 17,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "ذكر من قال ذلك: حدثنا ابن حميد، قال: ثنا يعقوب القمي، عن حفص بن حميد، عن شمر",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 47.4
+ },
+ {
+  "row": 17,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "الأكثرون على أنه الأرض السابعة السفلى",
+  "note": "",
+  "seconds": 16.4
+ },
+ {
+  "row": 17,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقال سعيد بن جبير: سجين تحت خد إبليس.",
+  "note": "",
+  "seconds": 17.5
+ },
+ {
+  "row": 17,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "كتاب جامع لأعمال الفجرة من الثقلين",
+  "note": "",
+  "seconds": 43.5
+ },
+ {
+  "row": 17,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "كتاب الفجار هو ما يكتب من أعمالهم",
+  "note": "Lists multiple interpretations without choosing.",
+  "seconds": 47.4
+ },
+ {
+  "row": 17,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقيل معناه لفي سجين لفي خسار وضلال، وقيل إنه مشتق من السجن، ومعناه لفي حبس وضيق شديد.",
+  "note": "",
+  "seconds": 19.9
+ },
+ {
+  "row": 17,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وهو تعريض بالتهديد للمطففين بأن يكون عملهم موجبا كتبه في كتاب الفجار",
+  "note": "",
+  "seconds": 47.7
+ },
+ {
+  "row": 17,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "وقال مجاهد: وذلك في صخرة تحت الأرض السابعة، وقال كعب حاكيا عن التوراة، وأبي بن كعب: هو في شجرة سوداء هنالك، وقيل -عن النبي عليه الصلاة والسلام- صلى الله عليه «في بئر هنالك،» وقيل تحت خد إبليس، وقال عطاء الخراساني: هي الأرض السفلى",
+  "note": "Lists multiple views on the nature of 'sijin' without choosing.",
+  "seconds": 69.3
+ },
+ {
+  "row": 17,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "واختلف في سجين ما هو؟ والجمهور أن سجينا بناء مبالغة من السجن، قال مجاهد: وذلك في صخرة تحت الأرض السابعة",
+  "note": "",
+  "seconds": 43.2
+ },
+ {
+  "row": 17,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "قال الجمهور: فعيل من السجن، كسكير، أو في موضع ساجن، فجاء بناء مبالغة، فسجين على هذا صفة لموضع المحذوف.",
+  "note": "He lists many views without choosing.",
+  "seconds": 26.3
+ },
+ {
+  "row": 17,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "سجين علم لكتاب جامع هو ديوان الشر دون فيه أعمال الشياطين وأعمال الكفرة والفسقة من الثقلين",
+  "note": "",
+  "seconds": 53.5
+ },
+ {
+  "row": 17,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "كتاب جامع هو ديوان الشر دون الله فيه أعمال الشياطين والكفرة من الجن والإنس وهو كتاب مرقوم مسطور",
+  "note": "",
+  "seconds": 55.8
+ },
+ {
+  "row": 18,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "والصواب أن يقال: هم محجوبون عن رؤيته، وعن كرامته",
+  "note": "He gives both views, then favors the second with 'al-ṣawāb'.",
+  "seconds": 45.9
+ },
+ {
+  "row": 18,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "قال الجبائي: المراد أنهم عن رحمة ربهم محجوبون",
+  "note": "",
+  "seconds": 14.6
+ },
+ {
+  "row": 18,
+  "who": "qurtubi",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "وقال قتادة: هو أن الله لا ينظر إليهم برحمته، ولا يزكيهم ولهم عذاب أليم. وعلى الأول الجمهور، وأنهم محجوبون عن رؤيته فلا يرونه.",
+  "note": "Combines views on the nature of the 'hiding' - from divine mercy and sight.",
+  "seconds": 51.5
+ },
+ {
+  "row": 18,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "محجوبون عن كرامته ورحمته ; محجوبون عن رؤيته",
+  "note": "",
+  "seconds": 14.8
+ },
+ {
+  "row": 18,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "فمنهم من يقوم خمسين ألف سنة وأقل من ذلك حتى أن المؤمن يقوم على قدر الصلاة مكتوبة",
+  "note": "",
+  "seconds": 40.3
+ },
+ {
+  "row": 18,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "قيل عن كرامته ورحمته ممنوعون، وقيل إن الله لا ينظر إليهم ولا يزكيهم",
+  "note": "",
+  "seconds": 16.3
+ },
+ {
+  "row": 18,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "والحجب هو الستر، ويستعمل في المنع من الحضور لدى الملك ولدى سيد القوم",
+  "note": "",
+  "seconds": 15.7
+ },
+ {
+  "row": 19,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "العليون: جمع، معناه: شيء فوق شيء، وعلو فوق علو",
+  "note": "",
+  "seconds": 20.7
+ },
+ {
+  "row": 19,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "أما أهل اللغة قال/ أبو الفتح الموصلي: عليين جمع علي وهو فعيل من العلو، وقال الزجاج: إعراب هذا الاسم كإعراب الجمع لأنه على لفظ الجمع",
+  "note": "",
+  "seconds": 24.1
+ },
+ {
+  "row": 19,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "قوله تعالى: (كلا إن كتاب الأبرار لفي عليين) كلا بمعنى حقا",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 21.4
+ },
+ {
+  "row": 19,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "كتاب مرقوم يشهده المقربون",
+  "note": "",
+  "seconds": 17.9
+ },
+ {
+  "row": 19,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "ثم إنهم لصالو الجحيم (16) الكفار عن الله، على أن المؤمنين لا يحجبون",
+  "note": "He lists many views without choosing.",
+  "seconds": 22.3
+ },
+ {
+  "row": 19,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "وقيل هو قائمة العرش اليمنى وقال ابن عباس في رواية عنه في الجنة، وقيل هي سدرة المنتهى، وقيل معناه علو بعد علو وشرف بعد شرف، وقيل هي مراتب عالية محفوفة بالجلالة",
+  "note": "",
+  "seconds": 46.6
+ },
+ {
+  "row": 19,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V3"
+  ],
+  "quote": "والوجه أن يكون مضمونها قسيما لمضمون شبيهها فتحصل مقابلة وعيد الفجار بوعد الأبرار",
+  "note": "He combines V3 with the general idea of a parallel between the reward of the righteous and the punishment of the wicked, but ultimately chooses the view of the righteous being in paradise.",
+  "seconds": 21.3
+ },
+ {
+  "row": 19,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7"
+  ],
+  "quote": "وقال قتادة: قائمة العرش اليمنى، وقال ابن عباس: السماء السابعة تحت العرش",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 50.3
+ },
+ {
+  "row": 19,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5"
+  ],
+  "quote": "فقال ابن عباس: السماء السابعة تحت العرش",
+  "note": "",
+  "seconds": 41.9
+ },
+ {
+  "row": 19,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7"
+  ],
+  "quote": "عليون: جمع واحده علي، مشتق من العلو، وهو المبالغة",
+  "note": "",
+  "seconds": 46.2
+ },
+ {
+  "row": 19,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7"
+  ],
+  "quote": "كتاب الأبرار لفى عليين",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 48.4
+ },
+ {
+  "row": 19,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5"
+  ],
+  "quote": "لفى عليين هو علم لديوان الخير الذي دون فيه كل ما عملته الملائكة وصلحاء الثقلين",
+  "note": "He lists multiple views without choosing one.",
+  "seconds": 47.1
+ },
+ {
+  "row": 20,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "قال بعضهم: عني بذلك: والسماء ذات القصور. وقال آخرون: عني بذلك: والسماء ذات النجوم، وقال آخرون: بل معنى ذلك: والسماء ذات الرمل والماء",
+  "note": "He lists multiple views without choosing one.",
+  "seconds": 49.2
+ },
+ {
+  "row": 20,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "أحدها: أنها هي البروج الاثنا عشر وهي مشهورة",
+  "note": "",
+  "seconds": 41.3
+ },
+ {
+  "row": 20,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "أحدها- ذات النجوم، قاله الحسن وقتادة ومجاهد والضحاك. الثاني- القصور، قاله ابن عباس وعكرمة ومجاهد أيضا.",
+  "note": "",
+  "seconds": 19.7
+ },
+ {
+  "row": 20,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "السماء ذات البروج يعني البروج الاثني عشر شبهت بالقصور أو منازل القمر أو عظام الكواكب سميت بروجا لظهورها أو أبواب السماء",
+  "note": "",
+  "seconds": 44.8
+ },
+ {
+  "row": 20,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "البروج هي المنازل المعروفة وهي اثنا عشر، تقطعها الشمس في السنة، وقيل: هي النجوم العظام",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 44.7
+ },
+ {
+  "row": 20,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل البروج والكواكب العظام سميت بروجا لظهورها",
+  "note": "",
+  "seconds": 16.5
+ },
+ {
+  "row": 20,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "والبروج: تطلق على علامات من قبة الجو يتراءى للناظر",
+  "note": "He combines several views on the meaning of 'buruj'",
+  "seconds": 41.0
+ },
+ {
+  "row": 21,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10",
+   "V11",
+   "V12",
+   "V13",
+   "V14",
+   "V15",
+   "V16",
+   "V17",
+   "V18",
+   "V19",
+   "V20"
+  ],
+  "quote": "ذكر من قال ذلك حدثني علي، قال: ثنا أبو صالح، قال: ثني معاوية، عن علي، عن ابن عباس، في قوله \" {وشاهد} [البروج: 3] يقول الله {ومشهود} [البروج: 3] يقول: يوم القيامة",
+  "note": "",
+  "seconds": 36.2
+ },
+ {
+  "row": 21,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5"
+  ],
+  "quote": "والقفال أحسن الناس كلاما فيه، قال: إن الشاهد يقع على شيئين أحدهما: الشاهد الذي تثبت به الدعاوى والحقوق والثاني: الشاهد الذي هو بمعنى الحاضر",
+  "note": "Razi prefers the interpretations that relate the 'witness' and 'witnessed' to the day of judgement and the presence of people.",
+  "seconds": 55.6
+ },
+ {
+  "row": 21,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10",
+   "V11",
+   "V12",
+   "V13",
+   "V14",
+   "V15",
+   "V16",
+   "V17",
+   "V18",
+   "V19",
+   "V20"
+  ],
+  "quote": "وشاهد ومشهود اختلف فيهما، فقال علي وابن عباس وابن عمر وأبو هريرة رضي الله عنهم: الشاهد يوم الجمعة، والمشهود يوم عرفة.",
+  "note": "",
+  "seconds": 63.9
+ },
+ {
+  "row": 21,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7",
+   "N8",
+   "N9",
+   "N10",
+   "N11",
+   "N12",
+   "N13",
+   "N14",
+   "N15",
+   "N16",
+   "N17",
+   "N18",
+   "N19",
+   "N20"
+  ],
+  "quote": "وشاهد ومشهود ومن يشهد في ذلك اليوم من الخلائق وما أحضر فيه من العجائب، وتنكيرهما للإبهام في الوصف أي وشاهد ومشهود",
+  "note": "",
+  "seconds": 36.8
+ },
+ {
+  "row": 21,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7",
+   "N8",
+   "N9",
+   "N10",
+   "N11",
+   "N12",
+   "N13",
+   "N14",
+   "N15",
+   "N16",
+   "N17",
+   "N18",
+   "N19",
+   "N20"
+  ],
+  "quote": "ويتلخص من أقوالهم في الشاهد ستة عشر قولا يقابلها في المشهود اثنان وثلاثون قولا",
+  "note": "",
+  "seconds": 66.6
+ },
+ {
+  "row": 21,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10",
+   "V11",
+   "V12",
+   "V13",
+   "V14",
+   "V15",
+   "V16",
+   "V17",
+   "V18",
+   "V19",
+   "V20"
+  ],
+  "quote": "وقيل الشاهد يوم الجمعة والمشهود يوم النحر وقيل الشاهد يوم التروية، والمشهود يوم عرفة",
+  "note": "",
+  "seconds": 55.3
+ },
+ {
+  "row": 21,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10",
+   "V11",
+   "V12",
+   "V13",
+   "V14",
+   "V15",
+   "V16",
+   "V17",
+   "V18",
+   "V19",
+   "V20"
+  ],
+  "quote": "وشاهد ومشهود مراد بهما النوع. فالشاهد: الرائي، أو المخبر بحق لإلزام منكره. والمشهود: المرئي أو المشهود عليه بحق.",
+  "note": "",
+  "seconds": 58.4
+ },
+ {
+  "row": 21,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10",
+   "V11",
+   "V12",
+   "V13",
+   "V14",
+   "V15",
+   "V16",
+   "V17",
+   "V18",
+   "V19",
+   "V20"
+  ],
+  "quote": "وقال ابن عباس: الشاهد الله تعالى، والمشهود يوم القيامة",
+  "note": "",
+  "seconds": 51.5
+ },
+ {
+  "row": 21,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7",
+   "N8",
+   "N9",
+   "N10",
+   "N11",
+   "N12",
+   "N13",
+   "N14",
+   "N15",
+   "N16",
+   "N17",
+   "N18",
+   "N19",
+   "N20"
+  ],
+  "quote": "وقال الترمذي: الشاهد: الملائكة الحفظة، والمشهود [أي] عليه: الناس",
+  "note": "",
+  "seconds": 33.9
+ },
+ {
+  "row": 21,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7",
+   "N8",
+   "N9",
+   "N10",
+   "N11",
+   "N12",
+   "N13",
+   "N14",
+   "N15",
+   "N16",
+   "N17",
+   "N18",
+   "N19",
+   "N20"
+  ],
+  "quote": "وعن ابن عباس: الشاهد: الله تعالى وعنه وعن الحسن بن علي وعكرمة: الرسول صلى الله عليه وسلم",
+  "note": "",
+  "seconds": 64.5
+ },
+ {
+  "row": 21,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7",
+   "N8",
+   "N9",
+   "N10",
+   "N11",
+   "N12",
+   "N13",
+   "N14",
+   "N15",
+   "N16",
+   "N17",
+   "N18",
+   "N19",
+   "N20"
+  ],
+  "quote": "وقيل الشاهد محمد صلى الله عليه وسلم والمشهود يوم القيامة وقيل عيسى عليه السلام وأمته لقوله تعالى وكنت عليهم شهيدا الخ وقيل أمة محمد وسائر الأمم وقيل يوم التروية ويوم عرفة وقيل يوم عرفة ويوم الجمعة",
+  "note": "",
+  "seconds": 68.2
+ },
+ {
+  "row": 21,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7",
+   "N8",
+   "N9",
+   "N10",
+   "N11",
+   "N12",
+   "N13",
+   "N14",
+   "N15",
+   "N16",
+   "N17",
+   "N18",
+   "N19",
+   "N20"
+  ],
+  "quote": "وشاهد ومشهود أي وشاهد في ذلك اليوم ومشهود فيه والمراد بالشاهد من يشهد فيه من الخلائق كلهم وبالمشهود فيه ما في ذلك اليوم من عجائبه",
+  "note": "",
+  "seconds": 59.8
+ },
+ {
+  "row": 22,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "وأولى التأويلين في ذلك عندي بالصواب، وأشبههما بظاهر ما دل عليه التنزيل",
+  "note": "He explicitly chooses the view of Ibn Abbas.",
+  "seconds": 41.8
+ },
+ {
+  "row": 22,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "إنه يخلق خلقه ثم يفنيهم ثم يعيدهم أحياء ليجازيهم في القيامة",
+  "note": "He chooses the view of resurrection and judgement.",
+  "seconds": 43.5
+ },
+ {
+  "row": 22,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل: ولهم عذاب الحريق أي ولهم في الآخرة عذاب زائد على عذاب كفرهم بما أحرقوا المؤمنين.",
+  "note": "",
+  "seconds": 18.6
+ },
+ {
+  "row": 22,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "يبدئ الخلق ثم يعيده بالبعث ; يبدئ العذاب في الدنيا ويعيده في الآخرة ; يعيد أهل النار خلقا جديدا بعد احتراقهم ; إيجاد الأجيال وإخلافها بعد هلاك أوائلها ; عامّ في جميع الأشياء: يبدئ كل ما يُبدأ ويعيد كل ما يُعاد",
+  "note": "",
+  "seconds": 54.0
+ },
+ {
+  "row": 22,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "قيل: يبدئ الخلق ثم يعيده بالبعث ; قيل: يبدئ العذاب في الدنيا ويعيده في الآخرة ; قيل: يعيد أهل النار خلقا جديدا بعد احتراقهم ; قيل: إيجاد الأجيال وإخلافها بعد هلاك أوائلها ; قيل: عامّ في جميع الأشياء",
+  "note": "",
+  "seconds": 25.8
+ },
+ {
+  "row": 22,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "قيل ما عابوا ولا علموا فيهم عيبا إلا إيمانهم بالله العزيز",
+  "note": "",
+  "seconds": 38.7
+ },
+ {
+  "row": 22,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V3"
+  ],
+  "quote": "وفي هذه الاعتبارات من التهديد للمشركين محامل كثيرة.",
+  "note": "He combines several interpretations, but ultimately uses the general one (N3) to encompass all possibilities.",
+  "seconds": 38.8
+ },
+ {
+  "row": 22,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال ابن عباس ما معناه: إن ذلك عام في جميع الأشياء، فهي عبارة عن أنه يفعل كل شيء إنه يبدئ ويعيد كلما ينعاد",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 21.6
+ },
+ {
+  "row": 22,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال ابن عباس ما معناه: إن ذلك عام في جميع الأشياء، فهي عبارة على أنه يفعل كل شيء، أي: يبدىء كل ما يبدأ ويعيد كل ما يعاد",
+  "note": "Lists four views without choosing.",
+  "seconds": 21.3
+ },
+ {
+  "row": 22,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال الطبري: يبدىء العذاب ويعيده على الكفار ونحوه عن ابن عباس قال: تأكلهم النار حتى يصيروا فحما، ثم يعيدهم خلقا جديدا.",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 21.2
+ },
+ {
+  "row": 22,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "فيه مزيد تقرير لشدته بطشه أو هو يبدىء البطش بالكفرة في الدنيا ويعيده في الآخرة",
+  "note": "",
+  "seconds": 17.7
+ },
+ {
+  "row": 22,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "V3"
+  ],
+  "quote": "أى يخلفهم ابتداء ثم يعيدهم بعد أن صيرهم ترابا",
+  "note": "",
+  "seconds": 16.2
+ },
+ {
+  "row": 23,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6"
+  ],
+  "quote": "ذكر من قال ذلك حدثني محمد بن إسحاق، قال: ثنا أبو صالح، قال: ثني الليث أن معمر بن أبي حبيبة المديني، حدثه أنه، بلغه في قول الله: {يخرج من بين الصلب والترائب} [الطارق: 7] قال: هو عصارة القلب",
+  "note": "",
+  "seconds": 48.4
+ },
+ {
+  "row": 23,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6"
+  ],
+  "quote": "المسألة الثالثة: ترائب المرأة عظام صدرها حيث تكون القلادة، وكل عظم من ذلك تربة",
+  "note": "He lists six views without choosing.",
+  "seconds": 49.5
+ },
+ {
+  "row": 23,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6"
+  ],
+  "quote": "وعن عكرمة عن ابن عباس: دافق لزج.",
+  "note": "",
+  "seconds": 17.7
+ },
+ {
+  "row": 23,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6"
+  ],
+  "quote": "يخرج من بين الصلب والترائب",
+  "note": "",
+  "seconds": 40.9
+ },
+ {
+  "row": 23,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6"
+  ],
+  "quote": "وقيل: هي الأضلاع التي أسفل الصلب، والأول هو الصحيح المعروف في اللغة",
+  "note": "",
+  "seconds": 17.6
+ },
+ {
+  "row": 23,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6"
+  ],
+  "quote": "قال ابن عباس: هي موضع القلادة من الصدر، وعنه أنها بين ثديي المرأة",
+  "note": "He lists six views without choosing.",
+  "seconds": 46.1
+ },
+ {
+  "row": 23,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6"
+  ],
+  "quote": "الصلب: العمود العظمي الكائن في وسط الظهر، وهو ذو الفقرات. والترائب: جمع تريبة، ويقال: تريب.",
+  "note": "Lists six views without choosing.",
+  "seconds": 21.1
+ },
+ {
+  "row": 24,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V5"
+  ],
+  "quote": "إن الله تعالى ذكره على بعثه وإعادته قادر.",
+  "note": "He explicitly chooses the view of resurrection after death as the most correct, based on the connection with the following verse.",
+  "seconds": 40.3
+ },
+ {
+  "row": 24,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V5"
+  ],
+  "quote": "ختار الحكيم، فكذلك يدل قطعا على صحة البعث والحشر والنشر",
+  "note": "He explicitly chooses the view of resurrection.",
+  "seconds": 14.7
+ },
+ {
+  "row": 24,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5"
+  ],
+  "quote": "وقال مجاهد والضحاك: إنه أي إن الله جل ثناؤه على رجعه أي على رد الماء في الإحليل، لقادر",
+  "note": "",
+  "seconds": 49.0
+ },
+ {
+  "row": 24,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5"
+  ],
+  "quote": "وقرأ ابن عامر وعاصم وحمزة لما على أنها بمعنى إلا وأن نافية، والجملة على الوجهين جواب القسم.",
+  "note": "",
+  "seconds": 51.3
+ },
+ {
+  "row": 24,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1"
+  ],
+  "quote": "وقيل: هي الأضلاع التي أسفل الصلب، والأول هو الصحيح المعروف في اللغة",
+  "note": "",
+  "seconds": 44.2
+ },
+ {
+  "row": 24,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5"
+  ],
+  "quote": "وقيل قادر على رد النطفة في الإحليل، وقيل قادر على رد الماء في الصلب الذي خرج منه، وقيل قادر على رد الإنسان ماء كما كان من قبل، وقيل معناه إن شئت رددته من الكبر إلى الشباب",
+  "note": "",
+  "seconds": 22.1
+ },
+ {
+  "row": 24,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5"
+  ],
+  "quote": "وأصل مادة كلا الماءين مادة دموية تنفصل عن الدماغ وتنزل في عرقين خلف الأذنين",
+  "note": "",
+  "seconds": 56.6
+ },
+ {
+  "row": 25,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "وقال آخرون: بل معنى ذلك: نزه يا محمد اسم ربك الأعلى، أن تسمي به شيئًا سواه",
+  "note": "He explicitly chooses the view about not invoking other deities with God's name.",
+  "seconds": 16.6
+ },
+ {
+  "row": 25,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1"
+  ],
+  "quote": "أحدها: أن المراد نزه اسم ربك عن أن تسمي به غيره",
+  "note": "",
+  "seconds": 44.0
+ },
+ {
+  "row": 25,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1"
+  ],
+  "quote": "وقيل: نزه ربك عن السوء، وعما يقول فيه الملحدون.",
+  "note": "",
+  "seconds": 16.8
+ },
+ {
+  "row": 25,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1"
+  ],
+  "quote": "نزه اسم ربك عن التأويلات الباطلة والإلحاد فيها",
+  "note": "",
+  "seconds": 39.9
+ },
+ {
+  "row": 25,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1"
+  ],
+  "quote": "ويحتمل المعنى على هذا أربعة أوجه، الأول: تنزيه أسماء الله تعالى عن المعاني الباطلة كالتشبيه والتعطيل، الثاني: تنزيه أسماء الله عن أن يسمى بها صنم أو وثن",
+  "note": "",
+  "seconds": 54.6
+ },
+ {
+  "row": 25,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1"
+  ],
+  "quote": "وقيل معناه نزه ربك الأعلى عما يصفه الملحدون، فعلى هذا يكون الاسم صلة، وقيل معناه نزه تسمية ربك الأعلى بأن تذكره وأنت له معظم، ولذكره محترم.",
+  "note": "He lists multiple views without choosing.",
+  "seconds": 23.3
+ },
+ {
+  "row": 25,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1"
+  ],
+  "quote": "والمأمور به إجراء الأخبار الشريفة والصفات الرفيعة على الأسماء الدالة على الله تعالى من أعلام وصفات ونحوها",
+  "note": "He lists several views without choosing one.",
+  "seconds": 46.6
+ },
+ {
+  "row": 26,
+  "who": "tabari",
+  "type": "combines",
+  "holds": [
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "والصواب من القول في ذلك عندنا: أن الله عم بقوله {فهدى} الخبر عن هدايته خلقه، ولم يخصص من ذلك معنى دون معنى",
+  "note": "He combines multiple meanings of guidance, rejecting specialization.",
+  "seconds": 50.2
+ },
+ {
+  "row": 26,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقال آخرون: هدى الإنسان لسبل الخير والشر والسعادة والشقاوة",
+  "note": "",
+  "seconds": 18.0
+ },
+ {
+  "row": 26,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقيل: قدر أقواتهم وأرزاقهم، وهداهم لمعاشهم إن كانوا إنسا، ولمراعيهم إن كانوا وحشا.",
+  "note": "",
+  "seconds": 39.4
+ },
+ {
+  "row": 26,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "فهدى الذكور لمأتى الإناث",
+  "note": "",
+  "seconds": 47.6
+ },
+ {
+  "row": 26,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقيل: هدى الناس للخير والشر والبهائم (2/473)",
+  "note": "",
+  "seconds": 18.2
+ },
+ {
+  "row": 26,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقيل قدر مدة الجنين في الرحم وهداه إلى الخروج منه، وقيل قدر السعادة لأقوام، والشقاوة لأقوام",
+  "note": "",
+  "seconds": 42.5
+ },
+ {
+  "row": 26,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "والقول في وجه عطف فهدى بالفاء مثل القول في عطف فسوى",
+  "note": "",
+  "seconds": 50.6
+ },
+ {
+  "row": 27,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "وقال بعضهم: هذا إخبار من الله نبيه عليه الصلاة والسلام أنه يعلمه هذا القرآن، ويحفظه عليه، ونهي منه أن يعجل بقراءته",
+  "note": "Lists three views without choosing.",
+  "seconds": 37.8
+ },
+ {
+  "row": 27,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "والقول المشهور أن هذا خبر والمعنى سنقرئك إلى أن تصير بحيث لا تنسى",
+  "note": "",
+  "seconds": 13.9
+ },
+ {
+  "row": 27,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل: إلا ما شاء الله أن ينسى، ثم يذكر بعد ذلك، فإذا قد نسي، ولكنه يتذكر ولا ينسى نسيانا كليا.",
+  "note": "Lists multiple interpretations of the exception, without choosing one.",
+  "seconds": 49.5
+ },
+ {
+  "row": 27,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل نهي والألف للفاصلة كقوله السبيلا",
+  "note": "N1 and N2 are not views on the phrase itself, but on related matters.",
+  "seconds": 20.3
+ },
+ {
+  "row": 27,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل: فلا تنسى نهي عن النسيان، وقد علم الله أن ترك النسيان ليس في قدرة البشر",
+  "note": "He lists multiple views without choosing.",
+  "seconds": 51.0
+ },
+ {
+  "row": 27,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "وقيل معناه إلا ما شاء الله أن تنساه، ثم تذكره بعد ذلك",
+  "note": "He lists three views on the meaning of the exception in the verse.",
+  "seconds": 18.1
+ },
+ {
+  "row": 27,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V3"
+  ],
+  "quote": "فقد تكفل له عدم نسيانه مع تزايده",
+  "note": "Combining V1 and V3, as he sees the verses as a guarantee of Allah's help in preserving the Quran.",
+  "seconds": 43.2
+ },
+ {
+  "row": 28,
+  "who": "tabari",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "وذكر الله فوحده، ودعاه ورغب إليه، لأن كل ذلك من ذكر الله",
+  "note": "He combines multiple interpretations of 'ذكر اسم ربه'",
+  "seconds": 41.4
+ },
+ {
+  "row": 28,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "V5"
+  ],
+  "quote": "أحدها: قال ابن عباس: ذكر معاده وموقفه بين يدي ربه فصلى له.",
+  "note": "He lists multiple interpretations without choosing one.",
+  "seconds": 43.7
+ },
+ {
+  "row": 28,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "وقيل: هي زكاة الأعمال، لا زكاة الأموال، أي تطهر في أعماله من الرياء والتقصير",
+  "note": "",
+  "seconds": 49.8
+ },
+ {
+  "row": 28,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "وذكر اسم ربه بقلبه ولسانه فصلى كقوله: أقم الصلاة لذكري",
+  "note": "He lists multiple interpretations without choosing one.",
+  "seconds": 77.9
+ },
+ {
+  "row": 28,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "وقيل: المعنى: ذكر إن نفعت الذكرى وإن لم تنفع.",
+  "note": "",
+  "seconds": 56.6
+ },
+ {
+  "row": 28,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "وقيل أراد بالذكر تكبيرات العيد، وبالصلاة صلاة العيد.",
+  "note": "",
+  "seconds": 34.7
+ },
+ {
+  "row": 28,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "فمادة التفعل للتكلف وبذل الجهد، وأصل ذلك هو التوحيد والاستعداد للأعمال الصالحة",
+  "note": "He combines the general sense of 'purification' with the specific acts of worship.",
+  "seconds": 54.2
+ },
+ {
+  "row": 28,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "V5"
+  ],
+  "quote": "وقال الفراء والزهراوي معناه: وإن لم تنفع",
+  "note": "",
+  "seconds": 59.7
+ },
+ {
+  "row": 28,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "ف تزكى: أدى زكاة الفطر، وذكر اسم ربه في طريق المصلى، وصلى صلاة العيد",
+  "note": "",
+  "seconds": 36.1
+ },
+ {
+  "row": 28,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "V5"
+  ],
+  "quote": "ره بالتذكير، إذ ثمرة الإقراء هي انتفاعه في ذاته وانتفاع من أرسل إليهم",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 57.4
+ },
+ {
+  "row": 28,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "V5"
+  ],
+  "quote": "أو كبر تكبيرة الافتتاح فصلى وقيل تزكى أي تصدق صدقة الفطر",
+  "note": "",
+  "seconds": 58.7
+ },
+ {
+  "row": 28,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "وذكر اسم ربه فصلى (15) {وذكر اسم ربه} وكبر للافتتاح {فصلى} الخمس",
+  "note": "Lists multiple interpretations of 'ذكر اسم ربه فصلى' without choosing one.",
+  "seconds": 63.4
+ },
+ {
+  "row": 29,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقال آخرون: عني به: صلاة العيد يوم الفطر 0 وقال آخرون: بل عني به: وذكر اسم ربه فدعا",
+  "note": "Lists multiple interpretations of 'falla' without choosing.",
+  "seconds": 47.3
+ },
+ {
+  "row": 29,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "أحدها: قال ابن عباس: ذكر معاده وموقفه بين يدي ربه فصلى",
+  "note": "",
+  "seconds": 42.5
+ },
+ {
+  "row": 29,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل: الدعاء، أي دعاء الله بحوائج الدنيا والآخرة.",
+  "note": "",
+  "seconds": 20.0
+ },
+ {
+  "row": 29,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "بل تؤثرون الحياة الدنيا",
+  "note": "",
+  "seconds": 43.4
+ },
+ {
+  "row": 29,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل: المعنى: ذكر إن نفعت الذكرى وإن لم تنفع.",
+  "note": "",
+  "seconds": 43.1
+ },
+ {
+  "row": 29,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل أراد بالذكر تكبيرات العيد، وبالصلاة صلاة العيد.",
+  "note": "",
+  "seconds": 16.7
+ },
+ {
+  "row": 29,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقدم التزكي على ذكر الله والصلاة لأنه أصل العمل بذلك كله",
+  "note": "",
+  "seconds": 16.4
+ },
+ {
+  "row": 29,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقال أبو سعيد الخدري وابن عمر وابن المسيب: هذه الآية في صبيحة يوم الفطر فتزكى، أدى زكاة الفطر، وذكر اسم ربه",
+  "note": "",
+  "seconds": 20.8
+ },
+ {
+  "row": 29,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "ف تزكى: أدى زكاة الفطر، وذكر اسم ربه في طريق المصلى، وصلى صلاة العيد",
+  "note": "",
+  "seconds": 18.3
+ },
+ {
+  "row": 29,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل: إن بمعنى إذ، كقوله: وأنتم الأعلون إن كنتم مؤمنين",
+  "note": "",
+  "seconds": 17.7
+ },
+ {
+  "row": 29,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "أقام الصلوات الخمس كقوله تعالى {وأقم الصلاة لذكري} أو كبر تكبيرة الافتتاح فصلى",
+  "note": "",
+  "seconds": 17.8
+ },
+ {
+  "row": 29,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "وذكر اسم ربه فصلى الخمس",
+  "note": "He lists multiple interpretations without choosing one.",
+  "seconds": 38.3
+ },
+ {
+  "row": 30,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "والصواب من القول في ذلك: أن يقال: إن الله قال لنبيه صلى الله عليه وسلم: {هل أتاك حديث الغاشية} ولم يخبرنا أنه عنى",
+  "note": "He prefers the view that 'al-Ghashiya' refers to the Day of Judgement, but acknowledges other interpretations.",
+  "seconds": 20.5
+ },
+ {
+  "row": 30,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "القول الثاني: الغاشية هي النار أي تغشى وجوه الكفرة وأهل النار",
+  "note": "",
+  "seconds": 36.7
+ },
+ {
+  "row": 30,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل: الغاشية: النار تغشى وجوه الكفار، ورواه أبو صالح",
+  "note": "",
+  "seconds": 16.0
+ },
+ {
+  "row": 30,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "هل أتاك حديث الغاشية الداهية التي تغشى الناس بشدائدها يعني يوم القيامة، أو النار من قوله تعالى وتغشى وجوههم النار.",
+  "note": "",
+  "seconds": 40.0
+ },
+ {
+  "row": 30,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل: الغاشية هي القيامة لأنها تغشى جميع الخلق، وقيل: هي النار",
+  "note": "",
+  "seconds": 16.3
+ },
+ {
+  "row": 30,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "سميت غاشية لأنها تغشى كل شيء بأهوالها، وقيل الغاشية النار",
+  "note": "",
+  "seconds": 36.3
+ },
+ {
+  "row": 30,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "الغاشية: مشتقة من الغشيان وهو تغطية متمكنة وهي صفة أريد بها حادثة القيامة سميت غاشية على وجه الاستعارة",
+  "note": "",
+  "seconds": 43.6
+ },
+ {
+  "row": 31,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "قال بعضهم: عني به النهار وقال آخرون: عني به صلاة الصبح",
+  "note": "",
+  "seconds": 18.8
+ },
+ {
+  "row": 31,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "أما قوله: والفجر فذكروا فيه وجوها أحدها: ما روي عن ابن عباس أن الفجر هو الصبح المعروف",
+  "note": "",
+  "seconds": 50.1
+ },
+ {
+  "row": 31,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "وقيل: هو استثناء متصل. والمعنى: لست بمسلط إلا على من تولى وكفر",
+  "note": "",
+  "seconds": 45.3
+ },
+ {
+  "row": 31,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "الفجر أقسم بالصبح أو فلقه كقوله: والصبح إذا تنفس أو بصلاته.",
+  "note": "",
+  "seconds": 19.2
+ },
+ {
+  "row": 31,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "وقيل: أراد انفجار العيون من الحجارة وهذا هذا بعيد والأول أظهر وأشهر",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 46.1
+ },
+ {
+  "row": 31,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "واختلفوا في معاني هذه الألفاظ، فروي عن ابن عباس، أنه قال: الفجر هو انفجار الصبح في كل يوم",
+  "note": "",
+  "seconds": 20.0
+ },
+ {
+  "row": 31,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "وقيل: فجر يوم النحر وهو الفجر الذي يكون فيه الحجيج بالمزدلفة",
+  "note": "Lists multiple meanings without choosing.",
+  "seconds": 53.7
+ },
+ {
+  "row": 32,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، {وليال عشر} [الفجر: 2] قال: كنا نحدث أنها عشر الأضحى",
+  "note": "",
+  "seconds": 46.5
+ },
+ {
+  "row": 32,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "أحدها: أنها عشر ذي الحجة لأنها أيام الاشتغال بهذا النسك في الجملة",
+  "note": "",
+  "seconds": 45.2
+ },
+ {
+  "row": 32,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وعن ابن عباس أيضا: هي العشر الأواخر من رمضان، وقاله الضحاك.",
+  "note": "",
+  "seconds": 15.5
+ },
+ {
+  "row": 32,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وعشر ذي الحجة",
+  "note": "",
+  "seconds": 36.5
+ },
+ {
+  "row": 32,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل: العشر الأول من المحرم",
+  "note": "",
+  "seconds": 14.5
+ },
+ {
+  "row": 32,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "روي عن ابن عباس أنها العشر الأول من ذي الحجة",
+  "note": "",
+  "seconds": 42.7
+ },
+ {
+  "row": 32,
+  "who": "ibnAshur",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "فتعين أنها الليالي المرادة بليال عشر.",
+  "note": "He prefers the first view, citing multiple authorities.",
+  "seconds": 53.3
+ },
+ {
+  "row": 33,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "ذكر من قال ذلك: حدثنا نصر بن علي، قال: ثني أبي، قال: ثني خالد بن قيس، عن قتادة، عن عمران بن عصام، عن عمران بن حصين، عن النبي صلى الله عليه وسلم في الشفع والوتر",
+  "note": "Lists many views without choosing.",
+  "seconds": 29.3
+ },
+ {
+  "row": 33,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7",
+   "N8",
+   "N9",
+   "N10"
+  ],
+  "quote": "وكل هذه الوجوه التي ذكرناها محتمل، والظاهر لا إشعار له بشيء من هذه الأشياء على التعيين",
+  "note": "He lists many views without choosing one.",
+  "seconds": 51.7
+ },
+ {
+  "row": 33,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7",
+   "N8",
+   "N9",
+   "N10"
+  ],
+  "quote": "والوتر: هو الله عز وجل",
+  "note": "Lists many views without choosing.",
+  "seconds": 50.0
+ },
+ {
+  "row": 33,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "quote": "والشفع والوتر والأشياء كلها شفعها ووترها، أو الخلق لقوله: ومن كل شيء خلقنا زوجين",
+  "note": "",
+  "seconds": 21.4
+ },
+ {
+  "row": 33,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "quote": "وقيل: الشفع يوم النحر والوتر يوم عرفة، وروي عنه عليه الصلاة والسلام أنها الصلوات منها شفع ووتر",
+  "note": "",
+  "seconds": 47.0
+ },
+ {
+  "row": 33,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "قيل الشفع هو الخلق، والوتر هو الله تعالى يروى ذلك عن أبي سعيد الخدري",
+  "note": "",
+  "seconds": 23.4
+ },
+ {
+  "row": 33,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7",
+   "N8",
+   "N9",
+   "N10"
+  ],
+  "quote": "وفي تفسير الشفع والوتر أقوال ثمانية عشر وبعضها متداخل استقصاها القرطبي، وأكثرها لا يحسن حمل الآية عليه إذ ليست فيها مناسبة للعطف على ليال عشر.",
+  "note": "",
+  "seconds": 52.0
+ },
+ {
+  "row": 33,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7",
+   "N8",
+   "N9",
+   "N10"
+  ],
+  "quote": "وقال جابر عن النبي صلى الله عليه وسلم: الشفع يوم النحر والوتر يوم عرفة",
+  "note": "Lists many views without choosing.",
+  "seconds": 27.2
+ },
+ {
+  "row": 33,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "quote": "واختلف في \"الشفع والوتر\" ما هما؟ على أقوال كثيرة",
+  "note": "",
+  "seconds": 45.4
+ },
+ {
+  "row": 33,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7",
+   "N8",
+   "N9",
+   "N10"
+  ],
+  "quote": "ذكر في كتاب التحرير والتحبير فيها ستة وثلاثين قولا ضجرنا من قراءتها فضلا عن كتابتها في كتابنا هذا",
+  "note": "Lists many views without choosing.",
+  "seconds": 28.9
+ },
+ {
+  "row": 33,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7",
+   "N8",
+   "N9",
+   "N10"
+  ],
+  "quote": "وقد روي أن النبي عليه الصلاة والسلام فسرهما بيوم النحر ويوم عرفة",
+  "note": "",
+  "seconds": 50.4
+ },
+ {
+  "row": 33,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "V8",
+   "V9",
+   "V10"
+  ],
+  "quote": "والشفع والوتر (3) والشفع والوتر (3) {والشفع والوتر} شفع كل الأشياء ووترها أو شفع هذه الليالي ووترها أو شفع الصلاة ووترها",
+  "note": "",
+  "seconds": 48.3
+ },
+ {
+  "row": 34,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "N1",
+   "N2"
+  ],
+  "quote": "ذكر من قال ذلك: حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: {ألم تر كيف فعل ربك بعاد إرم ذات العماد} [الفجر: 7] قال: كنا نحدث أن إرم قبيلة",
+  "note": "",
+  "seconds": 53.3
+ },
+ {
+  "row": 34,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "N1",
+   "N2"
+  ],
+  "quote": "أحدها: أن المتقدمين من قبيلة عاد كانوا يسمون بعاد الأولى فلذلك يسمون بإرم تسمية لهم باسم جدهم",
+  "note": "Razi lists multiple views on the meaning of 'Iram' without choosing one.",
+  "seconds": 23.1
+ },
+ {
+  "row": 34,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "N1",
+   "N2"
+  ],
+  "quote": "إرم قراءة العامة",
+  "note": "",
+  "seconds": 43.6
+ },
+ {
+  "row": 34,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "N1",
+   "N2"
+  ],
+  "quote": "إرم بلدة كانت عاد تسكنها",
+  "note": "",
+  "seconds": 45.5
+ },
+ {
+  "row": 34,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل: الشفع العالم والوتر الله لأنه واحد وقيل: الشفع آدم وحواء والوتر الله تعالى، وقيل الشفع الصفا والمروة والوتر البيت الحرام",
+  "note": "Lists seven views of إرم, and two views of N1/N2, without choosing.",
+  "seconds": 25.0
+ },
+ {
+  "row": 34,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل إن المتقدمين من قوم عاد كانوا يسمون بإرم اسم جدهم.",
+  "note": "",
+  "seconds": 45.2
+ },
+ {
+  "row": 34,
+  "who": "ibnAshur",
+  "type": "single",
+  "holds": [
+   "V6"
+  ],
+  "quote": "اسم إرم بن سام بن نوح وهو جد عاد",
+  "note": "",
+  "seconds": 39.7
+ },
+ {
+  "row": 34,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقال محمد بن كعب: هي \"الإسكندرية\" ، وقال سعيد بن المسيب والمقري: هي دمشق",
+  "note": "",
+  "seconds": 70.6
+ },
+ {
+  "row": 34,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "N1",
+   "N2"
+  ],
+  "quote": "واختلف في “إرم” فقال مجاهد: هي القبيلة بعينها ، وقال ابن إسحاق: إرم: هو أبو عاد كلها ، وقال الجمهور: إرم: مدينة لهم عظيمة كانت على وجه الدهر باليمن",
+  "note": "",
+  "seconds": 71.9
+ },
+ {
+  "row": 34,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقال الجمهور: إرم مدينة لهم عظيمة كانت على وجه الدهر باليمن. وقال محمد بن كعب: هي الإسكندرية. وقال ابن المسيب والمقبري: هي دمشق.",
+  "note": "",
+  "seconds": 24.4
+ },
+ {
+  "row": 34,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "N1",
+   "N2"
+  ],
+  "quote": "اسم بلدة كانت عاد تسكنها ; الإسكندرية ; دمشق ; أمة من الأمم ; القديمة ; قبيلة من عاد سميت باسم جدها ; الهالك ; اسم جد عاد أو أبيهم ; أعلام قوم عاد وقبورهم",
+  "note": "",
+  "seconds": 52.8
+ },
+ {
+  "row": 34,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "V7",
+   "N1",
+   "N2"
+  ],
+  "quote": "قيل لعقب عاد بن عوص بن إرم بن سام بن نوح عاد كما يقال لبني هاشم هاشم ثم قيل للأولين منهم عاد الأولى والإرم تسمية لهم باسم جدهم",
+  "note": "",
+  "seconds": 53.6
+ },
+ {
+  "row": 35,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "ذكر من قال ذلك: حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: {إرم ذات العماد} [الفجر: 7] قال: عاد قوم هود، بنوها وعملوها حين كانوا في الأحقاف",
+  "note": "",
+  "seconds": 45.6
+ },
+ {
+  "row": 35,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "أحدها: أن المتقدمين من قبيلة عاد كانوا يسمون بعاد الأولى فلذلك يسمون بإرم تسمية لهم باسم جدهم",
+  "note": "",
+  "seconds": 19.0
+ },
+ {
+  "row": 35,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل: ذات العماد ذات القوة والشدة، مأخوذ من قوة الأعمدة",
+  "note": "",
+  "seconds": 41.9
+ },
+ {
+  "row": 35,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "ذات العماد ذات البناء الرفيع أو القدود الطوال، أو الرفعة والثبات.",
+  "note": "",
+  "seconds": 18.1
+ },
+ {
+  "row": 35,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل الشفع أبواب الجنة لأنها ثمانية والوتر أبواب النار لأنها سبعة",
+  "note": "",
+  "seconds": 18.8
+ },
+ {
+  "row": 35,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل إن عادا كانوا أهل عمد وخيام وماشية سيارة في الربيع",
+  "note": "",
+  "seconds": 44.8
+ },
+ {
+  "row": 35,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "والعماد: عود غليظ طويل يقام عليه البيت يركز في الأرض تقام عليه أثواب الخيمة أو القبة ويسمى دعامة، وهو هنا مستعار للقوة",
+  "note": "",
+  "seconds": 21.2
+ },
+ {
+  "row": 35,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال مجاهد إرم معناه القديمة، وقرأ الجمهور \"بعاد وإرم\" فصرفوا \"عادا\" على إرادة الحي ونعت ب إرم بكسر الهمزة على أنها القبيلة بعينها",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 49.6
+ },
+ {
+  "row": 35,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "فمن قال: إرم مدينة قال: العماد أعمدة الحجارة التي بنيت بها، وقيل القصور العالية، والأبراج يقال لها عماد، ومن قال إرم قبيلة قال: العماد إما أعمدة بنيانهم، وإما أعمدة بيوتهم التي يرحلون بها",
+  "note": "",
+  "seconds": 55.1
+ },
+ {
+  "row": 35,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال ابن إسحاق: إرم هو أبو عاد كلها. وقال الجمهور: إرم مدينة لهم عظيمة كانت على وجه الدهر باليمن.",
+  "note": "",
+  "seconds": 46.2
+ },
+ {
+  "row": 35,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "ذات الخيام والأعمدة حيث كانوا بدويين أهل عمد أو ذات البناء الرفيع أو ذات الأساطين",
+  "note": "",
+  "seconds": 66.3
+ },
+ {
+  "row": 35,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "ويدل عليه قراءة ابن الزبير بعاد إرم على الإضافة وتقديره بعاد أهل ارم",
+  "note": "He lists multiple interpretations of 'Iram dhat al-'Imad' without choosing one.",
+  "seconds": 49.7
+ },
+ {
+  "row": 36,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V5",
+   "N1",
+   "N2"
+  ],
+  "quote": "ذكر من قال ذلك: حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء",
+  "note": "",
+  "seconds": 46.0
+ },
+ {
+  "row": 36,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V5",
+   "N1",
+   "N2"
+  ],
+  "quote": "أحدها: أنه سمي ذا الأوتاد لكثرة جنوده ومضاربهم",
+  "note": "",
+  "seconds": 17.3
+ },
+ {
+  "row": 36,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V5",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل: كان يعذب الناس بالأوتاد، ويشدهم بها إلى أن يموتوا، تجبرا منه وعتوا.",
+  "note": "",
+  "seconds": 48.5
+ },
+ {
+  "row": 36,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V5",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل كان لعاد ابنان شداد وشديد فملكا وقهرا، ثم مات شديد فخلص الأمر لشداد",
+  "note": "",
+  "seconds": 48.4
+ },
+ {
+  "row": 36,
+  "who": "ibnJuzayy",
+  "type": "silent",
+  "holds": [],
+  "quote": "",
+  "note": "",
+  "seconds": 8.1
+ },
+ {
+  "row": 36,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V5",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل سمي بذلك لأنه كان يعذب الناس بالأوتاد",
+  "note": "",
+  "seconds": 14.0
+ },
+ {
+  "row": 36,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V5",
+   "N1",
+   "N2"
+  ],
+  "quote": "ويجوز أن يكون الأوتاد مستعارا للتمكن والثبات",
+  "note": "",
+  "seconds": 41.7
+ },
+ {
+  "row": 36,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V5",
+   "N1",
+   "N2"
+  ],
+  "quote": "قيل أبنيته العالية العظيمة، وقيل جنوده الذين بهم يثبت ملكه وقيل المراد أوتاد أخبية عساكره",
+  "note": "",
+  "seconds": 20.7
+ },
+ {
+  "row": 36,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V5",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل جنوده الذين بهم يثبت ملكه، وقيل/ المراد أوتاد أخبية عساكره، وذكرت لكثرتها قاله ابن عباس",
+  "note": "He lists multiple views without choosing.",
+  "seconds": 49.7
+ },
+ {
+  "row": 36,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V5",
+   "N1",
+   "N2"
+  ],
+  "quote": "قال السدي: كان يقتل الناس بالأوتاد، ويسمرهم في الأرض بها.",
+  "note": "",
+  "seconds": 40.8
+ },
+ {
+  "row": 36,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V5",
+   "N1",
+   "N2"
+  ],
+  "quote": "أو لتعذيبه بالأوتاد",
+  "note": "",
+  "seconds": 15.8
+ },
+ {
+  "row": 36,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V5",
+   "N1",
+   "N2"
+  ],
+  "quote": "ذى الأوتاد أي ذي الجنود الكثيرة وكانت لهم مضارب كثيرة يضربونها إذا نزلوا",
+  "note": "",
+  "seconds": 51.7
+ },
+ {
+  "row": 37,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "يرى ويسمع ويرقب أعمال العباد كلها",
+  "note": "",
+  "seconds": 45.1
+ },
+ {
+  "row": 37,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "أحدها: قال الحسن: يرصد أعمال بني آدم",
+  "note": "",
+  "seconds": 13.5
+ },
+ {
+  "row": 37,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "يرى ويسمع ويرقب أعمال العباد كلها ; يرصد أهل الظلم والعصاة بالعقاب فلا يفوتونه",
+  "note": "",
+  "seconds": 16.1
+ },
+ {
+  "row": 37,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "يرى ويسمع ويرقب أعمال العباد كلها ; يرصد أهل الظلم والعصاة بالعقاب فلا يفوتونه",
+  "note": "",
+  "seconds": 41.3
+ },
+ {
+  "row": 37,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "وقيل: إرم اسم مدينتهم فهو على حذف مضاف تقديره: بعاد عاد إرم",
+  "note": "",
+  "seconds": 40.9
+ },
+ {
+  "row": 37,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "وقيل عليه طريق العباد، لا يفوته أحد وقيل عليه ممر الناس لأن الرصد والمرصاد الطريق.",
+  "note": "",
+  "seconds": 16.0
+ },
+ {
+  "row": 37,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "إن ربك لبالمرصاد",
+  "note": "He combines both views, interpreting 'al-mirsaad' as encompassing both observation and retribution.",
+  "seconds": 16.5
+ },
+ {
+  "row": 37,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "وقال الثعلبي: يريد بوادي القرى، وقال قوم: المعنى جابوا واديهم وجلبوا ماءهم في صخر شقوه",
+  "note": "",
+  "seconds": 17.7
+ },
+ {
+  "row": 37,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "وقال الجمهور: إرم: مدينة لهم عظيمة كانت على وجه الدهر باليمن",
+  "note": "",
+  "seconds": 15.1
+ },
+ {
+  "row": 37,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "يرى ويسمع ويرقب أعمال العباد كلها ; يرصد أهل الظلم والعصاة بالعقاب فلا يفوتونه",
+  "note": "",
+  "seconds": 16.2
+ },
+ {
+  "row": 37,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "يرى ويسمع ويرقب أعمال العباد كلها ; يرصد أهل الظلم والعصاة بالعقاب فلا يفوتونه",
+  "note": "",
+  "seconds": 16.4
+ },
+ {
+  "row": 37,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "يرى ويسمع ويرقب أعمال العباد كلها ; يرصد أهل الظلم والعصاة بالعقاب فلا يفوتونه",
+  "note": "",
+  "seconds": 16.2
+ },
+ {
+  "row": 38,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "والصواب من قراءة ذلك عندنا بالتخفيف، لإجماع الحجة من القراء عليه",
+  "note": "He prefers the reading with تخفيف, but mentions other readings.",
+  "seconds": 17.2
+ },
+ {
+  "row": 38,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "علمنا أنه ليس غرضه من ذلك شكر نعمة الله، بل التصلف بالدنيا والتكثر بالأولاد",
+  "note": "Lists two views without choosing.",
+  "seconds": 24.3
+ },
+ {
+  "row": 38,
+  "who": "qurtubi",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "وقال الفراء: كلا في هذا الموضع بمعنى لم يكن ينبغي للعبد أن يكون هكذا، ولكن يحمد الله عز وجل على الغنى والفقر.",
+  "note": "Combines two views on the meaning of 'kalla'.",
+  "seconds": 19.6
+ },
+ {
+  "row": 38,
+  "who": "baydawi",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "فأما الإنسان إذا ما ابتلاه ربه فأكرمه ونعمه فيقول ربي أكرمن وأما إذا ما ابتلاه فقدر عليه رزقه فيقول ربي أهانن",
+  "note": "He combines both views under the umbrella of the human reaction to God's tests.",
+  "seconds": 22.2
+ },
+ {
+  "row": 38,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "والآخر: أن الإنسان اعتبر الدنيا فجعل بسط الرزق فيها كرامة، وتضييقه إهانة وليس الأمر كذلك",
+  "note": "",
+  "seconds": 17.7
+ },
+ {
+  "row": 38,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "وقيل جعل سوطه الذي ضربهم به العذاب، وكان الحسن إذا قرأ هذه الآية يقول إن عند الله أسواطا كثيرة، فأخذهم بسوط منها.",
+  "note": "",
+  "seconds": 18.2
+ },
+ {
+  "row": 38,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "القول مستعمل في حقيقته وهو التكلم، وإنما يتكلم الإنسان عن اعتقاد",
+  "note": "Lists both views without choosing.",
+  "seconds": 17.0
+ },
+ {
+  "row": 39,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "أولى القولين في ذلك بالصواب القول الذي ذكرناه عن ابن عباس والضحاك",
+  "note": "He prefers the view of Ibn Abbas and al-Dhahhak.",
+  "seconds": 15.8
+ },
+ {
+  "row": 39,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل عند البعث لترجع الأرواح إلى الأجساد ; يقال للنفس عند الموت ; يقال يوم الجزاء عند الانصراف إلى الجنة ; النداء الآن للمؤمنين في الدنيا",
+  "note": "",
+  "seconds": 21.2
+ },
+ {
+  "row": 39,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل: يقال عند البعث لترجع الأرواح إلى الأجساد",
+  "note": "",
+  "seconds": 16.3
+ },
+ {
+  "row": 39,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "يقال عند البعث لترجع الأرواح إلى الأجساد ; يقال للنفس عند الموت ; يقال يوم الجزاء عند الانصراف إلى الجنة ; النداء الآن للمؤمنين في الدنيا",
+  "note": "",
+  "seconds": 20.8
+ },
+ {
+  "row": 39,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل: عند البعث لترجع الأرواح إلى الأجساد ; وقيل للنفس عند الموت ; وقيل يوم الجزاء عند الانصراف إلى الجنة ; النداء الآن للمؤمنين في الدنيا",
+  "note": "Lists four views without choosing.",
+  "seconds": 44.2
+ },
+ {
+  "row": 39,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "قيل يقال عند البعث لترجع الأرواح إلى الأجساد ; قيل يقال للنفس عند الموت ; يقال يوم الجزاء عند الانصراف إلى الجنة ; النداء الآن للمؤمنين في الدنيا",
+  "note": "",
+  "seconds": 21.3
+ },
+ {
+  "row": 39,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "ويقال عند البعث لترجع الأرواح إلى الأجساد ; يقال للنفس عند الموت",
+  "note": "",
+  "seconds": 39.8
+ },
+ {
+  "row": 39,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقرأ جمهور القراء وعلي بن أبي طالب وابن عباس وأبو عبد الرحمن: \"يعذب\" و \"يوثق\" بكسر الذال الثاء",
+  "note": "Lists multiple interpretations without choosing.",
+  "seconds": 42.6
+ },
+ {
+  "row": 39,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقال قوم: النداء عند قيام الأجساد من القبور، فقوله: ارجعي إلى ربك معناه بالبعث",
+  "note": "Lists multiple timings of the call without choosing one.",
+  "seconds": 19.8
+ },
+ {
+  "row": 39,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل عند البعث لترجع الأرواح إلى الأجساد",
+  "note": "",
+  "seconds": 42.5
+ },
+ {
+  "row": 39,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "يقال عند البعث لترجع الأرواح إلى الأجساد",
+  "note": "",
+  "seconds": 38.9
+ },
+ {
+  "row": 39,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "يقال عند البعث لترجع الأرواح إلى الأجساد",
+  "note": "",
+  "seconds": 36.9
+ },
+ {
+  "row": 40,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "ذكر من قال ذلك: حدثني محمد بن موسى الحرشي، قال: ثنا جعفر بن سليمان، قال: سمعت أبا عمران الجوني، يقرأ: {ووالد وما ولد} [البلد: 3] قال: إبراهيم وما ولد",
+  "note": "",
+  "seconds": 55.5
+ },
+ {
+  "row": 40,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل: هو قسم بآدم والصالحين من أولاده",
+  "note": "He lists six views without choosing.",
+  "seconds": 44.2
+ },
+ {
+  "row": 40,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال مجاهد وقتادة والضحاك والحسن وأبو صالح: ووالد آدم: عليه السلام. وما ولد أي وما نسل من ولده.",
+  "note": "Lists multiple interpretations without choosing.",
+  "seconds": 46.7
+ },
+ {
+  "row": 40,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل حل مستحل تعرضك فيه كما يستحل تعرض الصيد في غيره",
+  "note": "",
+  "seconds": 17.9
+ },
+ {
+  "row": 40,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "ووالد وما ولد فيه خمسة أقوال: أحدها: أنه أراد آدم وجميع ولده، الثاني نوح وولده، الثالث إبراهيم وولده، الرابع سيدنا محمد عليه الصلاة والسلام وولده، الخامس جنس كل والد ومولود",
+  "note": "",
+  "seconds": 48.8
+ },
+ {
+  "row": 40,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "ووالد وما ولد يعني آدم وذريته",
+  "note": "",
+  "seconds": 16.4
+ },
+ {
+  "row": 40,
+  "who": "ibnAshur",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "quote": "والراجح عمل والد على المعنى الحقيقي بقرينة قوله وما ولد",
+  "note": "He argues for a specific interpretation of 'father' (Ibrahim) based on contextual clues.",
+  "seconds": 49.0
+ },
+ {
+  "row": 40,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال مجاهد: هو آدم وجميع ولده، وقال بعض رواة التفسير: هو نوح وجميع ولده، وقال أبو عمران الجوني: هو إبراهيم وجميع ولده",
+  "note": "",
+  "seconds": 47.9
+ },
+ {
+  "row": 40,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال ابن عباس: ما معناه أن الوالد والولد هنا على العموم فهي أسماء جنس يدخل فيها جميع الحيوان",
+  "note": "",
+  "seconds": 19.5
+ },
+ {
+  "row": 40,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال مجاهد: آدم وجميع ولده.",
+  "note": "",
+  "seconds": 16.8
+ },
+ {
+  "row": 40,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل آدم عليه السلام ونسله وهو أنسب لمضمون الجواب من حيث شموله للكل",
+  "note": "",
+  "seconds": 19.1
+ },
+ {
+  "row": 40,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "هما آدم وولده أو كل والد وولده أو إبراهيم وولده",
+  "note": "",
+  "seconds": 18.2
+ },
+ {
+  "row": 41,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "V4",
+   "N1"
+  ],
+  "quote": "قال: شدة وقال آخرون: معنى ذلك أنه خلق منتصبا معتدل القامة",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 18.9
+ },
+ {
+  "row": 41,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "V4",
+   "N1"
+  ],
+  "quote": "وأما الثاني: وهو الكبد في الدين، فقال الحسن: يكابد الشكر على السراء، والصبر على الضراء",
+  "note": "He also mentions a fourth view, which he calls 'the truth', and a fifth view about the lack of pleasure in this world, but does not choose any of them.",
+  "seconds": 23.8
+ },
+ {
+  "row": 41,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "V4",
+   "N1"
+  ],
+  "quote": "في كبد أي في شدة وعناء من مكابدة الدنيا",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 17.1
+ },
+ {
+  "row": 41,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "V4",
+   "N1"
+  ],
+  "quote": "لقد خلقنا الإنسان في كبد تعب ومشقة من كبد الرجل كبدا إذا وجعت كبده",
+  "note": "",
+  "seconds": 46.4
+ },
+ {
+  "row": 41,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "V4",
+   "N1"
+  ],
+  "quote": "أحدها أن المعنى أنت حال بهذا البلد أي ساكن، والآخر أن معنى حل تستحل حرمتك ويؤذيك الكفار، الثالث أن معنى حل حلال يجوز لك في هذا البلد ما شئت",
+  "note": "Lists multiple meanings for 'hal' without choosing.",
+  "seconds": 47.2
+ },
+ {
+  "row": 41,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "V4",
+   "N1"
+  ],
+  "quote": "قوله عز وجل: لقد خلقنا الإنسان في كبد قال ابن عباس: في نصب، وقيل يكابد مصائب الدنيا، وشدائد الآخرة، وعنه أيضا قال: في شدة من حمله، وولادته، ورضاعه، وفطامه، وفصاله، ومعاشه، وحياته، وموته",
+  "note": "",
+  "seconds": 55.1
+ },
+ {
+  "row": 41,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V3",
+   "V4",
+   "N1"
+  ],
+  "quote": "وقد تعددت أقوال المفسرين في تقرير المراد بالكبد",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 18.1
+ },
+ {
+  "row": 42,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "ذكر من قال ذلك: حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، {والشمس وضحاها} [الشمس: 1] قال: هذا النهار",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 22.9
+ },
+ {
+  "row": 42,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال قتادة: هو النهار كله، وهو اختيار الفراء وابن قتيبة، وقال مقاتل: هو حر الشمس",
+  "note": "",
+  "seconds": 18.0
+ },
+ {
+  "row": 42,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "قال مجاهد: وضحاها أي ضوئها وإشراقها. وقال قتادة: بهاؤها. السدي: حرها.",
+  "note": "",
+  "seconds": 18.9
+ },
+ {
+  "row": 42,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "والضحوة ارتفاع النهار والضحى فوق ذلك، والضحاء بالفتح والمد إذا امتد النهار وكاد ينتصف.",
+  "note": "",
+  "seconds": 19.6
+ },
+ {
+  "row": 42,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "الضحى ارتفاع الضوء وكماله، والضحاء بالفتح والمد بعد ذلك إلى الزوال وقيل: الضحى النهار كله",
+  "note": "",
+  "seconds": 47.3
+ },
+ {
+  "row": 42,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل في معنى الآية وفك رقبة من رق الذنوب بالتوبة وبما يتكلفه من العبادات، والطاعات التي يصير بها إلى رضوان الله، والجنة فهي الحرية الكبرى",
+  "note": "",
+  "seconds": 22.0
+ },
+ {
+  "row": 42,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وعدت السادسة والعشرين في عدد نزول السور نزلت بعد سورة القدر، وقبل سورة البروج.",
+  "note": "",
+  "seconds": 45.9
+ },
+ {
+  "row": 43,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "ذكر من قال ذلك: حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس: {والأرض وما طحاها} [الشمس: 6] يقول: ما خلق فيها",
+  "note": "",
+  "seconds": 50.6
+ },
+ {
+  "row": 43,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "أما قوله تعالى: [سورة الشمس (91) : آية 6] والأرض وما طحاها (6) ففيه مسألتان: المسألة الثانية: قال الليث: الطحو كالدحو وهو البسط، وإبدال الطاء من الدال جائز",
+  "note": "Discusses multiple meanings of 'طحاها' without choosing one.",
+  "seconds": 30.2
+ },
+ {
+  "row": 43,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "وقيل: خلقها، قال الشاعر: وما تدري جذيمة من طحاها",
+  "note": "",
+  "seconds": 45.2
+ },
+ {
+  "row": 43,
+  "who": "baydawi",
+  "type": "silent",
+  "holds": [],
+  "quote": "",
+  "note": "",
+  "seconds": 37.2
+ },
+ {
+  "row": 43,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "أحدها أنه يتبعها في كثرة الضوء، لأنه أضوء الكواكب بعد الشمس",
+  "note": "",
+  "seconds": 36.6
+ },
+ {
+  "row": 43,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "وقيل الضحى النهار كله لأن الضحى هو نور الشمس، وهو حاصل في النهار كله",
+  "note": "",
+  "seconds": 46.0
+ },
+ {
+  "row": 43,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "وقيل: الضمير عائد إلى الأرض، أي أضاء الأرض فتجلت للناظرين",
+  "note": "",
+  "seconds": 53.8
+ },
+ {
+  "row": 44,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "اختلف أهل التأويل في معنى ذلك، فقال بعضهم: معناه: لا يخاف تبعة دمدمته عليهم.",
+  "note": "",
+  "seconds": 21.8
+ },
+ {
+  "row": 44,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "وقال الفراء: قيل إنهما كانا اثنين.",
+  "note": "",
+  "seconds": 18.5
+ },
+ {
+  "row": 44,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "وقال ابن الأنباري: دمدم أي غضب. والدمدمة: الكلام الذي يزعج الرجل.",
+  "note": "",
+  "seconds": 21.8
+ },
+ {
+  "row": 44,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "وقيل هو استطراد بذكر بعض أحوال النفس",
+  "note": "He lists views without choosing, and then moves on to other topics.",
+  "seconds": 22.0
+ },
+ {
+  "row": 44,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "وقيل: إن ضمير الفاعل لصالح وهذا بعيد",
+  "note": "",
+  "seconds": 20.3
+ },
+ {
+  "row": 44,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "وقيل هو راجع إلى العاقر والمعنى لا يخاف العاقر عقبى ما قدم عليه من عقر الناقة، وقيل هو راجع إلى صالح عليه الصلاة والسلام والمعنى لا يخاف صالح عاقبة ما أنزل الله بهم من العذاب",
+  "note": "",
+  "seconds": 27.4
+ },
+ {
+  "row": 44,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "والعقبى: ما يحصل عقب فعل من الأفعال من تبعة لفاعله أو مثوبة",
+  "note": "",
+  "seconds": 21.4
+ },
+ {
+  "row": 45,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "وأولاها بالصواب عندي: قول من قال: عني به التصديق بالخلف من الله على نفقته",
+  "note": "He explicitly chooses the view about 'khalf' (provision) over the others.",
+  "seconds": 55.7
+ },
+ {
+  "row": 45,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "أحدها: أنها قول لا إله إلا الله",
+  "note": "",
+  "seconds": 22.2
+ },
+ {
+  "row": 45,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال قتادة: بالجنة، دليله قوله تعالى: للذين أحسنوا الحسنى وزيادة",
+  "note": "",
+  "seconds": 26.9
+ },
+ {
+  "row": 45,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "فأما من أعطى واتقى (5) وصدق بالحسنى (6) فسنيسره لليسرى (7)",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 29.1
+ },
+ {
+  "row": 45,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل: يعني الخلف على المنفق فسنيسره لليسرى",
+  "note": "",
+  "seconds": 25.1
+ },
+ {
+  "row": 45,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل صدق بالجنة، وقيل صدق بموعد الله عز وجل الذي وعده أنه يثيبه",
+  "note": "",
+  "seconds": 24.4
+ },
+ {
+  "row": 45,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل: الحسنى الجنة، وقيل: كلمة الشهادة، وقيل: الصلاة، وقيل: الزكاة",
+  "note": "",
+  "seconds": 25.2
+ },
+ {
+  "row": 45,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال أبو عبد الرحمن السلمي وغيره: هي لا إله إلا الله، وقال ابن عباس وعكرمة وجماعة: هي الخلف الذي وعد الله تعالى به، وقال مجاهد والحسن وجماعة: \"الحسنى\" : الجنة.",
+  "note": "",
+  "seconds": 62.3
+ },
+ {
+  "row": 45,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "قيل هي: لا إله إلا الله، وقيل: هي الخلف الذي وعد الله به، وقيل: هي الجنة",
+  "note": "",
+  "seconds": 26.8
+ },
+ {
+  "row": 45,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال السلمي وغيره: لا إله إلا الله.",
+  "note": "",
+  "seconds": 23.4
+ },
+ {
+  "row": 45,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "أو بالملة الحسنى وهي ملة الإسلام",
+  "note": "",
+  "seconds": 23.2
+ },
+ {
+  "row": 45,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "ملة الحسنى وهي ملة الإسلام أو بالمثوبة الحسنى وهى الحنة أو بالكلمة وهي لا إله إلا الله",
+  "note": "",
+  "seconds": 27.7
+ },
+ {
+  "row": 46,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "وأولى القولين في ذلك بالصواب قول من قال: معناه: إذا تردّى في جهنم",
+  "note": "Explicit preference for the 'hell' interpretation.",
+  "seconds": 19.0
+ },
+ {
+  "row": 46,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "أما قوله تعالى: [سورة الليل (92) : آية 11] وما يغني عنه ماله إذا تردى (11) فاعلم أن (ما) هنا يحتمل أن يكون استفهاما بمعنى الإنكار، ويحتمل أن يكون نفيا.",
+  "note": "He lists multiple interpretations of 'تردى' and 'ما' without choosing one.",
+  "seconds": 30.3
+ },
+ {
+  "row": 46,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "يقال: ردي الرجل يردى ردى: إذا هلك. قال: صرفت الهوى عنهن من خشية الردى",
+  "note": "",
+  "seconds": 55.6
+ },
+ {
+  "row": 46,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "إذا تردى هلك تفعل من الردى، أو تردى في حفرة القبر أو قعر جهنم.",
+  "note": "",
+  "seconds": 24.3
+ },
+ {
+  "row": 46,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "واختلف في معنى تردى على أربعة أقوال: الأول تردى أي هلك، فهو مشتق من الردى وهو الموت، أو تردى أي سقط في القبر، أو سقط في جهنم، أو تردى بأكفانه من الرداء",
+  "note": "",
+  "seconds": 31.5
+ },
+ {
+  "row": 46,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل هوى في جهنم",
+  "note": "",
+  "seconds": 19.4
+ },
+ {
+  "row": 46,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "والتقدير: وما يغني عنه ماله إذا تردى",
+  "note": "Combines both views of falling into hellfire.",
+  "seconds": 54.0
+ },
+ {
+  "row": 47,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "اختلف أهل التأويل في تأويله، فقال بعضهم: معناه: والليل إذا أقبل بظلامه",
+  "note": "",
+  "seconds": 25.6
+ },
+ {
+  "row": 47,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "سكن وأظلم وغطى",
+  "note": "",
+  "seconds": 21.3
+ },
+ {
+  "row": 47,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال الضحاك: سجى غطى كل شي",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 24.5
+ },
+ {
+  "row": 47,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "سكن أهله أو ركد ظلامه من سجا البحر سجوا إذا سكنت أمواجه",
+  "note": "",
+  "seconds": 24.7
+ },
+ {
+  "row": 47,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "فيه أربعة أقوال: إذا أقبل، وإذا أدبر، وإذا أظلم، وإذا سكن أي استقر واستوى، أو سكن فيه الناس والأصوات",
+  "note": "",
+  "seconds": 61.2
+ },
+ {
+  "row": 47,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "قال ابن عباس أقبل بظلامه وعنه إذا ذهب وقيل معناه غطى كل شيء بظلامه، وقيل معناه سكن فاستقر ظلامه",
+  "note": "",
+  "seconds": 55.7
+ },
+ {
+  "row": 47,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "والليل إذا سجى (2) ما ودعك ربك وما قلى (3)",
+  "note": "",
+  "seconds": 47.1
+ },
+ {
+  "row": 48,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "وقال آخرون: بل معنى ذلك: ﴿فَإِذَا فَرَغْتَ﴾ من جهاد عدوّك ﴿فَانْصَبْ﴾ في عبادة ربك.",
+  "note": "He chooses the view that the verse refers to all kinds of free time.",
+  "seconds": 56.4
+ },
+ {
+  "row": 48,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال قتادة والضحاك ومقاتل: إذا فرغت من الصلاة المكتوبة فانصب إلى ربك في الدعاء",
+  "note": "",
+  "seconds": 51.0
+ },
+ {
+  "row": 48,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال الكلبي: إذا فرغت من تبليغ الرسالة فانصب أي استغفر لذنبك وللمؤمنين والمؤمنات.",
+  "note": "",
+  "seconds": 53.6
+ },
+ {
+  "row": 48,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل إذا فرغت من الغزو فانصب في العبادة، أو فإذا فرغت من الصلاة فانصب بالدعاء.",
+  "note": "",
+  "seconds": 42.2
+ },
+ {
+  "row": 48,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل: إذا فرغت من شغل دنياك فانصب في عبادة ربك",
+  "note": "",
+  "seconds": 22.0
+ },
+ {
+  "row": 48,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "فإذا فرغت فانصب لما عدد الله على نبيه صلى الله عليه وسلم نعمه السالفة حثه على الشكر، والاجتهاد في العبادة، والنصب فيها",
+  "note": "",
+  "seconds": 51.1
+ },
+ {
+  "row": 48,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "والمعنى إذا أتممت عملا من مهام الأعمال فأقبل على عمل آخر بحيث يعمر أوقاته",
+  "note": "",
+  "seconds": 61.7
+ },
+ {
+  "row": 48,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال ابن عباس: المعنى فإذا فرغت من فرضك فانصب في النفل عبادة لربك",
+  "note": "",
+  "seconds": 26.4
+ },
+ {
+  "row": 48,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال ابن عباس: إذا فرغت من فرضك فانصب في التنفل عبادة لربك",
+  "note": "",
+  "seconds": 24.9
+ },
+ {
+  "row": 48,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال مجاهد: قال فإذا فرغت من شغل دنياك، فانصب في عبادة ربك.",
+  "note": "",
+  "seconds": 24.9
+ },
+ {
+  "row": 48,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "{فإذا فرغت} أي من التبليغ وقيل من الغزو {فانصب} فاجتهد في العبادة",
+  "note": "",
+  "seconds": 26.9
+ },
+ {
+  "row": 48,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "فإذا فرغت فانصب",
+  "note": "",
+  "seconds": 50.7
+ },
+ {
+  "row": 49,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقال آخرون: التين: مسجد دمشق، والزيتون: بيت المقدس.",
+  "note": "",
+  "seconds": 72.6
+ },
+ {
+  "row": 49,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "الأول: أن المراد من التين والزيتون هذان الشيئان المشهوران",
+  "note": "",
+  "seconds": 41.2
+ },
+ {
+  "row": 49,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقال الضحاك: التين: المسجد الحرام، والزيتون المسجد __________",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 45.5
+ },
+ {
+  "row": 49,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "والتِّين والزيتون خصهما من الثمار بالقسم لأن التين فاكهة طيبة ... والزيتون فاكهة وإدام ودواء",
+  "note": "",
+  "seconds": 48.7
+ },
+ {
+  "row": 49,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "القول الثاني أنهما موضعان ثم اختلف فيهما فقيل هما جبلان بالشام",
+  "note": "",
+  "seconds": 41.1
+ },
+ {
+  "row": 49,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقيل هما جبلان فالتين الجبل الذي عليه دمشق والزيتون الجبل الذي عليه بيت المقدس",
+  "note": "",
+  "seconds": 43.7
+ },
+ {
+  "row": 49,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "والزيتون أيضا ظاهره الثمرة المشهورة ذات الزيت الذي يعتصر منها فيطعمه الناس ويستصبحون به.",
+  "note": "",
+  "seconds": 44.2
+ },
+ {
+  "row": 50,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "اختلف أهل التأويل في تأويله",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 38.3
+ },
+ {
+  "row": 50,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "واختلفوا في سينين والأولى عند النحويين أن يكون سينين وسينا اسمين للمكان الذي حصل فيه الجبل",
+  "note": "",
+  "seconds": 55.9
+ },
+ {
+  "row": 50,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "وقال آخر: التين يعدل عندي كل فاكهة",
+  "note": "",
+  "seconds": 49.8
+ },
+ {
+  "row": 50,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "وقيل المراد بهما جبلان من الأرض المقدسة أو مسجدا دمشق وبيت المقدس، أو البلدان.",
+  "note": "",
+  "seconds": 54.7
+ },
+ {
+  "row": 50,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "الأول أنه التين الذين يؤكل والزيتون الذي يعصر",
+  "note": "",
+  "seconds": 48.5
+ },
+ {
+  "row": 50,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "وقيل هما جبلان فالتين الجبل الذي عليه دمشق والزيتون الجبل الذي عليه بيت المقدس",
+  "note": "",
+  "seconds": 39.1
+ },
+ {
+  "row": 50,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "وقيل: سينين اسم الأشجار بالنبطية أو بالحبشية، وقيل: معناه الحسن بلغة الحبشة.",
+  "note": "",
+  "seconds": 40.2
+ },
+ {
+  "row": 51,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "وقال آخرون: بل معنى ذلك: لقد خلقنا الإنسان، فبلغنا به استواء شبابه وجلده وقوّته",
+  "note": "He prefers the view that it means 'in the most just creation and best form'",
+  "seconds": 40.9
+ },
+ {
+  "row": 51,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "الحسن أن القول الأول راجع إلى الصورة الظاهرة، والثاني إلى/ السيرة الباطنة",
+  "note": "He lists three views on the meaning of 'ahsan taqweem' without choosing one.",
+  "seconds": 36.8
+ },
+ {
+  "row": 51,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "وهو أحسن ما يكون، لأنه خلق كل شي منكبا عل وجهه، وخلقه هو مستويا، وله لسان ذلق، وئد وأصابع يقبض بها.",
+  "note": "He lists multiple views without choosing one.",
+  "seconds": 19.7
+ },
+ {
+  "row": 51,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "في أحسن تقويم تعديل بأن خص بانتصاب القامة وحسن الصورة واستجماع خواص الكائنات",
+  "note": "",
+  "seconds": 34.7
+ },
+ {
+  "row": 51,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "فيه قولان: أحدهما أن أحسن التقويم هو __________",
+  "note": "He lists several views without choosing one.",
+  "seconds": 17.2
+ },
+ {
+  "row": 51,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "وقيل التين مسجد أصحاب الكهف والزيتون مسجد إيلياء",
+  "note": "",
+  "seconds": 14.9
+ },
+ {
+  "row": 51,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "ويجوز أن يكون تعريف الإنسان تعريف الحقيقة نحو قولهم: الرجل خير من المرأة",
+  "note": "Lists three views without choosing.",
+  "seconds": 34.5
+ },
+ {
+  "row": 51,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "وقال النخعي ومجاهد وقتادة: حسن صورته وحواسه، وقال بعضهم: هو انتصاب قامته، وقال أبو بكر بن طاهر في كتاب الثعلبي: هو عقله وإدراكه اللذان زيناه بالتمييز، وقال عكرمة: هو الشباب والقوة",
+  "note": "",
+  "seconds": 45.6
+ },
+ {
+  "row": 51,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "حسن التقويم يشمل جميع محاسن الإنسان الظاهرة والباطنة من حسن صورته، وانتصاب قامته، وكمال عقله، وحسن تمييزه",
+  "note": "",
+  "seconds": 47.4
+ },
+ {
+  "row": 51,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "وقال النخعي ومجاهد وقتادة: حسن صورته وحواسه. وقيل: انتصاب قامته.",
+  "note": "Lists multiple views on 'ahsan taqweem' without choosing.",
+  "seconds": 48.6
+ },
+ {
+  "row": 51,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "أي كائنا في أحسن ما يكون من التقويم والتعديل صورة ومعنى",
+  "note": "",
+  "seconds": 39.1
+ },
+ {
+  "row": 51,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "فى أحسن تعديل لشكله وصورته وتسوية اعضائه",
+  "note": "",
+  "seconds": 37.6
+ },
+ {
+  "row": 52,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "وإنما قلنا: هذا القول أولى بالصواب في ذلك",
+  "note": "He prefers the view of 'ardhal al-'umr' over the others, but lists several.",
+  "seconds": 49.8
+ },
+ {
+  "row": 52,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "الأول: قال ابن عباس: يريد أرذل العمر، وهو مثل قوله: يرد إلى أرذل العمر",
+  "note": "",
+  "seconds": 33.7
+ },
+ {
+  "row": 52,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "أي إلى أرذل العمر، وهو الهرم بعد الشباب، والضعف بعد القوة، حتى يصير كالصبي في الحال الأول",
+  "note": "",
+  "seconds": 38.7
+ },
+ {
+  "row": 52,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "ثم رددناه أسفل سافلين (5) إلا الذين آمنوا وعملوا الصالحات فلهم أجر غير ممنون (6)",
+  "note": "He lists four views without choosing.",
+  "seconds": 41.4
+ },
+ {
+  "row": 52,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "والآخر أن حسن التقويم: الفطرة على الإيمان وأسفل سافلين الكفر أو تشويه الصورة في النار",
+  "note": "",
+  "seconds": 38.9
+ },
+ {
+  "row": 52,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل ثم رددناه أسفل سافلين يعني إلى الهرم وأرذل العمر",
+  "note": "He lists multiple interpretations of the phrase, without choosing one.",
+  "seconds": 42.3
+ },
+ {
+  "row": 52,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "والمراد: أسفل سافلين في الاعتقاد بخالقه بقرينة قوله: إلا الذين آمنوا",
+  "note": "Combines two views to explain the meaning of 'asfal safilin'.",
+  "seconds": 47.8
+ },
+ {
+  "row": 52,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "فقال عكرمة وقتادة والضحاك والنخعي: معناه بالهرم وذهول العقل وتفلت الفكر حتى يصير لا يعلم شيئا",
+  "note": "",
+  "seconds": 42.5
+ },
+ {
+  "row": 52,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "قال قتادة وغيره: معناه بالهرم وذهول العقل وهذه عبرة منصوبة",
+  "note": "",
+  "seconds": 37.5
+ },
+ {
+  "row": 52,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "قال عكرمة والضحاك والنخعي: بالهرم وذهول العقل وتغلب الكبر حتى يصير لا يعلم شيئا.",
+  "note": "",
+  "seconds": 53.6
+ },
+ {
+  "row": 52,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "أي جعلناه من أهل النار الذين هم أقبح من كل قبيح وأسفل من كل سافل لعدم جريانه على موجب ما خلقناه عليه",
+  "note": "",
+  "seconds": 67.7
+ },
+ {
+  "row": 52,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2"
+  ],
+  "quote": "ثم رددناه أسفل سافلين أي ثم كان عاقبة أمره حين لم يشكر نعمة تلك الخلقة الحسنة القويمة السوية أن رددناه أسفل من سفل خلقا وتركيبا",
+  "note": "",
+  "seconds": 36.0
+ },
+ {
+  "row": 53,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "وقد تأوّل ذلك بعض أهل العربية بمعنى: فما الذي يكذّبك بأن الناس يدانون بأعمالهم؟",
+  "note": "He explicitly prefers the view that 'ma' means 'man' and connects it to accountability.",
+  "seconds": 32.6
+ },
+ {
+  "row": 53,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "والقول الثاني: ما ذكره مجاهد والحسن ثم رددناه إلى النار",
+  "note": "Razi prefers the view that the phrase refers to the fire, but also mentions other views.",
+  "seconds": 15.4
+ },
+ {
+  "row": 53,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "قيل: الخطاب للكافر، توبيخا وإلزاما للحجة. أي إذا عرفت أيها الإنسان أن الله خلقك في أحسن تقويم، وأنه يردك إلى أرذل العمر، وينقلك من حال إلى حال، فما يحملك على أن تكذب",
+  "note": "",
+  "seconds": 56.8
+ },
+ {
+  "row": 53,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "قيل \"ما\" بمعنى من، وقيل الخطاب للإنسان على الالتفات، والمعنى فما الذي يحملك على هذا الكذب.",
+  "note": "",
+  "seconds": 45.1
+ },
+ {
+  "row": 53,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "فيه قولان: أحدهما: أنه خطاب للنبي صلى الله عليه وسلم والدين شريعته، والمعنى أي شيء يكذبك بالدين بعد هذه الدلائل",
+  "note": "Lists multiple interpretations of the phrase without choosing one.",
+  "seconds": 21.1
+ },
+ {
+  "row": 53,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "وقيل هو خطاب للنبي صلى الله عليه وسلم والمعنى فمن يكذبك أيها الرسول بعد ظهور هذه الدلائل، والبراهين أليس الله بأحكم الحاكمين",
+  "note": "",
+  "seconds": 53.0
+ },
+ {
+  "row": 53,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "الخطاب للنبي: فمن يكذبك بعد هذا البيان ; الخطاب للإنسان: ما الذي يحملك على التكذيب ; الخطاب للنبي: استيقن أن الله أحكم الحاكمين ; الخطاب للنبي وما استفهامية: أي شيء يكذبك",
+  "note": "",
+  "seconds": 53.3
+ },
+ {
+  "row": 53,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "واختلف في معنى قوله تعالى: ثم رددناه أسفل سافلين، فقال عكرمة وقتادة والضحاك والنخعي",
+  "note": "",
+  "seconds": 47.8
+ },
+ {
+  "row": 53,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "فما يجعلك أن تكذب بعد هذه الحجة بالدين",
+  "note": "",
+  "seconds": 14.1
+ },
+ {
+  "row": 53,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "وقال قتادة والأخفش والفراء: قال الله لرسوله صلى الله عليه وسلم: فإذا الذي يكذبك فيما تخبر به من الجزاء والبعث",
+  "note": "N1 is a grammatical observation, not a distinct meaning.",
+  "seconds": 53.6
+ },
+ {
+  "row": 53,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "وقيل ما بمعنى من وقيل الخطاب للإنسان على طريق الالتفات لتشديد التوبيخ والتبكيت",
+  "note": "He lists three views without choosing.",
+  "seconds": 52.6
+ },
+ {
+  "row": 53,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "الخطاب في {فما يكذبك بعد بالدين} للإنسان على طريقة الالتفات",
+  "note": "He lists multiple interpretations without choosing one.",
+  "seconds": 35.7
+ },
+ {
+  "row": 54,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "يعني بإذن ربهم، من كل أمر قضاه الله في تلك السنة، من رزق وأجل وغير ذلك",
+  "note": "He explicitly prefers the view that 'من كل أمر' refers to God's decrees for the year.",
+  "seconds": 46.9
+ },
+ {
+  "row": 54,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V2"
+  ],
+  "quote": "وهذا هو الأقرب",
+  "note": "Choosing 'on the reading of from every man' as the closest to the intended meaning.",
+  "seconds": 40.0
+ },
+ {
+  "row": 54,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4"
+  ],
+  "quote": "من كل أمر: أمر بكل أمر قدره الله وقضاه في تلك السنة إلى قابل",
+  "note": "",
+  "seconds": 38.6
+ },
+ {
+  "row": 54,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "من أجل كل أمر قدر في تلك السنة، وقرئ \"من كل امرئ\"",
+  "note": "",
+  "seconds": 39.8
+ },
+ {
+  "row": 54,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "فإنه روي أن الله يعلم الملائكة بكل ما يكون في ذلك العام من الآجال والأرزاق وغير ذلك، ليمتثلوا ذلك في العام كله",
+  "note": "",
+  "seconds": 44.5
+ },
+ {
+  "row": 54,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقيل بكل ما أمر به وقضاه من كل أمر.",
+  "note": "",
+  "seconds": 41.8
+ },
+ {
+  "row": 54,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "ويجوز أن تكون (من) في قوله من كل أمر بيانية تبين الإذن من قوله: بإذن ربهم ، أي بإذن ربهم الذي هو في كل أمر.",
+  "note": "",
+  "seconds": 53.8
+ },
+ {
+  "row": 55,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "ذكر من قال ذلك: حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعا عن ابن أبي نجيح، عن مجاهد، في قول الله: {منفكين} [البينة: 1] قال: \"لم يكونوا لينتهوا حتى يتبين لهم الحق\"",
+  "note": "",
+  "seconds": 52.8
+ },
+ {
+  "row": 55,
+  "who": "razi",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "N1"
+  ],
+  "quote": "فحكى الله تعالى ما كانوا يقولونه",
+  "note": "combines V1 and N1, which are closely related",
+  "seconds": 14.1
+ },
+ {
+  "row": 55,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "أي منتهين عن كفرهم، مائلين عنه.",
+  "note": "",
+  "seconds": 126.8
+ },
+ {
+  "row": 55,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "منفكين عما كانوا عليه من دينهم، أو الوعد باتباع الحق إذا جاءهم الرسول صلى الله عليه وسلم.",
+  "note": "",
+  "seconds": 45.0
+ },
+ {
+  "row": 55,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "الثاني لم يكونوا منفصلين عن معرفة نبوة سيدنا محمد صلى الله عليه وسلم حتى بعثه الله",
+  "note": "Lists four possible meanings of 'munfakīn'.",
+  "seconds": 397.0
+ },
+ {
+  "row": 55,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "الآية فيمن آمن من الفريقين",
+  "note": "He lists multiple views without choosing one.",
+  "seconds": 42.6
+ },
+ {
+  "row": 55,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "فهم كانوا يقولون لا نترك ما نحن عليه حتى تأتينا البينة",
+  "note": "",
+  "seconds": 51.1
+ },
+ {
+  "row": 56,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقال آخرون: هي الألسنة",
+  "note": "Lists multiple interpretations without choosing one.",
+  "seconds": 48.9
+ },
+ {
+  "row": 56,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "وهذا هو الأقرب",
+  "note": "Choosing the first view as the closest to the literal meaning of the verse.",
+  "seconds": 41.7
+ },
+ {
+  "row": 56,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقيل: هذه الآيات في الخيل، ولكن إيراءها: أن تهيج الحرب بين أصحابها وبين عدوهم.",
+  "note": "",
+  "seconds": 52.8
+ },
+ {
+  "row": 56,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "فالموريات قدحا (2) فالتي توري النار، والإيراء إخراج النار يقال قدح الزند فأورى.",
+  "note": "",
+  "seconds": 52.2
+ },
+ {
+  "row": 56,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقيل الورد القيام للحشر، والصدر الانصراف إلى الجنة أو النار.",
+  "note": "He lists multiple views without choosing one.",
+  "seconds": 52.8
+ },
+ {
+  "row": 56,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "فالموريات قدحا يعني أنها توري النار بحوافرها إذا سارت في الحجارة، وقيل هي الخيل تهيج الحرب ونار العداوة بين فرسانها",
+  "note": "",
+  "seconds": 54.7
+ },
+ {
+  "row": 56,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "فإذا حمل العاديات على أنها الإبل، فقال المبرد وبعض أهل اللغة",
+  "note": "",
+  "seconds": 44.2
+ },
+ {
+  "row": 57,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "وقال بعضهم: معنى ذلك: فالمغيرات صبحا على عدوها علانية",
+  "note": "Lists multiple interpretations of the phrase without choosing one.",
+  "seconds": 49.6
+ },
+ {
+  "row": 57,
+  "who": "razi",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "وهذا هو الأقرب",
+  "note": "He prefers the view that it refers to horses attacking the enemy at dawn.",
+  "seconds": 48.9
+ },
+ {
+  "row": 57,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "وعن ابن عباس أيضا: أن المراد بالموريات قدحا: مكر الرجال في الحرب، وقاله مجاهد وزيد بن أسلم.",
+  "note": "",
+  "seconds": 44.9
+ },
+ {
+  "row": 57,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "فالمغيرات صبحا أي في وقته.",
+  "note": "",
+  "seconds": 47.1
+ },
+ {
+  "row": 57,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "وقيل الورد القيام للحشر، والصدر الانصراف إلى الجنة أو النار.",
+  "note": "Lists three views without choosing.",
+  "seconds": 47.4
+ },
+ {
+  "row": 57,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "فالمغيرات صبحا يعني الخيل تغير بفرسانها على العدو عند الصباح لأن الناس في غفلة في ذلك الوقت عن الاستعداد",
+  "note": "",
+  "seconds": 50.1
+ },
+ {
+  "row": 57,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "N1"
+  ],
+  "quote": "وإذا فسر \"المغيرات\" بالإبل المسرعات في السير، فالمراد: دفعها من مزدلفة إلى منى صباح يوم النحر",
+  "note": "",
+  "seconds": 58.3
+ },
+ {
+  "row": 58,
+  "who": "tabari",
+  "type": "combines",
+  "holds": [
+   "V5"
+  ],
+  "quote": "فهو سائلهم كما قال عن جميع النعيم، لا عن بعض دون بعض",
+  "note": "He combines all views by saying the verse is general.",
+  "seconds": 44.9
+ },
+ {
+  "row": 58,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "ذكروا في النعيم المسئول عنه وجوها أحدها: ما روي أنه خمس: شبع/ البطون وبارد الشراب ولذة النوم وإظلال المساكن واعتدال الخلق",
+  "note": "",
+  "seconds": 51.0
+ },
+ {
+  "row": 58,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "الرابع- ملاذ المأكول والمشروب قاله جابر بن عبد الله الأنصاري",
+  "note": "",
+  "seconds": 47.1
+ },
+ {
+  "row": 58,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "والنعيم بما يشغله للقرينة والنصوص الكثيرة كقوله: من حرم زينة الله كلوا من الطيبات",
+  "note": "",
+  "seconds": 48.5
+ },
+ {
+  "row": 58,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5"
+  ],
+  "quote": "فقيل: النعيم الأمن والصحة، وقيل: الطعام والشراب",
+  "note": "",
+  "seconds": 66.2
+ },
+ {
+  "row": 58,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
+  ],
+  "quote": "وقيل إن هذا السؤال يعم الكافر، والمؤمن، وهو الأولى",
+  "note": "He lists many views without choosing.",
+  "seconds": 59.8
+ },
+ {
+  "row": 58,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V5"
+  ],
+  "quote": "والنعيم: اسم لما يلذ لإنسان مما ليس ملازما له",
+  "note": "He combines several meanings of النعيم, but ultimately settles on the general one.",
+  "seconds": 45.9
+ },
+ {
+  "row": 59,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "اختلف أهل التأويل في تأويل قوله: {والعصر} [العصر: 1] فقال بعضهم: هو قسم أقسم ربنا تعالى ذكره بالدهر، فقال: العصر: هو الدهر",
+  "note": "",
+  "seconds": 55.8
+ },
+ {
+  "row": 59,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "الأول: أنه الدهر",
+  "note": "",
+  "seconds": 52.4
+ },
+ {
+  "row": 59,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "قوله تعالى: والعصر أي الدهر",
+  "note": "",
+  "seconds": 52.1
+ },
+ {
+  "row": 59,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "العصر أقسم سبحانه بصلاة العصر لفضلها، أو بعصر النبوة أو بالدهر لاشتماله على الأعاجيب",
+  "note": "",
+  "seconds": 53.5
+ },
+ {
+  "row": 59,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "الأول أنه صلاة العصر أقسم الله بها لفضلها",
+  "note": "",
+  "seconds": 46.0
+ },
+ {
+  "row": 59,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "وقيل أراد بالعصر آخر طرفي النهار أقسم بالعشي كما أقسم بالضحى",
+  "note": "",
+  "seconds": 53.8
+ },
+ {
+  "row": 59,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "ومناسبة القسم بالعصر لغرض السورة على إرادة عصر الإسلام ظاهرة",
+  "note": "",
+  "seconds": 45.8
+ },
+ {
+  "row": 59,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "وقال ابن مسعود والشعبي وسفيان ومجاهد: النعيم هو الأمن والصحة",
+  "note": "",
+  "seconds": 53.7
+ },
+ {
+  "row": 59,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "وقال مقاتل: العصر هي صلاة العصر، وهي الوسطى، أقسم الله بها",
+  "note": "",
+  "seconds": 52.6
+ },
+ {
+  "row": 59,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "وقال قتادة: العصر: العشي، أقسم به كما أقسم بالضحى لما فيهما من دلائل القدرة.",
+  "note": "",
+  "seconds": 37.7
+ },
+ {
+  "row": 59,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "أقسم سبحانه بصلاة العصر لفضلها الباهر أو بالعشي الذي هو ما بين الزوال والغروب كما أقسم بالضحى أو بعصر النبوة لظهور فضله على سائر الأعصار أو بالدهر لانطوائه على تعاجيب الأمور القارة والمارة",
+  "note": "",
+  "seconds": 67.2
+ },
+ {
+  "row": 59,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "quote": "أقسم بالعشي كما أقسم بالضحى لما فيها من دلائل القدرة",
+  "note": "",
+  "seconds": 53.1
+ },
+ {
+  "row": 60,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "وقال آخرون: هي عمد يعذّبون بها.",
+  "note": "Lists three views without choosing.",
+  "seconds": 45.4
+ },
+ {
+  "row": 60,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "قرئ (في عمد) بضمتين وعمد بسكون الميم وعمد بفتحتين",
+  "note": "",
+  "seconds": 50.0
+ },
+ {
+  "row": 60,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل: أبواب النار مطبقة عليهم وهم في عمد، أي في سلاسل وأغلال مطولة، وهي أحكم وأرسخ من القصيرة.",
+  "note": "",
+  "seconds": 52.2
+ },
+ {
+  "row": 60,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "في عمد ممددة أي موثقين في أعمدة ممدودة مثل المقاطر التي تقطر فيها اللصوص",
+  "note": "",
+  "seconds": 28.9
+ },
+ {
+  "row": 60,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "أحدهما أن أبواب جهنم أغلقت عليهم، ثم مدت على أبوابها عمد تشديدا في الإغلاق",
+  "note": "",
+  "seconds": 48.0
+ },
+ {
+  "row": 60,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "قال ابن عباس: أدخلهم في عمد فمدت عليهم بعماد وفي أعناقهم السلاسل",
+  "note": "He lists three views without choosing.",
+  "seconds": 50.7
+ },
+ {
+  "row": 60,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "ويجوز أن تكون جملة يجوز أن تكون صفة ثالثة ل نار الله بدون عاطف",
+  "note": "He lists three views without choosing.",
+  "seconds": 48.8
+ },
+ {
+  "row": 60,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "أبواب النار بعضها فوق بعض",
+  "note": "",
+  "seconds": 49.0
+ },
+ {
+  "row": 60,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "ويل لكل همزة لمزة (1) الذي جمع مالا وعدده (2) يحسب أن ماله أخلده (3) كلا لينبذن في الحطمة (4) وما أدراك ما الحطمة (5) نار الله الموقدة (6) التي تطلع على الأفئدة (7) إنها عليهم مؤصدة (8) في عمد ممددة (9)",
+  "note": "",
+  "seconds": 53.8
+ },
+ {
+  "row": 60,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "وقيل: عمد يعذبون بها في النار",
+  "note": "",
+  "seconds": 43.8
+ },
+ {
+  "row": 60,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "أبواب النار مطبقة عليهم مشدودة بعمد ممدودة",
+  "note": "",
+  "seconds": 28.2
+ },
+ {
+  "row": 60,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3"
+  ],
+  "quote": "أبواب النار مطبقة عليهم مشدودة بعمد ممدودة",
+  "note": "",
+  "seconds": 47.9
+ },
+ {
+  "row": 61,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V3"
+  ],
+  "quote": "وفي اللهو عنها والتشاغل بغيرها، تضييعها أحيانا، وتضييع وقتها أخرى",
+  "note": "He prefers the view that encompasses negligence and distraction, citing supporting narrations.",
+  "seconds": 28.7
+ },
+ {
+  "row": 61,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "المسألة الثالثة: اختلفوا في سهو الرسول عليه الصلاة والسلام في صلاته",
+  "note": "",
+  "seconds": 44.6
+ },
+ {
+  "row": 61,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "واختلف فيمن نزل هذا فيه، فذكر أبو صالح عن ابن عباس قال: نزلت في العاص بن وائل السهمي",
+  "note": "Lists multiple views without choosing, including a view attributed to Ibn Abbas and others.",
+  "seconds": 37.5
+ },
+ {
+  "row": 61,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "الذين هم عن صلاتهم ساهون أي غافلون غير مبالين بها.",
+  "note": "",
+  "seconds": 43.3
+ },
+ {
+  "row": 61,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "وقيل: إنها مدنية، والسهو عن الصلاة هو تركها أو تأخيرها تهاونا بها.",
+  "note": "",
+  "seconds": 30.0
+ },
+ {
+  "row": 61,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "وقيل ساه عنها لا يبالي صلى أو لم يصل، وقيل لا يرجون لها ثوابا إن صلوا ولا يخافون عليها عقابا إن تركوا",
+  "note": "",
+  "seconds": 56.9
+ },
+ {
+  "row": 61,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "يجوز أن يكون معناه الذين لا يؤدون الصلاة إلا رياء فإذا خلوا تركوا الصلاة",
+  "note": "",
+  "seconds": 28.7
+ },
+ {
+  "row": 61,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "وقال قتادة ساهون، هو الترك لها وهم الغافلون الذين لا يبالي أحدهم صلى أو لم يصل",
+  "note": "",
+  "seconds": 41.3
+ },
+ {
+  "row": 61,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "يريد- والله أعلم- تأخير ترك وإهمال",
+  "note": "He lists multiple views without choosing one.",
+  "seconds": 41.2
+ },
+ {
+  "row": 61,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "وقال إبراهيم: هو الذي إذا سجد قال برأسه هكذا ملتفتا.",
+  "note": "",
+  "seconds": 28.1
+ },
+ {
+  "row": 61,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "الذين هم عن صلاتهم ساهون غافلون غير مبالين بها",
+  "note": "",
+  "seconds": 47.5
+ },
+ {
+  "row": 61,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1"
+  ],
+  "quote": "يعنى بهذا المنافقين أى لا يصلونها سرا لأنهم لا يعتقدون وجوبها ويصلونها علانية رياء",
+  "note": "",
+  "seconds": 29.3
+ },
+ {
+  "row": 62,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "وإنما قلنا ذلك أولى الأقوال في ذلك، لتتابع الأخبار عن رسول الله صلى الله عليه وسلم بأن ذلك كذلك",
+  "note": "He prefers the view of a river in paradise based on hadith reports.",
+  "seconds": 45.2
+ },
+ {
+  "row": 62,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "وهو المشهور والمستفيض عند السلف والخلف أنه نهر في الجنة",
+  "note": "",
+  "seconds": 47.7
+ },
+ {
+  "row": 62,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7",
+   "N8",
+   "N9",
+   "N10",
+   "N11",
+   "N12",
+   "N13",
+   "N14",
+   "N15"
+  ],
+  "quote": "الثالث: أن الكوثر النبوة والكتاب، قاله عكرمة",
+  "note": "",
+  "seconds": 38.2
+ },
+ {
+  "row": 62,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "الكوثر الخير المفرط الكثرة من العلم والعمل وشرف الدارين.",
+  "note": "",
+  "seconds": 47.2
+ },
+ {
+  "row": 62,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "الأول حوض النبي صلى الله عليه وسلم: الثاني أنه الخير الكثير الذي أعطاه الله [له] في الدنيا والآخرة",
+  "note": "",
+  "seconds": 30.5
+ },
+ {
+  "row": 62,
+  "who": "khazin",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "أنه نهر في الجنة",
+  "note": "He prefers the view of a river in paradise based on hadith evidence.",
+  "seconds": 47.0
+ },
+ {
+  "row": 62,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقد فسر السلف الكوثر في هذه الآية بتفاسير",
+  "note": "",
+  "seconds": 28.9
+ },
+ {
+  "row": 63,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V5"
+  ],
+  "quote": "اجعل صلاتك ونحرك لله",
+  "note": "He explicitly chooses the view that the prayer and sacrifice should be for God, over other interpretations.",
+  "seconds": 44.5
+ },
+ {
+  "row": 63,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "N1"
+  ],
+  "quote": "الأول: وهو قول عامة المفسرين: أن المراد هو نحر البدن",
+  "note": "",
+  "seconds": 47.6
+ },
+ {
+  "row": 63,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "N1"
+  ],
+  "quote": "وقال سعيد بن جبير أيضا: نزلت في الحديبية حين حصر النبي صلى الله عليه وسلم عن البيت، فأمره الله تعالى أن يصلي وينحر البدن وينصرف، ففعل ذلك.",
+  "note": "",
+  "seconds": 51.0
+ },
+ {
+  "row": 63,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "N1"
+  ],
+  "quote": "ولا يحض أهله وغيرهم. على طعام المسكين",
+  "note": "",
+  "seconds": 29.2
+ },
+ {
+  "row": 63,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "N1"
+  ],
+  "quote": "الخامس أنه التوحيد. السادس أنه الشفاعة، السابع أنه نور وضعه الله في قلبه",
+  "note": "",
+  "seconds": 45.0
+ },
+ {
+  "row": 63,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "N1"
+  ],
+  "quote": "وقيل معناه فصل لربك صلاة العيد يوم النحر، وانحر نسكك، وقيل معناه فصل الصلاة المفروضة بجمع، وانحر البدن بمنى",
+  "note": "",
+  "seconds": 45.6
+ },
+ {
+  "row": 63,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "N1"
+  ],
+  "quote": "ففيه تعريض بالمشركين بأنهم يصلون للأصنام بالسجود لها والطواف حولها.",
+  "note": "",
+  "seconds": 29.8
+ },
+ {
+  "row": 63,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "N1",
+   "N2"
+  ],
+  "quote": "قوله تعالى: ",
+  "note": "The commentator lists multiple views without choosing one.",
+  "seconds": 18.9
+ },
+ {
+  "row": 63,
+  "who": "thaalibi",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقوله تعالى: فصل لربك وانحر أمر بالصلاة، والنحر/ نحر الهدي، والنسك، والضحايا",
+  "note": "He combines all views on the ritual actions mentioned in the verse, stating that the verse commands them all.",
+  "seconds": 50.2
+ },
+ {
+  "row": 63,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقال الجمهور ولم يكن في ذلك الوقت جهاد فأمر بهذين.",
+  "note": "Lists multiple views without choosing.",
+  "seconds": 18.4
+ },
+ {
+  "row": 63,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل صلاة العيد والتضحية وقيل هي جنس الصلاة والنحر وضع اليمين على الشمال وقيل هو أن يرفع يديه في التكبير إلى نحره",
+  "note": "",
+  "seconds": 49.0
+ },
+ {
+  "row": 63,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "V6",
+   "N1",
+   "N2"
+  ],
+  "quote": "وقيل فويل للمنافقين الذين يدخلون أنفسهم في جملة المصلين صورة وهم غافلون عن صلاتهم",
+  "note": "",
+  "seconds": 38.1
+ },
+ {
+  "row": 64,
+  "who": "tabari",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "لأن ذلك هو أظهر معنى ذلك",
+  "note": "He prefers the view that she carried thorns, despite mentioning other views.",
+  "seconds": 42.7
+ },
+ {
+  "row": 64,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "أحدها: أنها كانت تحمل حزمة من الشوك والحسك فتنثرها بالليل في طريق رسول الله",
+  "note": "",
+  "seconds": 46.5
+ },
+ {
+  "row": 64,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقال قتادة وغيره: كانت تعير رسول الله صلى الله عليه وسلم بالفقر. ثم كانت مع كثرة ما لها تحمل الحطب على ظهرها، لشدة بخلها، فعيرت بالبخل.",
+  "note": "",
+  "seconds": 46.5
+ },
+ {
+  "row": 64,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "حمالة الحطب يعني حطب جهنم فإنها كانت تحمل الأوزار بمعاداة الرسول صلى الله عليه وسلم وتحمل زوجها على إيذائه، أو النميمة فإنها كانت توقد نار الخصومة، أو حزمة الشوك أو الحسك، فإنها كانت تحملها فتنثرها بالليل في طريق رسول الله صلى الله عليه وسلم",
+  "note": "",
+  "seconds": 54.0
+ },
+ {
+  "row": 64,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "أحدها أنها تحمل حطبا وشوكا فتلقيه في طريق النبي صلى الله عليه وسلم لتؤذيه.",
+  "note": "",
+  "seconds": 30.4
+ },
+ {
+  "row": 64,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "قيل كانت تحمل الشوك، والحسك والعضاه بالليل، فتطرحه في طريق رسول الله صلى الله عليه وسلم وأصحابه لتؤذيهم بذلك",
+  "note": "",
+  "seconds": 48.4
+ },
+ {
+  "row": 64,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وكانت تشاركه في أذى النبيء صلى الله عليه وسلم وتعينه عليه",
+  "note": "",
+  "seconds": 82.6
+ },
+ {
+  "row": 64,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وكانت تجيء بالشوك فتطرحه في طريق النبي صلى الله عليه وسلم وطريق أصحابه ليعقرهم",
+  "note": "",
+  "seconds": 57.5
+ },
+ {
+  "row": 64,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقيل هو استعارة لذنوبها",
+  "note": "",
+  "seconds": 28.8
+ },
+ {
+  "row": 64,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "فحمالة معرفة، فإن كان صار لقبا لها جاز فيه حالة الرفع أن يكون عطف بيان، وأن يكون بدلا.",
+  "note": "",
+  "seconds": 37.0
+ },
+ {
+  "row": 64,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "وقيل كانت تمشي بالنميمة ويقال لمن يمشي بالنمائم ويفسد بين الناس يحمل الحطب بينهم أي يوقد بينهم النار",
+  "note": "",
+  "seconds": 42.1
+ },
+ {
+  "row": 64,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "N1",
+   "N2",
+   "N3",
+   "N4"
+  ],
+  "quote": "{حمالة الحطب} كانت تحمل حزمة من الشوك والحسك فتنثرها بالليل في طريق رسول الله صلى الله عليه وسلم",
+  "note": "",
+  "seconds": 18.5
+ },
+ {
+  "row": 65,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1"
+  ],
+  "quote": "وقال آخرون: هو السيد الذي قد انتهى سؤدده",
+  "note": "",
+  "seconds": 37.9
+ },
+ {
+  "row": 65,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1"
+  ],
+  "quote": "ذكروا في تفسير الصمد وجهين الأول: أنه فعل بمعنى مفعول من صمد إليه إذا قصده، وهو السيد المصمود إليه في الحوائج",
+  "note": "",
+  "seconds": 54.2
+ },
+ {
+  "row": 65,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1"
+  ],
+  "quote": "قال أهل اللغة: الصمد: السيد الذي يصمد إليه في النوازل والحوائج.",
+  "note": "Lists multiple interpretations without choosing one.",
+  "seconds": 41.7
+ },
+ {
+  "row": 65,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1"
+  ],
+  "quote": "الله الصمد السيد المصمود إليه في الحوائج من صمد إليه إذا قصد",
+  "note": "",
+  "seconds": 45.2
+ },
+ {
+  "row": 65,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1"
+  ],
+  "quote": "أحدها أن يكون من أسماء النفي التي لا تقع إلا في غير الواجب",
+  "note": "",
+  "seconds": 45.1
+ },
+ {
+  "row": 65,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "N1"
+  ],
+  "quote": "وقيل الصمد الدائم الباقي بعد فناء خلقه",
+  "note": "",
+  "seconds": 39.8
+ },
+ {
+  "row": 65,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V3",
+   "V5"
+  ],
+  "quote": "والصمد: السيد الذي يُقصد إليه في الحوائج.",
+  "note": "He combines the meaning of 'The One to whom people turn for help' with 'The Eternal, Everlasting One'",
+  "seconds": 15.7
+ },
+ {
+  "row": 66,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "ذكر من قال ذلك حدثنا ابن حميد، قال: ثنا مهران، عن أبي جعفر، عن الربيع، عن أبي العالية، قوله: {ولم يكن له كفوا أحد} [الإخلاص: 4] \"لم يكن له شبيه، ولا عدل، وليس كمثله شيء\"",
+  "note": "Lists two views without choosing.",
+  "seconds": 45.4
+ },
+ {
+  "row": 66,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "قرئ: كفوا بضم الكاف والفاء وبضم الكاف وكسرها مع سكون الفاء",
+  "note": "",
+  "seconds": 36.6
+ },
+ {
+  "row": 66,
+  "who": "qurtubi",
+  "type": "prefers",
+  "holds": [
+   "V1"
+  ],
+  "quote": "وهو الصواب، والذي عليه الناس هو الباطل والمحال، فأبطل معنى الآية",
+  "note": "He explicitly favors V1 over other views by calling them 'false' and 'absurd'.",
+  "seconds": 39.7
+ },
+ {
+  "row": 66,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "ولم يكن له كفوا أحد أي ولم يكن أحد يكافئه أو يماثله من صاحبة أو غيرها",
+  "note": "",
+  "seconds": 35.5
+ },
+ {
+  "row": 66,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "الأول، أن الولد لا بد أن يكون من جنس والده. والله تعالى ليس له جنس",
+  "note": "Lists four arguments against having a son, without choosing one.",
+  "seconds": 44.6
+ },
+ {
+  "row": 66,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "وقيل هو السيد المقصود (4/497)",
+  "note": "",
+  "seconds": 14.2
+ },
+ {
+  "row": 66,
+  "who": "ibnAshur",
+  "type": "combines",
+  "holds": [
+   "V1",
+   "V2"
+  ],
+  "quote": "في معنى التذييل للجمل التي قبلها لأنها أعم من مضمونها",
+  "note": "He combines two views to explain the function of the phrase, but does not explicitly choose one.",
+  "seconds": 41.5
+ },
+ {
+  "row": 67,
+  "who": "tabari",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وكانت العرب تقول: الغاسق: سقوط الثريا",
+  "note": "",
+  "seconds": 49.2
+ },
+ {
+  "row": 67,
+  "who": "razi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "ذكروا في الغاسق وجوها أحدها: أن الغاسق هو الليل إذا عظم ظلامه",
+  "note": "",
+  "seconds": 44.2
+ },
+ {
+  "row": 67,
+  "who": "qurtubi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "اختلف فيه، فقيل: هو الليل. والغسق: أول ظلمة الليل",
+  "note": "",
+  "seconds": 19.2
+ },
+ {
+  "row": 67,
+  "who": "baydawi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل السيلان وغسق الليل انصباب ظلامه وغسق العين سيلان دمعه.",
+  "note": "",
+  "seconds": 47.1
+ },
+ {
+  "row": 67,
+  "who": "ibnJuzayy",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "الثالث: أنه الكوكب وهو الثريا إذا سقطت",
+  "note": "",
+  "seconds": 42.7
+ },
+ {
+  "row": 67,
+  "who": "khazin",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل إن الأسقام تكثر عند وقوعها، وترتفع عند طلوعها",
+  "note": "",
+  "seconds": 20.6
+ },
+ {
+  "row": 67,
+  "who": "ibnAshur",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وهي ثلاثة أنواع من أنواع الشرور: أحدها: وقت يغلب وقوع الشر فيه وهو الليل.",
+  "note": "",
+  "seconds": 46.5
+ },
+ {
+  "row": 67,
+  "who": "ibnAtiyya",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "فقال ابن عباس ومجاهد والحسن: \"الغاسق\" : الليل ووقب معناه: أظلم ودخل على الناس",
+  "note": "",
+  "seconds": 52.4
+ },
+ {
+  "row": 67,
+  "who": "thaalibi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "ورواه أبو هريرة عن النبي صلى الله عليه وسلم. وقوله تعالى: من شر ما خلق يعم كل موجود له شر، واختلف في: \"الغاسق\" فقال ابن عباس وغيره: الغاسق الليل ووقب: أظلم، ودخل على الناس",
+  "note": "He lists multiple views without choosing.",
+  "seconds": 56.0
+ },
+ {
+  "row": 67,
+  "who": "abuHayyan",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقال ابن عباس أيضا وجماعة من الصحابة والتابعين: الفلق: جب في جهنم",
+  "note": "",
+  "seconds": 42.1
+ },
+ {
+  "row": 67,
+  "who": "abuSaud",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "وقيل الغاسق الثريا ووقوبها سقوطها لأنها إذا سقطت كثرت الأمراض والطواعين",
+  "note": "",
+  "seconds": 51.6
+ },
+ {
+  "row": 67,
+  "who": "nasafi",
+  "type": "lists_no_choice",
+  "holds": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "N1",
+   "N2",
+   "N3"
+  ],
+  "quote": "الغاسق الليل إذا اعتكر ظلامه ووقوبه دخول ظلامه في كل شئ",
+  "note": "",
+  "seconds": 49.4
+ }
+]

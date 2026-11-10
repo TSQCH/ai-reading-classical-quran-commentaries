@@ -1,0 +1,11 @@
+{
+ "slug": "allam",
+ "ollama_model": "hf.co/bartowski/ALLaM-AI_ALLaM-7B-Instruct-preview-GGUF:Q4_K_M",
+ "citation": "ALLaM-7B-Instruct-preview (SDAIA/HUMAIN, Saudi Arabia), Q4_K_M",
+ "quantisation": "Q4_K_M",
+ "positions": 134,
+ "one_position_per_call": true,
+ "temperature": 0,
+ "num_ctx": 8192,
+ "json_schema_output": true
+}

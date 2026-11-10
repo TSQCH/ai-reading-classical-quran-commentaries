@@ -1,0 +1,12 @@
+{
+ "slug": "acegpt",
+ "ollama_model": "hf.co/mradermacher/AceGPT-v2-8B-Chat-GGUF:Q4_K_M",
+ "citation": "AceGPT-v2-8B-Chat (KAUST / CUHK-Shenzhen), Q4_K_M",
+ "quantisation": "Q4_K_M",
+ "positions": 134,
+ "one_position_per_call": true,
+ "temperature": 0,
+ "num_ctx": 8192,
+ "json_schema_output": true,
+ "answer_length_cap_on_rescued_positions": 200
+}

@@ -1,0 +1,26 @@
+{"row": 35, "who": "abuHayyan", "type": "prefers", "holds": ["V3"], "quote": "وإن كان يترجح كونها مدينة بقوله: لم يخلق مثلها في البلاد ... وإذا كانت صفة للمدينة، فأعمدة الحجارة التي بنيت بها", "note": "رجح أن إرم مدينة، وبناء عليه ذكر أن ذات العماد هي أعمدة الحجارة أو القصور"}
+{"row": 35, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2", "V3"], "quote": "", "note": ""}
+{"row": 35, "who": "nasafi", "type": "lists_no_choice", "holds": ["V2", "V1", "V3"], "quote": "", "note": ""}
+{"row": 36, "who": "tabari", "type": "prefers", "holds": ["OTHER"], "quote": "وأولى هذه الأقوال عندي بالصواب، قول من قال: عني بذلك: الأوتاد التي توتد", "note": "اختار المعنى الحقيقي للأوتاد وذكر أنه يفسر بالتعذيب (V2) أو اللعب (V3)"}
+{"row": 36, "who": "razi", "type": "combines", "holds": ["V1", "V2", "N1", "V3"], "quote": "واعلم أن الكلام محتمل لكل ذلك", "note": ""}
+{"row": 36, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": ""}
+{"row": 36, "who": "baydawi", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": ""}
+{"row": 36, "who": "ibnJuzayy", "type": "silent", "holds": [], "quote": "", "note": ""}
+{"row": 36, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "N1", "V2"], "quote": "", "note": ""}
+{"row": 36, "who": "ibnAshur", "type": "lists_no_choice", "holds": ["N2", "N1"], "quote": "", "note": ""}
+{"row": 36, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V5", "V1", "V3", "V2"], "quote": "", "note": ""}
+{"row": 36, "who": "thaalibi", "type": "lists_no_choice", "holds": ["V5", "V1", "V2"], "quote": "", "note": ""}
+{"row": 36, "who": "abuHayyan", "type": "lists_no_choice", "holds": ["N1", "V3", "V2", "V5", "V1"], "quote": "", "note": ""}
+{"row": 36, "who": "abuSaud", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": ""}
+{"row": 36, "who": "nasafi", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": ""}
+{"row": 37, "who": "tabari", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": ""}
+{"row": 37, "who": "razi", "type": "combines", "holds": ["V1", "V2"], "quote": "وهذه الوجوه متقاربة", "note": ""}
+{"row": 37, "who": "qurtubi", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": ""}
+{"row": 37, "who": "baydawi", "type": "single", "holds": ["V2"], "quote": "وهو تمثيل لإرصاده العصاة بالعقاب", "note": ""}
+{"row": 37, "who": "ibnJuzayy", "type": "single", "holds": ["OTHER"], "quote": "عبارة عن أنه تعالى حاضر بعلمه في كل مكان، وكل زمان ورقيب على كل إنسان، وأنه لا يفوته أحد من الجبابرة والكفار", "note": "جمع في تفسيره بين الرقابة (V1) وعدم الفوات (V2)"}
+{"row": 37, "who": "khazin", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": ""}
+{"row": 37, "who": "ibnAshur", "type": "single", "holds": ["OTHER"], "quote": "فهو تمثيل لعموم علم الله تعالى بما يكون من أعمال العباد وحركاتهم ... وهذا المثل كناية عن مجازاة كل عامل بما عمله", "note": "جعله تمثيلاً لعموم علمه (V1) وكناية عن مجازاتهم (V2)"}
+{"row": 37, "who": "ibnAtiyya", "type": "lists_no_choice", "holds": ["V1", "V2"], "quote": "", "note": ""}
+{"row": 37, "who": "thaalibi", "type": "single", "holds": ["V1"], "quote": "أي: أنه تعالى عند لسان كل قائل ومرصد لكل فاعل", "note": ""}
+{"row": 37, "who": "abuHayyan", "type": "single", "holds": ["V2"], "quote": "وهذا مثل لإرصاده العصاة بالعقاب وأنهم لا يفوتونه", "note": ""}
+{"row": 37, "who": "abuSaud", "type": "single", "holds": ["V2"], "quote": "وهذا تمثيل لإرصاده تعالى بالعصاة وأنهم لا يفوتونه", "note": ""}

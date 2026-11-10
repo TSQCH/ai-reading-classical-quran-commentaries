@@ -1,0 +1,134 @@
+row	who	claude type	claude holds	jais type	jais holds	jais quote
+1	hawwari	single	V2	silent		
+2	hawwari	lists_no_choice	V3 V2	silent		
+3	hawwari	single	V2	silent		
+4	hawwari	lists_no_choice	V1 V3 V2	silent		
+5	hawwari	lists_no_choice	V3 V1 N2	silent		
+6	hawwari	lists_no_choice	V3 V1	silent		
+7	hawwari	single	V2	silent		
+8	hawwari	single	V1	silent		
+9	hawwari	single	V1	silent		
+10	hawwari	single	V2	silent		
+11	hawwari	lists_no_choice	V1	silent		
+12	hawwari	lists_no_choice	V2 V1	silent		
+13	hawwari	lists_no_choice	V1 N1 V2	silent		
+14	hawwari	lists_no_choice	V1 V2	silent		
+15	hawwari	lists_no_choice	V2 V1	silent		
+16	hawwari	single	V1	silent		
+17	hawwari	lists_no_choice	OTHER N1	silent		
+18	hawwari	single	V1	silent		
+19	hawwari	lists_no_choice	N1 V1 V2	silent		
+20	hawwari	lists_no_choice	V2	silent		
+21	hawwari	lists_no_choice	V1	silent		
+22	hawwari	single	V1	silent		
+23	hawwari	single	V1	silent		
+24	hawwari	lists_no_choice	V5 V1	silent		
+25	hawwari	single	V4	silent		
+26	hawwari	lists_no_choice	V1 V2	silent		
+27	hawwari	single	V1	silent		
+29	hawwari	lists_no_choice	V1 V2	silent		
+30	hawwari	lists_no_choice	V1 V2	silent		
+31	hawwari	single	V3	silent		
+32	hawwari	single	V1	silent		
+33	hawwari	lists_no_choice	V3 V5 N1	silent		
+34	hawwari	lists_no_choice	OTHER V6	silent		
+35	hawwari	lists_no_choice	V2 V3 V1	silent		
+36	hawwari	single	V2	silent		
+37	hawwari	lists_no_choice	OTHER	silent		
+38	hawwari	lists_no_choice	V1	silent		
+39	hawwari	single	V1	silent		
+40	hawwari	single	V2	silent		
+41	hawwari	lists_no_choice	V3 V1	silent		
+42	hawwari	lists_no_choice	V2 N1	silent		
+43	hawwari	single	V2	silent		
+44	hawwari	lists_no_choice	V1 V2	silent		
+45	hawwari	single	V3	silent		
+46	hawwari	lists_no_choice	N1 V1	silent		
+47	hawwari	single	N2	silent		
+48	hawwari	lists_no_choice	V2 V1	silent		
+49	hawwari	lists_no_choice	V2 V1	silent		
+50	hawwari	lists_no_choice	N1 V1	silent		
+51	hawwari	lists_no_choice	V1 V2	silent		
+52	hawwari	lists_no_choice	V2 V1	silent		
+53	hawwari	lists_no_choice	V2	silent		
+54	hawwari	single	N2	silent		
+55	hawwari	single	V1	silent		
+56	hawwari	lists_no_choice	V1 N1	silent		
+57	hawwari	lists_no_choice	V1	silent		
+58	hawwari	lists_no_choice	N1	silent		
+59	hawwari	single	N1	silent		
+60	hawwari	single	V1	silent		
+61	hawwari	lists_no_choice	V3 V1	silent		
+62	hawwari	lists_no_choice	V2 N1 V3	silent		
+63	hawwari	single	V4	silent		
+64	hawwari	lists_no_choice	V1 V2	silent		
+65	hawwari	lists_no_choice	V5 V4 V1	silent		
+66	hawwari	single	V1	silent		
+67	hawwari	lists_no_choice	V1 V2	silent		
+1	himyan	lists_no_choice	V2 V1 N1	silent		
+2	himyan	lists_no_choice	V2 V1 V3 N1	silent		
+3	himyan	prefers	N2	silent		
+4	himyan	lists_no_choice	V1 V2	silent		
+5	himyan	lists_no_choice	V1 V5 V4 N1 V3	silent		
+6	himyan	lists_no_choice	V1 N1 N3 V3	silent		
+7	himyan	lists_no_choice	N1 N3 N2 V2	silent		
+8	himyan	lists_no_choice	V1 N2 V2 V3	silent		
+9	himyan	lists_no_choice	V1 N2 N1 V2 V3	silent		
+10	himyan	lists_no_choice	V1 V2 N1	silent		
+11	himyan	lists_no_choice	N1 V1 V2	silent		
+12	himyan	lists_no_choice	V1 V2 V3	silent		
+13	himyan	lists_no_choice	V2 V1 N1 N2	silent		
+14	himyan	lists_no_choice	V1 V3 V2	silent		
+15	himyan	lists_no_choice	V2 V1	silent		
+16	himyan	lists_no_choice	N3 N2 V2 V1	silent		
+17	himyan	lists_no_choice	V1 N1 N4 N3 N2	silent		
+18	himyan	prefers	V1	silent		
+19	himyan	lists_no_choice	V1 V2 V3 V4 N1 N5 N4 N3	silent		
+20	himyan	lists_no_choice	N1 V2 N3	silent		
+21	himyan	lists_no_choice	V3 N15 N2 N1 N13 N3 N5 V8 N9 N10 V1 V6 N6 V5 N11	silent		
+22	himyan	lists_no_choice	V1 N3 V2	silent		
+23	himyan	lists_no_choice	V1 V4 V2	silent		
+24	himyan	prefers	V5	silent		
+25	himyan	lists_no_choice	V1 V5 V3 V4 N1 V2	silent		
+26	himyan	lists_no_choice	N1 N4 V1 V2 N3 N2	silent		
+27	himyan	lists_no_choice	V1 N2 V3 N1 V2	silent		
+28	himyan	lists_no_choice	N4 N2 V2 N1 V1	silent		
+29	himyan	lists_no_choice	V2 V1	silent		
+30	himyan	lists_no_choice	V1 V2	silent		
+31	himyan	lists_no_choice	V3 V2 N2 N3 N1 N5	silent		
+32	himyan	lists_no_choice	V1 N3 N2 N1	silent		
+33	himyan	lists_no_choice	V3 V4 N6 V1 V5 N5 N3 N4	silent		
+34	himyan	lists_no_choice	V6 N1 V3 V2 V1	silent		
+35	himyan	lists_no_choice	V3 V1 N3 V2	silent		
+36	himyan	lists_no_choice	V1 V5 N1 V2	silent		
+37	himyan	single	V2	silent		
+38	himyan	single	V1	silent		
+39	himyan	lists_no_choice	V2 N1 V1 N2	silent		
+40	himyan	lists_no_choice	V2 N1 V3 N3	silent		
+41	himyan	lists_no_choice	V1 V3 N1	silent		
+42	himyan	lists_no_choice	V2 V1 N1 N2	silent		
+43	himyan	single	V2	silent		
+44	himyan	lists_no_choice	V1 V2 N1	silent		
+45	himyan	lists_no_choice	V3 N3 N2 V2 V4	silent		
+46	himyan	lists_no_choice	V2 V1 N1	silent		
+47	himyan	lists_no_choice	N1 V3 V1 V2	silent		
+48	himyan	lists_no_choice	N2 N3 V2 V1 V3 N1	silent		
+49	himyan	lists_no_choice	V1 V2 N3 N2 V3	silent		
+50	himyan	lists_no_choice	V1 V2	silent		
+51	himyan	single	V1	silent		
+52	himyan	lists_no_choice	V2 N1 V1	silent		
+53	himyan	lists_no_choice	N1 V1 V2	silent		
+54	himyan	lists_no_choice	V1 N2 V2	silent		
+55	himyan	lists_no_choice	V1 N1	silent		
+56	himyan	lists_no_choice	V1 V6 OTHER	silent		
+57	himyan	lists_no_choice	V1 V2	silent		
+58	himyan	lists_no_choice	V4 V5 N5 N1	silent		
+59	himyan	lists_no_choice	V1 N4 N3 N2	silent		
+60	himyan	lists_no_choice	V2 V1 V3	silent		
+61	himyan	lists_no_choice	V3 V1 V2 N1	silent		
+62	himyan	lists_no_choice	N1 N2 V3 V1 V2	silent		
+63	himyan	lists_no_choice	V5 V3 V4 V1 V2	silent		
+64	himyan	lists_no_choice	N1 N3 V2 V1 N4	silent		
+65	himyan	lists_no_choice	N1 V4 V5 V1 V3	silent		
+66	himyan	single	V1	silent		
+67	himyan	lists_no_choice	V1 V4 V3	silent		

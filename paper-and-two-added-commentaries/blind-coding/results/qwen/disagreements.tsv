@@ -1,0 +1,35 @@
+row	who	claude type	claude holds	qwen type	qwen holds	qwen quote
+1	hawwari	single	V2	prefers	V2	عن النبإ العظيم أي البعث
+3	hawwari	single	V2	prefers	V2	الحقب ثمانون سنة
+8	hawwari	single	V1	prefers	V1	يعني الملائكة
+10	hawwari	single	V2	lists_no_choice	V1 V2 N1	سبيل الهدى وسبيل الضلالة
+16	hawwari	single	V1	prefers	V3	ما قدمت من عمل، خيرا كان أو شرا، (وما أخرت) أي من سنة حسنة فعمل بها بعده فله مثل آجر من عمل بها ولا ينقص من أجورهم شيئا،
+18	hawwari	single	V1	lists_no_choice	V1 V2	عن ثواب ربهم لمحرومون
+21	hawwari	lists_no_choice	V1	prefers	V1	(وشاهد) يوم الجمعة (ومشهود) يوم عرفة.
+23	hawwari	single	V1	single	V4	من بين صلب الرجل وترائب المرأة
+25	hawwari	single	V4	silent		
+27	hawwari	single	V1	silent		
+28	hawwari	silent		lists_no_choice	V1 V2 N1 N3 N4 N5	وذكر اسم ربه فصلى
+31	hawwari	single	V3	single	V2	يعني الصبح
+32	hawwari	single	V1	lists_no_choice	V1 N1 N2 N3	عشر ذي الحجة، أياما عظمها الله
+37	hawwari	lists_no_choice	OTHER	prefers	V2	إن ربك لبالمرصاد بلغنا. والله أعلم أن على جسر جهنم سبع محابس
+38	hawwari	lists_no_choice	V1	prefers	V1	أكذبهما الله جميعا بقوله: (كلا) أي: لا بالغنى أكرمت ولا بالفقر أهنت
+39	hawwari	single	V1	prefers	N2	ارجعي إلى ربك راضية مرضية
+44	hawwari	lists_no_choice	V1 V2	prefers	V1	لا يخاف الله تباعة
+45	hawwari	single	V3	silent		
+47	hawwari	single	N2	silent		
+54	hawwari	single	N2	lists_no_choice	V1 V2 N1 N2 N3 N4	يعني بكل أمر
+56	hawwari	lists_no_choice	V1 N1	prefers	V1	تصيب الحجارة بحوافرها فتخرج منها النار
+60	hawwari	single	V1	lists_no_choice	V1 V2 V3 N1 N2	في تفسير الحسن: قال الله في سورة الكهف: [الكهف:29] أي: لها سرادق. والسرادق عمد دون عمد منه
+63	hawwari	single	V4	lists_no_choice	V1 V2 V3 V4 V5 V6 N1 N2	قوله تعالى: { فصل لربك } أي: صلاة العيد { وانحر } أي: يوم النحر.
+66	hawwari	single	V1	lists_no_choice	V1 V2	وتفاسير بعضهم: ... ولم يكن له كفوا أحد
+3	himyan	prefers	N2	lists_no_choice	V1 V2 V3 N1 N2 N3 N4 N5	الحقب ثمانون ألف سنة وعن أبي أمامة عن النبي صلى الله عليه وسلم الحقب ثلاثون ألف سنة ويجوز أن يكون أحقابا قيدا
+5	himyan	lists_no_choice	V1 V5 V4 N1 V3	prefers	V1	الملائكة التي تنزع أرواح الكفار من أبدانهم
+13	himyan	lists_no_choice	V2 V1 N1 N2	prefers	V2	قرنت بالأبدان
+15	himyan	lists_no_choice	V2 V1	prefers	V2	أقبل بظلمته قاله الحسن
+29	himyan	lists_no_choice	V2 V1	prefers	V2	فصلى صلاة العيد، قاله علي وابن مسعود وأبو سعيد وابن عمر وعمر بن عبد العزيز
+37	himyan	single	V2	prefers	V2	أعدده لهم وأنه لا يفوتونه
+38	himyan	single	V1	lists_no_choice	V1 V2	إنكار جعل الغنى كرامة والفقر إهانة ; V2 = إنكار حمد الله في الغنى وحده والشكوى في الفقر
+43	himyan	single	V2	lists_no_choice	V1 V2 V3 N1	بسطها وأوسعها وسطحها على الماء
+56	himyan	lists_no_choice	V1 V6 OTHER	prefers	V1	الخيل التي توري اي تخرج النار * { قدحا } بحوافرها مع الحجارة
+66	himyan	single	V1	lists_no_choice	V1 V2	وقد ولد ما ذكر الله تعالى وكذلك لن يلد في المستقبل

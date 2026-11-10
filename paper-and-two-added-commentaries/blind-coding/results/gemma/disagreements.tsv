@@ -1,0 +1,36 @@
+row	who	claude type	claude holds	gemma type	gemma holds	gemma quote
+1	hawwari	single	V2	lists_no_choice	V1 V2 N1 N2	أي البعث، وذلك منهم تكذيب واستهزاء.
+3	hawwari	single	V2	lists_no_choice	V1 V2 V3 N1 N2 N3 N4 N5	الحقب ثمانون سنة، والسنة ثلاثمائة وستون يوما، كل يوم ألف سنة من سني الدنيا.
+7	hawwari	single	V2	lists_no_choice	V1 V2 V3 N1 N2 N3 N4 N5 N6	ذكروا عن محمد بن علي قال: هي الملائكة تنزع أنفس بني آدم.
+8	hawwari	single	V1	lists_no_choice	V1 V2 V3 N1 N2 N3 N4	ذكروا عن محمد بن علي قال: هي الملائكة تنزع أنفس بني آدم. وقال بعضهم: هي النجوم.
+9	hawwari	single	V1	lists_no_choice	V1 V2 V3 N1 N2 N3	بأيدي سفرة أي: كتبة. يعني الملائكة
+10	hawwari	single	V2	lists_no_choice	V1 V2 N1	وقال مجاهد: هو مثل قوله: { إنا هديناه السبيل } أي: بينا له السبيل، سبيل الهدى وسبيل الضلالة
+16	hawwari	single	V1	prefers	V1	قال: (ما قدمت) من عمل، خيرا كان أو شرا، (وما أخرت) أي من سنة حسنة فعمل بها بعده
+18	hawwari	single	V1	lists_no_choice	V1 V2	قال تعالى: { إنهم عن ربهم يومئذ لمحجوبون } أي: عن ثواب ربهم لمحرومون.
+21	hawwari	lists_no_choice	V1	single	V1	قال الحسن: (وشاهد) يوم الجمعة (ومشهود) يوم عرفة.
+23	hawwari	single	V1	single	V2	أي: من بين صلب الرجل وترائب المرأة، وهو نحرها.
+25	hawwari	single	V4	single	V1	أي: صل لربك الأعلى { الذي خلق فسوى والذي قدر فهدى
+27	hawwari	single	V1	lists_no_choice	V1 V2 V3 N1 N2	قوله تعالى: { سنقرئك فلا تنسى إلا ما شآء الله } وذلك أن النبي صلى الله عليه وسلم كان إذا نزل عليه القرآن يجعل يقرأه ويذي
+28	hawwari	silent		lists_no_choice	V1 V2 N1 N2 N3 N4 N5	{ وذكر اسم ربه فصلى } وكانت الصلاة يومئذ ركعتين غدوة وركعتين عشية.
+31	hawwari	single	V3	lists_no_choice	V1 V2 V3 N1 N2 N3 N4 N5 N6	وتفسيرالحسن: إن لعاد اسمين: عاد وإرم.
+36	hawwari	single	V2	single	V4	وكان إذا غضب على أحد أوتد له في الأرض أربعة أوتاد على يديه ورجليه، ولذلك سمي ذا الأوتاد.
+37	hawwari	lists_no_choice	OTHER	single	V2	يرصد أهل الظلم والعصاة بالعقاب فلا يفوتونه
+38	hawwari	lists_no_choice	V1	prefers	V1	أكذبهما الله جميعا بقوله: (كلا) أي: لا بالغنى أكرمت ولا بالفقر أهنت.
+39	hawwari	single	V1	lists_no_choice	V1 V2 N1 N2	وقيل لا يوثق وثاق الله أحد
+45	hawwari	single	V3	prefers	V4	أي: بالثواب، وهي الجنة
+47	hawwari	single	N2	single	V2	أي: إذا أظلم، وهذا قسم.
+54	hawwari	single	N2	single	V2	يعني بكل أمر
+55	hawwari	single	V1	lists_no_choice	V1 V2 N1 N2 N3 N4	أي: ومنتهين عن كفرهم حتى تأتيهم البينة رسول من الله
+59	hawwari	single	N1	single	V1	أي: عصر النهار، وهو ما بين زوال الشمس إلى الليل.
+60	hawwari	single	V1	lists_no_choice	V1 V2 V3	قال: { إنها عليهم مؤصدة } أي: مطبقة { في عمد ممددة } أي: لها عمد هي ممدودة بها.
+63	hawwari	single	V4	lists_no_choice	V1 V2 V3 V4 V5 V6 N1 N2	قوله تعالى: { وانحر } أي: يوم النحر.
+66	hawwari	single	V1	lists_no_choice	V1 V2	قال: { لم يكن له كفوا أحد } أي: ولم يكن أحد كفؤا له.
+3	himyan	prefers	N2	lists_no_choice	V1 V2 V3 N1 N2 N3 N4 N5	{ لابثين } وقرأ حمزة وروح لبثين بإسقاط الألف على أنه صفة مبالغة كملك ومزق وخذر بكسر الوسط وعدم الألف
+18	himyan	prefers	V1	lists_no_choice	V1 V2	عن كرامته ورحمته ; عن رؤيته
+24	himyan	prefers	V5	lists_no_choice	V1 V2 V3 V4 V5	{ إنه على رجعه } مصدر رجع المتعدي مضاف لمفعوله
+37	himyan	single	V2	lists_no_choice	V1 V2	يرصد أهل الظلم والعصاة بالعقاب فلا يفوتونه
+38	himyan	single	V1	lists_no_choice	V1 V2	قال ولا تنقمع الشهوات بشيء كما تنقمع بنار الخوف
+43	himyan	single	V2	lists_no_choice	V1 V2 V3	والليل إذا يغشاها يغطي ضوءها ويزيله
+44	himyan	lists_no_choice	V1 V2 N1	prefers	V2	وقد مر الكلام على ذلك ويجوز أن يراد بأشقاها الجماعة المجتمعين
+51	himyan	single	V1	lists_no_choice	V1 V2 V3 N1	وقيل التين مسجد دمشق والزيتون بيت المقدس أقسم بهما لأنهما موضع الطاعة
+66	himyan	single	V1	lists_no_choice	V1 V2	قيل وتكرير لفظ الله للدلالة على أن من لم يتصف به لم يستحق الألوهية

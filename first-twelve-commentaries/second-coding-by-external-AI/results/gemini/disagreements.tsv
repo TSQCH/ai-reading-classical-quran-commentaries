@@ -1,0 +1,71 @@
+row	who	first	second	first holds	second holds
+1	ibnAshur	combines	prefers	V1 V2 N2	N2
+3	baydawi	prefers	single	N2	N2
+5	ibnAshur	combines	prefers	V1 V3 V4	V1
+6	ibnAshur	combines	lists_no_choice	V3 N3 V1	V1 V3 N1 N3
+7	ibnAshur	combines	lists_no_choice	N1 N2 V2	N1 N2 V2
+8	ibnAshur	combines	lists_no_choice	V1 V2 V3	V1 V2 V3
+9	ibnAshur	combines	lists_no_choice	N1 V2 N2 V3	N1 V2 N2 V3
+11	khazin	lists_no_choice	combines	V1 N1 V2	N1 V1
+12	qurtubi	combines	lists_no_choice	V2 V3 V1	V2 V3 V1
+14	qurtubi	lists_no_choice	prefers	V1 V2 V3 N1	V1
+16	razi	prefers	prefers	V3	V2
+16	qurtubi	lists_no_choice	silent	V1 N1 V2 N2	
+16	ibnJuzayy	lists_no_choice	single	V3 V1	V3
+16	khazin	lists_no_choice	single	V1 N2	V1
+17	razi	lists_no_choice	combines	V1 V3 N1 N3 N2	V1 N3 V2
+17	baydawi	lists_no_choice	single	N2 V1	N2
+17	ibnJuzayy	lists_no_choice	single	N2 V1 V3	N2
+19	razi	prefers	prefers	N3	OTHER
+22	ibnAshur	prefers	single	N3	N3
+22	nasafi	single	lists_no_choice	V1	V1 OTHER
+24	baydawi	single	silent	V5	
+24	ibnJuzayy	prefers	single	V5	V5
+25	qurtubi	lists_no_choice	prefers	V1 V5 V2 V3 V4	V5
+25	ibnAshur	single	single	V1	OTHER
+26	ibnAshur	lists_no_choice	single	N1 N2	N1
+27	ibnAshur	combines	prefers	V1 N2	V1
+29	tabari	prefers	combines	V1	V1 V2 V3
+29	ibnAshur	lists_no_choice	single	V1 N2	N2
+29	abuHayyan	single	single	V1	V1 N1
+32	ibnAshur	single	prefers	V1	V1
+33	baydawi	combines	lists_no_choice	V4 V3 V5 V1	V4 V3 V5 V1
+34	ibnJuzayy	lists_no_choice	prefers	V6 V1 V3 V2	V1
+34	ibnAshur	single	prefers	V6	V6
+35	ibnJuzayy	lists_no_choice	prefers	V3 V2 V1	V3
+35	ibnAshur	lists_no_choice	prefers	V4 N2	V4
+35	abuHayyan	lists_no_choice	prefers	V1 V2 V3	V3
+36	tabari	combines	prefers	V2 V3	OTHER
+37	ibnJuzayy	combines	single	V1 V2	OTHER
+37	ibnAshur	combines	single	V1 V2	OTHER
+37	ibnAtiyya	single	lists_no_choice	V1	V1 V2
+37	nasafi	combines	single	V1 V2	OTHER
+40	abuSaud	lists_no_choice	prefers	V3 V2 N1	V3
+42	razi	combines	lists_no_choice	V2 V1	V2 V1 N1
+44	ibnAshur	single	lists_no_choice	V1	V1 OTHER
+45	razi	lists_no_choice	combines	V2 N1 V1 V4 V3	V2 N1 V1 V4 V3
+48	tabari	prefers	combines	N3	V1 V2 V3
+49	ibnAshur	lists_no_choice	prefers	V1 V3 N4	N4
+50	tabari	prefers	lists_no_choice	V1	V1 V2
+50	razi	lists_no_choice	prefers	V1 N1 V2	V1
+50	khazin	single	combines	V1	V1 N1 V2
+51	qurtubi	combines	lists_no_choice	V1 V2 V3 N1	V2 V3 N1
+51	baydawi	combines	single	V3 V1	OTHER
+51	khazin	combines	single	V1 V3 N1	OTHER
+51	abuHayyan	combines	prefers	V1 V3 N1 V2	OTHER
+51	abuSaud	combines	single	V1 V3 N1	OTHER
+55	ibnAshur	prefers	single	N1	N1
+58	baydawi	prefers	lists_no_choice	N5	N5 V5
+58	ibnAshur	single	single	N5	OTHER
+59	tabari	combines	prefers	V1 N1 N4	V1
+59	ibnAshur	combines	lists_no_choice	N1 N2 N3 V1	N3 V1
+61	qurtubi	lists_no_choice	prefers	V3 V1 V2 N1	V1
+61	ibnJuzayy	combines	lists_no_choice	V2 V1	V1 V2 V3
+61	thaalibi	prefers	lists_no_choice	V2	V1 V2 V3
+62	qurtubi	combines	prefers	V1 V3	V1
+63	qurtubi	lists_no_choice	prefers	V4 V3 V6 V1 V2 N1 V5	V4
+63	ibnAshur	combines	prefers	V5 V6 V4	V6
+63	ibnAtiyya	lists_no_choice	single	V3 V4 V5 V6 V1 V2	V3
+65	razi	lists_no_choice	prefers	N1 V1 V4 V5	N1
+66	baydawi	single	combines	V1	V1 V2
+66	khazin	single	combines	V1	V1 V2

@@ -1,0 +1,50 @@
+row	who	claude type	claude holds	deepseek type	deepseek holds	deepseek quote
+1	hawwari	single	V2	lists_no_choice	V1 V2	قال عز وجل: { عن النبإ العظيم } أي البعث، وذلك منهم تكذيب واستهزاء. قال عز وجل: { الذي هم فيه مختلفون } يعني البعث اختلف
+7	hawwari	single	V2	lists_no_choice	V2 N1	النجوم
+9	hawwari	single	V1	single	V3	بأيدي سفرة أي: كتبة، يعني الملائكة
+10	hawwari	single	V2	lists_no_choice	V1 V2 N1	ثم السبيل يسره
+13	hawwari	lists_no_choice	V1 N1 V2	prefers	OTHER	يزوج كل إنسان نظيره من الجنة، ويزوج كل إنسان نظيره من أهل النار
+16	hawwari	single	V1	single	V3	علمت نفس ما قدمت من عمل، خيرا كان أو شرا، (وما أخرت) أي من سنة حسنة فعمل بها بعده فله مثل آجر من عمل بها ولا ينقص من أجو
+21	hawwari	lists_no_choice	V1	single	V1	قال الحسن: قال رسول الله صلى الله عليه وسلم. (وشاهد) يوم الجمعة (ومشهود) يوم عرفة.
+23	hawwari	single	V1	single	V4	من بين صلب الرجل ونحرها، وهو نحرها
+24	hawwari	lists_no_choice	V5 V1	single	V5	لإحياء الإنسان بعد موته وبعثه
+25	hawwari	single	V4	single	V1	سبح اسم ربك الأعلى أي: صل لربك الأعلى
+27	hawwari	single	V1	lists_no_choice		سنقرئك فلا تنسى إلا ما شآء الله. وقال تعالى: إنه يعلم الجهر وما يخفى
+28	hawwari	silent		lists_no_choice	V2 N2	وذكر اسم ربه فصلى
+31	hawwari	single	V3	single	V2	قوله تعالى: { والْفَجْرِ } يعني الصبح
+32	hawwari	single	V1	silent		
+34	hawwari	lists_no_choice	OTHER V6	single	V6	وتفسر بعضهم: إرم قبيلة من عاد
+38	hawwari	lists_no_choice	V1	combines	V1 V2	بل لا تكرمون اليتيم ولا تحاضون على طعام المسكين
+39	hawwari	single	V1	lists_no_choice	V1 V2 N1 N2	يتمنى لو آمن في الدنيا فيحيا في الجنة
+46	hawwari	lists_no_choice	N1 V1	prefers	V1	قال بعضهم: إذا تردى في النار، إذا هوى فيها.
+47	hawwari	single	N2	lists_no_choice	OTHER	وَاللَّيْلِ إِذَا سَجَى
+53	hawwari	lists_no_choice	V2	single	V3	قال عز وجل: { أليس الله بأحكم الحاكمين } ذكروا أن رسول الله صلى الله عليه وسلم قال:
+55	hawwari	single	V1	single	V2	قال عز وجل: { لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ مُنْفَكِّينَ حَتَّى تَأْتِيَهُمُ ال
+57	hawwari	lists_no_choice	V1	prefers	V1	فَالْمُغِيرَاتِ صُبْحًا
+58	hawwari	lists_no_choice	N1	silent		
+59	hawwari	single	N1	lists_no_choice	OTHER	قوله تعالى: { والعصر } أي: عصر النهار، وهو ما بين زوال الشمس إلى الليل.
+60	hawwari	single	V1	lists_no_choice	V1 V2 V3 N1 N2	لها عمد هي ممدودة بها
+63	hawwari	single	V4	lists_no_choice		
+65	hawwari	lists_no_choice	V5 V4 V1	single	V5	أي: الباقي
+66	hawwari	single	V1	lists_no_choice	V1 V2	قال بعضهم: الصمد: الذي قد انتهى في الشرف والسؤدد. وتفسير الكلبي: الذي لا يأكل ولا يشرب.
+67	hawwari	lists_no_choice	V1 V2	single	V1	قال بعضهم: عن ابن عباس في قوله تعالى: [الإسراء:78] أي اجتماع الليل وظلمته.
+3	himyan	prefers	N2	lists_no_choice	V1 V2 V3 N1 N2 N3	
+6	himyan	lists_no_choice	V1 N1 N3 V3	single	V1	النفوس تنشط للخروج لما ترى من الكرامة
+10	himyan	lists_no_choice	V1 V2 N1	combines	V1 V2	ثم السبيل يسره
+13	himyan	lists_no_choice	V2 V1 N1 N2	combines	V2 N2	وَعَنْ النَّعْمَانِ بْنِ بَشِيرٍ وَعُمَرِ بْنِ الْخَطَّابِ وَابْنِ عَبَّاسٍ قَرَّنَتْ بِشَكْلِهَا يُقَرَّنُ الرَّجُلُ ال
+18	himyan	prefers	V1	lists_no_choice	V1 V2	وعن كرامته وعليه ابن كيسان أو ذلك تمثيلا لإهانتهم因为他 لا يرد على الملوك إلا المكرمون وليس ثم نظر الى الله أصلا
+23	himyan	lists_no_choice	V1 V4 V2	silent		
+27	himyan	lists_no_choice	V1 N2 V3 N1 V2	silent		
+36	himyan	lists_no_choice	V1 V5 N1 V2	single	V2	ذو الأوتاد هو الذي يعذب الناس بها
+37	himyan	single	V2	single	OTHER	إن ربك لبالمرصاد أي في المكان الذي يترقب فيه الرصد مفعال من رصده كالميقات من وقت والميعاد من وعد وهو كناية وتمثيل لإرصاد
+38	himyan	single	V1	lists_no_choice	V1 V2	قال { ولا تنقمع الشهوات بشيء كما تنقمع بنار الخوف انتهى الله لا يريد من الإنسان إلا الطاعة والسعي للآخرة
+40	himyan	lists_no_choice	V2 N1 V3 N3	single	N1	و قال الوالد آدم عليه الصلاة والسلام * { وما ولد } من الأنبياء والمؤمنين إلى يوم القيامة ولا حرمة لغيرهم حتى يقسم به، وق
+51	himyan	single	V1	single	N1	وخلقنا الإنسان خير خلقة وأحسن تقويم
+54	himyan	lists_no_choice	V1 N2 V2	prefers	V1	قضاه الله فيها لتلك السنة
+55	himyan	lists_no_choice	V1 N1	single	N3	ولم يكن المشركون وأهل الكتاب منفكين عن كفرهم وشركهم حتى تأتيهم البينة التي تهديهم وتبين الحق لهم
+56	himyan	lists_no_choice	V1 V6 OTHER	single	V1	الخيل التي توري النار بحوافرها
+57	himyan	lists_no_choice	V1 V2	single	V1	فَالْمُغِيرَاتِ صُبْحًا
+58	himyan	lists_no_choice	V4 V5 N5 N1	combines	V5	النعيم ما يلتذ به من الصحة والفراغ والأمن والمطعم والمشرب وكل منفعة
+60	himyan	lists_no_choice	V2 V1 V3	single	V3	عمد يعذبون بها في النار
+64	himyan	lists_no_choice	N1 N3 V2 V1 N4	single	N1	كانت تحمل الحطب في جهنم
+66	himyan	single	V1	lists_no_choice		ولم يكن له كفؤا أحد قيل وتكرير لفظ الله للدلالة على أن من لم يتصف به لم يستحق الألوهية

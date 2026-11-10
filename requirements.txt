@@ -1,0 +1,6 @@
+# Packages outside the Python standard library, pinned to the versions the results were produced with
+# (Python 3.14, 6 November 2026). The agreement scripts need none of them.
+matplotlib==3.11.2      # Figure 1
+openpyxl==3.1.5         # the workbook of the human-coding sample
+pypandoc_binary==1.17   # Markdown to .docx; bundles pandoc 3.9
+python-docx==1.2.0      # layout fixes in the .docx
