@@ -2,7 +2,9 @@
 
 Purpose
     This is how Gemini's second coding of 2 November 2026 was produced
-    (model gemini-3-pro-preview through Gemini CLI 0.66.0). Each packet in
+    (model id gemini-3-pro-preview given to Gemini CLI 0.66.0; the CLI's session
+    log of every packet call records the model that answered as
+    gemini-3.1-pro-preview). Each packet in
     data/ is piped, together with the blind coding prompt, into
     `gemini -m <model> -p "<instruction>"` and the JSON Lines answer is saved.
 
@@ -17,8 +19,10 @@ Reads
         the list of codes; the rule text is identical.
     data/blind-packet-*.md (packets 01 to 24 of 24 and 25 of 25)
     Gemini CLI, installed per user with `npm install -g @google/gemini-cli`
-        and signed in once by running `gemini` interactively (the sign-in is
-        the user's Google account; no key is read or printed by this script).
+        and set up once by running `gemini` interactively; the published runs
+        used its API-key authentication (setting security.auth.selectedType =
+        gemini-api-key, the key held by the CLI), not a Google-account sign-in.
+        No key is read or printed by this script.
         It is found as `gemini` on the PATH or, on Windows only, at
         %APPDATA%\\npm\\gemini.cmd.
 
@@ -57,8 +61,22 @@ Content verification (added 5 Nov 2026, after the runs reported in the papers)
     key "verification": the list of failed checks ("row", "who",
     "position", "holds", "quote"; empty when all pass). The service runners
     only flag: a packet is not sent again for a content failure (the local
-    Ollama runners flag and retry the position once). The records of the
+    Ollama runners flag, and retry the position once only with
+    --verify-at-run-time, which the published runs did not use). The records of the
     published runs do not have this key.
+
+Working folder of the CLI
+    The Gemini CLI is started in the project folder (cwd) and may list and
+    read the files there. The CLI's session logs of the published run of
+    2 Nov 2026 (29 packet sessions: packet 1 four times, two calls in an
+    earlier layout that returned prose and two complete answers of which
+    the second was kept; packet 8 twice, because its first answer numbered
+    the rows 1 to 26 instead of the packet's rows and was replaced by hand;
+    packets 2 to 7, 9 to 24 and 25 once each) show that the model called no
+    tool and read no file; the one session with tool calls is the model-name check
+    made before the runs, in which the model read this runner, the archived
+    API runner and the folder's README. For a blind re-run, move results/
+    out of the folder first.
 
 Feeds
     results/gemini/*.jsonl, the Gemini column of every agreement table and
@@ -86,7 +104,8 @@ RESULTS_FOLDER = os.path.join(PROJECT_FOLDER, "results", "gemini")
 GEMINI_CLI_COMMAND = "gemini"
 WINDOWS_NPM_GEMINI_CMD = ("npm", "gemini.cmd")  # under %APPDATA%, where npm -g installs on Windows
 
-# The model of the published run of 2 Nov 2026 (recorded in the results note of that date).
+# The model id of the published run of 2 Nov 2026 (recorded in the results note of that date); the
+# CLI's session logs of that run record the model that answered as gemini-3.1-pro-preview.
 DEFAULT_MODEL = "gemini-3-pro-preview"
 CALL_TIMEOUT_SECONDS = 1800
 PACKET_ATTEMPTS = 3  # a short answer (fewer lines than positions) or a timed-out call is asked for again
@@ -200,7 +219,8 @@ def find_gemini_cli():
         fallback = os.path.join(os.environ["APPDATA"], *WINDOWS_NPM_GEMINI_CMD)
         if os.path.exists(fallback):
             return fallback
-    raise SystemExit("Gemini CLI not found: install it with `npm install -g @google/gemini-cli` and sign in once with `gemini`")
+    raise SystemExit("Gemini CLI not found: install it with `npm install -g @google/gemini-cli` and set it up once "
+                     "by running `gemini` (the published runs used an API key)")
 
 
 def answer_lines(text):

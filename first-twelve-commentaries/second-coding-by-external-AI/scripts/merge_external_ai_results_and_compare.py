@@ -24,7 +24,10 @@ Reads
 Writes (to --out-dir, default the results folder)
     merged-positions.json   the final answer for each position of the reference coding,
                             in its order, as one JSON array (a position answered twice
-                            keeps its later answer)
+                            keeps its later answer; Gemini's answer to packet 1 has a
+                            27th line, row 4 of khazin, a position of packet 2, coded
+                            without its window and replaced by packet 2's answer,
+                            which gives the same type)
     disagreements.tsv       row, who, first coder's type, second coder's type, first
                             coder's held views, second coder's held views, for every
                             position where the types differ or where both coders vote
@@ -72,7 +75,7 @@ Feeds
     The per-coder rows of the agreement tables in
     results/Gemini-second-coding-results-and-three-coder-agreement-2026-11-02.md
     and results/Nine-local-models-results-and-agreement-2026-11-04.md, and
-    hence the second-coding figures in the JQS article and the SNM05 paper.
+    hence the second-coding figures in the SNM05 paper and the authors' article in preparation on the first twelve commentaries.
 """
 
 import argparse

@@ -1,28 +1,28 @@
 """Build Tables 1 and 2 of the SNM05 paper from the coding files.
 
-    Table 3 is built by three_coders_agreement_fleiss_kappa.py (JQS second-coding scripts folder)
+    Table 3 is built by three_coders_agreement_fleiss_kappa.py (first-set second-coding scripts folder)
     and Table 4 by verify_blind_coders_quotations_against_windows.py (this folder).
 
 Purpose
     Computes, for every blind coder, its agreement with the Claude coder (the reference coding)
     and writes both tables as Markdown:
-    Table A -> paper Table 1: the 624 JQS positions of the first twelve commentaries;
+    Table A -> paper Table 1: the 624 first-set positions of the first twelve commentaries;
     Table B -> paper Table 2: the 134 Oman positions of al-Hawwari and Himyan al-zad.
     Measures per coder: agreement on the type of position (five types), on vote / no vote, and
     on the chosen view where both coders vote, each as Cohen's kappa with the raw agreement in
     per cent; plus the number of parse errors and the mean seconds per position where the
     coder's files record them (paper Section 4.3, Measures).
-    The tables carry the paper's schema (v15): columns Model | Type | Vote | Both vote |
+    The tables carry the schema of Tables 1 and 2 of the paper (draft v39, as submitted): columns Model | Type | Vote | Both vote |
     Same view | Parse errors | Sec./pos., the model names and row order of the paper, kappa
     cells as "0.82 (90)", and the number of positions in the caption line, not in a column.
     The first row of Table A, the Claude blind re-run, is not recomputed (see
     CLAUDE_RERUN_TABLE_A_ROW).
 
 Reads
-    JQS_PANEL_MAJORITY_PATH          the reconciled Claude coding of the 624 JQS positions
+    FIRST_SET_PANEL_MAJORITY_PATH    the reconciled Claude coding of the 624 first-set positions
                                      (reference for Table A), in reference-coding/twelve-commentaries/stage1-output.
-    JQS_RESULTS_FOLDER/results/<coder>/*.jsonl
-                                     every other coder's JQS coding, one JSON object per line,
+    FIRST_SET_RESULTS_FOLDER/results/<coder>/*.jsonl
+                                     every other coder's first-set coding, one JSON object per line,
                                      in first-twelve-commentaries/second-coding-by-external-AI.
     blind-coding/results/claude/*.jsonl
                                      the Claude coding of the 134 Oman positions (reference for Table B).
@@ -31,8 +31,8 @@ Reads
     Each line holds at least "row", "who", "type" and "holds"; the Ollama runner adds "seconds".
     A line that is not valid JSON is skipped and counted, and the count is printed per folder;
     a row that is not an integer stops the run with a message naming the file.
-    The three project folders are siblings under the Claude working folder (the parent of
-    this paper folder), so the script runs wherever that folder is checked out.
+    The three project folders are siblings under the root of the repository (the parent of
+    this paper folder), so the script runs wherever the repository is checked out.
 
 Writes
     blind-coding/results/All-coders-results-tables.md (or the same name under --out-dir; with
@@ -68,8 +68,8 @@ How kappa is computed
     on which the two coders agree and p_e the agreement expected by chance, the sum over all
     categories of (share of category in coder 1) x (share of category in coder 2). With one
     category only (p_e = 1) the formula has no denominator and kappa is undefined: it is returned
-    as nan and printed as an empty cell (the paper's Table 2, Jais 13B, same view); with no
-    positions it is nan as well.
+    as nan and printed as an empty cell (no case in the paper); with no positions it is nan as
+    well (the paper's Table 2, Jais 13B, same view: no position on which both vote).
 """
 
 import argparse
@@ -79,11 +79,11 @@ import json
 import os
 
 PROJECT_FOLDER = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CLAUDE_WORKING_FOLDER = os.path.dirname(PROJECT_FOLDER)  # the folder that holds all the paper projects
+CLAUDE_WORKING_FOLDER = os.path.dirname(PROJECT_FOLDER)  # the repository root (named after the authors' working folder)
 OMAN_RESULTS_FOLDER = os.path.join(PROJECT_FOLDER, "blind-coding", "results")
-JQS_RESULTS_FOLDER = os.path.join(CLAUDE_WORKING_FOLDER, "first-twelve-commentaries", "second-coding-by-external-AI")
-JQS_PANEL_MAJORITY_PATH = os.path.join(CLAUDE_WORKING_FOLDER, "reference-coding", "twelve-commentaries",
-                                       "stage1-output", "panel-majority.json")
+FIRST_SET_RESULTS_FOLDER = os.path.join(CLAUDE_WORKING_FOLDER, "first-twelve-commentaries", "second-coding-by-external-AI")
+FIRST_SET_PANEL_MAJORITY_PATH = os.path.join(CLAUDE_WORKING_FOLDER, "reference-coding", "twelve-commentaries",
+                                             "stage1-output", "panel-majority.json")
 OUTPUT_FILE_NAME = "All-coders-results-tables.md"
 DATED_OUTPUT_FILE_NAME_PATTERN = "All-coders-results-tables-{date}.md"
 DATE_ARGUMENT_FORMAT = "%Y-%m-%d"  # the form of the --date value
@@ -97,7 +97,7 @@ NO_VOTE_LABEL = "no vote"
 VOTE_ERROR_LABEL = "ERROR"  # vote category of a parse error: equal to neither "vote" nor "no vote"
 VIEW_ID_SEPARATOR = "+"  # joins the sorted view ids of one vote into one nominal label, e.g. "a+b"
 
-# coder slug (results folder name) -> model name as printed in the paper's Tables 1 and 2 (v15)
+# coder slug (results folder name) -> model name as printed in the paper's Tables 1 and 2 (draft v39)
 CODER_NAMES = {
     "claude-rerun": "Claude Opus 5.5, blind re-run",
     "gemini": "Gemini 3 Pro",
@@ -114,14 +114,12 @@ CODER_NAMES = {
 CODER_ORDER = ["claude-rerun", "gemini", "qwen", "gemma", "deepseek", "fanar", "llama", "falcon", "acegpt", "allam", "jais"]  # the paper's row order
 CLAUDE_RERUN_SLUG = "claude-rerun"
 
-# The Claude blind re-run of 23 Oct 2026 was compared with the first coding BEFORE the 52 disagreements
-# were resolved (JQS article, Method). The reference used for every other row is the reconciled coding,
-# which incorporates the re-run, so the re-run's figures cannot be recomputed here against that reference:
-# the row carries the published figures of the first Table 1 row of the paper, taken from the line
-# "All twelve | 609" of (relative to the Claude working folder, CLAUDE_WORKING_FOLDER)
-# reference-coding/twelve-commentaries/stage1-output/independent-coding/second-coder-comparison.md
-# (609 positions; type kappa 0.89, 93 %; vote kappa 0.91, 96 %; both vote 181; same view kappa 0.98, 99 %;
-# no parse error; no timing recorded). The re-run is absent from Table B.
+# The Claude blind re-run of 23 Oct 2026 was compared with the first coding BEFORE the two runs'
+# disagreements were resolved. The reference used for every other row is the reconciled coding, which
+# incorporates the re-run, so the re-run's figures cannot be recomputed against it, and the first coding
+# is not deposited (README, paragraph after part D): the row carries the figures recorded when the reference set was
+# produced (609 positions; type kappa 0.89, 93 %; vote kappa 0.91, 96 %; both vote 181; same view kappa
+# 0.98, 99 %; no parse error; no timing recorded). The re-run is absent from Table B.
 CLAUDE_RERUN_TABLE_A_ROW = "| Claude Opus 5.5, blind re-run | 0.89 (93) | 0.91 (96) | 181 | 0.98 (99) | 0 | |"
 
 # The paper's table schema: the positions count stands in the caption line, not in a column.
@@ -212,7 +210,7 @@ def format_kappa_cell(pairs):
     if not pairs:
         return ""
     kappa = cohens_kappa(pairs)
-    if kappa != kappa:  # nan: undefined kappa; the paper leaves the whole cell empty (Table 2, Jais 13B, same view)
+    if kappa != kappa:  # nan: undefined kappa or no pairs; the paper leaves the cell empty (Table 2, Jais 13B, same view)
         return ""
     percent_agree = 100 * sum(label_1 == label_2 for label_1, label_2 in pairs) / len(pairs)
     return f"{kappa:.2f} ({percent_agree:.0f})"
@@ -251,22 +249,22 @@ def missing_note(missing_by_coder):
     return MISSING_NOTE_PREFIX + ("; ".join(missing_coders) if missing_coders else "none") + "."
 
 
-def load_jqs_reference():
-    """Return the reconciled Claude coding of the 624 JQS positions as {(row, who): {"type", "holds"}}."""
+def load_first_set_reference():
+    """Return the reconciled Claude coding of the 624 first-set positions as {(row, who): {"type", "holds"}}."""
     reference = {}
-    with open(JQS_PANEL_MAJORITY_PATH, encoding="utf8") as handle:
+    with open(FIRST_SET_PANEL_MAJORITY_PATH, encoding="utf8") as handle:
         points = json.load(handle)
     for point in points:
         for who, position in point["positions"].items():
-            reference[position_key(point["n"], who, JQS_PANEL_MAJORITY_PATH)] = {
+            reference[position_key(point["n"], who, FIRST_SET_PANEL_MAJORITY_PATH)] = {
                 "type": position["type"], "holds": position.get("holds", [])}
     return reference
 
 
 def build_tables():
-    """Return the Markdown text of Table A (JQS, 624 positions) and Table B (Oman, 134 positions)."""
+    """Return the Markdown text of Table A (first-set, 624 positions) and Table B (Oman, 134 positions)."""
     lines = []
-    jqs_reference = load_jqs_reference()
+    first_set_reference = load_first_set_reference()
     lines.append(f"{TABLE_A_TITLE}\n\n{TABLE_HEADER}")
     missing_by_coder = {}
     for slug in CODER_ORDER:
@@ -274,7 +272,7 @@ def build_tables():
             lines.append(CLAUDE_RERUN_TABLE_A_ROW)
             continue
         row, missing_by_coder[CODER_NAMES[slug]] = table_row(
-            CODER_NAMES[slug], jqs_reference, load_jsonl_folder(os.path.join(JQS_RESULTS_FOLDER, "results", slug)))
+            CODER_NAMES[slug], first_set_reference, load_jsonl_folder(os.path.join(FIRST_SET_RESULTS_FOLDER, "results", slug)))
         lines.append(row)
     lines.append("\n" + missing_note(missing_by_coder))
     oman_reference = load_jsonl_folder(os.path.join(OMAN_RESULTS_FOLDER, REFERENCE_CODER_FOLDER))

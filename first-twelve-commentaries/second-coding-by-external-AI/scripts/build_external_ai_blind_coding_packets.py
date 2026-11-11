@@ -2,14 +2,19 @@
 
 Purpose
     The 23 October 2026 blind packets written for Claude's second coding
-    (stage1-output/independent-coding/blind-packet-1.md to -6.md) hold the 609
-    positions of the seven core commentators on the 67 disputed phrases (row,
+    (stage1-output/independent-coding/blind-packet-1.md to -6.md, cut by
+    reference-coding/twelve-commentaries/scripts/build_blind_coding_packet.js) hold
+    609 positions: the seven core commentators on the 67 disputed phrases (469) and
+    the five extended commentators on the 28 phrases then read for them (140) (row,
     sura and verses, phrase, commentator, candidate views, and a window of the
-    commentator's own text). The comparison with that second coding found 15
+    commentator's own text: 1,500 characters on each side of the first occurrence of
+    the opening of the quotation recorded by the reference coding). The comparison
+    with that second coding found 15
     windows anchored in the wrong sura. This script rebuilds the packets for an
-    external AI coder (Gemini, GPT, ...) with those 15 windows replaced by the
-    mufassir's verified passage on the phrase, and splits the result into 24
-    files of 26 positions, so that each file fits one conversation.
+    external AI coder (Gemini, GPT, ...) with those 15 windows replaced (the 14 of
+    al-Tabari by his verified passage on the phrase, row 9 of Ibn Atiyya by a window
+    cut around the recorded quotation in his text of sura 80), and splits the result into 24
+    files, 23 of 26 positions and the last of 11, so that each file fits one conversation.
 
 Reads (all relative to the stage1-output folder, see --stage1-output)
     independent-coding/blind-packet-1.md ... blind-packet-6.md
@@ -38,8 +43,8 @@ Run
 
 Feeds
     The packets coded by Gemini (results/gemini) and by the nine local Ollama
-    models (results/<slug>), hence every agreement table in the JQS article and
-    the SNM05 paper that rests on the 624-position second coding.
+    models (results/<slug>), hence every agreement table in the SNM05 paper and
+    the authors' article in preparation on the first twelve commentaries that rests on the 624-position second coding.
 """
 
 import argparse
@@ -87,7 +92,7 @@ SPELLING_FOLD = str.maketrans({"أ": "ا", "إ": "ا", "آ": "ا", "ٱ": "ا", "
 # U+2066-U+2069) are stripped with them and a non-breaking space (U+00A0) is
 # written as a space; the sura 80 text holds none of these, so the packets
 # are unchanged (verified by a rebuild on 5 Nov 2026).
-VOWEL_MARKS = re.compile(r"[ً-ْٰـ‎‏؜‪-‮⁦-⁩]")
+VOWEL_MARKS = re.compile(r"[\u064b-\u0652\u0670\u0640\u200e\u200f\u061c\u202a-\u202e\u2066-\u2069]")
 NON_BREAKING_SPACE = "\xa0"
 
 # Expected number of positions: 67 phrases x 7 core commentators (469) plus

@@ -3,13 +3,13 @@
 Purpose
     Produces the two packets of commentary windows that every blind coder (Gemini CLI and the
     nine Ollama models) reads for the 134 Oman positions of the SNM05 paper, in the same format
-    as the JQS packets: a header "## <row> | <sura unit> | <phrase> | <who>", a "views:" line
+    as the first-set packets: a header "## <row> | <sura unit> | <phrase> | <who>", a "views:" line
     listing the candidate views, then a window of the commentator's text with vowel marks
     stripped. Paper Section 3.4 (The packets) describes the result; Table 2 is computed on it.
 
 Reads
     <panel-majority.json>   the 67 disputed points of Juz' Amma with their unit, phrase and
-                            candidate views (argument; the stage-1 output of the JQS project).
+                            candidate views (argument; reference-coding/twelve-commentaries/stage1-output).
     sources/altafsir-com/hawwari-tafsir-kitab-allah-al-aziz.txt
     sources/altafsir-com/atfayyish-himyan-al-zad.txt
                             the downloaded commentaries, "=== sura:first-last ===" passages
@@ -24,7 +24,11 @@ Writes
 Run
     python -I scripts/build_blind_packets_hawwari_and_himyan.py <panel-majority.json> [--out-dir FOLDER]
 
-How a window is chosen (v02, 4 Nov 2026)
+How a window is chosen (the final build of 4 Nov 2026, the packets that were served and scored)
+    This script makes the third of the three builds of that night (README, after step 8). The
+    second build, deposited as earlier-builds/*-v02-phrase-anchor-*, was made by an earlier state
+    of this script and differs from the final build in 10 windows: al-Hawwari rows 4 and 38,
+    Himyan al-zad rows 29, 32, 34, 38, 48, 53, 57 and 63.
     The unit ranges in panel-majority.json are al-Tabari's passage ranges and do not always
     contain the verse of the disputed phrase (row 28 "wa-dhakara isma rabbihi fa-salla" is
     Q. 87:15 while the unit is 87:16-19). The window is therefore centred on the best match of
@@ -59,7 +63,7 @@ FALLBACK_WINDOW_LENGTH = 3000  # when no phrase match is found: the start of the
 # invisible bidirectional controls (U+200E, U+200F, U+061C, U+202A-U+202E, U+2066-U+2069) are
 # removed with them, and a non-breaking space (U+00A0) counts as a space; the downloaded sources
 # of 4 Nov 2026 contain none of these, so the packets are unchanged (verified by a rebuild).
-VOWEL_MARKS = re.compile(r"[ً-ْٰـ‎‏؜‪-‮⁦-⁩]")
+VOWEL_MARKS = re.compile(r"[\u064b-\u0652\u0670\u0640\u200e\u200f\u061c\u202a-\u202e\u2066-\u2069]")
 NON_BREAKING_SPACE = "\xa0"
 # Spelling folds applied to the search key and the searched text only, never to the window written out.
 SPELLING_FOLD = str.maketrans({"أ": "ا", "إ": "ا", "آ": "ا", "ٱ": "ا", "ة": "ه", "ى": "ي", "ؤ": "و", "ئ": "ي"})

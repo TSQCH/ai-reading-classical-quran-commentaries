@@ -10,7 +10,7 @@ Purpose
 Reads
     Blind-coding-prompt-for-external-AI-coder-v02.md   the written coding rule; the part after
                                                        the first "---" line is sent as instructions.
-                                                       The JQS runner (../../first-twelve-commentaries/
+                                                       The first-set runner (../../first-twelve-commentaries/
                                                        second-coding-by-external-AI/
                                                        scripts/run_blind_coding_through_gemini_cli.py)
                                                        reads v01 of the same prompt. The only
@@ -21,9 +21,11 @@ Reads
                                                        are added to the list of codes; the rule text
                                                        is identical.
     data/blind-packet-*.md                             the packets (one "## row | ..." header per position)
-    The Gemini CLI (npm install -g @google/gemini-cli), logged in once interactively with
+    The Gemini CLI (npm install -g @google/gemini-cli), set up once interactively with
     `gemini`: found as `gemini` on the PATH, or, on Windows only, at %APPDATA%\\npm\\gemini.cmd.
-    No API key is read by this script: the CLI holds its own login.
+    The published runs used its API-key authentication (setting security.auth.selectedType =
+    gemini-api-key), not a Google-account sign-in. No API key is read by this script: the CLI
+    holds its own.
 
 Writes
     results/gemini/blind-packet-<NN>-<who>.jsonl           one JSON line per position, with the
@@ -46,15 +48,28 @@ Content verification (added 5 Nov 2026, after the runs reported in the paper)
     (parsed with the packet builders' header regex): row and who must name a position of the
     packet, every id in holds must be a candidate view id of that position or "OTHER", and the
     quote must occur in the served window as written or after the orthographic fold of
-    arabic_text_fold.py (the module beside this script, identical to the copy in the JQS
+    arabic_text_fold.py (the module beside this script, identical to the copy in the first-set
     folder and to what the verifier applies: vowel marks, tatweel, bidirectional controls and
     punctuation removed, hamza/alif forms, final ya and ta marbuta unified, whitespace
     collapsed); an empty quote fails unless the type is silent (a commentator who says nothing
     has nothing to quote). The record is written with the key "verification": the list of
     failed checks ("row", "who", "position", "holds", "quote"; empty when all pass). The
     service runners
-    only flag: a packet is not sent again for a content failure (the local Ollama runners flag
-    and retry the position once). The records of the published runs do not have this key.
+    only flag: a packet is not sent again for a content failure (the local Ollama runners flag,
+    and retry the position once only with --verify-at-run-time, which the published runs did
+    not use). The records of the published runs do not have this key.
+
+Working folder of the CLI
+    The Gemini CLI is started in the blind-coding folder (cwd) and may list and read the files
+    there. In the published run of 4 Nov 2026 that folder already held results/claude/, the
+    reference coding; the CLI's session logs show six packet sessions, because packets 26 and 27
+    were built three times that night (windows on the unit ranges, windows anchored on the
+    phrase, and the final build) and Gemini coded each build; in none of the six did the model
+    call a tool or read a file. The deposited answers are those on the final build; the
+    answers on the two earlier builds and the reference coding first made on the first build
+    are in ../earlier-builds/. For a blind re-run, move results/ and earlier-builds/ out of the
+    folder first: results/claude/ and earlier-builds/ hold the reference coding, and every
+    coder's disagreements.tsv lists the reference type and views beside its own.
 """
 
 import argparse
@@ -77,7 +92,8 @@ RULE_PATH = os.path.join(BLIND_CODING_FOLDER, "Blind-coding-prompt-for-external-
 OUTPUT_FOLDER = os.path.join(BLIND_CODING_FOLDER, "results", "gemini")
 GEMINI_CLI_COMMAND = "gemini"
 WINDOWS_NPM_GEMINI_CMD = ("npm", "gemini.cmd")  # under %APPDATA%, where npm -g installs on Windows
-# The model of the published runs (Gemini 3 Pro in the paper; model id recorded in the JQS results note of 2 Nov 2026).
+# The model id of the published runs (model id recorded in the first-set results note of 2 Nov 2026); the CLI's
+# session logs of the run of 4 Nov 2026 record the model that answered as gemini-3.1-pro-preview.
 DEFAULT_MODEL = "gemini-3-pro-preview"
 
 ATTEMPTS_PER_PACKET = 3
@@ -187,7 +203,8 @@ def find_gemini_cli():
         fallback = os.path.join(os.environ["APPDATA"], *WINDOWS_NPM_GEMINI_CMD)
         if os.path.exists(fallback):
             return fallback
-    raise SystemExit("Gemini CLI not found: install it with `npm install -g @google/gemini-cli` and sign in once with `gemini`")
+    raise SystemExit("Gemini CLI not found: install it with `npm install -g @google/gemini-cli` and set it up once "
+                     "by running `gemini` (the published runs used an API key)")
 
 
 def json_lines(text):

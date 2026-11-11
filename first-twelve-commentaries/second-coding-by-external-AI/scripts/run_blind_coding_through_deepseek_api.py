@@ -13,8 +13,8 @@ Reads
         first "---" line: the prompt the coder receives)
     data/blind-packet-*.md (packets 01 to 24 of 24 and 25 of 25)
     API key: the environment variable DEEPSEEK_API_KEY if it is set, otherwise
-        the first line of DeepSeek-API-Key.txt in the _secrets folder of the
-        Claude working folder, two levels above this project folder
+        the first line of DeepSeek-API-Key.txt in a _secrets folder beside the
+        three folders of the deposit, two levels above this project folder
         (../../_secrets from second-coding-by-external-AI; key made at
         https://platform.deepseek.com/api_keys). The key is never printed.
 
@@ -33,8 +33,8 @@ Run (from the second-coding-by-external-AI folder)
     model: deepseek-reasoner (thinking, default) or deepseek-chat.
     Then: python -I scripts/merge_external_ai_results_and_compare.py results/deepseek-api <panel-majority.json>
 
-Content verification (added 5 Nov 2026, after the runs reported in the papers)
-    The runs the papers report saved the model's lines as they came. Since
+Content verification (added 5 Nov 2026)
+    The DeepSeek API runs are not reported in the papers; they saved the model's lines as they came. Since
     5 Nov 2026, once a packet's answer has one line per position, every
     parsed line is checked against the packet (parsed with the packet
     builders' header regex): row and who must name a position of the
@@ -50,8 +50,9 @@ Content verification (added 5 Nov 2026, after the runs reported in the papers)
     key "verification": the list of failed checks ("row", "who",
     "position", "holds", "quote"; empty when all pass). The service runners
     only flag: a packet is not sent again for a content failure (the local
-    Ollama runners flag and retry the position once). The records of the
-    published runs do not have this key.
+    Ollama runners flag, and retry the position once only with
+    --verify-at-run-time, which the published runs did not use). The records of the
+    runs of before 5 Nov 2026 do not have this key.
 
 Feeds
     results/deepseek-api/*.jsonl, compared by merge_external_ai_results_and_compare.py.
@@ -255,7 +256,7 @@ def code_packet(packet_path, model, api_key, prompt):
 def parse_arguments():
     """Parse the optional model name."""
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("model", nargs="?", default=DEFAULT_MODEL,
+    parser.add_argument("model", nargs="?", default=DEFAULT_MODEL, choices=MODEL_CHOICES,
                         help=f"DeepSeek model, one of {', '.join(MODEL_CHOICES)} (default {DEFAULT_MODEL})")
     return parser.parse_args()
 

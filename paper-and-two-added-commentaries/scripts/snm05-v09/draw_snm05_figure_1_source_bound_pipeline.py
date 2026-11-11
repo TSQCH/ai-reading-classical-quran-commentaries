@@ -24,8 +24,8 @@ What it writes
 How to run it
     python scripts/snm05-v09/draw_snm05_figure_1_source_bound_pipeline.py
     python scripts/snm05-v09/draw_snm05_figure_1_source_bound_pipeline.py --output-dir <folder>
-    Plain "python", not "python -I": matplotlib is installed in the user site-packages, which
-    -I would hide. The output is deterministic (no timestamp), so a re-run reproduces the PNG
+    python -I works when matplotlib was installed as the README says; use plain "python" if it
+    sits in the user site-packages, which -I hides. The output is deterministic (no timestamp), so a re-run reproduces the PNG
     byte for byte; the SVG likewise (fixed identifiers, no date, text drawn as outlines so
     that it does not depend on the fonts of the PC that opens it).
 """
@@ -84,7 +84,7 @@ TABLE_WIDTH, TABLE_HEIGHT, TABLE_HEADER_HEIGHT, TABLE_DIVISIONS = 12, 11, 2.4, 4
 STAGE_CAPTIONS = [
     ("Commentary", "one disputed point,\none commentator\n(67 points, 14 works)"),
     ("Text window", "1,500 characters each side,\nvowel marks removed;\nrule + JSON schema"),
-    ("Model", "temperature 0, one position\nper call: Claude, Gemini,\nor nine open-weight models"),
+    ("Model", "nine open-weight models,\none position per call, temp. 0;\nClaude, Gemini: packets"),
     ("Verification", "schema, row, views in list,\nquotation verbatim in window;\nretry once, else flagged"),
     ("Output", "type, views held, quotation,\nvolume and page; flagged\nrows to a human reader"),
 ]

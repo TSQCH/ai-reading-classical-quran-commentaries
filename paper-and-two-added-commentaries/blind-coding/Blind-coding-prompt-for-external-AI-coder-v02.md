@@ -1,6 +1,6 @@
 # Prompt for the external AI coder
 
-Paste everything below the line into a new conversation with the AI (ChatGPT, Gemini or another), then attach or paste ONE packet file from the `data` folder. Repeat in a fresh conversation for each of the 24 packets. Save each answer as `results\<model-name>\blind-packet-NN-of-24.jsonl` (for example `results\gpt\blind-packet-01-of-24.jsonl`). Nothing in the packets or in this prompt tells the AI what the first coder decided.
+Paste everything below the line into a new conversation with the AI (ChatGPT, Gemini or another), then attach or paste ONE packet file from the `data` folder. Repeat in a fresh conversation for the other packet (packet 26, al-Hawwari; packet 27, Himyan al-zad). Save each answer as `results\<model-name>\blind-packet-<NN>-<who>.jsonl` (for example `results\gpt\blind-packet-26-hawwari.jsonl`). Nothing in the packets or in this prompt tells the AI what the first coder decided.
 
 ---
 

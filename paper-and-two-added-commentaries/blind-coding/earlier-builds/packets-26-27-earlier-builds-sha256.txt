@@ -1,0 +1,4 @@
+b89d09037342449dca1bede6c880c339340f8bcbeffd5f4c86f38fed760c66f9  blind-packet-26-hawwari-v01-unit-range-windows.md
+4f41c81a2a4c6e7edaf8793c73d3fcf40e7e2369a4fb5c457d7ce5613c2e276b  blind-packet-26-hawwari-v02-phrase-anchor.md
+a3d2de6bba62ba04b7cd2e7c6cf76cd472f0d643cf8f4f7aed43ac30c437de40  blind-packet-27-himyan-v01-unit-range-windows.md
+88f3e8edd8a49da80a50b4bfb090c8c0741b493f5f3f6b1e257bf832fd538530  blind-packet-27-himyan-v02-phrase-anchor.md

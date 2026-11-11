@@ -7,8 +7,15 @@ _secrets/
 
 # Written when the scripts are run.
 **/__pycache__/
+# Step 1 writes the October packets here, cut from the full texts; steps 1 and 2 read full texts
+# kept here by their docstrings. None of them is redistributed (see README).
+reference-coding/twelve-commentaries/stage1-output/independent-coding/blind-packet-*.md
+reference-coding/twelve-commentaries/stage1-output/panel-packets/
+reference-coding/twelve-commentaries/stage1-output/panel-extended-packets/
+reference-coding/twelve-commentaries/data/
 **/logs/
 **/previous-versions/
+**/*.incomplete.txt
 paper-and-two-added-commentaries/figures/
 paper-and-two-added-commentaries/sources/springer-template/
 paper-and-two-added-commentaries/human-coding/send-to-reader-*/

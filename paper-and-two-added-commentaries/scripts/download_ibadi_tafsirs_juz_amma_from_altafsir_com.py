@@ -36,11 +36,12 @@ Run
              --no-timestamp               write the header without the ", downloaded <date>" part
 
 Empty pages (since 5 Nov 2026)
-    A fetched page that yields no commentary text abandons that commentary: a warning naming
-    the commentary and verse is logged, nothing is written for it (a file created in this run
-    is removed again; passages saved by an earlier run are kept), and the run goes on with the
+    When the first page of a commentary yields no text (Taysir al-tafsir), the commentary is
+    abandoned: a warning naming it is logged, its new file is removed, and the run goes on with the
     next slug requested. At the end the script exits with code EXIT_CODE_SLUG_ABANDONED (1)
-    when any slug was abandoned, so a single-slug run on an empty commentary fails too.
+    when any slug was abandoned, so a single-slug run on an empty commentary fails too. An empty
+    page after the first is written as an empty passage with a note in the log, as in the download
+    of 4 Nov 2026 (Himyan al-zad 80:42 and 92:21).
     Before 5 Nov 2026 an empty passage was written and only counted; earlier on 5 Nov 2026
     the first empty page stopped the whole run, whatever slugs were still to come.
 
@@ -96,8 +97,6 @@ SECONDS_BETWEEN_PAGES = 1  # politeness pause so the site is not hammered
 VERSE_LINK_PATTERN = r"class='TextAyah' style='TEXT-DECORATION: none'"
 # The commentary text sits in nested font tags; the inner one carries the Arabic.
 COMMENTARY_TEXT_PATTERN = r"<font class='TextResultArabic'><font color='black'>(.*?)</font></font>"
-# A file that already carries a marker for sura 114 holds the whole juz' and is not downloaded again.
-COMPLETE_FILE_MARKER = f"=== {LAST_SURA}:"
 # The marker written before each passage; the last one in an interrupted file says where to resume.
 PASSAGE_MARKER_PATTERN = re.compile(r"^=== (\d+):(\d+)-(\d+) ===$", re.M)
 PASSAGE_TERMINATOR = "\n\n"  # written after every passage; a file not ending with it was cut mid-passage
@@ -105,11 +104,12 @@ DATE_FORMAT = "%Y-%m-%d"  # the download date in the file header, e.g. 2026-11-0
 HEADER_WITH_DATE = "# {title}\n# source: altafsir.com, tTafsirNo={tafsir_no}, downloaded {date}\n\n"
 HEADER_WITHOUT_DATE = "# {title}\n# source: altafsir.com, tTafsirNo={tafsir_no}\n\n"
 EMPTY_PAGE_WARNING = "{slug} {sura}:{verse}: the page yields no commentary text; nothing written for it, slug abandoned"
+EMPTY_PASSAGE_NOTE = "{slug} {sura}:{verse}: the page yields no commentary text; an empty passage is written"
 # Invisible bidirectional controls (U+200E, U+200F, U+061C, U+202A-U+202E, U+2066-U+2069) are
 # dropped from the page text and a non-breaking space (U+00A0) is written as a space, so that
 # the saved text holds nothing that string matching cannot see. Added 5 Nov 2026; the files
 # downloaded on 4 Nov 2026 contain none of these characters, so they are unaffected.
-BIDI_CONTROLS = re.compile(r"[‎‏؜‪-‮⁦-⁩]")
+BIDI_CONTROLS = re.compile(r"[\u200e\u200f\u061c\u202a-\u202e\u2066-\u2069]")
 NON_BREAKING_SPACE = "\xa0"
 
 
@@ -193,9 +193,9 @@ def download_commentary(log_file, slug, download_date):
     is continued in append mode from the passage after its last complete one (resume_point).
     Each passage is written under a "=== sura:first-last ===" marker; the file is flushed after
     every passage so that an interrupted run leaves readable text. download_date (a string, or
-    None for no date) goes into the header of a new file. A page without commentary text
-    raises EmptyPage before anything is written for it; a file this call created and had not
-    yet written a passage to is removed first, so an empty commentary leaves no file behind.
+    None for no date) goes into the header of a new file. A first page without commentary text
+    raises EmptyPage before anything is written; the file this call created is removed first, so
+    an empty commentary leaves no file behind. A later empty page is written as an empty passage.
     """
     tafsir_no, title = TAFSIRS[slug]
     output_path = os.path.join(OUTPUT_FOLDER, slug + ".txt")
@@ -204,9 +204,6 @@ def download_commentary(log_file, slug, download_date):
     if not file_is_new:
         with open(output_path, encoding="utf8") as existing_file:
             existing_text = existing_file.read()
-        if COMPLETE_FILE_MARKER in existing_text:
-            log_message(log_file, f"{slug}: already complete")
-            return
         kept_text, start_sura, start_verse = resume_point(existing_text)
         if kept_text != existing_text:
             # The last passage was cut mid-write: drop it so that it is fetched again whole.
@@ -226,9 +223,13 @@ def download_commentary(log_file, slug, download_date):
                 verse = start_verse if sura == start_sura else 1
                 while verse <= VERSES_PER_SURA[sura]:
                     verse_count, text = parse_page(fetch_page(log_file, tafsir_no, sura, verse))
-                    if not text:
-                        # No commentary text on the page: give the slug up rather than write an empty passage.
+                    if not text and passages_written == 0 and file_is_new:
+                        # The commentary's first page has no text (Taysir al-tafsir): give the slug up.
                         raise EmptyPage(EMPTY_PAGE_WARNING.format(slug=slug, sura=sura, verse=verse))
+                    if not text:
+                        # A single empty page inside a commentary is written as an empty passage, as in the
+                        # download of 4 Nov 2026 (Himyan al-zad 80:42 and 92:21), so that the file is reproduced.
+                        log_message(log_file, EMPTY_PASSAGE_NOTE.format(slug=slug, sura=sura, verse=verse))
                     if verse_count == 0:
                         # A page without verse links still belongs to this verse; advance by one so the loop ends.
                         verse_count = 1

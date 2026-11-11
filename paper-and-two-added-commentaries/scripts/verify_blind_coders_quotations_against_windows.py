@@ -42,7 +42,7 @@ How a quotation is classified
                punctuation, never of wording. The fold is the one of
                ../blind-coding/scripts/arabic_text_fold.py (since 5 Nov 2026 imported from
                there, so that this check and the runners' run-time check accept the same
-               quotations; the module is identical to its copy in the JQS scripts folder);
+               quotations; the module is identical to its copy in the first-set scripts folder);
     elided     the quote contains an ellipsis ("..." or "…") that splits it into at least two
                non-empty segments, and the segments occur (folded) in the folded window in the
                order of the quote, each found after the end of the previous one: the model
@@ -63,16 +63,16 @@ import re
 import sys
 
 PAPER_FOLDER = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CLAUDE_FOLDER = os.path.dirname(PAPER_FOLDER)
-JQS_FOLDER = os.path.join(CLAUDE_FOLDER, "first-twelve-commentaries", "second-coding-by-external-AI")
+CLAUDE_FOLDER = os.path.dirname(PAPER_FOLDER)  # the repository root (named after the authors' working folder)
+FIRST_SET_FOLDER = os.path.join(CLAUDE_FOLDER, "first-twelve-commentaries", "second-coding-by-external-AI")
 OMAN_FOLDER = os.path.join(PAPER_FOLDER, "blind-coding")
 # The orthographic fold shared with the runners (the Oman copy of arabic_text_fold.py); `python -I` does not
 # put script folders on sys.path, so the folder is added here.
 sys.path.insert(0, os.path.join(OMAN_FOLDER, "scripts"))
 from arabic_text_fold import fold, quotation_occurs  # noqa: E402  (import after the path insert)
 SETS = (  # (label, packets glob, results folder)
-    ("First twelve commentaries, 624 positions", os.path.join(JQS_FOLDER, "data", "blind-packet-*.md"),
-     os.path.join(JQS_FOLDER, "results")),
+    ("First twelve commentaries, 624 positions", os.path.join(FIRST_SET_FOLDER, "data", "blind-packet-*.md"),
+     os.path.join(FIRST_SET_FOLDER, "results")),
     ("al-Hawwari and Himyan al-zad, 134 positions", os.path.join(OMAN_FOLDER, "data", "blind-packet-2[67]-*.md"),
      os.path.join(OMAN_FOLDER, "results")),
 )

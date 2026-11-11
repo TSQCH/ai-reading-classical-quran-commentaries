@@ -4,8 +4,13 @@ Why
     Some local models never close their JSON answer: Jais repeats itself in
     `note`, AceGPT, ALLaM and Falcon copy an ever longer `quote`, until the
     output budget (NUM_PREDICT) runs out and the reply cannot be parsed. At
-    temperature 0 the same prompt gives the same reply, so a plain re-run
-    fails again. A maxLength on `quote` and `note` in the JSON schema that
+    temperature 0 a plain re-run mostly fails the same way: on 7 Nov 2026 it
+    recovered 12 of the 46 positions, and the other 34 are coded by this script.
+    It is not strictly repeatable: four of those 34 had been answered without the
+    cap in the discarded attempt of 5 Nov 2026 (README, rescue pass), with the
+    same type. One position (Jais, row 64, ibnJuzayy) failed otherwise: the
+    server answered HTTP 500 on every call without the cap, and with the cap
+    the model answered. A maxLength on `quote` and `note` in the JSON schema that
     Ollama enforces makes the answer close. In a test of 7 Nov 2026 on six
     failed positions every reply parsed, and the five whose cut-off reply
     could be read kept the same type and holds.
@@ -39,9 +44,10 @@ import sys
 
 ANSWER_LENGTH_CAP = 200  # characters; the prompt already asks for a quote of at most 200 characters
 CAPPED_FIELDS = ("quote", "note")
-SCHEMA_NAMES = ("ANSWER_SCHEMA", "OUTPUT_SCHEMA")  # the JQS runner's name, the Oman runner's name
+SCHEMA_NAMES = ("ANSWER_SCHEMA", "OUTPUT_SCHEMA")  # the first-set runner's name, the Oman runner's name
 CAP_KEY = "answer_length_cap"
 MODEL_INFO_FILE_NAME = "model-info.json"
+MINIMUM_ARGUMENT_COUNT = 3  # the script name, the runner path and at least one slug
 
 
 def load_runner(runner_path):
@@ -96,7 +102,7 @@ def mark_model_info(runner):
 
 def main():
     """Load the runner, apply the cap and the markers, and run it for the slugs given."""
-    if len(sys.argv) < 3:
+    if len(sys.argv) < MINIMUM_ARGUMENT_COUNT:
         raise SystemExit(__doc__)
     runner_path, slugs = os.path.abspath(sys.argv[1]), sys.argv[2:]
     runner = load_runner(runner_path)

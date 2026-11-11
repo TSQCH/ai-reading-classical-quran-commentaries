@@ -2,9 +2,9 @@ cff-version: 1.2.0
 message: "If you use these data or scripts, please cite the paper and this deposit."
 title: "AI-Powered Reading of Classical Qur'an Commentaries: code and data"
 type: dataset
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-11-11
-doi: 10.5281/zenodo.24053211
+doi: 10.5281/zenodo.24053210  # concept DOI: resolves to the latest version of the deposit
 repository-code: "https://github.com/TSQCH/ai-reading-classical-quran-commentaries"
 license:
   - CC-BY-4.0

@@ -1,0 +1,3 @@
+# Store every file byte for byte: the packets, answers and reports keep the line ends they were
+# written with, whatever core.autocrlf the committer or the cloner uses.
+* -text

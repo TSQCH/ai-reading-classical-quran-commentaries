@@ -1,7 +1,7 @@
 """Build the SNM05 paper as .docx and .pdf from a Markdown draft.
 
 Paper: "AI-powered reading of Qur'an commentaries" (SNM05, Nizwa conference, 15 Nov 2026).
-Written 4 Nov 2026 for draft v03; used for every later version (v04 ... v11) unchanged.
+Written 4 Nov 2026 for draft v03 and used for every later version, with the changes below.
 5 Nov 2026: a time limit on the Word export (WORD_EXPORT_TIMEOUT_SECONDS).
 5 Nov 2026, for the submission build of v18: column widths chosen per table so that no header
 or cell breaks inside a word (the nine-column quotation table is set in 8 pt with its own
@@ -353,10 +353,14 @@ def embed_vector_figures(docx_path):
 
 
 def export_pdf_with_word(docx_path, pdf_path):
-    """Open the .docx in Word, export it as PDF, and print Word's page count.
+    """Open the .docx in Word, export it as PDF, and print Word's page count; stop if no PDF results.
+
+    A PDF left by an earlier build is removed first, so that it cannot pass for the new one.
 
     Stops the build (SystemExit) when Word has not finished within WORD_EXPORT_TIMEOUT_SECONDS.
     """
+    if os.path.exists(pdf_path):
+        os.remove(pdf_path)
     powershell_script = f'''
 $w = New-Object -ComObject Word.Application; $w.Visible = $false; $w.DisplayAlerts = 0
 $d = $w.Documents.Open("{docx_path}"); $d.ExportAsFixedFormat("{pdf_path}", {WORD_EXPORT_FORMAT_PDF}); $pages = $d.ComputeStatistics({WORD_STATISTIC_PAGES}); $d.Close({WORD_CLOSE_WITHOUT_SAVING}); $w.Quit()
@@ -369,6 +373,8 @@ $d = $w.Documents.Open("{docx_path}"); $d.ExportAsFixedFormat("{pdf_path}", {WOR
         raise SystemExit(f"Word did not finish exporting {docx_path} to PDF within {WORD_EXPORT_TIMEOUT_SECONDS} s. "
                          "Close any Word dialog or Word instance still open (Task Manager: WINWORD.EXE) and run the build again.")
     print(result.stdout.strip(), result.stderr.strip()[:STDERR_PREVIEW_CHARACTERS])
+    if result.returncode != 0 or not os.path.exists(pdf_path):
+        raise SystemExit(f"Word did not export {pdf_path}; see the message above.")
 
 
 def parse_arguments():

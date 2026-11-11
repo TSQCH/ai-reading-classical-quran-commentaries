@@ -24,7 +24,8 @@ Two identical copies
     paper-and-two-added-commentaries/blind-coding/scripts/arabic_text_fold.py
     first-twelve-commentaries/second-coding-by-external-AI/scripts/arabic_text_fold.py
     They are kept byte-identical: a change to one is a change to both. The Ollama runner and
-    the service runners of each folder import the copy beside them; the verifier
+    the Gemini CLI runner of each folder, and the DeepSeek API runner of the first-set folder,
+    import the copy beside them (the archived API runner makes no content check); the verifier
     paper-and-two-added-commentaries/scripts/verify_blind_coders_quotations_against_windows.py
     imports the Oman copy. Every importer adds its own folder to sys.path first, because
     `python -I` (the documented way to run the scripts) does not put the script folder there.

@@ -14,10 +14,10 @@ Reads
         the reference coding of the 624 positions on the first twelve commentaries: one record
         per disputed point (n = row, sura, unit, phrase, views) with positions[<who>] =
         {type, holds, quote, page, ...}.
-    ../blind-coding/results/claude/blind-packet-26-hawwari.jsonl and -27-himyan.jsonl
+    ../../blind-coding/results/claude/blind-packet-26-hawwari.jsonl and -27-himyan.jsonl
         the reference coding of the 134 positions on al-Hawwari and Himyan al-zad.
     ../../../first-twelve-commentaries/second-coding-by-external-AI/data/blind-packet-*.md
-    ../blind-coding/data/blind-packet-26-hawwari.md and -27-himyan.md
+    ../../blind-coding/data/blind-packet-26-hawwari.md and -27-himyan.md
         the packets: the text window of every position, as served to the models. Packet 25
         carries the 15 windows of rows 17, 19 and 63 for the five later commentaries.
 
@@ -35,7 +35,8 @@ Writes (in ../, the human-coding folder)
 
 Run
     python scripts/build_human_coding_sample_100_positions.py
-    (plain python: openpyxl is installed in the user site-packages)
+    (python -I works when openpyxl was installed as the README says; use plain python if it
+    sits in the user site-packages, which -I hides)
 
 How the sample is drawn
     Every commentary gets SAMPLE_PER_COMMENTARY positions, al-Tabari and al-Razi one more each
@@ -71,13 +72,13 @@ from openpyxl.worksheet.datavalidation import DataValidation
 
 HUMAN_CODING_FOLDER = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PAPER_FOLDER = os.path.dirname(HUMAN_CODING_FOLDER)
-CLAUDE_FOLDER = os.path.dirname(PAPER_FOLDER)
+CLAUDE_FOLDER = os.path.dirname(PAPER_FOLDER)  # the repository root (named after the authors' working folder)
 REFERENCE_PANEL_FILE = os.path.join(CLAUDE_FOLDER, "reference-coding", "twelve-commentaries",
                                     "stage1-output", "panel-majority.json")
 OMAN_REFERENCE_FILES = [os.path.join(PAPER_FOLDER, "blind-coding", "results", "claude", name)
                         for name in ("blind-packet-26-hawwari.jsonl", "blind-packet-27-himyan.jsonl")]
-JQS_PACKETS_GLOB = os.path.join(CLAUDE_FOLDER, "first-twelve-commentaries",
-                                "second-coding-by-external-AI", "data", "blind-packet-*.md")
+FIRST_SET_PACKETS_GLOB = os.path.join(CLAUDE_FOLDER, "first-twelve-commentaries",
+                                      "second-coding-by-external-AI", "data", "blind-packet-*.md")
 OMAN_PACKETS_GLOB = os.path.join(PAPER_FOLDER, "blind-coding", "data", "blind-packet-2[67]-*.md")
 KEY_FOLDER = os.path.join(HUMAN_CODING_FOLDER, "sample-key")
 WORKBOOK_NAME = os.path.join("send-to-reader-{reader}", "SNM05-human-coding-sample-100-positions-reader-{reader}.xlsx")
@@ -146,7 +147,7 @@ def read_reference_positions():
 def read_windows():
     """Return {(row, who): window text} from every packet; packet 25 overrides packets 1-24."""
     windows = {}
-    packet_files = sorted(glob.glob(JQS_PACKETS_GLOB)) + sorted(glob.glob(OMAN_PACKETS_GLOB))
+    packet_files = sorted(glob.glob(FIRST_SET_PACKETS_GLOB)) + sorted(glob.glob(OMAN_PACKETS_GLOB))
     for path in packet_files:
         current_key, lines = None, []
         with open(path, encoding="utf8") as handle:

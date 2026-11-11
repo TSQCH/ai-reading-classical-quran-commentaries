@@ -59,7 +59,7 @@ Feeds
     results/Gemini-second-coding-results-and-three-coder-agreement-2026-11-02.md
     (Fleiss' kappa 0.86 on type, 0.87 on vote; where all three vote, the same
     view in 167 of 172 positions, Fleiss' kappa 0.97) and the
-    corresponding sentences in the JQS article and the SNM05 paper.
+    corresponding sentences in the SNM05 paper and the authors' article in preparation on the first twelve commentaries.
 """
 
 import argparse

@@ -50,12 +50,14 @@ Content verification (added 5 Nov 2026, after the runs reported in the paper)
     re-ask when an answer was not valid JSON; the content checks that the paper's design
     intends (Section 3.5) were applied afterwards by
     scripts/verify_blind_coders_quotations_against_windows.py. The published runs were made
-    without the flag --verify-at-run-time, and without the flag the script still behaves
-    exactly so: schema check and JSON re-ask only. The content checks are: row and who must
+    without the flag --verify-at-run-time, and without the flag the script makes no content
+    check at run time either: schema check and JSON re-ask only (its JSON extraction and its
+    handling of server errors differ from the published runs, as described below). The
+    content checks are: row and who must
     match the packet header, every id in holds must be one of the position's candidate view
     ids or "OTHER", and the quote must occur in the served window, as written (whitespace
     collapsed) or after the orthographic fold of arabic_text_fold.py (the module beside this
-    script, identical to the copy in the JQS folder and to what the verifier applies: vowel
+    script, identical to the copy in the first-set folder and to what the verifier applies: vowel
     marks, tatweel, bidirectional controls and punctuation removed, hamza/alif forms, final
     ya and ta marbuta unified, whitespace collapsed), so that a quotation differing only in
     spelling passes; an empty quote fails unless the type is silent (a commentator who
@@ -68,6 +70,14 @@ Content verification (added 5 Nov 2026, after the runs reported in the paper)
     with a short correction naming the failed check(s); if the second answer fails too, it is
     recorded as it is. This is the design of Section 3.5 of the paper (verification at run
     time with one retry) for future runs; the service runners, one packet per call, only flag.
+
+JSON extraction (changed 5 Nov 2026, after the runs reported in the paper)
+    When a reply is not valid JSON as a whole, the published runs took the span from its first
+    "{" to its last "}" (a greedy regular expression); this script takes the first complete
+    object (first_json_object_text). Both give the same object whenever the greedy span parsed;
+    a reply holding a complete object followed by text with a "}" was asked again (or recorded
+    as a parse error) in the published runs and is accepted at once here. The rescue pass of
+    7 Nov 2026 used this script.
 
 Server errors (added 5 Nov 2026)
     A call that fails with a network error (connection refused or reset, HTTP error, socket
@@ -124,8 +134,9 @@ MODELS = {
     "jais":     ("hf.co/RichardErkhov/inceptionai_-_jais-adapted-13b-chat-gguf:Q4_K_M", "Jais-adapted-13B-chat (Inception/G42, UAE), Q4_K_M", NUM_CTX),
 }
 QUANTISATION = "Q4_K_M"
-# Reasoning models: chain-of-thought is switched off (think=false) because otherwise qwen3 and
-# deepseek-r1 spend minutes of reasoning per position and overrun the output budget (NUM_PREDICT).
+# Reasoning models: chain-of-thought is switched off (think=false), as on the first set, where
+# qwen3:14b with it on took about five minutes a position and overran the output budget
+# (NUM_PREDICT) on 11 of 52 positions; deepseek-r1:14b was run with it off from the start.
 THINKING_MODELS = {"qwen3:14b", "deepseek-r1:14b"}
 
 # Call options, identical for every model (paper Section 3.1, Reproducibility).
@@ -150,11 +161,17 @@ def read_text(path):
         return handle.read()
 
 
+# The packet prompt speaks of an attached file of positions; here each call carries one position, and the quote is
+# capped so that it fits NUM_PREDICT (the same three strings as in the first-set runner).
+PACKET_SENTENCE = "The attached file contains a numbered list of positions."
+ONE_POSITION_SENTENCE = "You will be given ONE position at a time."
+QUOTE_LENGTH_RULE = "\n\nKeep `quote` short: one clause or one sentence, never more than 200 characters."
+
+
 def load_system_prompt():
     """Return the written rule (the part of the prompt file after the first "---" line) adapted to one position per call."""
     rule_text = read_text(RULE_PATH).split("\n---\n", 1)[1].strip()
-    return rule_text.replace("The attached file contains a numbered list of positions.", "You will be given ONE position at a time.") + \
-        "\n\nKeep `quote` short: one clause or one sentence, never more than 200 characters."
+    return rule_text.replace(PACKET_SENTENCE, ONE_POSITION_SENTENCE) + QUOTE_LENGTH_RULE
 
 
 # The system prompt is the written rule, with the packet sentence replaced for one-position calls.
@@ -363,7 +380,7 @@ def code_one_position(model, num_ctx, row, who, entry_text, verify_at_run_time):
     started_at = time.time()
     try:
         coding, content = ask_until_json(body, user_prompt)
-        if coding is None:
+        if not isinstance(coding, dict):  # no answer, or valid JSON that is not one object (e.g. a list)
             coding = parse_error_record(content[:PARSE_ERROR_NOTE_CHARACTERS])
             verification = list(PARSE_ERROR_VERIFICATION)
         else:

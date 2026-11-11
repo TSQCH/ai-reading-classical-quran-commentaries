@@ -19,8 +19,8 @@ Reads
     data/blind-packet-NN-of-24.md (packets 01 to 24)
     API keys: the environment variables OPENAI_API_KEY and GEMINI_API_KEY if
         set, otherwise the first line of OpenAI-API-Key.txt and
-        Gemini-API-Key.txt in the _secrets folder of the Claude working
-        folder, two levels above this project folder (../../_secrets from
+        Gemini-API-Key.txt in a _secrets folder beside the three folders
+        of the deposit, two levels above this project folder (../../_secrets from
         second-coding-by-external-AI). A key is read only when its API is
         called, and is never printed.
 
@@ -28,9 +28,9 @@ Writes
     results/archive-api-runs/gpt/blind-packet-NN-of-24.jsonl and
     results/archive-api-runs/gemini/blind-packet-NN-of-24.jsonl:
         the answer lines, one JSON object per position. The number of lines
-        is printed against the packet's position count (26 expected); a short
+        is printed against the packet's position count (26, or 11 for packet 24); a short
         answer is saved as it is and the script does not retry it. A packet
-        whose .jsonl already has 26 or more lines is skipped, so the script
+        whose .jsonl already has one line per position is skipped, so the script
         resumes after a stop.
 
 Run (from the second-coding-by-external-AI folder)
@@ -71,7 +71,6 @@ GEMINI_MAX_OUTPUT_TOKENS = 65536
 REQUEST_TIMEOUT_SECONDS = 900
 REQUEST_RETRIES = 4  # network or server errors: wait 20, 40, 60, 80 s between tries
 RETRY_WAIT_SECONDS = 20
-POSITIONS_PER_PACKET = 26  # a saved answer with this many lines counts as done
 
 # Which coders run for each command-line choice; the results subfolder is the
 # coder's short name.
@@ -157,16 +156,16 @@ def answer_lines(text):
 
 def code_packets_with(coder_name, prompt):
     """Run every packet 01 to 24 through one coder, skipping packets whose
-    saved answer already has POSITIONS_PER_PACKET lines."""
+    saved answer already has one line per position of the packet."""
     ask = ASK_FUNCTION_FOR_CODER[coder_name]
     results_folder = os.path.join(RESULTS_ROOT, coder_name)
     os.makedirs(results_folder, exist_ok=True)
     for packet_path in sorted(glob.glob(PACKETS_GLOB)):
         target_path = os.path.join(results_folder, os.path.basename(packet_path).replace(".md", ".jsonl"))
-        if os.path.exists(target_path) and len(answer_lines(read_text(target_path))) >= POSITIONS_PER_PACKET:
-            continue
         packet = read_text(packet_path)
         expected_positions = len(POSITION_HEADER.findall(packet))
+        if os.path.exists(target_path) and len(answer_lines(read_text(target_path))) >= expected_positions:
+            continue
         print(coder_name, os.path.basename(packet_path), "...", flush=True)
         lines = answer_lines(ask(prompt, packet))
         with open(target_path, "w", encoding="utf8") as handle:

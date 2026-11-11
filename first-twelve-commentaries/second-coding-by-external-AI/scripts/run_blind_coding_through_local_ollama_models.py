@@ -45,6 +45,11 @@ Run (from the second-coding-by-external-AI folder)
     skipped, and the file is re-read before every call, so several machines
     can share one model's run on one file (one forward, one --reverse, one
     --middle) and any run resumes after a stop.
+    Appends from several machines to one file on a network share are not
+    locked: in the DeepSeek-R1 14B run of 4 Nov 2026 two writes overlapped
+    and the record of row 66, al-Baydawi, was cut short; the cut line is
+    skipped like any corrupt line and the position was coded again (the
+    deposited record is that second answer, of the same type).
     Then: python -I scripts/merge_external_ai_results_and_compare.py results/<slug> <panel-majority.json>
 
 Content verification (added 5 Nov 2026, after the runs reported in the papers)
@@ -53,8 +58,10 @@ Content verification (added 5 Nov 2026, after the runs reported in the papers)
     intends (SNM05 paper, Section 3.5) were applied afterwards
     (paper-and-two-added-commentaries/scripts/verify_blind_coders_quotations_against_windows.py).
     The published runs were made without the flag --verify-at-run-time, and
-    without the flag the script still behaves exactly so: schema check and
-    JSON re-ask only. The content checks are: row and who must match the
+    without the flag the script makes no content check at run time either:
+    schema check and JSON re-ask only (its JSON extraction and its handling
+    of server errors differ from the published runs, as described below).
+    The content checks are: row and who must match the
     packet header, every id in holds must be one of the position's candidate
     view ids or "OTHER", and the quote must occur in the served window, as
     written (whitespace collapsed) or after the orthographic fold of
@@ -75,6 +82,14 @@ Content verification (added 5 Nov 2026, after the runs reported in the papers)
     Section 3.5 of the SNM05 paper (verification at run time with one retry)
     for future runs; the service runners, one packet per call, only flag.
 
+JSON extraction (changed 5 Nov 2026, after the runs reported in the paper)
+    When a reply is not valid JSON as a whole, the published runs took the span from its first
+    "{" to its last "}" (a greedy regular expression); this script takes the first complete
+    object (first_json_object_text). Both give the same object whenever the greedy span parsed;
+    a reply holding a complete object followed by text with a "}" was asked again (or recorded
+    as a parse error) in the published runs and is accepted at once here. The rescue pass of
+    7 Nov 2026 used this script.
+
 Server errors (added 5 Nov 2026)
     A call that fails with a network error (connection refused or reset,
     HTTP error, socket timeout) is repeated up to CALL_ATTEMPTS times,
@@ -88,7 +103,7 @@ Server errors (added 5 Nov 2026)
 Feeds
     results/<slug>/positions.jsonl for the nine local models, hence the
     agreement table in results/Nine-local-models-results-and-agreement-2026-11-04.md
-    and the local-model figures in the JQS article and the SNM05 paper.
+    and the local-model figures in the SNM05 paper and the authors' article in preparation on the first twelve commentaries.
 """
 
 import argparse
@@ -136,8 +151,9 @@ MODELS = {
     "jais":     ("hf.co/RichardErkhov/inceptionai_-_jais-adapted-13b-chat-gguf:Q4_K_M", "Jais-adapted-13B-chat (Inception/G42, UAE), Q4_K_M", NUM_CTX),
 }
 # Reasoning models: chain-of-thought switched off (think=false), answer only.
-# With it on, qwen3 / deepseek-r1 spend minutes of chain-of-thought per
-# position and overrun NUM_PREDICT.
+# With it on, qwen3:14b took about five minutes a position in a first run of
+# 3 Nov 2026 (abandoned after 52 positions, 11 of them overrunning NUM_PREDICT);
+# deepseek-r1:14b was run with it off from the start.
 THINKING_MODELS = {"qwen3:14b", "deepseek-r1:14b"}
 QUANTISATION = "Q4_K_M"
 
@@ -398,7 +414,7 @@ def code_one_position(model_name, num_ctx, row, who, position_text, verify_at_ru
     started = time.time()
     try:
         answer, content = ask_until_json(body, user_message)
-        if answer is None:
+        if not isinstance(answer, dict):  # no answer, or valid JSON that is not one object (e.g. a list)
             answer = parse_error_record(content[:PARSE_ERROR_NOTE_CHARACTERS])
             verification = list(PARSE_ERROR_VERIFICATION)
         else:

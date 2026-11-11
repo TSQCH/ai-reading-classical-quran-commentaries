@@ -56,8 +56,9 @@ How kappa is computed
     Cohen's kappa = (p_o - p_e) / (1 - p_e): p_o is the observed share of agreeing positions,
     p_e the agreement expected by chance, the sum over categories of (share in coder 1) x
     (share in coder 2). With one category only (p_e = 1) the formula has no denominator and
-    kappa is undefined: it is nan and printed as an empty cell (as in the paper's Table 2, Jais 13B,
-    same view); with no positions it is nan as well.
+    kappa is undefined: it is nan and printed as an empty cell (no case in the paper); with no
+    positions it is nan as well (the paper's Table 2, Jais 13B, same view: no position on which
+    both vote).
 """
 
 import argparse

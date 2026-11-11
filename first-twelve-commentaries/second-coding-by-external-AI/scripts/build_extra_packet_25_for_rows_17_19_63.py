@@ -29,7 +29,7 @@ Run
 Feeds
     Packet 25 is coded with the other 24 (results/gemini/blind-packet-25-of-25.jsonl
     and the local models' positions.jsonl); the 624-position agreement figures
-    in the JQS article and the SNM05 paper include its 15 positions.
+    in the SNM05 paper and the authors' article in preparation on the first twelve commentaries include its 15 positions.
 """
 
 import argparse
@@ -66,7 +66,7 @@ QUOTE_PREFIX_LENGTHS = (40, 25, 15, 10)
 # written as a space, as the other packet builders do; the texts of packet 25
 # hold none of these, so the packet is unchanged (verified by a rebuild on
 # 5 Nov 2026).
-VOWEL_MARKS = re.compile(r"[ً-ْٰـ‎‏؜‪-‮⁦-⁩]")
+VOWEL_MARKS = re.compile(r"[\u064b-\u0652\u0670\u0640\u200e\u200f\u061c\u202a-\u202e\u2066-\u2069]")
 NON_BREAKING_SPACE = "\xa0"
 
 # Qur'anic bracket characters around a phrase, stripped before a phrase word is
